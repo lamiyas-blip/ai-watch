@@ -125,6 +125,7 @@ nav.bar button[aria-current="page"]::after{content:"";position:absolute;left:24%
 
 var FEED = [];
 var PRICES_CHECKED = "Oct 3, 2026";
+var PRICES_ISO = "2026-10-03"; /* update both lines together when prices are re-checked */
 
 var SOURCES = [
   /* BOOKS */
@@ -441,7 +442,10 @@ function table(head, rows){
     rows.map(function(r){return '<tr>'+r.map(function(c,i){return i===0?'<td><b>'+esc(c)+'</b></td>':'<td>'+esc(c)+'</td>';}).join("")+'</tr>';}).join("")+'</tbody></table></div>';
 }
 function viewTools(){
-  var h = '<h2>Plans, per month</h2><p class="lead">Checked on '+esc(PRICES_CHECKED)+' against price-comparison sites. Confirm on the vendor page before you pay.</p>';
+  var age = Math.floor((Date.now()-new Date(PRICES_ISO+"T00:00:00").getTime())/86400000);
+  var stale = age>30;
+  var h = '<div class="note" style="border-left-color:'+(stale?'var(--flag)':'var(--accent)')+'"><b style="color:var(--ink)">Prices pulled on '+esc(PRICES_CHECKED)+'</b> ('+(age<=0?'today':age+' day'+(age===1?'':'s')+' ago')+'). '+(stale?'That is over a month old, so check the vendor links at the bottom before relying on these numbers.':'Taken from price-comparison sites. Confirm on the vendor page before you pay.')+'</div>';
+  h += '<h2>Plans, per month</h2>';
   h += table(["Provider","Free tier","Standard","Top tier"], PLANS);
   h += '<p class="note">The newest model is not always in the $20 plan. Claude Pro pays for Fable 5.1 with extra credits, and ChatGPT Plus has GPT-6 Astra only in Work and Codex.</p>';
   h += '<h2>API prices, per million tokens</h2>';
