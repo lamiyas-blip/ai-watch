@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-04T17:36:01.298Z",
+ "generated": "2026-10-04T20:16:58.176Z",
  "items": [
+  {
+   "id": "db61bdcba7a557b9",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "DeepSeek Painted My Portrait",
+   "u": "https://www.youtube.com/shorts/jo70OkhryIA",
+   "d": "2026-10-04T20:05:25.000Z",
+   "first": "2026-10-04T20:16:58.176Z"
+  },
+  {
+   "id": "b25bd80be5afae64",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace \"artificial\" intelligence with \"super\" (Chandni Shah/Reuters)",
+   "u": "https://www.techmeme.com/261004/p14#a261004p14",
+   "d": "2026-10-04T17:55:02.000Z",
+   "first": "2026-10-04T20:16:58.176Z"
+  },
   {
    "id": "9cf7ba359d01b775",
    "f": "yt-wes-roth",
@@ -72,16 +92,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "6fd1d1d7db0ce82e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with Brian Chesky on Airbnb's plans for agent-to-agent interactions, why chatbots fail at travel e-commerce, the need for an AI-native OS, and more (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261004/p1#a261004p1",
-   "d": "2026-10-04T04:00:50.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "5df8791ab1940530",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -89,26 +99,6 @@
    "t": "Welcome to #TeamHuman",
    "u": "https://www.youtube.com/shorts/uqiH3R4TEgk",
    "d": "2026-10-04T03:17:06.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "b5112a7675a2a983",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: AI czar Jay Clayton to chair the WH's AI task force, called \"Super Intelligence Force\", to pen a report on AI's risks and opportunities within 120 days (Alex Leary/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261003/p13#a261003p13",
-   "d": "2026-10-04T00:00:47.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "87de3679f084a782",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over (David Robinson/The Atlantic)",
-   "u": "https://www.techmeme.com/261003/p12#a261003p12",
-   "d": "2026-10-03T20:30:01.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1152,16 +1142,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "106b7384299e7302",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "GPT-6 Sol and Luna Are HERE!",
-   "u": "https://www.youtube.com/watch?v=Ima_AVPyQ9E",
-   "d": "2026-09-23T20:19:04.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "12336385d4e00ba7",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -2072,22 +2052,22 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b100f427884dd34d",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Expanding our support for scientists",
-   "u": "https://www.anthropic.com/news/expanding-support-for-scientists",
-   "d": "2026-08-27T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "49ebdf6da618bcc8",
    "f": "anthropic-news",
    "src": "Anthropic",
    "cat": "Lab",
    "t": "Previewing the Model Hardware Standard",
    "u": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "d": "2026-08-27T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b100f427884dd34d",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Expanding our support for scientists",
+   "u": "https://www.anthropic.com/news/expanding-support-for-scientists",
    "d": "2026-08-27T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -2372,14 +2352,14 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b2df57fc55729ddb",
+   "id": "7928bb6a66207b4c",
    "f": "anthropic-news",
    "src": "Anthropic",
    "cat": "Lab",
-   "t": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-   "u": "https://www.anthropic.com/news/cognizant-anthropic",
+   "t": "Our position on open-weights models",
+   "u": "https://www.anthropic.com/news/position-open-weights-models",
    "d": "2026-07-27T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
+   "first": "2026-10-04T20:16:58.176Z"
   },
   {
    "id": "ecf0126068275501",
@@ -3021,7 +3001,7 @@
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "yt-ai-explained": {
    "name": "AI Explained",
