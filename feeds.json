@@ -1,0 +1,44 @@
+{
+  "_help": "Each feed: id (unique), name, cat, url (or youtube handle), notify (true = push notification), keep (items to keep, default 15), keywords (optional, only items whose title has one of these words). Edit this file on GitHub to add or remove sources.",
+  "feeds": [
+    { "id": "import-ai", "name": "Import AI", "cat": "Newsletter", "url": "https://importai.substack.com/feed", "notify": true },
+    { "id": "zvi", "name": "Don't Worry About the Vase", "cat": "Newsletter", "url": "https://thezvi.substack.com/feed", "notify": true },
+    { "id": "latent-space", "name": "Latent Space", "cat": "Newsletter", "url": "https://www.latent.space/feed", "notify": true },
+    { "id": "interconnects", "name": "Interconnects", "cat": "Newsletter", "url": "https://www.interconnects.ai/feed", "notify": true },
+    { "id": "ai-snake-oil", "name": "AI Snake Oil", "cat": "Newsletter", "url": "https://www.aisnakeoil.com/feed", "notify": true },
+    { "id": "ai-futures", "name": "AI Futures Project", "cat": "Newsletter", "url": "https://blog.aifutures.org/feed", "notify": true },
+    { "id": "transformer", "name": "Transformer", "cat": "Newsletter", "url": "https://www.transformernews.ai/feed", "notify": true },
+    { "id": "semianalysis", "name": "SemiAnalysis", "cat": "Newsletter", "url": "https://newsletter.semianalysis.com/feed", "notify": true },
+    { "id": "smol-ai", "name": "smol.ai news", "cat": "Newsletter", "url": "https://news.smol.ai/rss.xml", "notify": true },
+    { "id": "simon-willison", "name": "Simon Willison", "cat": "Newsletter", "url": "https://simonwillison.net/atom/everything/", "notify": false },
+    { "id": "tldr-ai", "name": "TLDR AI", "cat": "Newsletter", "url": "https://tldr.tech/api/rss/ai", "notify": false },
+    { "id": "bens-bites", "name": "Ben's Bites", "cat": "Newsletter", "url": "https://www.bensbites.com/feed", "notify": false },
+
+    { "id": "openai-news", "name": "OpenAI", "cat": "Lab", "url": "https://openai.com/news/rss.xml", "notify": true },
+    { "id": "deepmind-blog", "name": "Google DeepMind", "cat": "Lab", "url": "https://deepmind.google/blog/rss.xml", "notify": true },
+    { "id": "anthropic-news", "name": "Anthropic", "cat": "Lab", "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml", "notify": true },
+
+    { "id": "techmeme", "name": "Techmeme (AI only)", "cat": "News", "url": "https://www.techmeme.com/feed.xml", "notify": false, "keywords": ["AI", "OpenAI", "Anthropic", "Claude", "Gemini", "LLM", "DeepSeek", "Nvidia", "AGI"] },
+    { "id": "hacker-news", "name": "Hacker News (AI, 200+ points)", "cat": "News", "url": "https://hnrss.org/newest?points=200&q=AI", "notify": false },
+    { "id": "mit-tr", "name": "MIT Technology Review", "cat": "News", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "notify": false },
+
+    { "id": "lesswrong", "name": "LessWrong (curated)", "cat": "Forum", "url": "https://www.lesswrong.com/feed.xml?view=curated-rss", "notify": true },
+    { "id": "alignment-forum", "name": "Alignment Forum", "cat": "Forum", "url": "https://www.alignmentforum.org/feed.xml?view=curated-rss", "notify": false },
+
+    { "id": "reddit-localllama", "name": "r/LocalLLaMA (top of week)", "cat": "Reddit", "url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=week", "notify": false, "keep": 10 },
+    { "id": "reddit-singularity", "name": "r/singularity (top of week)", "cat": "Reddit", "url": "https://www.reddit.com/r/singularity/top/.rss?t=week", "notify": false, "keep": 10 },
+    { "id": "reddit-ml", "name": "r/MachineLearning (top of week)", "cat": "Reddit", "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=week", "notify": false, "keep": 10 },
+
+    { "id": "yt-ai-explained", "name": "AI Explained", "cat": "YouTube", "youtube": "aiexplained-official", "notify": true, "keep": 8 },
+    { "id": "yt-dwarkesh", "name": "Dwarkesh Patel", "cat": "YouTube", "youtube": "DwarkeshPatel", "notify": true, "keep": 8 },
+    { "id": "yt-mlst", "name": "Machine Learning Street Talk", "cat": "YouTube", "youtube": "MachineLearningStreetTalk", "notify": true, "keep": 8 },
+    { "id": "yt-karpathy", "name": "Andrej Karpathy", "cat": "YouTube", "youtube": "AndrejKarpathy", "notify": true, "keep": 8 },
+    { "id": "yt-robert-miles", "name": "Robert Miles AI Safety", "cat": "YouTube", "youtube": "RobertMilesAI", "notify": true, "keep": 8 },
+    { "id": "yt-3b1b", "name": "3Blue1Brown", "cat": "YouTube", "youtube": "3blue1brown", "notify": false, "keep": 8 },
+    { "id": "yt-yannic", "name": "Yannic Kilcher", "cat": "YouTube", "youtube": "YannicKilcher", "notify": false, "keep": 8 },
+    { "id": "yt-two-minute", "name": "Two Minute Papers", "cat": "YouTube", "youtube": "TwoMinutePapers", "notify": false, "keep": 8 },
+    { "id": "yt-matt-wolfe", "name": "Matt Wolfe", "cat": "YouTube", "youtube": "mreflow", "notify": false, "keep": 8 },
+    { "id": "yt-matthew-berman", "name": "Matthew Berman", "cat": "YouTube", "youtube": "matthew_berman", "notify": false, "keep": 8 },
+    { "id": "yt-wes-roth", "name": "Wes Roth", "cat": "YouTube", "youtube": "WesRoth", "notify": false, "keep": 8 }
+  ]
+}

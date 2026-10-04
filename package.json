@@ -1,0 +1,13 @@
+{
+  "name": "ai-watch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Watches AI feeds, sends push notifications, and publishes feed.json for the AI Watch app.",
+  "scripts": {
+    "watch": "node scripts/watch.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": { "fast-xml-parser": "^4.5.0" }
+}

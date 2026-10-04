@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI Watch</title>
+<meta name="theme-color" content="#14213D">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="AI Watch">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600&family=Spectral:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F1F4F7; --surface:#FFFFFF; --ink:#14213D; --muted:#566678; --rule:#D3DCE4;
+  --accent:#0B6E8F; --accent-ink:#FFFFFF; --flag:#B7791F; --flagbg:#FBF0D5; --chip:#E3EAF0;
+  --serif:"Spectral",Georgia,"Times New Roman",serif;
+  --sans:"Schibsted Grotesk",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0D1620; --surface:#15212E; --ink:#E7EEF4; --muted:#93A4B5; --rule:#25344A;
+    --accent:#5CC3E3; --accent-ink:#06222C; --flag:#F0C256; --flagbg:#3A2F12; --chip:#1E2D3E;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0D1620; --surface:#15212E; --ink:#E7EEF4; --muted:#93A4B5; --rule:#25344A;
+  --accent:#5CC3E3; --accent-ink:#06222C; --flag:#F0C256; --flagbg:#3A2F12; --chip:#1E2D3E;
+}
+html{scroll-padding-top:env(safe-area-inset-top,0px);}
+*,*::before,*::after{box-sizing:inherit;}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.5;-webkit-text-size-adjust:100%;}
+a{color:inherit;}
+button{font:inherit;color:inherit;}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+.wrap{max-width:640px;margin:0 auto;padding:0 16px 96px;}
+
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--rule);}
+header.top .in{max-width:640px;margin:0 auto;padding:12px 16px 10px;display:flex;align-items:baseline;justify-content:space-between;gap:12px;}
+h1{font-family:var(--serif);font-weight:600;font-size:24px;margin:0;letter-spacing:-.01em;}
+.stamp{font-size:13px;color:var(--muted);}
+h2{font-family:var(--serif);font-weight:600;font-size:20px;margin:24px 0 4px;}
+h3{font-size:15px;font-weight:600;margin:22px 0 2px;color:var(--muted);}
+p.lead{margin:4px 0 12px;color:var(--muted);font-size:15px;}
+
+.chips{display:flex;gap:8px;overflow-x:auto;padding:12px 0 4px;margin:0 -16px;padding-left:16px;padding-right:16px;scrollbar-width:none;}
+.chips::-webkit-scrollbar{display:none;}
+.chip{flex:none;border:1px solid var(--rule);background:transparent;border-radius:999px;padding:7px 14px;font-size:14px;cursor:pointer;min-height:36px;}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink);}
+
+.row{display:flex;gap:8px;align-items:flex-start;padding:14px 0;border-bottom:1px solid var(--rule);}
+.row .body{flex:1;min-width:0;}
+.row .meta{font-size:13px;color:var(--muted);margin-bottom:2px;}
+.row .title{font-weight:500;text-decoration:none;display:block;overflow-wrap:anywhere;}
+.row .title:hover{text-decoration:underline;}
+.row .desc{font-size:14px;color:var(--muted);margin-top:2px;}
+.tag{display:inline-block;font-size:12px;border:1px solid var(--rule);border-radius:4px;padding:0 6px;margin-left:6px;color:var(--muted);}
+.flagbtn{flex:none;width:44px;height:44px;margin:-6px -8px 0 0;border:0;background:transparent;border-radius:8px;display:grid;place-items:center;cursor:pointer;color:var(--muted);}
+.flagbtn svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linejoin:round;}
+.flagbtn[aria-pressed="true"]{color:var(--flag);background:var(--flagbg);}
+.flagbtn[aria-pressed="true"] svg{fill:currentColor;}
+
+.search{width:100%;margin:10px 0 0;padding:11px 12px;border:1px solid var(--rule);border-radius:8px;background:var(--surface);color:var(--ink);font:inherit;}
+.note{font-size:14px;color:var(--muted);border-left:3px solid var(--rule);padding:2px 0 2px 12px;margin:14px 0;}
+.empty{padding:28px 0;color:var(--muted);}
+
+.tablewrap{overflow-x:auto;margin:8px 0 4px;border:1px solid var(--rule);border-radius:8px;background:var(--surface);}
+table{border-collapse:collapse;width:100%;min-width:480px;font-size:14px;}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--rule);vertical-align:top;}
+th{font-weight:600;color:var(--muted);font-size:13px;}
+tr:last-child td{border-bottom:0;}
+.use{padding:12px 0;border-bottom:1px solid var(--rule);}
+.use b{display:block;font-weight:600;}
+.use span{color:var(--muted);font-size:14px;}
+.links{display:flex;flex-wrap:wrap;gap:6px 16px;margin:10px 0;font-size:14px;}
+
+/* Forecast spread */
+.axis{position:relative;height:20px;margin:14px 0 0;font-size:12px;color:var(--muted);}
+.axis span{position:absolute;transform:translateX(-50%);}
+.axis span:first-child{transform:none;}
+.axis span:last-child{transform:translateX(-100%);}
+.fc{padding:10px 0 12px;border-bottom:1px solid var(--rule);}
+.fc .who{font-size:15px;font-weight:500;}
+.fc .what{font-size:13px;color:var(--muted);}
+.track{position:relative;height:18px;margin:8px 0 4px;background:
+  repeating-linear-gradient(to right,var(--rule) 0,var(--rule) 1px,transparent 1px,transparent calc(100% / 6));
+  border-bottom:1px solid var(--rule);}
+.rng{position:absolute;top:6px;height:6px;background:var(--accent);opacity:.45;border-radius:3px;}
+.dot{position:absolute;top:2px;width:14px;height:14px;margin-left:-7px;border-radius:50%;background:var(--ink);border:2px solid var(--bg);}
+.fc .nt{font-size:13px;color:var(--muted);}
+
+form.log{display:grid;gap:8px;margin:10px 0 6px;}
+form.log label{font-size:13px;color:var(--muted);display:grid;gap:3px;}
+form.log input,form.log textarea{padding:10px 12px;border:1px solid var(--rule);border-radius:8px;background:var(--surface);color:var(--ink);font:inherit;width:100%;}
+.btn{border:0;background:var(--accent);color:var(--accent-ink);padding:11px 16px;border-radius:8px;font-weight:600;cursor:pointer;min-height:44px;}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--rule);font-weight:500;}
+.mini{border:0;background:transparent;color:var(--muted);font-size:13px;padding:6px 0;cursor:pointer;text-decoration:underline;}
+.row.done .title{color:var(--muted);text-decoration:line-through;}
+
+nav.bar{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--surface);border-top:1px solid var(--rule);padding-bottom:env(safe-area-inset-bottom,0px);}
+nav.bar .in{max-width:640px;margin:0 auto;display:grid;grid-template-columns:repeat(5,1fr);}
+nav.bar button{border:0;background:transparent;padding:14px 4px;font-size:14px;color:var(--muted);cursor:pointer;min-height:52px;position:relative;}
+nav.bar button[aria-current="page"]{color:var(--ink);font-weight:600;}
+nav.bar button[aria-current="page"]::after{content:"";position:absolute;left:24%;right:24%;top:0;height:3px;background:var(--accent);border-radius:0 0 3px 3px;}
+.count{display:inline-block;min-width:18px;padding:0 5px;margin-left:4px;border-radius:9px;background:var(--flagbg);color:var(--flag);font-size:12px;font-weight:600;}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important;}}
+</style>
+</head>
+<body>
+<header class="top"><div class="in"><h1>AI Watch</h1><span class="stamp" id="stamp"></span><button class="chip" id="refresh" type="button">Refresh</button></div></header>
+<main class="wrap" id="main"></main>
+<nav class="bar" aria-label="Sections"><div class="in" id="nav"></div></nav>
+
+<script>
+(function(){
+"use strict";
+
+/* ---------- DATA ---------- */
+
+var FEED = [];
+var PRICES_CHECKED = "Oct 3, 2026";
+
+var SOURCES = [
+  /* BOOKS */
+  {c:"books", g:"AGI, risk, big picture", n:"Superintelligence (Nick Bostrom)", d:"The foundational argument for AI risk.", u:"https://openlibrary.org/search?q=Superintelligence+Bostrom"},
+  {c:"books", g:"AGI, risk, big picture", n:"Human Compatible (Stuart Russell)", d:"A technical take on alignment.", u:"https://openlibrary.org/search?q=Human+Compatible+Russell"},
+  {c:"books", g:"AGI, risk, big picture", n:"If Anyone Builds It, Everyone Dies (Yudkowsky & Soares)", d:"The pessimistic case, argued directly.", u:"https://openlibrary.org/search?q=If+Anyone+Builds+It+Everyone+Dies"},
+  {c:"books", g:"AGI, risk, big picture", n:"The Coming Wave (Mustafa Suleyman)", d:"Policy and containment.", u:"https://openlibrary.org/search?q=The+Coming+Wave+Suleyman"},
+  {c:"books", g:"AGI, risk, big picture", n:"Life 3.0 (Max Tegmark)", d:"Scenarios for a world with AGI.", u:"https://openlibrary.org/search?q=Life+3.0+Tegmark"},
+  {c:"books", g:"How we got here", n:"Genius Makers (Cade Metz)", d:"History of the labs and the people.", u:"https://openlibrary.org/search?q=Genius+Makers+Metz"},
+  {c:"books", g:"How we got here", n:"Empire of AI (Karen Hao)", d:"A critical look at OpenAI.", u:"https://openlibrary.org/search?q=Empire+of+AI+Karen+Hao"},
+  {c:"books", g:"How we got here", n:"The Scaling Era (Dwarkesh Patel)", d:"Lab leaders and researchers on scaling.", u:"https://openlibrary.org/search?q=The+Scaling+Era+Dwarkesh"},
+  {c:"books", g:"How we got here", n:"AI Snake Oil (Narayanan & Kapoor)", d:"A toolkit for spotting hype.", u:"https://openlibrary.org/search?q=AI+Snake+Oil"},
+  {c:"books", g:"Practical", n:"Co-Intelligence (Ethan Mollick)", d:"Using AI well at work.", u:"https://openlibrary.org/search?q=Co-Intelligence+Mollick"},
+  {c:"books", g:"Practical", n:"AI Engineering (Chip Huyen)", d:"Building products on foundation models.", u:"https://openlibrary.org/search?q=AI+Engineering+Chip+Huyen"},
+  {c:"books", g:"Practical", n:"Build a Large Language Model From Scratch (Sebastian Raschka)", d:"How LLMs actually work, in code.", u:"https://openlibrary.org/search?q=Build+a+Large+Language+Model+Raschka"},
+  {c:"books", g:"Free long reads", n:"Situational Awareness (Leopold Aschenbrenner)", d:"The 2024 essay series on the path to AGI.", u:"https://situational-awareness.ai"},
+  {c:"books", g:"Free long reads", n:"AI 2027", d:"A detailed scenario from the AI Futures Project.", u:"https://ai-2027.com"},
+  {c:"books", g:"Free long reads", n:"Machines of Loving Grace (Dario Amodei)", d:"The optimistic case from Anthropic's CEO.", u:"https://darioamodei.com/essay/machines-of-loving-grace"},
+  {c:"books", g:"Free long reads", n:"The Bitter Lesson (Rich Sutton)", d:"Why scale beats cleverness. Two pages.", u:"http://www.incompleteideas.net/IncIdeas/BitterLesson.html"},
+
+  /* NEWS */
+  {c:"news", g:"Daily skims", n:"smol.ai news", d:"Daily digest across X, Reddit and Discord.", u:"https://news.smol.ai", rss:1, m:"Free"},
+  {c:"news", g:"Daily skims", n:"TLDR AI", d:"Short daily headlines and papers.", u:"https://tldr.tech/ai", rss:1, m:"Free"},
+  {c:"news", g:"Daily skims", n:"Ben's Bites", d:"Daily product and startup news.", u:"https://www.bensbites.com", rss:1, m:"Free + paid"},
+  {c:"news", g:"Daily skims", n:"Techmeme", d:"All tech news, ranked live.", u:"https://techmeme.com", rss:1, m:"Free"},
+  {c:"news", g:"Daily skims", n:"Hacker News", d:"Where engineers argue about new releases.", u:"https://news.ycombinator.com", rss:1, m:"Free"},
+  {c:"news", g:"Weekly, worth the time", n:"Import AI (Jack Clark)", d:"Research and policy, with analysis.", u:"https://importai.substack.com", rss:1, m:"Free + paid"},
+  {c:"news", g:"Weekly, worth the time", n:"Don't Worry About the Vase (Zvi Mowshowitz)", d:"The most thorough weekly roundup. Very long.", u:"https://thezvi.substack.com", rss:1, m:"Free"},
+  {c:"news", g:"Weekly, worth the time", n:"Simon Willison's Weblog", d:"Honest, hands-on notes on real tool use.", u:"https://simonwillison.net", rss:1, m:"Free"},
+  {c:"news", g:"Weekly, worth the time", n:"Latent Space", d:"AI engineering news and podcast.", u:"https://www.latent.space", rss:1, m:"Free + paid"},
+  {c:"news", g:"Weekly, worth the time", n:"Interconnects (Nathan Lambert)", d:"Open models and post-training.", u:"https://www.interconnects.ai", rss:1, m:"Free + paid"},
+  {c:"news", g:"Weekly, worth the time", n:"The Batch (DeepLearning.AI)", d:"A weekly digest for a general audience.", u:"https://www.deeplearning.ai/the-batch/", rss:1, m:"Free"},
+  {c:"news", g:"Weekly, worth the time", n:"AI Snake Oil", d:"The counterweight to hype.", u:"https://www.aisnakeoil.com", rss:1, m:"Free"},
+  {c:"news", g:"Weekly, worth the time", n:"Transformer", d:"AI policy and news.", u:"https://www.transformernews.ai", rss:1, m:"Free"},
+  {c:"news", g:"Forecasting", n:"AI Futures Project blog", d:"Quarterly timeline updates from the AI 2027 authors.", u:"https://blog.aifutures.org", rss:1, m:"Free"},
+  {c:"news", g:"General press", n:"MIT Technology Review: AI", d:"Longer reporting on AI.", u:"https://www.technologyreview.com/topic/artificial-intelligence/", rss:1, m:"Metered"},
+  {c:"news", g:"Paid", n:"SemiAnalysis", d:"Chips, compute and data centers. About $500/yr.", u:"https://semianalysis.com", rss:1, m:"Free + paid"},
+  {c:"news", g:"Paid", n:"The Information", d:"Lab and business scoops. About $400/yr.", u:"https://www.theinformation.com", m:"Paid"},
+  {c:"news", g:"Paid", n:"Stratechery", d:"Strategy and platforms. About $15/mo.", u:"https://stratechery.com", rss:1, m:"Paid"},
+
+  /* X */
+  {c:"x", g:"Labs", n:"@AnthropicAI", d:"Anthropic.", u:"https://x.com/AnthropicAI"},
+  {c:"x", g:"Labs", n:"@OpenAI", d:"OpenAI.", u:"https://x.com/OpenAI"},
+  {c:"x", g:"Labs", n:"@GoogleDeepMind", d:"Google DeepMind.", u:"https://x.com/GoogleDeepMind"},
+  {c:"x", g:"Labs", n:"@sama", d:"Sam Altman, OpenAI.", u:"https://x.com/sama"},
+  {c:"x", g:"Labs", n:"@demishassabis", d:"Demis Hassabis, DeepMind.", u:"https://x.com/demishassabis"},
+  {c:"x", g:"Researchers", n:"@karpathy", d:"Andrej Karpathy. Explains how things work.", u:"https://x.com/karpathy"},
+  {c:"x", g:"Researchers", n:"@fchollet", d:"François Chollet. ARC-AGI and skepticism.", u:"https://x.com/fchollet"},
+  {c:"x", g:"Researchers", n:"@ylecun", d:"Yann LeCun. LLM skeptic.", u:"https://x.com/ylecun"},
+  {c:"x", g:"Researchers", n:"@GaryMarcus", d:"Gary Marcus. LLM skeptic.", u:"https://x.com/GaryMarcus"},
+  {c:"x", g:"Researchers", n:"@ch402", d:"Chris Olah. Interpretability.", u:"https://x.com/ch402"},
+  {c:"x", g:"Researchers", n:"@NeelNanda5", d:"Neel Nanda. Mechanistic interpretability.", u:"https://x.com/NeelNanda5"},
+  {c:"x", g:"Researchers", n:"@natolambert", d:"Nathan Lambert. Open models.", u:"https://x.com/natolambert"},
+  {c:"x", g:"Researchers", n:"@jeremyphoward", d:"Jeremy Howard. Practical deep learning.", u:"https://x.com/jeremyphoward"},
+  {c:"x", g:"Forecasters and evaluators", n:"@METR_Evals", d:"METR. Time-horizon measurements.", u:"https://x.com/METR_Evals"},
+  {c:"x", g:"Forecasters and evaluators", n:"@EpochAIResearch", d:"Epoch AI. Compute and trends.", u:"https://x.com/EpochAIResearch"},
+  {c:"x", g:"Forecasters and evaluators", n:"@eli_lifland", d:"Eli Lifland. AI Futures Project.", u:"https://x.com/eli_lifland"},
+  {c:"x", g:"Forecasters and evaluators", n:"@ajeya_cotra", d:"Ajeya Cotra. Timelines and takeoff.", u:"https://x.com/ajeya_cotra"},
+  {c:"x", g:"Forecasters and evaluators", n:"@jackclarkSF", d:"Jack Clark. Import AI.", u:"https://x.com/jackclarkSF"},
+  {c:"x", g:"Practical and commentary", n:"@emollick", d:"Ethan Mollick. AI at work and school.", u:"https://x.com/emollick"},
+  {c:"x", g:"Practical and commentary", n:"@simonw", d:"Simon Willison.", u:"https://x.com/simonw"},
+  {c:"x", g:"Practical and commentary", n:"@swyx", d:"Shawn Wang. AI engineering.", u:"https://x.com/swyx"},
+  {c:"x", g:"Practical and commentary", n:"@TheZvi", d:"Zvi Mowshowitz.", u:"https://x.com/TheZvi"},
+  {c:"x", g:"Practical and commentary", n:"@dwarkesh_sp", d:"Dwarkesh Patel.", u:"https://x.com/dwarkesh_sp"},
+  {c:"x", g:"Practical and commentary", n:"@labenz", d:"Nathan Labenz.", u:"https://x.com/labenz"},
+  {c:"x", g:"Practical and commentary", n:"@random_walker", d:"Arvind Narayanan. AI Snake Oil.", u:"https://x.com/random_walker"},
+
+  /* PAPERS */
+  {c:"papers", g:"Read first", n:"Attention Is All You Need (2017)", d:"The transformer.", u:"https://arxiv.org/abs/1706.03762"},
+  {c:"papers", g:"Read first", n:"Scaling Laws for Neural Language Models (2020)", d:"Why bigger kept working.", u:"https://arxiv.org/abs/2001.08361"},
+  {c:"papers", g:"Read first", n:"Training Compute-Optimal LLMs / Chinchilla (2022)", d:"The data-versus-parameters tradeoff.", u:"https://arxiv.org/abs/2203.15556"},
+  {c:"papers", g:"Read first", n:"Chain-of-Thought Prompting (2022)", d:"The seed of reasoning models.", u:"https://arxiv.org/abs/2201.11903"},
+  {c:"papers", g:"Read first", n:"InstructGPT (2022)", d:"How chat models are trained to follow instructions.", u:"https://arxiv.org/abs/2203.02155"},
+  {c:"papers", g:"Read first", n:"Constitutional AI (Anthropic, 2022)", d:"Training with written principles.", u:"https://arxiv.org/abs/2212.08073"},
+  {c:"papers", g:"Read first", n:"Sparks of AGI (Microsoft, 2023)", d:"An early argument that GPT-4 showed general ability.", u:"https://arxiv.org/abs/2303.12712"},
+  {c:"papers", g:"Read first", n:"Levels of AGI (DeepMind, 2023)", d:"The best framework for defining AGI.", u:"https://arxiv.org/abs/2311.02462"},
+  {c:"papers", g:"Read first", n:"Measuring AI Ability to Complete Long Tasks (METR, 2025)", d:"The task time-horizon trend forecasters lean on.", u:"https://arxiv.org/abs/2503.14499"},
+  {c:"papers", g:"Read first", n:"DeepSeek-R1 (2025)", d:"Open reasoning model and how it was trained.", u:"https://arxiv.org/abs/2501.12948"},
+  {c:"papers", g:"Find new papers", n:"arXiv cs.AI (recent)", d:"The firehose.", u:"https://arxiv.org/list/cs.AI/recent", rss:1},
+  {c:"papers", g:"Find new papers", n:"Hugging Face Daily Papers", d:"Community-voted papers each day.", u:"https://huggingface.co/papers", rss:1},
+  {c:"papers", g:"Find new papers", n:"Semantic Scholar", d:"Search and citation alerts.", u:"https://www.semanticscholar.org"},
+  {c:"papers", g:"Find new papers", n:"alphaXiv", d:"Discussion on arXiv papers.", u:"https://www.alphaxiv.org"},
+  {c:"papers", g:"Trackers and reports", n:"Epoch AI", d:"Compute, data and benchmark trends.", u:"https://epoch.ai"},
+  {c:"papers", g:"Trackers and reports", n:"METR", d:"Evaluations of autonomous capability.", u:"https://metr.org"},
+  {c:"papers", g:"Trackers and reports", n:"Artificial Analysis", d:"Model quality, speed and price compared.", u:"https://artificialanalysis.ai"},
+  {c:"papers", g:"Trackers and reports", n:"LMArena", d:"Human-preference leaderboard.", u:"https://lmarena.ai"},
+  {c:"papers", g:"Trackers and reports", n:"ARC Prize", d:"The ARC-AGI benchmark.", u:"https://arcprize.org"},
+  {c:"papers", g:"Trackers and reports", n:"OpenRouter rankings", d:"What developers actually use.", u:"https://openrouter.ai/rankings"},
+  {c:"papers", g:"Trackers and reports", n:"Stanford AI Index", d:"Annual report, published in spring.", u:"https://hai.stanford.edu/ai-index"},
+  {c:"papers", g:"Trackers and reports", n:"State of AI Report", d:"Annual report, usually October.", u:"https://www.stateof.ai"},
+
+  /* REDDIT */
+  {c:"reddit", n:"r/LocalLLaMA", d:"Open and local models. The most technically useful.", u:"https://www.reddit.com/r/LocalLLaMA/", rss:1},
+  {c:"reddit", n:"r/MachineLearning", d:"Research discussion.", u:"https://www.reddit.com/r/MachineLearning/", rss:1},
+  {c:"reddit", n:"r/singularity", d:"Fast news and optimism. Lots of hype.", u:"https://www.reddit.com/r/singularity/", rss:1},
+  {c:"reddit", n:"r/accelerate", d:"Pro-acceleration community.", u:"https://www.reddit.com/r/accelerate/", rss:1},
+  {c:"reddit", n:"r/ClaudeAI", d:"Claude tips and complaints.", u:"https://www.reddit.com/r/ClaudeAI/", rss:1},
+  {c:"reddit", n:"r/OpenAI", d:"OpenAI products.", u:"https://www.reddit.com/r/OpenAI/", rss:1},
+  {c:"reddit", n:"r/GeminiAI", d:"Gemini products.", u:"https://www.reddit.com/r/GeminiAI/", rss:1},
+  {c:"reddit", n:"r/ChatGPTCoding", d:"AI coding tools.", u:"https://www.reddit.com/r/ChatGPTCoding/", rss:1},
+  {c:"reddit", n:"r/ControlProblem", d:"AI safety.", u:"https://www.reddit.com/r/ControlProblem/", rss:1},
+  {c:"reddit", n:"LessWrong", d:"Forecasting and alignment arguments.", u:"https://www.lesswrong.com", rss:1},
+  {c:"reddit", n:"Alignment Forum", d:"Technical alignment research.", u:"https://www.alignmentforum.org", rss:1},
+  {c:"reddit", n:"EA Forum", d:"Policy and AI risk.", u:"https://forum.effectivealtruism.org", rss:1},
+
+  /* YOUTUBE */
+  {c:"youtube", g:"Interviews and deep dives", n:"Dwarkesh Patel", d:"The best long interviews with lab leaders.", u:"https://www.youtube.com/@DwarkeshPatel", rss:1},
+  {c:"youtube", g:"Interviews and deep dives", n:"Machine Learning Street Talk", d:"Deep technical interviews.", u:"https://www.youtube.com/@MachineLearningStreetTalk", rss:1},
+  {c:"youtube", g:"Interviews and deep dives", n:"Cognitive Revolution (Nathan Labenz)", d:"Builders and researchers.", u:"https://www.youtube.com/results?search_query=Cognitive+Revolution+Nathan+Labenz", rss:1},
+  {c:"youtube", g:"Interviews and deep dives", n:"80,000 Hours podcast", d:"Long conversations on AI risk and policy.", u:"https://80000hours.org/podcast/", rss:1},
+  {c:"youtube", g:"Explainers", n:"AI Explained", d:"Careful, skeptical model breakdowns.", u:"https://www.youtube.com/@aiexplained-official", rss:1},
+  {c:"youtube", g:"Explainers", n:"Andrej Karpathy", d:"Build-from-scratch tutorials.", u:"https://www.youtube.com/@AndrejKarpathy", rss:1},
+  {c:"youtube", g:"Explainers", n:"3Blue1Brown", d:"Neural network fundamentals.", u:"https://www.youtube.com/@3blue1brown", rss:1},
+  {c:"youtube", g:"Explainers", n:"Yannic Kilcher", d:"Paper walkthroughs.", u:"https://www.youtube.com/@YannicKilcher", rss:1},
+  {c:"youtube", g:"Explainers", n:"Two Minute Papers", d:"Quick research highlights.", u:"https://www.youtube.com/@TwoMinutePapers", rss:1},
+  {c:"youtube", g:"Explainers", n:"Robert Miles AI Safety", d:"Alignment explained clearly.", u:"https://www.youtube.com/@RobertMilesAI", rss:1},
+  {c:"youtube", g:"News and tool demos", n:"Matt Wolfe", d:"Fast news and tool demos.", u:"https://www.youtube.com/@mreflow", rss:1},
+  {c:"youtube", g:"News and tool demos", n:"Matthew Berman", d:"Model tests and news.", u:"https://www.youtube.com/@matthew_berman", rss:1},
+  {c:"youtube", g:"News and tool demos", n:"Wes Roth", d:"News, more hype.", u:"https://www.youtube.com/@WesRoth", rss:1},
+  {c:"youtube", g:"News and tool demos", n:"Hard Fork (NYT)", d:"Weekly tech news podcast.", u:"https://www.nytimes.com/column/hard-fork", rss:1}
+];
+
+var CATS = [
+  {k:"books", l:"Books"}, {k:"news", l:"News"}, {k:"x", l:"X accounts"},
+  {k:"papers", l:"Papers and trackers"}, {k:"reddit", l:"Reddit and forums"}, {k:"youtube", l:"YouTube and podcasts"}
+];
+var CATLABEL = {}; CATS.forEach(function(c){CATLABEL[c.k]=c.l;});
+
+var FORECASTS = [
+  {g:"Lab leaders", who:"Dario Amodei, Anthropic", what:"AI outperforming humans across most cognitive work", from:2027, to:2028, nt:"Davos, Jan 2026: a one to two year horizon."},
+  {g:"Lab leaders", who:"Demis Hassabis, Google DeepMind", what:"Human-level AGI", from:2029, to:2031, mid:2030, nt:"About 2030, give or take a year, arriving gradually."},
+  {g:"Forecasters and markets", who:"AI Futures Project", what:"Automated coder (Kokotajlo to Lifland)", from:2027.9, to:2030.0, nt:"Ends of the bar are the two authors' medians, Aug 2026: Nov 2027 and Jan 2030."},
+  {g:"Forecasters and markets", who:"AI Futures Project", what:"Superintelligence (Kokotajlo to Lifland)", from:2029, to:2033, nt:"Medians 2029 and 2033, Aug 2026."},
+  {g:"Forecasters and markets", who:"Metaculus community", what:"First weakly general AI system", from:2026.7, to:2030.2, mid:2027.7, nt:"Median Sep 2027. The bar is the community interval."},
+  {g:"Forecasters and markets", who:"Kalshi and Manifold", what:"AGI by 2030", mid:2030, nt:"Roughly a coin flip: Kalshi 55% for OpenAI AGI by 2030, Manifold 50%."},
+  {g:"Forecasters and markets", who:"Metaculus community", what:"First general AI system (stricter)", mid:2033, nt:"Median Jan 2033, 25% by 2029."},
+  {g:"Forecasters and markets", who:"Samotsvety", what:"AGI", mid:2041, nt:"50% by 2041. Older estimate."},
+  {g:"Researcher surveys", who:"AI Impacts survey", what:"High-level machine intelligence", mid:2047, nt:"2023 survey, 50% by about 2047. Quoted from memory; check for a newer edition."}
+];
+var AX0 = 2026, AX1 = 2050;
+
+var PLANS = [
+  ["ChatGPT","Yes, with ads in the US","Go $8, Plus $20","Pro $100 / $200"],
+  ["Claude","Yes","Pro $20 ($17 annual)","Max $100 / $200"],
+  ["Gemini","Yes","AI Plus $4.99, AI Pro $19.99","AI Ultra, sources disagree ($100 to $250)"],
+  ["Perplexity","Yes","Pro $20","Higher tiers"],
+  ["Grok","Limited","SuperGrok about $30","Higher tiers"]
+];
+var API = [
+  ["Claude Fable 5.1","$10","$50","1M"],
+  ["Claude Opus 5.5","$4","$20","1M"],
+  ["GPT-6 Astra","$10","$50","1.05M"],
+  ["Gemini 3.1 Pro","$2","$12","1M"],
+  ["Gemini 3.8 Flash","$0.75","$3.75","1M"],
+  ["DeepSeek V4.1 Flash (off-peak)","$0.15","$0.60",""]
+];
+var USES = [
+  ["General work and writing","ChatGPT for the broadest features. Claude is strong for writing and long documents."],
+  ["Coding and agentic work","Claude Code, OpenAI Codex, Cursor, GitHub Copilot. Heavy use usually needs the $100 to $200 tiers."],
+  ["Long documents and Google Workspace","Gemini, with its 1M-token context and Docs and Drive integration. NotebookLM for questions across your own sources."],
+  ["Live web research with citations","Perplexity."],
+  ["Cheapest good-enough API","Gemini Flash or DeepSeek. Batch mode cuts costs by about half on Anthropic's models."],
+  ["Privacy or offline","Open-weight models (Qwen, Llama, DeepSeek, Mistral) through Ollama or LM Studio."],
+  ["Comparing models","Artificial Analysis for price and speed. LMArena for human preference."]
+];
+
+var SIGNALS = [
+  "METR time-horizon trend: still doubling at the current pace?",
+  "ARC-AGI and Humanity's Last Exam scores",
+  "Reliable long agent chains with published evals",
+  "Compute, power and chip export limits",
+  "How often major models ship (September 2026 had several)"
+];
+
+/* ---------- STATE ---------- */
+var state = {tab:"feed", feedCat:"All", srcCat:"books", q:"", savedView:"todo", flags:{}, preds:[]};
+var LOOKUP = {};
+
+function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");}
+SOURCES.forEach(function(s){s.id="s-"+slug(s.n);LOOKUP[s.id]={t:s.n,u:s.u,s:CATLABEL[s.c]};});
+
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+function safeUrl(u){return /^https?:\/\//i.test(u||"")?u:"";}
+
+/* ---------- STORAGE (this device, in the browser) ---------- */
+function lsGet(k){try{return JSON.parse(localStorage.getItem("aiwatch:"+k)||"null");}catch(e){return null;}}
+function lsSet(k,v){try{localStorage.setItem("aiwatch:"+k,JSON.stringify(v));}catch(e){}}
+state.flags = lsGet("flags") || {};
+state.preds = lsGet("preds") || [];
+function persist(kind){ lsSet(kind, kind==="flags"?state.flags:state.preds); }
+
+/* ---------- FEED LOADING ---------- */
+var feedData = {generated:"", health:{}, loaded:false, error:false, busy:false, msg:""};
+var cutoff = Number(lsGet("lastVisit")||0); /* items first seen after this are "New" */
+function stampVisit(){ lsSet("lastVisit", Date.now()); }
+document.addEventListener("visibilitychange", function(){ if(document.visibilityState==="hidden") stampVisit(); });
+window.addEventListener("pagehide", stampVisit);
+
+function ingest(data){
+  FEED = (data.items||[]).filter(function(i){return i && i.id && i.t && safeUrl(i.u);});
+  FEED.forEach(function(f){LOOKUP[f.id]={t:f.t,u:f.u,s:f.src};});
+  feedData.generated = data.generated||"";
+  feedData.health = data.health||{};
+  feedData.loaded = true; feedData.error = false;
+}
+function loadFeed(manual){
+  if(feedData.busy) return Promise.resolve();
+  feedData.busy = true; feedData.msg = "";
+  setStamp();
+  var before = {}; FEED.forEach(function(f){before[f.id]=1;});
+  var hadBefore = FEED.length>0;
+  return fetch("feed.json?t="+Date.now(), {cache:"no-store"})
+    .then(function(r){ if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
+    .then(function(data){
+      ingest(data);
+      var added = FEED.filter(function(f){return !before[f.id];}).length;
+      if(manual) feedData.msg = (added&&hadBefore) ? added+" new" : "Up to date";
+    })
+    .catch(function(){ feedData.error = !feedData.loaded; if(manual) feedData.msg = "Could not refresh"; })
+    .then(function(){
+      feedData.busy=false; setStamp(); render();
+      if(feedData.msg){ setTimeout(function(){feedData.msg="";setStamp();},3500); }
+    });
+}
+function fmtDate(iso){
+  var t = new Date(iso); if(isNaN(t)) return "";
+  var m = (Date.now()-t.getTime())/60000;
+  if(m<2) return "just now";
+  if(m<60) return Math.floor(m)+" min ago";
+  if(m<1440) return Math.floor(m/60)+" h ago";
+  if(m<10080) return Math.floor(m/1440)+" d ago";
+  return t.toLocaleDateString(undefined,{month:"short",day:"numeric",year:t.getFullYear()===new Date().getFullYear()?undefined:"numeric"});
+}
+function setStamp(){
+  var el = document.getElementById("stamp"), btn = document.getElementById("refresh");
+  if(btn){ btn.disabled = feedData.busy; btn.textContent = feedData.busy?"Checking...":"Refresh"; }
+  if(el) el.textContent = feedData.msg || (feedData.generated?"Updated "+fmtDate(feedData.generated):"");
+}
+
+/* ---------- RENDER ---------- */
+var FLAG_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg>';
+
+function flagBtn(id){
+  var on = !!state.flags[id];
+  return '<button class="flagbtn" data-act="flag" data-id="'+esc(id)+'" aria-pressed="'+on+'" aria-label="'+(on?"Remove from read later":"Save to read later")+'">'+FLAG_SVG+'</button>';
+}
+function linkOrText(t,u){
+  var su = safeUrl(u);
+  return su?'<a class="title" href="'+esc(su)+'" target="_blank" rel="noopener noreferrer">'+esc(t)+'</a>':'<span class="title">'+esc(t)+'</span>';
+}
+
+function viewFeed(){
+  var cats = ["All"]; FEED.forEach(function(f){if(cats.indexOf(f.cat)<0)cats.push(f.cat);});
+  var items = FEED.filter(function(f){return state.feedCat==="All"||f.cat===state.feedCat;});
+  var h = "";
+  if(cats.length>1){
+    h += '<div class="chips" role="group" aria-label="Filter by type">'+cats.map(function(c){
+      return '<button class="chip" data-act="feedcat" data-v="'+esc(c)+'" aria-pressed="'+(state.feedCat===c)+'">'+esc(c)+'</button>';
+    }).join("")+'</div>';
+  }
+  if(!feedData.loaded){
+    h += '<div class="empty">'+(feedData.error?'Could not load the feed. Check your connection, then tap Refresh.':'Loading the feed...')+'</div>';
+    return h;
+  }
+  if(!FEED.length){
+    h += '<div class="empty">No items yet. In GitHub, open Actions, choose "Watch feeds" and run it once.</div>';
+  }
+  items.forEach(function(f){
+    var isNew = cutoff && f.first && new Date(f.first).getTime() > cutoff;
+    h += '<div class="row"><div class="body"><div class="meta">'+esc(f.src)+' &middot; '+esc(fmtDate(f.d||f.first))+
+      (isNew?'<span class="tag" style="color:var(--accent);border-color:var(--accent)">New</span>':'')+'</div>'+linkOrText(f.t,f.u)+'</div>'+flagBtn(f.id)+'</div>';
+  });
+  var hs = Object.keys(feedData.health||{}).map(function(k){return feedData.health[k];});
+  var bad = hs.filter(function(x){return !x.ok;});
+  if(hs.length){
+    h += '<details class="note"><summary style="cursor:pointer">Watching '+hs.length+' sources, '+bad.length+' not working</summary>';
+    if(bad.length){ h += bad.map(function(x){return '<div class="desc">'+esc(x.name)+': '+esc(x.error||"error")+'</div>';}).join(""); }
+    else { h += '<div class="desc">Every source answered on the last check.</div>'; }
+    h += '</details>';
+  }
+  return h;
+}
+
+function srcListHtml(){
+  var q = state.q.trim().toLowerCase();
+  var list = SOURCES.filter(function(s){
+    if(q) return (s.n+" "+s.d+" "+(s.g||"")).toLowerCase().indexOf(q)>=0;
+    return s.c===state.srcCat;
+  });
+  if(!list.length) return '<div class="empty">No matches. Try a shorter search.</div>';
+  var h = "", lastC = null, lastG = null;
+  list.forEach(function(s){
+    if(q && s.c!==lastC){ h += '<h3>'+esc(CATLABEL[s.c])+'</h3>'; lastC=s.c; lastG=null; }
+    if(s.g && s.g!==lastG){ if(!q) h += '<h3>'+esc(s.g)+'</h3>'; lastG=s.g; }
+    var meta = [];
+    if(s.m) meta.push(s.m);
+    if(s.rss) meta.push("Has RSS feed");
+    if(s.c==="x") meta.push("No free feed");
+    h += '<div class="row"><div class="body">'+linkOrText(s.n,s.u)+'<div class="desc">'+esc(s.d)+(meta.length?' <span class="tag">'+esc(meta.join(", "))+'</span>':'')+'</div></div>'+flagBtn(s.id)+'</div>';
+  });
+  return h;
+}
+function viewSources(){
+  var h = '<div class="chips" role="group" aria-label="Source type">'+CATS.map(function(c){
+    return '<button class="chip" data-act="srccat" data-v="'+c.k+'" aria-pressed="'+(state.srcCat===c.k&&!state.q)+'">'+esc(c.l)+'</button>';
+  }).join("")+'</div>';
+  h += '<input class="search" id="q" type="search" placeholder="Search all sources" aria-label="Search all sources" value="'+esc(state.q)+'">';
+  h += '<div id="srcList">'+srcListHtml()+'</div>';
+  return h;
+}
+
+function table(head, rows){
+  return '<div class="tablewrap"><table><thead><tr>'+head.map(function(c){return '<th>'+esc(c)+'</th>';}).join("")+'</tr></thead><tbody>'+
+    rows.map(function(r){return '<tr>'+r.map(function(c,i){return i===0?'<td><b>'+esc(c)+'</b></td>':'<td>'+esc(c)+'</td>';}).join("")+'</tr>';}).join("")+'</tbody></table></div>';
+}
+function viewTools(){
+  var h = '<h2>Plans, per month</h2><p class="lead">Checked on '+esc(PRICES_CHECKED)+' against price-comparison sites. Confirm on the vendor page before you pay.</p>';
+  h += table(["Provider","Free tier","Standard","Top tier"], PLANS);
+  h += '<p class="note">The newest model is not always in the $20 plan. Claude Pro pays for Fable 5.1 with extra credits, and ChatGPT Plus has GPT-6 Astra only in Work and Codex.</p>';
+  h += '<h2>API prices, per million tokens</h2>';
+  h += table(["Model","Input","Output","Context"], API);
+  h += '<p class="lead">Gemini 3.8 Flash has an introductory rate until Dec 31, 2026.</p>';
+  h += '<h2>Which tool for which job</h2>';
+  USES.forEach(function(u){h += '<div class="use"><b>'+esc(u[0])+'</b><span>'+esc(u[1])+'</span></div>';});
+  h += '<div class="links"><a href="https://claude.com/pricing" target="_blank" rel="noopener noreferrer">Claude pricing</a><a href="https://openai.com/chatgpt/pricing/" target="_blank" rel="noopener noreferrer">ChatGPT pricing</a><a href="https://gemini.google/subscriptions/" target="_blank" rel="noopener noreferrer">Gemini plans</a><a href="https://artificialanalysis.ai" target="_blank" rel="noopener noreferrer">Compare API prices</a></div>';
+  return h;
+}
+
+function pct(y){return Math.max(0,Math.min(100,(y-AX0)/(AX1-AX0)*100));}
+function viewAgi(){
+  var h = '<h2>Where forecasters land</h2><p class="lead">Each row measures something different, so compare the wording before you compare the dates. A dot is a median or a point estimate; a bar is a range.</p>';
+  var ticks = [2026,2030,2035,2040,2045,2050];
+  h += '<div class="axis" aria-hidden="true">'+ticks.map(function(t){return '<span style="left:'+pct(t)+'%">'+t+'</span>';}).join("")+'</div>';
+  var lastG = null;
+  FORECASTS.forEach(function(f){
+    if(f.g!==lastG){ h += '<h3>'+esc(f.g)+'</h3>'; lastG=f.g; }
+    var inner = "";
+    if(f.from!=null) inner += '<div class="rng" style="left:'+pct(f.from)+'%;width:'+Math.max(1,pct(f.to)-pct(f.from))+'%"></div>';
+    if(f.mid!=null) inner += '<div class="dot" style="left:'+pct(f.mid)+'%"></div>';
+    h += '<div class="fc"><div class="who">'+esc(f.who)+'</div><div class="what">'+esc(f.what)+'</div><div class="track" role="img" aria-label="'+esc(f.who+": "+f.what+". "+f.nt)+'">'+inner+'</div><div class="nt">'+esc(f.nt)+'</div></div>';
+  });
+  h += '<p class="note">Lab leaders have fundraising and policy reasons to speak confidently, and their statements are not independent of each other. Skeptics such as Yann LeCun and Gary Marcus argue that current LLMs will not reach AGI by scaling alone.</p>';
+  h += '<h2>What would move these dates</h2>';
+  SIGNALS.forEach(function(s){h += '<div class="use"><span style="color:var(--ink)">'+esc(s)+'</span></div>';});
+
+  h += '<h2>Your prediction log</h2><p class="lead">Record each claim with its definition and source so you can check it later.</p>';
+  var today = new Date().toISOString().slice(0,10);
+  h += '<form class="log" id="logform" autocomplete="off">'+
+    '<label>Date<input name="date" type="date" value="'+today+'" required></label>'+
+    '<label>Who<input name="who" type="text" placeholder="Name or organization" required></label>'+
+    '<label>Claim<textarea name="claim" rows="2" placeholder="What did they predict, and by when?" required></textarea></label>'+
+    '<label>Their definition of AGI<input name="def" type="text" placeholder="e.g. automated coder, weakly general AI"></label>'+
+    '<label>Source link<input name="url" type="url" placeholder="https://"></label>'+
+    '<button class="btn" type="submit">Add to log</button></form>';
+  if(!state.preds.length) h += '<div class="empty">No entries yet. Add the first prediction above.</div>';
+  state.preds.slice().sort(function(a,b){return (b.date||"").localeCompare(a.date||"");}).forEach(function(p){
+    h += '<div class="row"><div class="body"><div class="meta">'+esc(p.date)+' &middot; '+esc(p.who)+(p.def?'<span class="tag">'+esc(p.def)+'</span>':'')+'</div>'+
+      '<div>'+esc(p.claim)+'</div>'+
+      (safeUrl(p.url)?'<div class="desc"><a href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">Source</a></div>':'')+
+      '<button class="mini" data-act="delpred" data-id="'+esc(p.id)+'">Delete entry</button></div></div>';
+  });
+  return h;
+}
+
+function viewSaved(){
+  var ids = Object.keys(state.flags);
+  var todo = ids.filter(function(i){return !state.flags[i].done;});
+  var done = ids.filter(function(i){return state.flags[i].done;});
+  var h = '<div class="chips" role="group" aria-label="Saved filter">'+
+    '<button class="chip" data-act="savedview" data-v="todo" aria-pressed="'+(state.savedView==="todo")+'">To read ('+todo.length+')</button>'+
+    '<button class="chip" data-act="savedview" data-v="done" aria-pressed="'+(state.savedView==="done")+'">Read ('+done.length+')</button></div>';
+  var list = (state.savedView==="todo"?todo:done).sort(function(a,b){return (state.flags[b].at||0)-(state.flags[a].at||0);});
+  if(!list.length){
+    h += '<div class="empty">'+(state.savedView==="todo"?'Nothing saved. Tap the bookmark on any item to read it later.':'Nothing marked as read yet.')+'</div>';
+  }
+  list.forEach(function(id){
+    var f = state.flags[id];
+    h += '<div class="row'+(f.done?' done':'')+'"><div class="body"><div class="meta">'+esc(f.s||"")+'</div>'+linkOrText(f.t||id,f.u)+
+      '<button class="mini" data-act="toggledone" data-id="'+esc(id)+'">'+(f.done?'Move back to To read':'Mark as read')+'</button></div>'+flagBtn(id)+'</div>';
+  });
+  return h;
+}
+
+var TABS = [["feed","New"],["sources","Sources"],["tools","Tools"],["agi","AGI"],["saved","Saved"]];
+function renderNav(){
+  var n = Object.keys(state.flags).filter(function(i){return !state.flags[i].done;}).length;
+  document.getElementById("nav").innerHTML = TABS.map(function(t){
+    return '<button data-act="tab" data-v="'+t[0]+'"'+(state.tab===t[0]?' aria-current="page"':'')+'>'+t[1]+(t[0]==="saved"&&n?'<span class="count">'+n+'</span>':'')+'</button>';
+  }).join("");
+}
+function render(){
+  var m = document.getElementById("main");
+  var v = {feed:viewFeed,sources:viewSources,tools:viewTools,agi:viewAgi,saved:viewSaved}[state.tab]();
+  var y = window.scrollY;
+  m.innerHTML = v;
+  window.scrollTo(0,y);
+  renderNav();
+}
+
+/* ---------- EVENTS ---------- */
+document.addEventListener("click", function(ev){
+  var el = ev.target.closest("[data-act]");
+  if(!el) return;
+  var act = el.getAttribute("data-act"), v = el.getAttribute("data-v"), id = el.getAttribute("data-id");
+  if(act==="tab"){ state.tab=v; render(); window.scrollTo(0,0); }
+  else if(act==="feedcat"){ state.feedCat=v; render(); }
+  else if(act==="srccat"){ state.srcCat=v; state.q=""; render(); }
+  else if(act==="savedview"){ state.savedView=v; render(); }
+  else if(act==="flag"){
+    if(state.flags[id]) delete state.flags[id];
+    else { var L = LOOKUP[id]||{}; state.flags[id] = {t:L.t||id,u:L.u||"",s:L.s||"",at:Date.now(),done:false}; }
+    persist("flags"); render();
+  }
+  else if(act==="toggledone"){
+    if(state.flags[id]){ state.flags[id].done = !state.flags[id].done; persist("flags"); render(); }
+  }
+  else if(act==="delpred"){
+    state.preds = state.preds.filter(function(p){return p.id!==id;});
+    persist("preds"); render();
+  }
+});
+document.addEventListener("input", function(ev){
+  if(ev.target && ev.target.id==="q"){
+    state.q = ev.target.value;
+    var box = document.getElementById("srcList");
+    if(box) box.innerHTML = srcListHtml();
+    var chips = document.querySelectorAll('[data-act="srccat"]');
+    for(var i=0;i<chips.length;i++){ chips[i].setAttribute("aria-pressed", String(state.srcCat===chips[i].getAttribute("data-v") && !state.q)); }
+  }
+});
+document.addEventListener("submit", function(ev){
+  if(ev.target && ev.target.id==="logform"){
+    ev.preventDefault();
+    var f = ev.target, d = new FormData(f);
+    var entry = {id:"p"+Date.now().toString(36)+Math.random().toString(36).slice(2,6), date:String(d.get("date")||""), who:String(d.get("who")||"").trim(), claim:String(d.get("claim")||"").trim(), def:String(d.get("def")||"").trim(), url:String(d.get("url")||"").trim()};
+    if(!entry.who || !entry.claim) return;
+    state.preds.push(entry);
+    persist("preds"); render();
+  }
+});
+
+document.getElementById("refresh").addEventListener("click", function(){ loadFeed(true); });
+document.addEventListener("visibilitychange", function(){ if(document.visibilityState==="visible") loadFeed(false); });
+render();
+loadFeed(false);
+setInterval(function(){ if(document.visibilityState==="visible") setStamp(); }, 60000);
+if("serviceWorker" in navigator){ navigator.serviceWorker.register("sw.js").catch(function(){}); }
+})();
+</script>
+</body>
+</html>

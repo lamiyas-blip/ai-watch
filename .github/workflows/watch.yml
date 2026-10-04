@@ -1,0 +1,53 @@
+name: Watch feeds
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Send a test notification"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Check feeds and notify
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TEST_NOTIFY: ${{ inputs.test && '1' || '' }}
+        run: |
+          export SITE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/"
+          node scripts/watch.mjs
+
+      - name: Save changes
+        run: |
+          git config user.name "ai-watch-bot"
+          git config user.email "ai-watch-bot@users.noreply.github.com"
+          git add -A data docs
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update feed"
+            git pull --rebase
+            git push
+          fi
