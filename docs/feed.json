@@ -1,1 +1,3071 @@
-{"generated":"","items":[],"health":{}}
+{
+ "generated": "2026-10-04T17:36:01.298Z",
+ "items": [
+  {
+   "id": "9cf7ba359d01b775",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "OpenAI's employee's WARNING",
+   "u": "https://www.youtube.com/watch?v=9CGsq3A590Q",
+   "d": "2026-10-04T14:11:55.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "51e2ce5cdfec6a7b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse (Meghan Bobrowsky/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261004/p10#a261004p10",
+   "d": "2026-10-04T12:00:43.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "12ec03254342b0ad",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)",
+   "u": "https://www.techmeme.com/261004/p9#a261004p9",
+   "d": "2026-10-04T09:00:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "addaa153ead870b0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask (Stephen Wolfram/Stephen Wolfram Writings)",
+   "u": "https://www.techmeme.com/261004/p8#a261004p8",
+   "d": "2026-10-04T06:00:39.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b29c4c271dd93cdb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% (Keigo Yoshida/Nikkei Asia)",
+   "u": "https://www.techmeme.com/261004/p6#a261004p6",
+   "d": "2026-10-04T05:40:01.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "0326e00b15fa5551",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom's Hardware)",
+   "u": "https://www.techmeme.com/261004/p5#a261004p5",
+   "d": "2026-10-04T05:20:01.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "247f06fecae5b46e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google says free Gemini users will be limited to the 3.5 Flash-Lite model from October 9, while Plus subscribers will be limited to 3.5 Flash-Lite and 3.6 Flash (Abner Li/9to5Google)",
+   "u": "https://www.techmeme.com/261004/p4#a261004p4",
+   "d": "2026-10-04T05:10:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6fd1d1d7db0ce82e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with Brian Chesky on Airbnb's plans for agent-to-agent interactions, why chatbots fail at travel e-commerce, the need for an AI-native OS, and more (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261004/p1#a261004p1",
+   "d": "2026-10-04T04:00:50.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5df8791ab1940530",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Welcome to #TeamHuman",
+   "u": "https://www.youtube.com/shorts/uqiH3R4TEgk",
+   "d": "2026-10-04T03:17:06.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b5112a7675a2a983",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: AI czar Jay Clayton to chair the WH's AI task force, called \"Super Intelligence Force\", to pen a report on AI's risks and opportunities within 120 days (Alex Leary/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261003/p13#a261003p13",
+   "d": "2026-10-04T00:00:47.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "87de3679f084a782",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over (David Robinson/The Atlantic)",
+   "u": "https://www.techmeme.com/261003/p12#a261003p12",
+   "d": "2026-10-03T20:30:01.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "05b64c59da0e866e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How 168 Men Captured the Inca Emperor - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/5QsADHyOU2w",
+   "d": "2026-10-03T20:22:31.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "77ce46ddfb217e30",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] not much happened today",
+   "u": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+   "d": "2026-10-03T08:45:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "3d96e49d89cc934e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The Myth of the Helpless Aztecs and Inca - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/IMRyQ4ro9lg",
+   "d": "2026-10-02T23:57:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "8475a84e35ce68be",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "A model guide for the GPT-6 family",
+   "u": "https://openai.com/index/practical-guide-building-gpt-6",
+   "d": "2026-10-02T16:15:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b329f504bf386f28",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Redefining enterprise intelligence with autonomous AI",
+   "u": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+   "d": "2026-10-02T15:49:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ce77d8b00fdf286e",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Human oversight won’t solve AI warfare’s risks",
+   "u": "https://www.transformernews.ai/p/human-oversight-wont-solve-ai-warfare-risks",
+   "d": "2026-10-02T15:04:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2df0174b845e2242",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
+   "u": "https://www.youtube.com/watch?v=dDgncbBAA0c",
+   "d": "2026-10-02T15:00:16.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b6b40dcf6f71f4ee",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+   "u": "https://www.latent.space/p/airbnb",
+   "d": "2026-10-02T14:04:49.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b9898c75fb132fb2",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Don’t be fooled—LLMs don’t reason",
+   "u": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+   "d": "2026-10-02T08:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "244b5b45cd6fd1a9",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Senate Testimony Sept 2026",
+   "u": "https://blog.aifutures.org/p/senate-testimony-sept-2026",
+   "d": "2026-10-02T07:37:55.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1c8bc81a14d5a99d",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+   "u": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+   "d": "2026-10-02T06:40:53.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9b6a4eacd5dbba21",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Academia is for Ambition — Alex Zhang, MIT",
+   "u": "https://www.latent.space/p/rlm",
+   "d": "2026-10-02T00:28:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1e7826b02be448c9",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Decision models 🤖, Claude-shaped science 🧪, OpenAI safety firings 🚨",
+   "u": "https://tldr.tech/ai/2026-10-02",
+   "d": "2026-10-02T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "25f2135c021e1027",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Chatham scales its capital markets expertise with OpenAI",
+   "u": "https://openai.com/index/chatham-financial",
+   "d": "2026-10-02T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "52b8f17e9342ddb2",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+   "u": "https://www.anthropic.com/news/claude-frontier-academy",
+   "d": "2026-10-02T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "766c71c75d51294e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Conquistadors Conquered the Aztecs - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/KWluK74cNzs",
+   "d": "2026-10-01T22:22:58.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6c4aae1257692431",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "OpenAI Security: Controlling Models is Now ‘Hell’",
+   "u": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+   "d": "2026-10-01T21:20:12.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "30e23a186263f7c1",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The most natural voice agent was a French voice speaking English",
+   "u": "https://www.youtube.com/shorts/MVRb03jb6Wg",
+   "d": "2026-10-01T20:09:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "859efd6f40ba1ff1",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
+   "u": "https://www.youtube.com/watch?v=VoAPg8Fj6-c",
+   "d": "2026-10-01T20:00:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6affbb956462ce9f",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "The eternal complement",
+   "u": "https://openai.com/index/the-eternal-complement",
+   "d": "2026-10-01T17:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2bc3fc9466715098",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Muse from Meta Can Work Through Your To-Do List",
+   "u": "https://www.youtube.com/shorts/OODvXcQJyVo",
+   "d": "2026-10-01T16:59:24.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "eb9af7714c8e004a",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "A big-tent or small-tent AI safety movement?",
+   "u": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
+   "d": "2026-10-01T16:34:51.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a6116aa6f1f0b70c",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How did a few hundred Spanish soldiers topple two empires? – Si Sheppard",
+   "u": "https://www.youtube.com/watch?v=LwQQ7nBCGSs",
+   "d": "2026-10-01T16:00:01.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "dd4d9685a43a9e04",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Albertsons Companies is reimagining retail from the inside out",
+   "u": "https://openai.com/index/albertsons-reimagining-retail",
+   "d": "2026-10-01T16:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "760cd3b1525a5fd4",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Democrats want to lead on AI – but can’t agree how",
+   "u": "https://www.transformernews.ai/p/democrats-cant-agree-on-ai-midterms",
+   "d": "2026-10-01T15:00:26.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "4385e07d2499a622",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "OpenAI DevDay 2026",
+   "u": "https://www.bensbites.com/p/openai-devday-2026",
+   "d": "2026-10-01T13:30:36.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ca1926f9462cfe53",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "GEMINI 4 is nuts...",
+   "u": "https://www.youtube.com/watch?v=Sy1Fjf-H-Qg",
+   "d": "2026-10-01T12:53:12.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "fc239d52fb598177",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+   "u": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+   "d": "2026-10-01T06:45:05.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "de560be2f3a518b7",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
+   "u": "https://tldr.tech/ai/2026-10-01",
+   "d": "2026-10-01T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "44359e0b855ec02a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "u": "https://openai.com/index/the-den-family-social",
+   "d": "2026-10-01T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "12f419a0af20e3ad",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Barclays scales Claude to upgrade operations and improve client experience",
+   "u": "https://www.anthropic.com/news/barclays-scales-claude",
+   "d": "2026-10-01T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ed869410398cb9a3",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Russia Couldn't Afford to Keep Fighting - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/jSkAV5f9Ptw",
+   "d": "2026-09-30T23:45:05.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a1bd73a0649109e4",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+   "u": "https://www.latent.space/p/devday-2026",
+   "d": "2026-09-30T22:23:40.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2e9748a70d12bca7",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini 4 Argon: our next era of frontier intelligence",
+   "u": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "d": "2026-09-30T20:01:45.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "dc66b461c37278ae",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Frog and Toad and the Increasingly Capable Machines",
+   "u": "https://www.lesswrong.com/posts/7NZ6ZWjenzzCbCJ5b/frog-and-toad-and-the-increasingly-capable-machines",
+   "d": "2026-09-30T18:27:42.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "542656b950fd6a6e",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing SynthID Bio",
+   "u": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "d": "2026-09-30T15:03:07.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1032cedf755c5ae1",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI Made a Game I’d ACTUALLY Play",
+   "u": "https://www.youtube.com/shorts/c7twMUavy5Q",
+   "d": "2026-09-30T12:15:21.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f636ddc05487dbc5",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+   "u": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+   "d": "2026-09-30T10:40:30.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d6d932300cd4d04c",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Disrupting a coordinated model-distillation campaign",
+   "u": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "d": "2026-09-30T10:30:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6ac3ac1f6ae1d49d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Helping small businesses put AI to work",
+   "u": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "d": "2026-09-30T10:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "dbb6b20891b46084",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+   "u": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+   "d": "2026-09-30T05:53:10.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c0c939a4a9cb159c",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "OpenAI COOKED",
+   "u": "https://www.youtube.com/watch?v=Xc6ERvZM1NY",
+   "d": "2026-09-30T01:26:37.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2b16197dc6b0f272",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
+   "u": "https://tldr.tech/ai/2026-09-30",
+   "d": "2026-09-30T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d7c46355309974cd",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The Programming Language That Referees Mathematics — Leo de Moura",
+   "u": "https://www.youtube.com/watch?v=ZpQFebTK75A",
+   "d": "2026-09-29T22:38:34.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "8050bd06126e8714",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Korea Went from Civil War to Near World War - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/xsYoSwrcNOY",
+   "d": "2026-09-29T22:34:45.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c0e05122143ed236",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "ASTRA 6.1 too dangerous to be released...",
+   "u": "https://www.youtube.com/watch?v=qxOklTU2if4",
+   "d": "2026-09-29T17:45:24.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "760b0bd76227e5f4",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Sonnet 5.5 is worth a try",
+   "u": "https://www.bensbites.com/p/sonnet-55-is-worth-a-try",
+   "d": "2026-09-29T13:01:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "0cd22bd20b209254",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Scrapping Astra 6.1 looks like a good call. OpenAI shouldn’t be the one to make it.",
+   "u": "https://www.transformernews.ai/p/astra-61-scrap-shouldnt-be-openai-decision",
+   "d": "2026-09-29T12:28:39.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f509360bfe2ff456",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Making AI an asset, not an expense",
+   "u": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+   "d": "2026-09-29T10:43:45.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b619ad651a28662f",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "DevDay 2026 Recap",
+   "u": "https://openai.com/index/devday-2026-recap",
+   "d": "2026-09-29T10:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "276a1a109f5ce9d9",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing GPT-6.1 Sol",
+   "u": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "d": "2026-09-29T10:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f02e380d50d6b6ba",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
+   "u": "https://www.youtube.com/shorts/tQ3nMI-anxU",
+   "d": "2026-09-29T09:50:26.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "eb7fb2906175033d",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "How Did Anthropic Pull This Off?",
+   "u": "https://www.youtube.com/watch?v=T-E7rmD6rh4",
+   "d": "2026-09-29T05:04:38.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1c1e1f3229dfb6fd",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+   "u": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+   "d": "2026-09-29T02:55:27.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9bc296cde57f6cc1",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Opus 5.5 is good at explainer videos",
+   "u": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+   "d": "2026-09-29T02:44:29.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5b0cf68933e465bc",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+   "u": "https://www.latent.space/p/thariq",
+   "d": "2026-09-29T01:48:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c771ddbf79ad3999",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Bio Risk is Not Like Cyber Risk",
+   "u": "https://www.youtube.com/shorts/f4mhTu3u9Uk",
+   "d": "2026-09-29T00:49:29.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "077f0033678a54a2",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "What We Built With Sonnet 5.5",
+   "u": "https://www.youtube.com/shorts/0NhtHVPQwt8",
+   "d": "2026-09-29T00:01:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c4ee251f2baaa6ed",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
+   "u": "https://tldr.tech/ai/2026-09-29",
+   "d": "2026-09-29T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ac38b11550c040d1",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing dots",
+   "u": "https://openai.com/index/introducing-dots",
+   "d": "2026-09-29T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e8eca65598350970",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "u": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+   "d": "2026-09-28T22:17:07.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2085e47d7cb5f205",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why nobody could stop World War I - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/DFCfEHD22RY",
+   "d": "2026-09-28T20:27:26.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "50785fc8317ccc28",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "How GLM5.3 Sparse Attention Affects HBM Memory Usage",
+   "u": "https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53",
+   "d": "2026-09-28T19:26:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a2bd741cf81229b3",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How we will do better for Australia",
+   "u": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "d": "2026-09-28T19:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d6c02e0e2f2be12e",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Towards safety cases for frontier AI training",
+   "u": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "d": "2026-09-28T19:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1a5c7746727ca080",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "This AI Model Is INSANELY Fast & Cheap",
+   "u": "https://www.youtube.com/shorts/hx42whM7NsY",
+   "d": "2026-09-28T17:07:47.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e30de35ff755ee76",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "When can we say AI made a scientific discovery?",
+   "u": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+   "d": "2026-09-28T17:03:16.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "7f2a50fec861c655",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "AI existential risk probabilities are (still) too unreliable to inform policy",
+   "u": "https://www.normaltech.ai/p/p-doom",
+   "d": "2026-09-28T11:13:47.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "24230dc15d94a8bd",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Who’s liable when AI agents go rogue?",
+   "u": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+   "d": "2026-09-28T08:06:22.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "814b0bd580abb62a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+   "u": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+   "d": "2026-09-28T07:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b2248e94354c2346",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Muse manifesto 📜, OpenAI training pause 🚨, trading compute 🤝",
+   "u": "https://tldr.tech/ai/2026-09-28",
+   "d": "2026-09-28T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "21ad48a45f17cda0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+   "u": "https://openai.com/index/basis-tax-workbook-with-astra",
+   "d": "2026-09-28T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "455f28d352b4ca06",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Are you a Codex Original?",
+   "u": "https://openai.com/form/codex-originals",
+   "d": "2026-09-28T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "eefc4188c1369967",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "What If Each AI Generation Gets Slightly Less Aligned? - Noam Brown",
+   "u": "https://www.youtube.com/shorts/vkecOqfTh_I",
+   "d": "2026-09-27T20:35:49.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "aa06d89d2df27d4a",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Reward hacking… or just fixing a bug? #podcast",
+   "u": "https://www.youtube.com/shorts/qUlfKYGP-vI",
+   "d": "2026-09-27T02:16:03.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e711d244f1fd5875",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
+   "u": "https://www.youtube.com/watch?v=yB6_iFGTq9k",
+   "d": "2026-09-26T19:32:30.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1c1e06102b9de3f9",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "OpenAI paused all training runs... ALIGNMENT FAILURE",
+   "u": "https://www.youtube.com/watch?v=V3KeMw2nIDA",
+   "d": "2026-09-26T15:22:31.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "af88adcd143103e8",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Intel Panther Lake Teardown",
+   "u": "https://newsletter.semianalysis.com/p/intel-panther-lake-teardown",
+   "d": "2026-09-26T13:36:32.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "da080aa65a2abbef",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!",
+   "u": "https://www.youtube.com/watch?v=aDpIra7NFuE",
+   "d": "2026-09-26T02:37:49.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9b38d69015e714c6",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "What People Are Building With Opus 5.5",
+   "u": "https://www.youtube.com/shorts/rgO5v8MFtFg",
+   "d": "2026-09-26T01:30:30.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f40a00700e081c2c",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+   "u": "https://www.latent.space/p/openrouter",
+   "d": "2026-09-25T23:14:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "24cc4d48dce41b99",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "DeepSeek is CRAZY",
+   "u": "https://www.youtube.com/shorts/zICv3IJaAfQ",
+   "d": "2026-09-25T21:05:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "97554bd32a184546",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
+   "u": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
+   "d": "2026-09-25T15:58:22.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e4feb5c171d2d316",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "AI governance is coming, with or without Trump",
+   "u": "https://www.transformernews.ai/p/trump-cant-stop-ai-governance",
+   "d": "2026-09-25T14:34:09.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1ae53e3b6b534815",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "50 years of tech devices",
+   "u": "https://www.bensbites.com/p/50-years-of-tech-devices",
+   "d": "2026-09-25T13:50:24.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "43225a490f5b5ab9",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "The Phone Number puzzle",
+   "u": "https://www.youtube.com/shorts/ausLKMojXaY",
+   "d": "2026-09-25T13:35:02.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "74e5168cc0e1f4ea",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "THE END IS NEAR... and more AI doom",
+   "u": "https://www.youtube.com/watch?v=LYNSHecA2Ks",
+   "d": "2026-09-25T13:28:28.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ed6a2cd1c678b2af",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "The Pentagon wants $30 million to build an AI-powered lie detector",
+   "u": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+   "d": "2026-09-25T09:16:25.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a3f6dc2d2510dcc4",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] The Future of Latent Space",
+   "u": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+   "d": "2026-09-25T05:37:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6297f21dd700e20d",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Swarm Scaling",
+   "u": "https://www.lesswrong.com/posts/6cb7qd3RSkgnviCpf/swarm-scaling",
+   "d": "2026-09-25T02:32:30.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "95802ee5914252d2",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+   "u": "https://www.latent.space/p/runway",
+   "d": "2026-09-25T01:30:57.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "47bf1ba51946e4bd",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "ChatGPT Pro Max 🤖, Muse realtime avatar 🎭, DeepSeek $1B ARR 💰",
+   "u": "https://tldr.tech/ai/2026-09-25",
+   "d": "2026-09-25T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a33877c65d4eb613",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "Opus 5.5: How Close Are We to Automated AI Research?",
+   "u": "https://www.youtube.com/watch?v=R9momwXV9w4",
+   "d": "2026-09-24T22:51:54.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "8ed2a9ee44dea07f",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "5 ChatGPT Prompts To Try Right Now!",
+   "u": "https://www.youtube.com/shorts/SUtGm-nr4Hk",
+   "d": "2026-09-24T21:27:54.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "13df80a8fdc70f31",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "8 Jev Use Cases That Feel Like Cheating",
+   "u": "https://www.youtube.com/watch?v=jGD_UR4wMJc",
+   "d": "2026-09-24T18:37:13.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "607b6632f1d8819d",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing Gemini 3.8 Live with Live Avatar",
+   "u": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "d": "2026-09-24T16:20:39.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "39d297cf4c37d4a1",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Foundries vs Navigators: Lowering the Cost of Science",
+   "u": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+   "d": "2026-09-24T15:03:16.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5600e693ed0d6d85",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Back to Claude",
+   "u": "https://www.bensbites.com/p/back-to-claude",
+   "d": "2026-09-24T13:04:08.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e61cf638f9143d2c",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Hacking is the least worrying part of OpenAI’s Australia incident",
+   "u": "https://www.transformernews.ai/p/openai-australia-hack-least-worrying-part",
+   "d": "2026-09-24T12:59:14.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1498df0c985efa86",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+   "u": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+   "d": "2026-09-24T08:40:55.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "7db66d39eb065735",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+   "u": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+   "d": "2026-09-24T08:12:59.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5e73d01d73166891",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Claude JUST found hidden DNA...",
+   "u": "https://www.youtube.com/watch?v=H7KruLVX2Rk",
+   "d": "2026-09-24T05:24:14.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2880b0683d6944de",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
+   "u": "https://tldr.tech/ai/2026-09-24",
+   "d": "2026-09-24T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "8a7cf5569302f71e",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns",
+   "u": "https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard",
+   "d": "2026-09-23T21:20:29.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "106b7384299e7302",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "GPT-6 Sol and Luna Are HERE!",
+   "u": "https://www.youtube.com/watch?v=Ima_AVPyQ9E",
+   "d": "2026-09-23T20:19:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "12336385d4e00ba7",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "A perfect model can still get causality backwards",
+   "u": "https://www.youtube.com/shorts/emTe0M9Yw24",
+   "d": "2026-09-23T18:09:12.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5f589656f4b2db79",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The AI That Replaces Hours of Model Tuning - Frank Hutter",
+   "u": "https://www.youtube.com/watch?v=72Im-Mm5JKs",
+   "d": "2026-09-23T18:06:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d6ef5c38498282eb",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "I hate it when they do this!",
+   "u": "https://www.youtube.com/shorts/nsA_HeY3idE",
+   "d": "2026-09-23T16:41:20.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "cebba381884233b8",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Advancing Private AI Compute with secure, server-side memory",
+   "u": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "d": "2026-09-23T16:00:57.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "09f07f29d9dea6a9",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini 3.8 text-to-speech says hello",
+   "u": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "d": "2026-09-23T15:25:14.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "11654cac77e7687d",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "The AI Hype Index: AI loves cheating",
+   "u": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+   "d": "2026-09-23T09:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "882014676f5fc37a",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "GPT-6 ⚡, Opus 5.5 🧠, AI leaders at UN 🌐",
+   "u": "https://tldr.tech/ai/2026-09-23",
+   "d": "2026-09-23T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "26519b8d5c6c30d8",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "u": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "d": "2026-09-23T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2d9f478362f83bcd",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Claude Opus 5.5 Didn’t Need to Go This Hard",
+   "u": "https://www.youtube.com/watch?v=0t-eWrGFZyA",
+   "d": "2026-09-22T22:30:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e1fec14ceafb458b",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "How to respond to an AI disaster",
+   "u": "https://www.transformernews.ai/p/how-to-respond-to-an-ai-disaster",
+   "d": "2026-09-22T15:01:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "70cba92deb0be88a",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+   "u": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+   "d": "2026-09-22T13:37:45.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ba22c2542c20d8b2",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "What can you build with Jev",
+   "u": "https://www.bensbites.com/p/what-can-you-build-with-jev",
+   "d": "2026-09-22T13:01:13.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "59dbe5ea4b172264",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "AI labs may be hiding their biggest breakthroughs",
+   "u": "https://www.youtube.com/watch?v=p2i-fcx0G0M",
+   "d": "2026-09-22T12:20:07.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b1db624ec29add19",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Don’t be fooled by this summer of AI hype",
+   "u": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+   "d": "2026-09-22T11:04:51.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "88182b0a1243afb8",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Yes, Jev Is Insane, But There's A Catch",
+   "u": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+   "d": "2026-09-22T09:32:13.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b58b35bb4f4ae959",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "We've saved the world before: what the ozone hole teaches us about AI",
+   "u": "https://www.lesswrong.com/posts/zxXPEtSSSEdwpjopb/we-ve-saved-the-world-before-what-the-ozone-hole-teaches-us",
+   "d": "2026-09-22T01:13:30.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "14161f537117460e",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Opus 5.5 imminent ⏳, Grok 4.7 🚀, MiMo v2.6 🤖",
+   "u": "https://tldr.tech/ai/2026-09-22",
+   "d": "2026-09-22T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "bd9f0253176145b0",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Computation and Data Movement for Inference",
+   "u": "https://newsletter.semianalysis.com/p/computation-and-data-movement-for",
+   "d": "2026-09-21T18:14:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b982340ac06a4aad",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "This Robot Looks DEMONIC... On Purpose?",
+   "u": "https://www.youtube.com/shorts/rcUTZysF9s4",
+   "d": "2026-09-21T12:43:38.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9e0b64ff81ec13e1",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "The current balance of power in open models",
+   "u": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+   "d": "2026-09-21T11:56:56.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5caf9dd3a11b252b",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+   "u": "https://tldr.tech/ai/2026-09-21",
+   "d": "2026-09-21T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e8cd2d94de8802dd",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Why I still haven’t bought into true RSI",
+   "u": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+   "d": "2026-09-19T15:42:20.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d8f500f436e4dd6c",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "OpenAI JUST got HACKED...",
+   "u": "https://www.youtube.com/watch?v=iQGLI14p88Q",
+   "d": "2026-09-19T08:43:54.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9605a10e2b0f2cb8",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "The last IMO problem AI could not solve",
+   "u": "https://www.youtube.com/shorts/bRQEWPA832A",
+   "d": "2026-09-18T17:14:08.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "18ba65fdaed99c85",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "The last IMO problem AI could not solve",
+   "u": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+   "d": "2026-09-18T17:12:53.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b25aa0b4d1a066b7",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading",
+   "u": "https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign",
+   "d": "2026-09-18T14:34:20.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e8a43f74297b316e",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Trump’s AI stance is politically toxic",
+   "u": "https://www.transformernews.ai/p/trump-ai-stance-is-politically-toxic",
+   "d": "2026-09-18T14:30:40.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "36563458dbd48463",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "DeepSeek’s Insane New Architecture",
+   "u": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+   "d": "2026-09-18T07:03:46.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c123f1ab162858ed",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Claude Projects v2 💼, Google family agent 👨‍👩‍👧‍👦,",
+   "u": "https://tldr.tech/ai/2026-09-18",
+   "d": "2026-09-18T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "fa40335fa2f29844",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Partnering with Accenture on embedded evaluation",
+   "u": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+   "d": "2026-09-18T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d57096439115c9aa",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "AI expansion may not be one big environmental problem. But it’ll be lots of smaller ones.",
+   "u": "https://www.transformernews.ai/p/ai-expansion-could-create-lots-of-smaller-environmental-problems",
+   "d": "2026-09-17T15:09:39.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "478728626106c750",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "New home for Cowork",
+   "u": "https://www.bensbites.com/p/new-home-for-cowork",
+   "d": "2026-09-17T13:02:21.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "406d91863781c387",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "The Talker Does Not Control The Doer (in Current AIs)",
+   "u": "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais",
+   "d": "2026-09-17T02:05:40.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "733a521273c3d6ef",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Claude + Cowork merge 🛠️, ChatGPT sponsored agents 💰, harness tax 🤖",
+   "u": "https://tldr.tech/ai/2026-09-17",
+   "d": "2026-09-17T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5779ed6e359bafac",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Introducing the Life Sciences Verification Program",
+   "u": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "d": "2026-09-17T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "8af83e5314a42c35",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
+   "u": "https://www.youtube.com/watch?v=J3ljHm57yU0",
+   "d": "2026-09-16T20:51:40.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "aafe181654e156a2",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Jev ⚡, Periodic Neon 🧬, Gemini 3.8 Live 💬",
+   "u": "https://tldr.tech/ai/2026-09-16",
+   "d": "2026-09-16T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "151142516e4dc723",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree",
+   "u": "https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums",
+   "d": "2026-09-15T20:54:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9ec96e4fb0766ae3",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "d": "2026-09-15T17:05:57.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5e0a235f06fde040",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "To bargain with China, the US needs to regulate AI",
+   "u": "https://www.transformernews.ai/p/bargaining-with-china-us-needs-to-regulate-ai",
+   "d": "2026-09-15T15:30:43.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "98935efb25497982",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Good luck slowing this down",
+   "u": "https://www.bensbites.com/p/good-luck-slowing-this-down",
+   "d": "2026-09-15T13:02:52.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1ad62d83537fb101",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+   "u": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+   "d": "2026-09-15T10:12:34.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a96a7bed1c4fddba",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Siri model swapping 🔄, Claude Money 💰, Hugging Face Tau 👨‍💻",
+   "u": "https://tldr.tech/ai/2026-09-15",
+   "d": "2026-09-15T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "52d250b4fa6e9686",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Vera Rubin NVL72 Agentic Inference: 67x better Performance per Dollar",
+   "u": "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference",
+   "d": "2026-09-14T22:08:56.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e3f7b1a378b09426",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
+   "u": "https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device",
+   "d": "2026-09-14T16:37:25.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f3df47f4c00a576f",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "The AI-as-Normal-Technology view of loss-of-control incidents",
+   "u": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
+   "d": "2026-09-14T10:30:14.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c0e25d52de854109",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Amodei slows frontier 🛑, ARC-AGI-4 🧠, Cursor Projects 👨‍💻",
+   "u": "https://tldr.tech/ai/2026-09-14",
+   "d": "2026-09-14T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "7dc3af9870920e5e",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Long Live the Short King: Why 4-hi HBM Wins",
+   "u": "https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi",
+   "d": "2026-09-13T18:19:39.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "0082eb3dab57000c",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Nvidia’s Backstop Universe – Heads I Win, Tails Who Loses?",
+   "u": "https://newsletter.semianalysis.com/p/nvidias-backstop-universe-heads-i",
+   "d": "2026-09-11T17:04:52.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "cf7d60a6742485a0",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Congress must not waste the AI policy window",
+   "u": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
+   "d": "2026-09-11T14:02:53.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "11568838b9aeba66",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Telling AI to design is hard",
+   "u": "https://www.bensbites.com/p/telling-ai-to-design-is-hard",
+   "d": "2026-09-11T13:07:26.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "adce6337f33cd440",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Open-Source AI & Open Models Reading List",
+   "u": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+   "d": "2026-09-11T12:36:25.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "156a4bea7d237091",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Explaining Knightianism on one foot",
+   "u": "https://www.lesswrong.com/posts/pYFBD2SnqiWkuNns5/explaining-knightianism-on-one-foot",
+   "d": "2026-09-11T06:41:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a52bf334f7ca9d51",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "One resignation turned the embers of AI fear into a wildfire",
+   "u": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+   "d": "2026-09-10T15:28:52.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9c299226ce7b5f67",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "What is So Hard About Behind-The-Meter Power For Datacenters? Part 1",
+   "u": "https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the",
+   "d": "2026-09-10T14:28:20.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "69c4062f9e283139",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Everyone needs a Muse",
+   "u": "https://www.bensbites.com/p/everyone-needs-a-muse",
+   "d": "2026-09-10T13:03:34.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "06b41ba063e68e9d",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "I Never Thought I’d See This Happen",
+   "u": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+   "d": "2026-09-10T08:47:23.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "13f379fc90a62c45",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "When will average people feel AI’s impact?",
+   "u": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+   "d": "2026-09-09T11:01:23.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d31590d1c7d39794",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Distributing AGI’s wealth worldwide is a very tricky problem",
+   "u": "https://www.transformernews.ai/p/distributing-agi-wealth-worldwide-difficult",
+   "d": "2026-09-08T16:02:47.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5e257b78c1730cd2",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+   "u": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+   "d": "2026-09-08T14:15:25.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "0b5ff386f4c4f0f1",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "d": "2026-09-08T14:00:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6a896789e9da6250",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Everything you need to know about the ‘rogue’ AI incidents",
+   "u": "https://www.transformernews.ai/p/rogue-ai-incidents-timeline",
+   "d": "2026-09-08T13:06:25.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "08dee4939011dfdc",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "The first GPT-6 model",
+   "u": "https://www.bensbites.com/p/the-first-gpt-6-model",
+   "d": "2026-09-08T13:03:52.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6c1142c0a031ce3d",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "GPT-6 Astra Changes Everything",
+   "u": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+   "d": "2026-09-08T08:24:27.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5db1516d97d92bac",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "TPU Inference Externalization Full Steam Ahead - InferenceX",
+   "u": "https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam",
+   "d": "2026-09-07T20:00:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "319ab807cda84253",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Drone WMDs Don’t Need Any New Technology",
+   "u": "https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology",
+   "d": "2026-09-06T21:28:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "141018831b7f712e",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Congress goes quiet as AI safety concerns mount",
+   "u": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow",
+   "d": "2026-09-04T16:01:58.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "04c7390953f0cc76",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Scraping 107M rows of data to build this",
+   "u": "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build",
+   "d": "2026-09-04T14:56:17.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "78ada465946df7b5",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "GPT 6 Astra, so good even OpenAI are worried",
+   "u": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+   "d": "2026-09-04T11:37:27.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "77680e4a71f8da37",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "GPT-6 Astra might be too powerful to understand or control",
+   "u": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
+   "d": "2026-09-04T11:05:49.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "94f91d1f34cd9328",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "u": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "d": "2026-09-03T15:02:08.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "035d90372f05de9b",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Fable 5.1",
+   "u": "https://www.bensbites.com/p/fable-51",
+   "d": "2026-09-03T13:03:56.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a2615cd2b677217c",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "What’s neuralese and why is everyone so concerned about it?",
+   "u": "https://www.transformernews.ai/p/what-is-neuralese-openai-astra-chain-of-thought-recurrent-depth",
+   "d": "2026-09-03T10:31:57.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c9a69af96640c991",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+   "u": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+   "d": "2026-09-03T08:23:37.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "da45fc611e4378d0",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Proactive cyber defense for governments and enterprises",
+   "u": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+   "d": "2026-09-02T16:24:24.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2bc1058a6dd6efb3",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+   "u": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+   "d": "2026-09-02T16:18:31.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "3d23d3593cf7c8bb",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "How My Students Think About AI",
+   "u": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+   "d": "2026-09-02T16:14:23.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9e8f580381e6edbc",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Korea’s Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses",
+   "u": "https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign",
+   "d": "2026-09-01T20:14:32.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "56263e76b21f84f7",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing agentic video understanding with Gemini",
+   "u": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+   "d": "2026-09-01T17:08:51.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "052d24326dd2aedf",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Build your ideas",
+   "u": "https://www.bensbites.com/p/build-your-ideas",
+   "d": "2026-09-01T13:04:30.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b7aafe1b72b82a6d",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+   "u": "https://www.youtube.com/watch?v=w9RDunJACkc",
+   "d": "2026-09-01T09:04:56.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "355cfae504fcbd49",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Developing Enterprise Frontier Safeguards with our customers",
+   "u": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+   "d": "2026-09-01T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "576964ee9e38ad87",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Improving our alignment and security efforts",
+   "u": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+   "d": "2026-08-31T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d7b16618b79eafb4",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Most Neoclouds Suck At Security",
+   "u": "https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security",
+   "d": "2026-08-30T15:46:22.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b41ed0abac4f31a8",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
+   "u": "https://www.lesswrong.com/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning",
+   "d": "2026-08-29T17:35:50.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c1dfdd966d97c7e0",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
+   "u": "https://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning",
+   "d": "2026-08-29T17:35:50.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "bd3548e645dedd1f",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "How I built this",
+   "u": "https://www.bensbites.com/p/how-i-built-this-21f",
+   "d": "2026-08-28T12:14:10.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f083febefc9a6097",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+   "u": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+   "d": "2026-08-27T19:16:24.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "6e43f70f2c6eb808",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini Omni 1.1 Flash lets you build with more control",
+   "u": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+   "d": "2026-08-27T16:11:32.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "78dc66a8653db6a0",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Who let the agents in",
+   "u": "https://www.bensbites.com/p/who-let-the-agents-in",
+   "d": "2026-08-27T13:03:42.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2a751d515045c386",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Piloting the world's first double-blind AI evaluations",
+   "u": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+   "d": "2026-08-27T12:59:16.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b100f427884dd34d",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Expanding our support for scientists",
+   "u": "https://www.anthropic.com/news/expanding-support-for-scientists",
+   "d": "2026-08-27T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "49ebdf6da618bcc8",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Previewing the Model Hardware Standard",
+   "u": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+   "d": "2026-08-27T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "33d56d9cbad57d02",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Intelligent transcription with Gemini 3.5 Transcribe",
+   "u": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+   "d": "2026-08-26T17:01:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b60c820c0f87673d",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "On Writing #3",
+   "u": "https://www.lesswrong.com/posts/rA6pqn6kz8NvHyznT/on-writing-3",
+   "d": "2026-08-26T00:23:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9477a0d8d89a8efe",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Funding better evaluations of AI’s impact on wellbeing",
+   "u": "https://www.anthropic.com/news/wellbeing-research-grants",
+   "d": "2026-08-25T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2b6d88f923dc718d",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Big-World Intuitions",
+   "u": "https://www.lesswrong.com/posts/s22XzjQsrh6JXhXGH/big-world-intuitions",
+   "d": "2026-08-21T18:30:56.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "144eb0b601437d35",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+   "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+   "d": "2026-08-21T11:59:48.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "bb48be090a6b6b1a",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "The jumping pegs puzzle",
+   "u": "https://www.youtube.com/shorts/rYyJm1tD3d0",
+   "d": "2026-08-18T14:54:17.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "7a44eeac7faaaa49",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Teaching Everyone to Fish for Tokens",
+   "u": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+   "d": "2026-08-17T15:07:49.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "63d0dfd136a7a938",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Q2.5 2026 Timelines Update: Uplift and Revenue",
+   "u": "https://blog.aifutures.org/p/q25-2026-timelines-update-uplift",
+   "d": "2026-08-16T18:38:42.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "04c5ef30eb91396d",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "Four LLM loss functions → four flavors of LLM misalignment",
+   "u": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment",
+   "d": "2026-08-14T22:31:55.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "aea5b6f926796491",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "GLM-5.3: How Chinese labs keep stride with the frontier",
+   "u": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+   "d": "2026-08-14T21:23:35.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "dfbbbccc670cc732",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "How Claude’s text watermark works",
+   "u": "https://www.anthropic.com/news/claude-text-watermark",
+   "d": "2026-08-14T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "26953376bb31606d",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "I wrote an AI textbook — how long until AI can do it better?",
+   "u": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+   "d": "2026-08-12T13:01:16.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f1e8efbfc38fe0de",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
+   "u": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+   "d": "2026-08-10T13:02:42.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "19df2977668f17cd",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Lessons from the hacks",
+   "u": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+   "d": "2026-08-09T14:57:11.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c1822be39d92331a",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Yyup...",
+   "u": "https://www.youtube.com/shorts/guUpt1RCWkY",
+   "d": "2026-08-07T03:34:47.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "13243c2f5bb42be8",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Improving Fable 5's biology safeguards",
+   "u": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+   "d": "2026-08-07T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2dc8b1d3013dec25",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "AI is getting a little out of control",
+   "u": "https://www.youtube.com/watch?v=xGzseSSStnw",
+   "d": "2026-08-06T15:02:06.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ef4f7f1619423cf1",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "How to pace the US frontier",
+   "u": "https://blog.aifutures.org/p/how-to-pace-the-us-frontier",
+   "d": "2026-08-05T18:12:09.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "8c7dc23b058997fb",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "AI agents can't yet do open-ended AI research",
+   "u": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+   "d": "2026-08-05T13:49:19.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e977db93f0ba750c",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+   "u": "https://www.anthropic.com/news/tino-cuellar",
+   "d": "2026-08-04T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "4d25533691eda932",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Introducing our Artifacts Hub and Adoption Dashboard",
+   "u": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+   "d": "2026-08-03T14:03:08.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1ea03888b7d82eff",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+   "u": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+   "d": "2026-08-02T13:01:40.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "415c37eb8c072703",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Full AI Escape Seems Possible",
+   "u": "https://www.youtube.com/shorts/40pRi5wMBwA",
+   "d": "2026-08-01T01:30:50.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "fa4df9c319c4c681",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "\"Just Predicting Tokens\"",
+   "u": "https://www.youtube.com/shorts/nc8KPtnBK38",
+   "d": "2026-07-31T03:06:34.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9387810faa2d87cb",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "The Long (Self-)Correction",
+   "u": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2",
+   "d": "2026-07-31T01:15:39.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1bc3d2cd4bdac684",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Investigating three real-world incidents in our cybersecurity evaluations",
+   "u": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+   "d": "2026-07-30T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f5ac2788dffce7da",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "People are Catching On",
+   "u": "https://www.youtube.com/shorts/V51Qgaml-7M",
+   "d": "2026-07-29T05:35:55.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "4ce74720be26866b",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Don't Let \"Scepticism\" Make You Useless: ActOnAI.org",
+   "u": "https://www.youtube.com/shorts/zCvRFm9UNOo",
+   "d": "2026-07-28T06:05:40.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b2df57fc55729ddb",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+   "u": "https://www.anthropic.com/news/cognizant-anthropic",
+   "d": "2026-07-27T00:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ecf0126068275501",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Why Smart AIs Cheat",
+   "u": "https://www.youtube.com/shorts/11vWK5cbxmI",
+   "d": "2026-07-25T03:02:57.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "816790ff40c90352",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "The 64 sugar cubes puzzle",
+   "u": "https://www.youtube.com/shorts/6XPlmCDNLNc",
+   "d": "2026-07-24T15:05:39.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "29e288a82c4063eb",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+   "u": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+   "d": "2026-07-22T16:36:53.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "0f1145da1a8aabfa",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
+   "u": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+   "d": "2026-07-22T14:09:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a9a711181e5573d2",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "AI 2040: Plan A",
+   "u": "https://www.alignmentforum.org/posts/pFzctpJBat95SrCyC/ai-2040-plan-a",
+   "d": "2026-07-20T01:52:20.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "87acba0ea7820de2",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "But what is cross-entropy? | Compression is Intelligence Part 2",
+   "u": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+   "d": "2026-07-16T11:56:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ed998cbe1efa43e2",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "What will be left for us to work on?",
+   "u": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+   "d": "2026-07-13T18:47:06.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a2365854c2f78160",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Plan A: Suggestions For Further Work",
+   "u": "https://blog.aifutures.org/p/plan-a-suggestions-for-further-work",
+   "d": "2026-07-10T23:15:06.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ba641871efc7ffec",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+   "u": "https://www.youtube.com/watch?v=mWlCituW7wo",
+   "d": "2026-07-10T12:40:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9bdc8bc521ccc21d",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Up the Stack: How AI’s Escape From the Commodity Trap Risks Enterprise Lock-in",
+   "u": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+   "d": "2026-07-09T22:29:33.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "30d62ce6c5656492",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "AI 2040: Plan A",
+   "u": "https://blog.aifutures.org/p/ai-2040-plan-a",
+   "d": "2026-07-09T16:14:53.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "fc0879db71fdda78",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "A forecast of Chinese DUV and EUV photolithography progress",
+   "u": "https://blog.aifutures.org/p/a-forecast-of-chinese-duv-and-euv",
+   "d": "2026-06-19T15:32:43.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "3c0f06e5accd3b12",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "100 random chords, how many intersections?",
+   "u": "https://www.youtube.com/shorts/wGffBCfrAsE",
+   "d": "2026-06-16T18:04:05.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "afd5b583b1705d66",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "Measuring the entropy of English",
+   "u": "https://www.youtube.com/shorts/-7etvZSBxlk",
+   "d": "2026-06-12T13:22:02.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "af942d448773e6e9",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Why AI hasn’t replaced software engineers, and won’t",
+   "u": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+   "d": "2026-06-11T02:29:51.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9a24fae900f5f3cd",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
+   "u": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a",
+   "d": "2026-06-01T02:42:03.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "4ae0f390c5bf133b",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Did Google’s AI agents really build an operating system for $916?",
+   "u": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
+   "d": "2026-05-22T22:24:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "092e66f2da63bace",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Do AI Risks Require Extraordinary Government Intervention?",
+   "u": "https://www.normaltech.ai/p/do-ai-risks-require-extraordinary",
+   "d": "2026-05-21T13:19:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c5b8ad52cf11487f",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "Current AIs seem pretty misaligned to me",
+   "u": "https://www.alignmentforum.org/posts/WewsByywWNhX9rtwi/current-ais-seem-pretty-misaligned-to-me",
+   "d": "2026-04-17T18:56:06.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d6e98fe18e5b966f",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Open-world evaluations for measuring frontier AI capabilities",
+   "u": "https://www.normaltech.ai/p/open-world-evaluations-for-measuring",
+   "d": "2026-04-16T17:47:29.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "760590a65785b87a",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Q1 2026 Timelines Update",
+   "u": "https://blog.aifutures.org/p/q1-2026-timelines-update",
+   "d": "2026-04-02T18:10:18.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "834b83b29e443ab3",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "Personality Self-Replicators",
+   "u": "https://www.alignmentforum.org/posts/fGpQ4cmWsXo2WWeyn/personality-self-replicators",
+   "d": "2026-03-17T23:35:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "3e22a0a524d7b5b6",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
+   "u": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+   "d": "2026-03-06T22:07:33.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1a8a6ca3682ae2ee",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "models have some pretty funny attractor states",
+   "u": "https://www.alignmentforum.org/posts/mgjtEHeLgkhZZ3cEx/models-have-some-pretty-funny-attractor-states",
+   "d": "2026-03-04T04:39:17.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "fac73e2d3332aa22",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "Are there lessons from high-reliability engineering for AGI safety?",
+   "u": "https://www.alignmentforum.org/posts/hiiguxJ2EtfSzAevj/are-there-lessons-from-high-reliability-engineering-for-agi",
+   "d": "2026-02-26T19:06:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f7915d889aeeb868",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "New Paper: Towards a science of AI agent reliability",
+   "u": "https://www.normaltech.ai/p/new-paper-towards-a-science-of-ai",
+   "d": "2026-02-24T13:07:19.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1581b322486f0c76",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Grading AI 2027’s 2025 Predictions",
+   "u": "https://blog.aifutures.org/p/grading-ai-2027s-2025-predictions",
+   "d": "2026-02-12T23:56:07.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "48b0eea7205fbf50",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "AI Won’t Automatically Make Legal Services Cheaper",
+   "u": "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
+   "d": "2026-02-12T19:26:05.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d1f332e0f91b26e9",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Fact checking Moravec's paradox",
+   "u": "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
+   "d": "2026-01-29T22:35:47.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "06f8471b99900c1e",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Clarifying how our AI timelines forecasts have changed since AI 2027",
+   "u": "https://blog.aifutures.org/p/clarifying-how-our-ai-timelines-forecasts",
+   "d": "2026-01-27T22:50:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ea0f0ae8cd031b7a",
+   "f": "alignment-forum",
+   "src": "Alignment Forum",
+   "cat": "Forum",
+   "t": "The inaugural Redwood Research podcast",
+   "u": "https://www.alignmentforum.org/posts/p4iJpumHt6Ay9KnXT/the-inaugural-redwood-research-podcast",
+   "d": "2026-01-26T23:45:04.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "519bf8de242a95d8",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Forecast how AI will progress in 2026",
+   "u": "https://blog.aifutures.org/p/forecast-how-ai-will-progress-in",
+   "d": "2026-01-17T18:52:05.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "3129b51020badb07",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "What Happens When Superhuman AIs Compete for Control?",
+   "u": "https://blog.aifutures.org/p/what-happens-when-superhuman-ais",
+   "d": "2026-01-11T14:02:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "2892b73c45ce8028",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "AI Futures Model: Dec 2025 Update",
+   "u": "https://blog.aifutures.org/p/ai-futures-model-dec-2025-update",
+   "d": "2025-12-31T02:08:48.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "bfaef7fe82ff298f",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "Traditional X-Mas Stream",
+   "u": "https://www.youtube.com/watch?v=Dr6jw-WAd9E",
+   "d": "2025-12-29T03:44:20.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "1a7ef8fb8ab5813e",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "Traditional Holiday Live Stream",
+   "u": "https://www.youtube.com/watch?v=DNajvkqfobY",
+   "d": "2025-12-28T12:41:54.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c005ac6d3f780d4c",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+   "u": "https://www.youtube.com/watch?v=taCVT5vDAk0",
+   "d": "2025-12-27T14:33:29.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "5607ed8b450b2ade",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+   "u": "https://www.youtube.com/watch?v=v67plFw1nMw",
+   "d": "2025-12-14T16:22:15.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "0036d30089a1ab37",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Early US policy priorities for AGI",
+   "u": "https://blog.aifutures.org/p/early-us-policy-priorities-for-agi",
+   "d": "2025-12-09T01:11:06.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ca22f4695fe7a529",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+   "u": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
+   "d": "2025-11-01T17:39:06.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a1422a2a5818a5a0",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Scenario Scrutiny for AI Policy",
+   "u": "https://blog.aifutures.org/p/scenario-scrutiny-for-ai-policy",
+   "d": "2025-10-28T20:20:21.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "70b37466a4da752f",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "How an AI company CEO could quietly take over the world",
+   "u": "https://blog.aifutures.org/p/how-an-ai-company-ceo-could-quietly",
+   "d": "2025-10-21T16:21:38.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "83dab750bb5950aa",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
+   "u": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
+   "d": "2025-10-19T10:58:51.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "dabd74ac86d6c0aa",
+   "f": "yt-yannic",
+   "src": "Yannic Kilcher",
+   "cat": "YouTube",
+   "t": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+   "u": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
+   "d": "2025-10-11T16:07:41.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d42db3784ee8049e",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "A guide to understanding AI as normal technology",
+   "u": "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
+   "d": "2025-09-09T13:00:40.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "54adcd0b9c12976b",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Could AI slow science?",
+   "u": "https://www.normaltech.ai/p/could-ai-slow-science",
+   "d": "2025-07-16T21:35:56.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "384322baa7a8a14e",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "How I use LLMs",
+   "u": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+   "d": "2025-02-27T22:29:56.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ce24963cca7de20b",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "Deep Dive into LLMs like ChatGPT",
+   "u": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "d": "2025-02-05T18:23:47.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "0ca6d077686381c9",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "Let's reproduce GPT-2 (124M)",
+   "u": "https://www.youtube.com/watch?v=l8pRSuU81PU",
+   "d": "2024-06-09T23:31:35.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "db84ded2c2fa76d0",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "Let's build the GPT Tokenizer",
+   "u": "https://www.youtube.com/watch?v=zduSFxRajkE",
+   "d": "2024-02-20T17:11:35.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f2c199fe1173032d",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "[1hr Talk] Intro to Large Language Models",
+   "u": "https://www.youtube.com/watch?v=zjkBMFhNj_g",
+   "d": "2023-11-23T02:27:48.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a29284195a663564",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "Let's build GPT: from scratch, in code, spelled out.",
+   "u": "https://www.youtube.com/watch?v=kCc8FmEb1nY",
+   "d": "2023-01-17T16:33:27.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "4152059b9fa3504c",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "Building makemore Part 5: Building a WaveNet",
+   "u": "https://www.youtube.com/watch?v=t3YJ5hKiMQ0",
+   "d": "2022-11-21T00:32:48.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "c5d2b69fffedd42e",
+   "f": "yt-karpathy",
+   "src": "Andrej Karpathy",
+   "cat": "YouTube",
+   "t": "Building makemore Part 4: Becoming a Backprop Ninja",
+   "u": "https://www.youtube.com/watch?v=q8SA3rM6ckI",
+   "d": "2022-10-11T17:56:19.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  }
+ ],
+ "health": {
+  "import-ai": {
+   "name": "Import AI",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  "zvi": {
+   "name": "Don't Worry About the Vase",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  "latent-space": {
+   "name": "Latent Space",
+   "ok": true
+  },
+  "interconnects": {
+   "name": "Interconnects",
+   "ok": true
+  },
+  "ai-snake-oil": {
+   "name": "AI Snake Oil",
+   "ok": true
+  },
+  "ai-futures": {
+   "name": "AI Futures Project",
+   "ok": true
+  },
+  "transformer": {
+   "name": "Transformer",
+   "ok": true
+  },
+  "semianalysis": {
+   "name": "SemiAnalysis",
+   "ok": true
+  },
+  "smol-ai": {
+   "name": "smol.ai news",
+   "ok": false,
+   "error": "Entity expansion limit exceeded: 1318 > 1000"
+  },
+  "simon-willison": {
+   "name": "Simon Willison",
+   "ok": false,
+   "error": "Entity expansion limit exceeded: 1813 > 1000"
+  },
+  "tldr-ai": {
+   "name": "TLDR AI",
+   "ok": true
+  },
+  "bens-bites": {
+   "name": "Ben's Bites",
+   "ok": true
+  },
+  "openai-news": {
+   "name": "OpenAI",
+   "ok": true
+  },
+  "deepmind-blog": {
+   "name": "Google DeepMind",
+   "ok": true
+  },
+  "anthropic-news": {
+   "name": "Anthropic",
+   "ok": true
+  },
+  "techmeme": {
+   "name": "Techmeme (AI only)",
+   "ok": true
+  },
+  "hacker-news": {
+   "name": "Hacker News (AI, 200+ points)",
+   "ok": false,
+   "error": "HTTP 502"
+  },
+  "mit-tr": {
+   "name": "MIT Technology Review",
+   "ok": true
+  },
+  "lesswrong": {
+   "name": "LessWrong (curated)",
+   "ok": true
+  },
+  "alignment-forum": {
+   "name": "Alignment Forum",
+   "ok": true
+  },
+  "reddit-localllama": {
+   "name": "r/LocalLLaMA (top of week)",
+   "ok": false,
+   "error": "Entity expansion limit exceeded: 1028 > 1000"
+  },
+  "reddit-singularity": {
+   "name": "r/singularity (top of week)",
+   "ok": false,
+   "error": "HTTP 429"
+  },
+  "reddit-ml": {
+   "name": "r/MachineLearning (top of week)",
+   "ok": false,
+   "error": "HTTP 429"
+  },
+  "yt-ai-explained": {
+   "name": "AI Explained",
+   "ok": true
+  },
+  "yt-dwarkesh": {
+   "name": "Dwarkesh Patel",
+   "ok": true
+  },
+  "yt-mlst": {
+   "name": "Machine Learning Street Talk",
+   "ok": true
+  },
+  "yt-karpathy": {
+   "name": "Andrej Karpathy",
+   "ok": true
+  },
+  "yt-robert-miles": {
+   "name": "Robert Miles AI Safety",
+   "ok": true
+  },
+  "yt-3b1b": {
+   "name": "3Blue1Brown",
+   "ok": true
+  },
+  "yt-yannic": {
+   "name": "Yannic Kilcher",
+   "ok": true
+  },
+  "yt-two-minute": {
+   "name": "Two Minute Papers",
+   "ok": true
+  },
+  "yt-matt-wolfe": {
+   "name": "Matt Wolfe",
+   "ok": true
+  },
+  "yt-matthew-berman": {
+   "name": "Matthew Berman",
+   "ok": true
+  },
+  "yt-wes-roth": {
+   "name": "Wes Roth",
+   "ok": true
+  }
+ }
+}

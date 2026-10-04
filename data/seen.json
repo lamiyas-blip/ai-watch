@@ -1,1 +1,439 @@
-{"feeds":{},"yt":{}}
+{
+ "feeds": {
+  "latent-space": {
+   "init": true,
+   "ids": [
+    "77ce46ddfb217e30",
+    "b6b40dcf6f71f4ee",
+    "1c8bc81a14d5a99d",
+    "9b6a4eacd5dbba21",
+    "fc239d52fb598177",
+    "a1bd73a0649109e4",
+    "dbb6b20891b46084",
+    "1c1e1f3229dfb6fd",
+    "9bc296cde57f6cc1",
+    "5b0cf68933e465bc",
+    "f40a00700e081c2c",
+    "a3f6dc2d2510dcc4",
+    "95802ee5914252d2",
+    "39d297cf4c37d4a1",
+    "7db66d39eb065735"
+   ]
+  },
+  "interconnects": {
+   "init": true,
+   "ids": [
+    "70cba92deb0be88a",
+    "9e0b64ff81ec13e1",
+    "e8cd2d94de8802dd",
+    "adce6337f33cd440",
+    "a52bf334f7ca9d51",
+    "13f379fc90a62c45",
+    "5e257b78c1730cd2",
+    "7a44eeac7faaaa49",
+    "aea5b6f926796491",
+    "26953376bb31606d",
+    "f1e8efbfc38fe0de",
+    "19df2977668f17cd",
+    "4d25533691eda932",
+    "1ea03888b7d82eff",
+    "0f1145da1a8aabfa"
+   ]
+  },
+  "ai-snake-oil": {
+   "init": true,
+   "ids": [
+    "eb9af7714c8e004a",
+    "7f2a50fec861c655",
+    "f3df47f4c00a576f",
+    "8c7dc23b058997fb",
+    "ed998cbe1efa43e2",
+    "9bdc8bc521ccc21d",
+    "af942d448773e6e9",
+    "4ae0f390c5bf133b",
+    "092e66f2da63bace",
+    "d6e98fe18e5b966f",
+    "f7915d889aeeb868",
+    "48b0eea7205fbf50",
+    "d1f332e0f91b26e9",
+    "d42db3784ee8049e",
+    "54adcd0b9c12976b"
+   ]
+  },
+  "ai-futures": {
+   "init": true,
+   "ids": [
+    "244b5b45cd6fd1a9",
+    "63d0dfd136a7a938",
+    "ef4f7f1619423cf1",
+    "a2365854c2f78160",
+    "30d62ce6c5656492",
+    "fc0879db71fdda78",
+    "760590a65785b87a",
+    "1581b322486f0c76",
+    "06f8471b99900c1e",
+    "519bf8de242a95d8",
+    "3129b51020badb07",
+    "2892b73c45ce8028",
+    "0036d30089a1ab37",
+    "a1422a2a5818a5a0",
+    "70b37466a4da752f"
+   ]
+  },
+  "transformer": {
+   "init": true,
+   "ids": [
+    "ce77d8b00fdf286e",
+    "760cd3b1525a5fd4",
+    "0cd22bd20b209254",
+    "e4feb5c171d2d316",
+    "e61cf638f9143d2c",
+    "e1fec14ceafb458b",
+    "e8a43f74297b316e",
+    "d57096439115c9aa",
+    "5e0a235f06fde040",
+    "cf7d60a6742485a0",
+    "d31590d1c7d39794",
+    "6a896789e9da6250",
+    "141018831b7f712e",
+    "77680e4a71f8da37",
+    "a2615cd2b677217c"
+   ]
+  },
+  "semianalysis": {
+   "init": true,
+   "ids": [
+    "50785fc8317ccc28",
+    "af88adcd143103e8",
+    "97554bd32a184546",
+    "8a7cf5569302f71e",
+    "bd9f0253176145b0",
+    "b25aa0b4d1a066b7",
+    "151142516e4dc723",
+    "52d250b4fa6e9686",
+    "e3f7b1a378b09426",
+    "7dc3af9870920e5e",
+    "0082eb3dab57000c",
+    "9c299226ce7b5f67",
+    "5db1516d97d92bac",
+    "9e8f580381e6edbc",
+    "d7b16618b79eafb4"
+   ]
+  },
+  "tldr-ai": {
+   "init": true,
+   "ids": [
+    "1e7826b02be448c9",
+    "de560be2f3a518b7",
+    "2b16197dc6b0f272",
+    "c4ee251f2baaa6ed",
+    "b2248e94354c2346",
+    "47bf1ba51946e4bd",
+    "2880b0683d6944de",
+    "882014676f5fc37a",
+    "14161f537117460e",
+    "5caf9dd3a11b252b",
+    "c123f1ab162858ed",
+    "733a521273c3d6ef",
+    "aafe181654e156a2",
+    "a96a7bed1c4fddba",
+    "c0e25d52de854109"
+   ]
+  },
+  "bens-bites": {
+   "init": true,
+   "ids": [
+    "4385e07d2499a622",
+    "760b0bd76227e5f4",
+    "1ae53e3b6b534815",
+    "5600e693ed0d6d85",
+    "ba22c2542c20d8b2",
+    "478728626106c750",
+    "98935efb25497982",
+    "11568838b9aeba66",
+    "69c4062f9e283139",
+    "08dee4939011dfdc",
+    "04c7390953f0cc76",
+    "035d90372f05de9b",
+    "052d24326dd2aedf",
+    "bd3548e645dedd1f",
+    "78dc66a8653db6a0"
+   ]
+  },
+  "openai-news": {
+   "init": true,
+   "ids": [
+    "8475a84e35ce68be",
+    "25f2135c021e1027",
+    "6affbb956462ce9f",
+    "dd4d9685a43a9e04",
+    "44359e0b855ec02a",
+    "d6d932300cd4d04c",
+    "6ac3ac1f6ae1d49d",
+    "b619ad651a28662f",
+    "276a1a109f5ce9d9",
+    "ac38b11550c040d1",
+    "a2bd741cf81229b3",
+    "d6c02e0e2f2be12e",
+    "814b0bd580abb62a",
+    "21ad48a45f17cda0",
+    "455f28d352b4ca06"
+   ]
+  },
+  "deepmind-blog": {
+   "init": true,
+   "ids": [
+    "2e9748a70d12bca7",
+    "542656b950fd6a6e",
+    "607b6632f1d8819d",
+    "cebba381884233b8",
+    "09f07f29d9dea6a9",
+    "9ec96e4fb0766ae3",
+    "0b5ff386f4c4f0f1",
+    "94f91d1f34cd9328",
+    "da45fc611e4378d0",
+    "2bc1058a6dd6efb3",
+    "56263e76b21f84f7",
+    "6e43f70f2c6eb808",
+    "2a751d515045c386",
+    "33d56d9cbad57d02",
+    "144eb0b601437d35"
+   ]
+  },
+  "anthropic-news": {
+   "init": true,
+   "ids": [
+    "52b8f17e9342ddb2",
+    "12f419a0af20e3ad",
+    "26519b8d5c6c30d8",
+    "fa40335fa2f29844",
+    "5779ed6e359bafac",
+    "355cfae504fcbd49",
+    "576964ee9e38ad87",
+    "b100f427884dd34d",
+    "49ebdf6da618bcc8",
+    "9477a0d8d89a8efe",
+    "dfbbbccc670cc732",
+    "13243c2f5bb42be8",
+    "e977db93f0ba750c",
+    "1bc3d2cd4bdac684",
+    "b2df57fc55729ddb"
+   ]
+  },
+  "techmeme": {
+   "init": true,
+   "ids": [
+    "51e2ce5cdfec6a7b",
+    "12ec03254342b0ad",
+    "addaa153ead870b0",
+    "b29c4c271dd93cdb",
+    "0326e00b15fa5551",
+    "247f06fecae5b46e",
+    "6fd1d1d7db0ce82e",
+    "b5112a7675a2a983",
+    "87de3679f084a782"
+   ]
+  },
+  "mit-tr": {
+   "init": true,
+   "ids": [
+    "b329f504bf386f28",
+    "b9898c75fb132fb2",
+    "f636ddc05487dbc5",
+    "f509360bfe2ff456",
+    "e8eca65598350970",
+    "e30de35ff755ee76",
+    "24230dc15d94a8bd",
+    "ed6a2cd1c678b2af",
+    "11654cac77e7687d",
+    "b1db624ec29add19"
+   ]
+  },
+  "lesswrong": {
+   "init": true,
+   "ids": [
+    "dc66b461c37278ae",
+    "6297f21dd700e20d",
+    "b58b35bb4f4ae959",
+    "406d91863781c387",
+    "156a4bea7d237091",
+    "319ab807cda84253",
+    "3d23d3593cf7c8bb",
+    "b41ed0abac4f31a8",
+    "b60c820c0f87673d",
+    "2b6d88f923dc718d"
+   ]
+  },
+  "alignment-forum": {
+   "init": true,
+   "ids": [
+    "c1dfdd966d97c7e0",
+    "04c5ef30eb91396d",
+    "9387810faa2d87cb",
+    "a9a711181e5573d2",
+    "9a24fae900f5f3cd",
+    "c5b8ad52cf11487f",
+    "834b83b29e443ab3",
+    "1a8a6ca3682ae2ee",
+    "fac73e2d3332aa22",
+    "ea0f0ae8cd031b7a"
+   ]
+  },
+  "yt-ai-explained": {
+   "init": true,
+   "ids": [
+    "6c4aae1257692431",
+    "a33877c65d4eb613",
+    "8af83e5314a42c35",
+    "78ada465946df7b5",
+    "f083febefc9a6097",
+    "2dc8b1d3013dec25",
+    "29e288a82c4063eb",
+    "ba641871efc7ffec"
+   ]
+  },
+  "yt-dwarkesh": {
+   "init": true,
+   "ids": [
+    "05b64c59da0e866e",
+    "3d96e49d89cc934e",
+    "766c71c75d51294e",
+    "a6116aa6f1f0b70c",
+    "ed869410398cb9a3",
+    "8050bd06126e8714",
+    "2085e47d7cb5f205",
+    "eefc4188c1369967"
+   ]
+  },
+  "yt-mlst": {
+   "init": true,
+   "ids": [
+    "30e23a186263f7c1",
+    "859efd6f40ba1ff1",
+    "d7c46355309974cd",
+    "f02e380d50d6b6ba",
+    "aa06d89d2df27d4a",
+    "e711d244f1fd5875",
+    "12336385d4e00ba7",
+    "5f589656f4b2db79"
+   ]
+  },
+  "yt-karpathy": {
+   "init": true,
+   "ids": [
+    "384322baa7a8a14e",
+    "ce24963cca7de20b",
+    "0ca6d077686381c9",
+    "db84ded2c2fa76d0",
+    "f2c199fe1173032d",
+    "a29284195a663564",
+    "4152059b9fa3504c",
+    "c5d2b69fffedd42e"
+   ]
+  },
+  "yt-robert-miles": {
+   "init": true,
+   "ids": [
+    "5df8791ab1940530",
+    "c771ddbf79ad3999",
+    "c1822be39d92331a",
+    "415c37eb8c072703",
+    "fa4df9c319c4c681",
+    "f5ac2788dffce7da",
+    "4ce74720be26866b",
+    "ecf0126068275501"
+   ]
+  },
+  "yt-3b1b": {
+   "init": true,
+   "ids": [
+    "43225a490f5b5ab9",
+    "9605a10e2b0f2cb8",
+    "18ba65fdaed99c85",
+    "bb48be090a6b6b1a",
+    "816790ff40c90352",
+    "87acba0ea7820de2",
+    "3c0f06e5accd3b12",
+    "afd5b583b1705d66"
+   ]
+  },
+  "yt-yannic": {
+   "init": true,
+   "ids": [
+    "3e22a0a524d7b5b6",
+    "bfaef7fe82ff298f",
+    "1a7ef8fb8ab5813e",
+    "c005ac6d3f780d4c",
+    "5607ed8b450b2ade",
+    "ca22f4695fe7a529",
+    "83dab750bb5950aa",
+    "dabd74ac86d6c0aa"
+   ]
+  },
+  "yt-two-minute": {
+   "init": true,
+   "ids": [
+    "1498df0c985efa86",
+    "88182b0a1243afb8",
+    "36563458dbd48463",
+    "1ad62d83537fb101",
+    "06b41ba063e68e9d",
+    "6c1142c0a031ce3d",
+    "c9a69af96640c991",
+    "b7aafe1b72b82a6d"
+   ]
+  },
+  "yt-matt-wolfe": {
+   "init": true,
+   "ids": [
+    "2df0174b845e2242",
+    "1032cedf755c5ae1",
+    "1a5c7746727ca080",
+    "da080aa65a2abbef",
+    "8ed2a9ee44dea07f",
+    "d6ef5c38498282eb",
+    "2d9f478362f83bcd",
+    "b982340ac06a4aad"
+   ]
+  },
+  "yt-matthew-berman": {
+   "init": true,
+   "ids": [
+    "2bc3fc9466715098",
+    "c0c939a4a9cb159c",
+    "eb7fb2906175033d",
+    "077f0033678a54a2",
+    "9b38d69015e714c6",
+    "24cc4d48dce41b99",
+    "13df80a8fdc70f31",
+    "106b7384299e7302"
+   ]
+  },
+  "yt-wes-roth": {
+   "init": true,
+   "ids": [
+    "9cf7ba359d01b775",
+    "ca1926f9462cfe53",
+    "c0e05122143ed236",
+    "1c1e06102b9de3f9",
+    "74e5168cc0e1f4ea",
+    "5e73d01d73166891",
+    "59dbe5ea4b172264",
+    "d8f500f436e4dd6c"
+   ]
+  }
+ },
+ "yt": {
+  "aiexplained-official": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+  "DwarkeshPatel": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "AndrejKarpathy": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "MachineLearningStreetTalk": "UCMLtBahI5DMrt0NPvDSoIRQ",
+  "RobertMilesAI": "UCLB7AzTwc6VFZrBsO2ucBMg",
+  "3blue1brown": "UCYO_jab_esuFRV4b17AJtAw",
+  "YannicKilcher": "UCZHmQk67mSJgfCCTn7xBfew",
+  "TwoMinutePapers": "UCbfYPyITQ-7l4upoX8nvctg",
+  "mreflow": "UChpleBmo18P08aKCIgti38g",
+  "matthew_berman": "UCawZsQWqfGSbCI5yjkdVkTA",
+  "WesRoth": "UCqcbQf6yw5KzRoDDcZ_wBSw"
+ }
+}
