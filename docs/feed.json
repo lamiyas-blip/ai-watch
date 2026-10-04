@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-04T20:16:58.176Z",
+ "generated": "2026-10-04T23:19:47.687Z",
  "items": [
+  {
+   "id": "4122b90850c48d24",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)",
+   "u": "https://www.techmeme.com/261004/p19#a261004p19",
+   "d": "2026-10-04T21:55:01.000Z",
+   "first": "2026-10-04T23:19:47.687Z"
+  },
+  {
+   "id": "4e23654236435c6d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)",
+   "u": "https://www.techmeme.com/261004/p18#a261004p18",
+   "d": "2026-10-04T21:35:10.000Z",
+   "first": "2026-10-04T23:19:47.687Z"
+  },
+  {
+   "id": "2da64886f01ce99e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The Army Sent to Stop Cortés Joined Him Instead - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/j7AgSzNlRBk",
+   "d": "2026-10-04T20:57:04.000Z",
+   "first": "2026-10-04T23:19:47.687Z"
+  },
   {
    "id": "db61bdcba7a557b9",
    "f": "yt-matthew-berman",
@@ -69,26 +99,6 @@
    "t": "Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% (Keigo Yoshida/Nikkei Asia)",
    "u": "https://www.techmeme.com/261004/p6#a261004p6",
    "d": "2026-10-04T05:40:01.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "0326e00b15fa5551",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google freezes product flaw submissions to its OSS Vulnerability Reward Program over an influx of invalid AI-driven reports, plans an update by Q1 2027 (Etiido Uko/Tom's Hardware)",
-   "u": "https://www.techmeme.com/261004/p5#a261004p5",
-   "d": "2026-10-04T05:20:01.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "247f06fecae5b46e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google says free Gemini users will be limited to the 3.5 Flash-Lite model from October 9, while Plus subscribers will be limited to 3.5 Flash-Lite and 3.6 Flash (Abner Li/9to5Google)",
-   "u": "https://www.techmeme.com/261004/p4#a261004p4",
-   "d": "2026-10-04T05:10:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -829,16 +839,6 @@
    "t": "Are you a Codex Original?",
    "u": "https://openai.com/form/codex-originals",
    "d": "2026-09-28T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "eefc4188c1369967",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "What If Each AI Generation Gets Slightly Less Aligned? - Noam Brown",
-   "u": "https://www.youtube.com/shorts/vkecOqfTh_I",
-   "d": "2026-09-27T20:35:49.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3001,7 +3001,7 @@
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "HTTP 429"
   },
   "yt-ai-explained": {
    "name": "AI Explained",
