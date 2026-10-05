@@ -1,25 +1,145 @@
 {
- "generated": "2026-10-05T09:16:28.496Z",
+ "generated": "2026-10-05T18:36:54.915Z",
  "items": [
   {
-   "id": "c347a7804cdf34bd",
+   "id": "9f11468d3b35e6ec",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "An interview with CoreWeave Physical AI SVP Richard Ahlfeld on AI models failing real-world checks, the roles of synthetic data and physical tests, and more (Superintelligence)",
-   "u": "https://www.techmeme.com/261005/p6#a261005p6",
-   "d": "2026-10-05T08:45:01.000Z",
-   "first": "2026-10-05T09:16:28.496Z"
+   "t": "Sources: Meta and Microsoft are working to cut their employees' use of Claude; Meta employees using Claude Code have dropped to ~30K from ~60K earlier this year (The Information)",
+   "u": "https://www.techmeme.com/261005/p29#a261005p29",
+   "d": "2026-10-05T18:30:00.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
   },
   {
-   "id": "ae7d564fb74569b4",
+   "id": "2b6d1b794242df14",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A look at China's gray market of token resellers, who use accumulated identities and USDT-funded cards to obtain Claude accounts and route them through proxies (The Information)",
-   "u": "https://www.techmeme.com/261005/p5#a261005p5",
-   "d": "2026-10-05T08:10:01.000Z",
-   "first": "2026-10-05T09:16:28.496Z"
+   "t": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+   "u": "https://www.techmeme.com/261005/p28#a261005p28",
+   "d": "2026-10-05T18:20:01.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "a1f6e33314e4ff4a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)",
+   "u": "https://www.techmeme.com/261005/p27#a261005p27",
+   "d": "2026-10-05T17:51:09.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "6c8f2bf47d41d046",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran (BBC)",
+   "u": "https://www.techmeme.com/261005/p25#a261005p25",
+   "d": "2026-10-05T16:30:01.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "d857bca551e66ece",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)",
+   "u": "https://www.techmeme.com/261005/p24#a261005p24",
+   "d": "2026-10-05T16:21:02.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "c3019bc445d7adfa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)",
+   "u": "https://www.techmeme.com/261005/p23#a261005p23",
+   "d": "2026-10-05T16:10:01.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "1295ac880d0de350",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Connecting AI agents to enterprise knowledge",
+   "u": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+   "d": "2026-10-05T15:47:52.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "0a8a1637b9341c72",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Our approach to EU text provenance rules",
+   "u": "https://openai.com/index/eu-text-provenance",
+   "d": "2026-10-05T15:00:00.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "18874a73a5de91b3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI's dangers, planned IPOs, AI safety, oversight, and more (New York Magazine)",
+   "u": "https://www.techmeme.com/261005/p20#a261005p20",
+   "d": "2026-10-05T14:10:01.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "440e9153a1fb484e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nico Caprez, son-in-law to Jensen Huang, rapidly ascended to become an Nvidia VP, serving as its main contact for neoclouds and Huang's \"consigliere\" (Phoebe Liu/The Information)",
+   "u": "https://www.techmeme.com/261005/p19#a261005p19",
+   "d": "2026-10-05T13:55:03.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "563752630300677a",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Bringing predictive analytics to the agentic AI era",
+   "u": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+   "d": "2026-10-05T13:29:32.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "157988713bad0f56",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Survey: only 11% of 396 businesses could forecast AI spending; Microsoft finds lower-priced models cost more than higher-priced ones on 32% of 6,800+ tasks (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261005/p15#a261005p15",
+   "d": "2026-10-05T12:40:01.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "f73a6525ad01fb63",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Building advertising for the way people use AI",
+   "u": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "d": "2026-10-05T10:00:00.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
+  },
+  {
+   "id": "858951482ca05277",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "The Billion Dollar AI Advantage Is Disappearing",
+   "u": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+   "d": "2026-10-05T09:53:12.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
   },
   {
    "id": "8384833d74c343bd",
@@ -32,24 +152,14 @@
    "first": "2026-10-05T09:16:28.496Z"
   },
   {
-   "id": "7a78dc1dd971c13e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "ed0f9ba2a305b593",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "Sam Altman says he's \"very uncomfortable\" with attributing religious force to AI, calling it \"a real safety issue\", as Anthropic engages with religious leaders (Ben Berkowitz/Axios)",
-   "u": "https://www.techmeme.com/261005/p3#a261005p3",
-   "d": "2026-10-05T06:10:01.000Z",
-   "first": "2026-10-05T09:16:28.496Z"
-  },
-  {
-   "id": "13a6e13b6900757b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models (Bradley Olson/Axios)",
-   "u": "https://www.techmeme.com/261004/p24#a261004p24",
-   "d": "2026-10-05T03:30:01.000Z",
-   "first": "2026-10-05T09:16:28.496Z"
+   "t": "EmTech Future 2026: When AI Meets Everything",
+   "u": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+   "d": "2026-10-05T04:00:00.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
   },
   {
    "id": "e155b3608b6d0d50",
@@ -62,54 +172,14 @@
    "first": "2026-10-05T09:16:28.496Z"
   },
   {
-   "id": "c285a238088fe525",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels (Abram Brown/The Information)",
-   "u": "https://www.techmeme.com/261004/p23#a261004p23",
-   "d": "2026-10-05T02:55:02.000Z",
-   "first": "2026-10-05T09:16:28.496Z"
-  },
-  {
-   "id": "bdbcb1e80175e1fc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and launches an AI copilot beta for petition creators (Dan Primack/Axios)",
-   "u": "https://www.techmeme.com/261004/p22#a261004p22",
-   "d": "2026-10-05T02:00:01.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
-   "id": "b2c9ba1a3c363526",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)",
-   "u": "https://www.techmeme.com/261004/p21#a261004p21",
-   "d": "2026-10-05T00:55:01.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
-   "id": "4122b90850c48d24",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)",
-   "u": "https://www.techmeme.com/261004/p19#a261004p19",
-   "d": "2026-10-04T21:55:01.000Z",
-   "first": "2026-10-04T23:19:47.687Z"
-  },
-  {
-   "id": "4e23654236435c6d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic's stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders (Cory Weinberg/The Information)",
-   "u": "https://www.techmeme.com/261004/p18#a261004p18",
-   "d": "2026-10-04T21:35:10.000Z",
-   "first": "2026-10-04T23:19:47.687Z"
+   "id": "6ac73f8d413699fc",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Prime Inference 📈, agent population 📈, Claude academy 🎓",
+   "u": "https://tldr.tech/ai/2026-10-05",
+   "d": "2026-10-05T00:00:00.000Z",
+   "first": "2026-10-05T18:36:54.915Z"
   },
   {
    "id": "2da64886f01ce99e",
@@ -882,22 +952,22 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "a2bd741cf81229b3",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How we will do better for Australia",
-   "u": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "d": "2026-09-28T19:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "d6c02e0e2f2be12e",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Towards safety cases for frontier AI training",
    "u": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "d": "2026-09-28T19:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "a2bd741cf81229b3",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How we will do better for Australia",
+   "u": "https://openai.com/index/how-we-will-do-better-for-australia",
    "d": "2026-09-28T19:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -962,16 +1032,6 @@
    "first": "2026-10-05T02:09:06.006Z"
   },
   {
-   "id": "24230dc15d94a8bd",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Who’s liable when AI agents go rogue?",
-   "u": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-   "d": "2026-09-28T08:06:22.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "814b0bd580abb62a",
    "f": "openai-news",
    "src": "OpenAI",
@@ -988,26 +1048,6 @@
    "cat": "Newsletter",
    "t": "Muse manifesto 📜, OpenAI training pause 🚨, trading compute 🤝",
    "u": "https://tldr.tech/ai/2026-09-28",
-   "d": "2026-09-28T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "21ad48a45f17cda0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "u": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "d": "2026-09-28T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "455f28d352b4ca06",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Are you a Codex Original?",
-   "u": "https://openai.com/form/codex-originals",
    "d": "2026-09-28T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -1149,16 +1189,6 @@
    "t": "THE END IS NEAR... and more AI doom",
    "u": "https://www.youtube.com/watch?v=LYNSHecA2Ks",
    "d": "2026-09-25T13:28:28.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "ed6a2cd1c678b2af",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "The Pentagon wants $30 million to build an AI-powered lie detector",
-   "u": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-   "d": "2026-09-25T09:16:25.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1379,16 +1409,6 @@
    "t": "Gemini 3.8 text-to-speech says hello",
    "u": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
    "d": "2026-09-23T15:25:14.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "11654cac77e7687d",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "The AI Hype Index: AI loves cheating",
-   "u": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-   "d": "2026-09-23T09:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1782,16 +1802,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "c0e25d52de854109",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Amodei slows frontier 🛑, ARC-AGI-4 🧠, Cursor Projects 👨‍💻",
-   "u": "https://tldr.tech/ai/2026-09-14",
-   "d": "2026-09-14T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "7dc3af9870920e5e",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2119,16 +2129,6 @@
    "t": "Build your ideas",
    "u": "https://www.bensbites.com/p/build-your-ideas",
    "d": "2026-09-01T13:04:30.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "b7aafe1b72b82a6d",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-   "u": "https://www.youtube.com/watch?v=w9RDunJACkc",
-   "d": "2026-09-01T09:04:56.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3115,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1813 > 1000"
+   "error": "Entity expansion limit exceeded: 2047 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3160,7 +3160,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1016 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

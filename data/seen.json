@@ -123,6 +123,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "6ac73f8d413699fc",
     "1e7826b02be448c9",
     "de560be2f3a518b7",
     "2b16197dc6b0f272",
@@ -163,6 +164,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "0a8a1637b9341c72",
+    "f73a6525ad01fb63",
     "8475a84e35ce68be",
     "25f2135c021e1027",
     "6affbb956462ce9f",
@@ -173,8 +176,8 @@
     "b619ad651a28662f",
     "276a1a109f5ce9d9",
     "ac38b11550c040d1",
-    "a2bd741cf81229b3",
     "d6c02e0e2f2be12e",
+    "a2bd741cf81229b3",
     "814b0bd580abb62a",
     "21ad48a45f17cda0",
     "455f28d352b4ca06"
@@ -224,6 +227,15 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "9f11468d3b35e6ec",
+    "2b6d1b794242df14",
+    "a1f6e33314e4ff4a",
+    "6c8f2bf47d41d046",
+    "d857bca551e66ece",
+    "c3019bc445d7adfa",
+    "18874a73a5de91b3",
+    "440e9153a1fb484e",
+    "157988713bad0f56",
     "c347a7804cdf34bd",
     "ae7d564fb74569b4",
     "7a78dc1dd971c13e",
@@ -248,7 +260,10 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "1295ac880d0de350",
+    "563752630300677a",
     "8384833d74c343bd",
+    "ed0f9ba2a305b593",
     "b329f504bf386f28",
     "b9898c75fb132fb2",
     "f636ddc05487dbc5",
@@ -387,6 +402,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "858951482ca05277",
     "1498df0c985efa86",
     "88182b0a1243afb8",
     "36563458dbd48463",
