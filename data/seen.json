@@ -224,6 +224,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "bdbcb1e80175e1fc",
+    "b2c9ba1a3c363526",
     "4122b90850c48d24",
     "4e23654236435c6d",
     "b25bd80be5afae64",
@@ -426,6 +428,26 @@
     "5e73d01d73166891",
     "59dbe5ea4b172264",
     "d8f500f436e4dd6c"
+   ]
+  },
+  "hacker-news": {
+   "init": true,
+   "ids": [
+    "27177b8cc8d12ecf",
+    "ee5b133140d7e7f4",
+    "4cfdafc5b0cf81c2",
+    "4b4f5951fac2d3ef",
+    "b3b79304cfba221d",
+    "948a5f1d3564edd5",
+    "dc9ec9e1e5b640c7",
+    "e14d1b54bacb3163",
+    "d3b050527f2258ba",
+    "930469005f5355cc",
+    "70cf684e9297e8e7",
+    "ef02e031b3961163",
+    "78019dd543b3bae1",
+    "9a01d6a91e1f9601",
+    "f296bc46e490ba98"
    ]
   }
  },

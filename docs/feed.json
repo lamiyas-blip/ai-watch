@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-04T23:19:47.687Z",
+ "generated": "2026-10-05T02:09:06.006Z",
  "items": [
+  {
+   "id": "bdbcb1e80175e1fc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators (Dan Primack/Axios)",
+   "u": "https://www.techmeme.com/261004/p22#a261004p22",
+   "d": "2026-10-05T02:00:01.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
+  {
+   "id": "b2c9ba1a3c363526",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)",
+   "u": "https://www.techmeme.com/261004/p21#a261004p21",
+   "d": "2026-10-05T00:55:01.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
   {
    "id": "4122b90850c48d24",
    "f": "techmeme",
@@ -92,16 +112,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b29c4c271dd93cdb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Toshiba plans to double HDD production capacity for AI data centers within FY2027 from its 2025 level, targeting a 30% share by storage capacity, up from ~10% (Keigo Yoshida/Nikkei Asia)",
-   "u": "https://www.techmeme.com/261004/p6#a261004p6",
-   "d": "2026-10-04T05:40:01.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "5df8791ab1940530",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -112,6 +122,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "27177b8cc8d12ecf",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+   "u": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+   "d": "2026-10-03T22:18:13.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
+  {
    "id": "05b64c59da0e866e",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -120,6 +140,16 @@
    "u": "https://www.youtube.com/shorts/5QsADHyOU2w",
    "d": "2026-10-03T20:22:31.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "ee5b133140d7e7f4",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+   "u": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+   "d": "2026-10-03T17:44:29.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "77ce46ddfb217e30",
@@ -180,6 +210,16 @@
    "u": "https://www.youtube.com/watch?v=dDgncbBAA0c",
    "d": "2026-10-02T15:00:16.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "4cfdafc5b0cf81c2",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "With most information hidden, the game Stratego had stumped AI until now",
+   "u": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+   "d": "2026-10-02T14:11:24.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "b6b40dcf6f71f4ee",
@@ -302,6 +342,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "4b4f5951fac2d3ef",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Vote on which of Hacker News' challenges for AI have been met",
+   "u": "https://stoppels.ch/goalposts/",
+   "d": "2026-10-01T17:32:43.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
+  {
    "id": "6affbb956462ce9f",
    "f": "openai-news",
    "src": "OpenAI",
@@ -370,6 +420,16 @@
    "u": "https://www.bensbites.com/p/openai-devday-2026",
    "d": "2026-10-01T13:30:36.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b3b79304cfba221d",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+   "u": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+   "d": "2026-10-01T13:00:55.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "ca1926f9462cfe53",
@@ -460,6 +520,16 @@
    "u": "https://www.lesswrong.com/posts/7NZ6ZWjenzzCbCJ5b/frog-and-toad-and-the-increasingly-capable-machines",
    "d": "2026-09-30T18:27:42.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "948a5f1d3564edd5",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "The AI Race Just Got Awkward",
+   "u": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+   "d": "2026-09-30T15:50:11.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "542656b950fd6a6e",
@@ -562,6 +632,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "dc9ec9e1e5b640c7",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI needs $6T in annual revenue to justify data centre boom",
+   "u": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+   "d": "2026-09-29T19:21:25.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
+  {
    "id": "c0e05122143ed236",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -570,6 +650,16 @@
    "u": "https://www.youtube.com/watch?v=qxOklTU2if4",
    "d": "2026-09-29T17:45:24.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "e14d1b54bacb3163",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "DraftKings is using AI to behaviorally target chronic gamblers",
+   "u": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+   "d": "2026-09-29T16:30:48.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "760b0bd76227e5f4",
@@ -630,6 +720,16 @@
    "u": "https://www.youtube.com/shorts/tQ3nMI-anxU",
    "d": "2026-09-29T09:50:26.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d3b050527f2258ba",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+   "u": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+   "d": "2026-09-29T09:03:41.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "eb7fb2906175033d",
@@ -732,6 +832,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "930469005f5355cc",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "It's Time to Investigate the AI Labs",
+   "u": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+   "d": "2026-09-28T19:53:35.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
+  {
    "id": "50785fc8317ccc28",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -782,6 +892,26 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "70cf684e9297e8e7",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "The problem is not AI code, but not knowing about system architecture or intent",
+   "u": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+   "d": "2026-09-28T16:11:42.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
+  {
+   "id": "ef02e031b3961163",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Nvidia wants to put a watchdog chip next to every AI agent",
+   "u": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+   "d": "2026-09-28T15:46:36.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
+  },
+  {
    "id": "7f2a50fec861c655",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -790,6 +920,16 @@
    "u": "https://www.normaltech.ai/p/p-doom",
    "d": "2026-09-28T11:13:47.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "78019dd543b3bae1",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI companies in race to demonstrate their model most threatening to humanity",
+   "u": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+   "d": "2026-09-28T08:35:40.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "24230dc15d94a8bd",
@@ -840,6 +980,16 @@
    "u": "https://openai.com/form/codex-originals",
    "d": "2026-09-28T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "9a01d6a91e1f9601",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "There are no \"rogue\" AI agents",
+   "u": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+   "d": "2026-09-27T16:19:46.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "aa06d89d2df27d4a",
@@ -1040,6 +1190,16 @@
    "u": "https://www.youtube.com/shorts/SUtGm-nr4Hk",
    "d": "2026-09-24T21:27:54.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "f296bc46e490ba98",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "How I changed teaching after AI managed to do all my homework assignments",
+   "u": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+   "d": "2026-09-24T20:51:50.000Z",
+   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "13df80a8fdc70f31",
@@ -2973,8 +3133,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
