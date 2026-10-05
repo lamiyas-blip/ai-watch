@@ -224,6 +224,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "c347a7804cdf34bd",
+    "ae7d564fb74569b4",
+    "7a78dc1dd971c13e",
+    "13a6e13b6900757b",
+    "c285a238088fe525",
     "bdbcb1e80175e1fc",
     "b2c9ba1a3c363526",
     "4122b90850c48d24",
@@ -243,6 +248,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "8384833d74c343bd",
     "b329f504bf386f28",
     "b9898c75fb132fb2",
     "f636ddc05487dbc5",
@@ -258,6 +264,7 @@
   "lesswrong": {
    "init": true,
    "ids": [
+    "e155b3608b6d0d50",
     "dc66b461c37278ae",
     "6297f21dd700e20d",
     "b58b35bb4f4ae959",

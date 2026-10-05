@@ -1,12 +1,82 @@
 {
- "generated": "2026-10-05T02:09:06.006Z",
+ "generated": "2026-10-05T09:16:28.496Z",
  "items": [
+  {
+   "id": "c347a7804cdf34bd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An interview with CoreWeave Physical AI SVP Richard Ahlfeld on AI models failing real-world checks, the roles of synthetic data and physical tests, and more (Superintelligence)",
+   "u": "https://www.techmeme.com/261005/p6#a261005p6",
+   "d": "2026-10-05T08:45:01.000Z",
+   "first": "2026-10-05T09:16:28.496Z"
+  },
+  {
+   "id": "ae7d564fb74569b4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at China's gray market of token resellers, who use accumulated identities and USDT-funded cards to obtain Claude accounts and route them through proxies (The Information)",
+   "u": "https://www.techmeme.com/261005/p5#a261005p5",
+   "d": "2026-10-05T08:10:01.000Z",
+   "first": "2026-10-05T09:16:28.496Z"
+  },
+  {
+   "id": "8384833d74c343bd",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "People really hate AI, so why can’t they get enough?",
+   "u": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+   "d": "2026-10-05T08:00:00.000Z",
+   "first": "2026-10-05T09:16:28.496Z"
+  },
+  {
+   "id": "7a78dc1dd971c13e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sam Altman says he's \"very uncomfortable\" with attributing religious force to AI, calling it \"a real safety issue\", as Anthropic engages with religious leaders (Ben Berkowitz/Axios)",
+   "u": "https://www.techmeme.com/261005/p3#a261005p3",
+   "d": "2026-10-05T06:10:01.000Z",
+   "first": "2026-10-05T09:16:28.496Z"
+  },
+  {
+   "id": "13a6e13b6900757b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models (Bradley Olson/Axios)",
+   "u": "https://www.techmeme.com/261004/p24#a261004p24",
+   "d": "2026-10-05T03:30:01.000Z",
+   "first": "2026-10-05T09:16:28.496Z"
+  },
+  {
+   "id": "e155b3608b6d0d50",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "On Social Reality in China",
+   "u": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+   "d": "2026-10-05T02:56:58.000Z",
+   "first": "2026-10-05T09:16:28.496Z"
+  },
+  {
+   "id": "c285a238088fe525",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at Sean Parker's resurrection of Stability AI following Emad Mostaque's ousting, and its new focus on AI for music professionals, backed by major labels (Abram Brown/The Information)",
+   "u": "https://www.techmeme.com/261004/p23#a261004p23",
+   "d": "2026-10-05T02:55:02.000Z",
+   "first": "2026-10-05T09:16:28.496Z"
+  },
   {
    "id": "bdbcb1e80175e1fc",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators (Dan Primack/Axios)",
+   "t": "Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and launches an AI copilot beta for petition creators (Dan Primack/Axios)",
    "u": "https://www.techmeme.com/261004/p22#a261004p22",
    "d": "2026-10-05T02:00:01.000Z",
    "first": "2026-10-05T02:09:06.006Z"
@@ -62,16 +132,6 @@
    "first": "2026-10-04T20:16:58.176Z"
   },
   {
-   "id": "b25bd80be5afae64",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace \"artificial\" intelligence with \"super\" (Chandni Shah/Reuters)",
-   "u": "https://www.techmeme.com/261004/p14#a261004p14",
-   "d": "2026-10-04T17:55:02.000Z",
-   "first": "2026-10-04T20:16:58.176Z"
-  },
-  {
    "id": "9cf7ba359d01b775",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -79,36 +139,6 @@
    "t": "OpenAI's employee's WARNING",
    "u": "https://www.youtube.com/watch?v=9CGsq3A590Q",
    "d": "2026-10-04T14:11:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "51e2ce5cdfec6a7b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A profile of Meta Chief AI Officer Alexandr Wang, who is the company's first senior executive from Gen Z and has succeeded in building hype for Muse (Meghan Bobrowsky/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261004/p10#a261004p10",
-   "d": "2026-10-04T12:00:43.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "12ec03254342b0ad",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with Broadcom, using internal OpenAI models to design the chip, and more (Dr. Ian Cutress/More Than Moore)",
-   "u": "https://www.techmeme.com/261004/p9#a261004p9",
-   "d": "2026-10-04T09:00:41.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "addaa153ead870b0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask (Stephen Wolfram/Stephen Wolfram Writings)",
-   "u": "https://www.techmeme.com/261004/p8#a261004p8",
-   "d": "2026-10-04T06:00:39.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1432,16 +1462,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b1db624ec29add19",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Don’t be fooled by this summer of AI hype",
-   "u": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-   "d": "2026-09-22T11:04:51.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "88182b0a1243afb8",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -2259,16 +2279,6 @@
    "t": "Funding better evaluations of AI’s impact on wellbeing",
    "u": "https://www.anthropic.com/news/wellbeing-research-grants",
    "d": "2026-08-25T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "2b6d88f923dc718d",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "Big-World Intuitions",
-   "u": "https://www.lesswrong.com/posts/s22XzjQsrh6JXhXGH/big-world-intuitions",
-   "d": "2026-08-21T18:30:56.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3150,7 +3160,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1028 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
