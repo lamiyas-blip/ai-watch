@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-05T18:36:54.915Z",
+ "generated": "2026-10-06T00:25:45.121Z",
  "items": [
+  {
+   "id": "51a78fe3a7ddee4b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)",
+   "u": "https://www.techmeme.com/261005/p34#a261005p34",
+   "d": "2026-10-05T23:25:02.000Z",
+   "first": "2026-10-06T00:25:45.121Z"
+  },
+  {
+   "id": "ffd5bde887bba057",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+   "u": "https://www.techmeme.com/261005/p33#a261005p33",
+   "d": "2026-10-05T22:20:02.000Z",
+   "first": "2026-10-06T00:25:45.121Z"
+  },
+  {
+   "id": "3048bee766c3f774",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "168 Conquistadors vs 80000 Inca - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/NWZGTdxyTpc",
+   "d": "2026-10-05T21:07:07.000Z",
+   "first": "2026-10-06T00:25:45.121Z"
+  },
+  {
+   "id": "c596b76fb68276ed",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)",
+   "u": "https://www.techmeme.com/261005/p31#a261005p31",
+   "d": "2026-10-05T20:05:01.000Z",
+   "first": "2026-10-06T00:25:45.121Z"
+  },
+  {
+   "id": "49efa0345fefe3ba",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+   "u": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+   "d": "2026-10-05T20:01:09.000Z",
+   "first": "2026-10-06T00:25:45.121Z"
+  },
   {
    "id": "9f11468d3b35e6ec",
    "f": "techmeme",
@@ -92,16 +142,6 @@
    "first": "2026-10-05T18:36:54.915Z"
   },
   {
-   "id": "440e9153a1fb484e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nico Caprez, son-in-law to Jensen Huang, rapidly ascended to become an Nvidia VP, serving as its main contact for neoclouds and Huang's \"consigliere\" (Phoebe Liu/The Information)",
-   "u": "https://www.techmeme.com/261005/p19#a261005p19",
-   "d": "2026-10-05T13:55:03.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
    "id": "563752630300677a",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -109,16 +149,6 @@
    "t": "Bringing predictive analytics to the agentic AI era",
    "u": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
    "d": "2026-10-05T13:29:32.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
-   "id": "157988713bad0f56",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Survey: only 11% of 396 businesses could forecast AI spending; Microsoft finds lower-priced models cost more than higher-priced ones on 32% of 6,800+ tasks (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261005/p15#a261005p15",
-   "d": "2026-10-05T12:40:01.000Z",
    "first": "2026-10-05T18:36:54.915Z"
   },
   {
@@ -922,16 +952,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "2085e47d7cb5f205",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why nobody could stop World War I - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/DFCfEHD22RY",
-   "d": "2026-09-28T20:27:26.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "930469005f5355cc",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -952,22 +972,22 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "d6c02e0e2f2be12e",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Towards safety cases for frontier AI training",
-   "u": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "d": "2026-09-28T19:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "a2bd741cf81229b3",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "How we will do better for Australia",
    "u": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "d": "2026-09-28T19:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "d6c02e0e2f2be12e",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Towards safety cases for frontier AI training",
+   "u": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
    "d": "2026-09-28T19:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -2152,16 +2172,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "d7b16618b79eafb4",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Most Neoclouds Suck At Security",
-   "u": "https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security",
-   "d": "2026-08-30T15:46:22.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "b41ed0abac4f31a8",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -3115,7 +3125,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 2047 > 1000"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3160,7 +3170,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1016 > 1000"
+   "error": "Entity expansion limit exceeded: 1072 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

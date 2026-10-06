@@ -103,6 +103,7 @@
   "semianalysis": {
    "init": true,
    "ids": [
+    "49efa0345fefe3ba",
     "50785fc8317ccc28",
     "af88adcd143103e8",
     "97554bd32a184546",
@@ -176,8 +177,8 @@
     "b619ad651a28662f",
     "276a1a109f5ce9d9",
     "ac38b11550c040d1",
-    "d6c02e0e2f2be12e",
     "a2bd741cf81229b3",
+    "d6c02e0e2f2be12e",
     "814b0bd580abb62a",
     "21ad48a45f17cda0",
     "455f28d352b4ca06"
@@ -227,6 +228,9 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "51a78fe3a7ddee4b",
+    "ffd5bde887bba057",
+    "c596b76fb68276ed",
     "9f11468d3b35e6ec",
     "2b6d1b794242df14",
     "a1f6e33314e4ff4a",
@@ -323,6 +327,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "3048bee766c3f774",
     "2da64886f01ce99e",
     "05b64c59da0e866e",
     "3d96e49d89cc934e",
