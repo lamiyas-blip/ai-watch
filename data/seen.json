@@ -24,6 +24,7 @@
   "interconnects": {
    "init": true,
    "ids": [
+    "dea9ad28e543d6ef",
     "70cba92deb0be88a",
     "9e0b64ff81ec13e1",
     "e8cd2d94de8802dd",
@@ -84,6 +85,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "7aa08665b0e473b0",
     "ce77d8b00fdf286e",
     "760cd3b1525a5fd4",
     "0cd22bd20b209254",
@@ -168,6 +170,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "ff81faccd1632956",
+    "186963dc062b7217",
     "0a8a1637b9341c72",
     "f73a6525ad01fb63",
     "8475a84e35ce68be",
@@ -177,8 +181,8 @@
     "44359e0b855ec02a",
     "d6d932300cd4d04c",
     "6ac3ac1f6ae1d49d",
-    "b619ad651a28662f",
     "276a1a109f5ce9d9",
+    "b619ad651a28662f",
     "ac38b11550c040d1",
     "a2bd741cf81229b3",
     "d6c02e0e2f2be12e",
@@ -231,6 +235,12 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "647881f9579443ec",
+    "4e1f3e271ed5773a",
+    "298f24e8335f0697",
+    "8ce6cef5957948b6",
+    "920bbf8dbb2601f0",
+    "668da29b9a6daa7d",
     "98cb97fa0abd95f9",
     "d74db898610cfaf6",
     "4f80b703c5da1b39",
