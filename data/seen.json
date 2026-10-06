@@ -125,6 +125,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "c7765728fd911c27",
     "6ac73f8d413699fc",
     "1e7826b02be448c9",
     "de560be2f3a518b7",
@@ -146,6 +147,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "0273dc994d437dbf",
     "4385e07d2499a622",
     "760b0bd76227e5f4",
     "1ae53e3b6b534815",
@@ -229,6 +231,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "98cb97fa0abd95f9",
+    "d74db898610cfaf6",
+    "4f80b703c5da1b39",
+    "363e184472eb73d6",
+    "e6ac9c0c035aac8d",
     "9fa40b2c233d3f00",
     "307ca8045ce9be54",
     "1ba607d3f24de487",
@@ -439,6 +446,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "0c288c8ae4654b4f",
     "db61bdcba7a557b9",
     "2bc3fc9466715098",
     "c0c939a4a9cb159c",
