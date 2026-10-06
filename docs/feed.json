@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-06T00:25:45.121Z",
+ "generated": "2026-10-06T06:36:41.344Z",
  "items": [
+  {
+   "id": "9fa40b2c233d3f00",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable (Lee Harris/Financial Times)",
+   "u": "https://www.techmeme.com/261006/p3#a261006p3",
+   "d": "2026-10-06T06:30:00.000Z",
+   "first": "2026-10-06T06:36:41.344Z"
+  },
+  {
+   "id": "5c7ad898644ed487",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+   "u": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+   "d": "2026-10-06T06:28:43.000Z",
+   "first": "2026-10-06T06:36:41.344Z"
+  },
+  {
+   "id": "307ca8045ce9be54",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
+   "u": "https://www.techmeme.com/261006/p2#a261006p2",
+   "d": "2026-10-06T05:40:01.000Z",
+   "first": "2026-10-06T06:36:41.344Z"
+  },
+  {
+   "id": "1ba607d3f24de487",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand (Bloomberg)",
+   "u": "https://www.techmeme.com/261006/p1#a261006p1",
+   "d": "2026-10-06T05:00:14.000Z",
+   "first": "2026-10-06T06:36:41.344Z"
+  },
+  {
+   "id": "75012045aa524e52",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)",
+   "u": "https://www.techmeme.com/261005/p35#a261005p35",
+   "d": "2026-10-06T03:10:01.000Z",
+   "first": "2026-10-06T06:36:41.344Z"
+  },
   {
    "id": "51a78fe3a7ddee4b",
    "f": "techmeme",
@@ -92,26 +142,6 @@
    "first": "2026-10-05T18:36:54.915Z"
   },
   {
-   "id": "d857bca551e66ece",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)",
-   "u": "https://www.techmeme.com/261005/p24#a261005p24",
-   "d": "2026-10-05T16:21:02.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
-   "id": "c3019bc445d7adfa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)",
-   "u": "https://www.techmeme.com/261005/p23#a261005p23",
-   "d": "2026-10-05T16:10:01.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
    "id": "1295ac880d0de350",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -129,16 +159,6 @@
    "t": "Our approach to EU text provenance rules",
    "u": "https://openai.com/index/eu-text-provenance",
    "d": "2026-10-05T15:00:00.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
-   "id": "18874a73a5de91b3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with AI researchers Jacob Coxon, Daniel Kokotajlo, Alex Turner, and others on leaving AI labs, AGI's dangers, planned IPOs, AI safety, oversight, and more (New York Magazine)",
-   "u": "https://www.techmeme.com/261005/p20#a261005p20",
-   "d": "2026-10-05T14:10:01.000Z",
    "first": "2026-10-05T18:36:54.915Z"
   },
   {
@@ -1339,16 +1359,6 @@
    "t": "Claude Opus 5.5 AI: An Incredible Leap Forward",
    "u": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "d": "2026-09-24T08:40:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "7db66d39eb065735",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
-   "u": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-   "d": "2026-09-24T08:12:59.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3153,7 +3163,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3170,7 +3181,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1072 > 1000"
+   "error": "Entity expansion limit exceeded: 1062 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3184,47 +3195,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
