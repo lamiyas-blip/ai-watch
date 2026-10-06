@@ -1,12 +1,72 @@
 {
- "generated": "2026-10-06T19:10:01.406Z",
+ "generated": "2026-10-06T23:07:58.959Z",
  "items": [
+  {
+   "id": "4cc63dc354e48d3a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage (OpenAI)",
+   "u": "https://www.techmeme.com/261006/p42#a261006p42",
+   "d": "2026-10-06T22:30:01.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
+  },
+  {
+   "id": "70ec615e8f3d122c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
+   "u": "https://www.techmeme.com/261006/p38#a261006p38",
+   "d": "2026-10-06T20:50:00.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
+  },
+  {
+   "id": "e78a32f875a096fa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)",
+   "u": "https://www.techmeme.com/261006/p36#a261006p36",
+   "d": "2026-10-06T20:00:49.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
+  },
+  {
+   "id": "d5f20e84815040d4",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "u": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "d": "2026-10-06T19:57:04.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
+  },
+  {
+   "id": "6550777fc854b915",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Waymo increased the size of its inaugural debt raise from $3B+ to $5B, as it grapples with rising AI costs and rapidly expands its robotaxi fleet (Bloomberg)",
+   "u": "https://www.techmeme.com/261006/p35#a261006p35",
+   "d": "2026-10-06T19:45:01.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
+  },
+  {
+   "id": "a3125f3b3c23761f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic expands its Cyber Verification Program by integrating Project Glasswing and offering three tiers, all with access to its most capable Claude models (Anthropic)",
+   "u": "https://www.techmeme.com/261006/p33#a261006p33",
+   "d": "2026-10-06T19:35:03.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
+  },
   {
    "id": "647881f9579443ec",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Mistral says ML4 was trained using 3,800 Nvidia Grace Blackwell GPUs in its own data centers in Europe and much of its training data was multilingual (Mistral Blog)",
+   "t": "Mistral says it trained ML4 \"from scratch\" using 3,800 Nvidia Grace Blackwell GPUs in its data centers in Europe and much of its training data was multilingual (Mistral Blog)",
    "u": "https://www.techmeme.com/261006/p32#a261006p32",
    "d": "2026-10-06T19:00:52.000Z",
    "first": "2026-10-06T19:10:01.406Z"
@@ -16,7 +76,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Meta, Walmart, Stripe, and others publish the Personal Agent Protocol to standardize and secure interactions between AI bots and businesses (Kate Rooney/CNBC)",
+   "t": "Meta, Walmart, Instinct, Shopify, Sierra, Stripe, and others publish the Personal Agent Protocol to standardize and secure how AI bots interact with businesses (Kate Rooney/CNBC)",
    "u": "https://www.techmeme.com/261006/p31#a261006p31",
    "d": "2026-10-06T18:55:00.000Z",
    "first": "2026-10-06T19:10:01.406Z"
@@ -36,29 +96,9 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: AI neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a pre-money valuation of $14.5B in a final round before its planned IPO (Robbie Whelan/Wall Street Journal)",
+   "t": "Sources: Nvidia-backed neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a $14.5B pre-money valuation in a final round before its planned IPO (Robbie Whelan/Wall Street Journal)",
    "u": "https://www.techmeme.com/261006/p29#a261006p29",
    "d": "2026-10-06T17:10:01.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
-   "id": "920bbf8dbb2601f0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at consumer AI trends: ChatGPT has 3x more US subscribers than Claude or Gemini, the top 1% of spenders drive 19.5% of spend, and AI agents gain traction (Olivia Moore/Andreessen Horowitz)",
-   "u": "https://www.techmeme.com/261006/p28#a261006p28",
-   "d": "2026-10-06T16:50:00.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
-   "id": "668da29b9a6daa7d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic expands its Claude Startups program, including up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit (Ashley Capoot/CNBC)",
-   "u": "https://www.techmeme.com/261006/p26#a261006p26",
-   "d": "2026-10-06T16:30:02.000Z",
    "first": "2026-10-06T19:10:01.406Z"
   },
   {
@@ -102,24 +142,14 @@
    "first": "2026-10-06T13:43:10.181Z"
   },
   {
-   "id": "98cb97fa0abd95f9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's IPO prospectus: Dario Amodei made $18M in 2025, ranking in the middle of top tech executives, and President Daniela Amodei, his sister, made $16.4M (Reuters)",
-   "u": "https://www.techmeme.com/261006/p19#a261006p19",
-   "d": "2026-10-06T12:05:01.000Z",
-   "first": "2026-10-06T13:43:10.181Z"
-  },
-  {
-   "id": "d74db898610cfaf6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Study: China is struggling to attract foreign AI talent; for every 30 Chinese AI researchers in the US in 2025, only one in China made the opposite journey (Zeyi Yang/New York Times)",
-   "u": "https://www.techmeme.com/261006/p18#a261006p18",
-   "d": "2026-10-06T11:55:07.000Z",
-   "first": "2026-10-06T13:43:10.181Z"
+   "id": "95408a96f49897a3",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Sharing AI progress in mathematics",
+   "u": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "d": "2026-10-06T12:00:00.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
   },
   {
    "id": "186963dc062b7217",
@@ -160,6 +190,16 @@
    "u": "https://tldr.tech/ai/2026-10-06",
    "d": "2026-10-06T00:00:00.000Z",
    "first": "2026-10-06T13:43:10.181Z"
+  },
+  {
+   "id": "8532c0ccd7a6bbb1",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Expanding the Cyber Verification Program",
+   "u": "https://www.anthropic.com/news/cyber-verification-program",
+   "d": "2026-10-06T00:00:00.000Z",
+   "first": "2026-10-06T23:07:58.959Z"
   },
   {
    "id": "3048bee766c3f774",
@@ -882,22 +922,22 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "276a1a109f5ce9d9",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing GPT-6.1 Sol",
-   "u": "https://openai.com/index/introducing-gpt-6-1-sol",
-   "d": "2026-09-29T10:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "b619ad651a28662f",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "DevDay 2026 Recap",
    "u": "https://openai.com/index/devday-2026-recap",
+   "d": "2026-09-29T10:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "276a1a109f5ce9d9",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing GPT-6.1 Sol",
+   "u": "https://openai.com/index/introducing-gpt-6-1-sol",
    "d": "2026-09-29T10:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -1029,16 +1069,6 @@
    "t": "How GLM5.3 Sparse Attention Affects HBM Memory Usage",
    "u": "https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53",
    "d": "2026-09-28T19:26:41.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "a2bd741cf81229b3",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How we will do better for Australia",
-   "u": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "d": "2026-09-28T19:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2282,16 +2312,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "144eb0b601437d35",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-   "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-   "d": "2026-08-21T11:59:48.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "bb48be090a6b6b1a",
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
@@ -2520,16 +2540,6 @@
    "u": "https://www.youtube.com/shorts/zCvRFm9UNOo",
    "d": "2026-07-28T06:05:40.000Z",
    "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "7928bb6a66207b4c",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Our position on open-weights models",
-   "u": "https://www.anthropic.com/news/position-open-weights-models",
-   "d": "2026-07-27T00:00:00.000Z",
-   "first": "2026-10-04T20:16:58.176Z"
   },
   {
    "id": "ecf0126068275501",
@@ -3105,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1016 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3151,7 +3161,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1007 > 1000"
+   "error": "Entity expansion limit exceeded: 1028 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

@@ -171,6 +171,7 @@
    "init": true,
    "ids": [
     "ff81faccd1632956",
+    "95408a96f49897a3",
     "186963dc062b7217",
     "0a8a1637b9341c72",
     "f73a6525ad01fb63",
@@ -181,8 +182,8 @@
     "44359e0b855ec02a",
     "d6d932300cd4d04c",
     "6ac3ac1f6ae1d49d",
-    "276a1a109f5ce9d9",
     "b619ad651a28662f",
+    "276a1a109f5ce9d9",
     "ac38b11550c040d1",
     "a2bd741cf81229b3",
     "d6c02e0e2f2be12e",
@@ -194,6 +195,7 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "d5f20e84815040d4",
     "2e9748a70d12bca7",
     "542656b950fd6a6e",
     "607b6632f1d8819d",
@@ -214,6 +216,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "8532c0ccd7a6bbb1",
     "52b8f17e9342ddb2",
     "12f419a0af20e3ad",
     "26519b8d5c6c30d8",
@@ -235,6 +238,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "4cc63dc354e48d3a",
+    "70ec615e8f3d122c",
+    "e78a32f875a096fa",
+    "6550777fc854b915",
+    "a3125f3b3c23761f",
     "647881f9579443ec",
     "4e1f3e271ed5773a",
     "298f24e8335f0697",
