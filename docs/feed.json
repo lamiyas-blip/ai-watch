@@ -1,6 +1,86 @@
 {
- "generated": "2026-10-06T23:07:58.959Z",
+ "generated": "2026-10-07T02:30:33.506Z",
  "items": [
+  {
+   "id": "caf5d9ee8b69f2f6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison (Bill Donahue/Billboard)",
+   "u": "https://www.techmeme.com/261006/p50#a261006p50",
+   "d": "2026-10-07T02:20:01.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
+  {
+   "id": "aacbed76eb491532",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings about its Mythos-level cyber risk, undercutting calls to ban open models (Nathan Lambert/Interconnects AI)",
+   "u": "https://www.techmeme.com/261006/p48#a261006p48",
+   "d": "2026-10-07T01:05:01.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
+  {
+   "id": "933a217ba441a41f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)",
+   "u": "https://www.techmeme.com/261006/p47#a261006p47",
+   "d": "2026-10-07T00:15:00.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
+  {
+   "id": "700c329aa082ae02",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Mistral is BACK! (Le Chonk)",
+   "u": "https://www.youtube.com/watch?v=Hu1JOK6aXsI",
+   "d": "2026-10-07T00:12:03.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
+  {
+   "id": "543d1d62837a49df",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)",
+   "u": "https://www.techmeme.com/261006/p46#a261006p46",
+   "d": "2026-10-06T23:55:02.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
+  {
+   "id": "3b6f9313557f2f80",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)",
+   "u": "https://www.techmeme.com/261006/p45#a261006p45",
+   "d": "2026-10-06T23:20:01.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
+  {
+   "id": "287100856a3b2ffe",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo (Financial Times)",
+   "u": "https://www.techmeme.com/261006/p44#a261006p44",
+   "d": "2026-10-06T23:15:00.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
+  {
+   "id": "29c73315fbfcb7e1",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Toppling Saddam was the easy part - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/7rk18oEEqzc",
+   "d": "2026-10-06T22:55:07.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
+  },
   {
    "id": "4cc63dc354e48d3a",
    "f": "techmeme",
@@ -42,66 +122,6 @@
    "first": "2026-10-06T23:07:58.959Z"
   },
   {
-   "id": "6550777fc854b915",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Waymo increased the size of its inaugural debt raise from $3B+ to $5B, as it grapples with rising AI costs and rapidly expands its robotaxi fleet (Bloomberg)",
-   "u": "https://www.techmeme.com/261006/p35#a261006p35",
-   "d": "2026-10-06T19:45:01.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
-   "id": "a3125f3b3c23761f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic expands its Cyber Verification Program by integrating Project Glasswing and offering three tiers, all with access to its most capable Claude models (Anthropic)",
-   "u": "https://www.techmeme.com/261006/p33#a261006p33",
-   "d": "2026-10-06T19:35:03.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
-   "id": "647881f9579443ec",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Mistral says it trained ML4 \"from scratch\" using 3,800 Nvidia Grace Blackwell GPUs in its data centers in Europe and much of its training data was multilingual (Mistral Blog)",
-   "u": "https://www.techmeme.com/261006/p32#a261006p32",
-   "d": "2026-10-06T19:00:52.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
-   "id": "4e1f3e271ed5773a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta, Walmart, Instinct, Shopify, Sierra, Stripe, and others publish the Personal Agent Protocol to standardize and secure how AI bots interact with businesses (Kate Rooney/CNBC)",
-   "u": "https://www.techmeme.com/261006/p31#a261006p31",
-   "d": "2026-10-06T18:55:00.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
-   "id": "298f24e8335f0697",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Flai, which makes AI tools for car dealerships to manage phone calls, emails, and texts, raised a $27M Series A led by Base10 Partners (Sean O'Kane/TechCrunch)",
-   "u": "https://www.techmeme.com/261006/p30#a261006p30",
-   "d": "2026-10-06T18:05:00.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
-   "id": "8ce6cef5957948b6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia-backed neocloud Lambda is raising up to $4B led by Blackstone and Coatue at a $14.5B pre-money valuation in a final round before its planned IPO (Robbie Whelan/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261006/p29#a261006p29",
-   "d": "2026-10-06T17:10:01.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
    "id": "ff81faccd1632956",
    "f": "openai-news",
    "src": "OpenAI",
@@ -140,6 +160,16 @@
    "u": "https://www.bensbites.com/p/thoughts-from-san-francisco",
    "d": "2026-10-06T13:01:18.000Z",
    "first": "2026-10-06T13:43:10.181Z"
+  },
+  {
+   "id": "0bfd0a11a6b9d347",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Jump Trading is scaling quant research with ChatGPT",
+   "u": "https://openai.com/index/jump-trading",
+   "d": "2026-10-06T12:00:00.000Z",
+   "first": "2026-10-07T02:30:33.506Z"
   },
   {
    "id": "95408a96f49897a3",
@@ -852,16 +882,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "8050bd06126e8714",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Korea Went from Civil War to Near World War - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/xsYoSwrcNOY",
-   "d": "2026-09-29T22:34:45.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "dc9ec9e1e5b640c7",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -922,22 +942,22 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b619ad651a28662f",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "DevDay 2026 Recap",
-   "u": "https://openai.com/index/devday-2026-recap",
-   "d": "2026-09-29T10:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "276a1a109f5ce9d9",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Introducing GPT-6.1 Sol",
    "u": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "d": "2026-09-29T10:00:00.000Z",
+   "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b619ad651a28662f",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "DevDay 2026 Recap",
+   "u": "https://openai.com/index/devday-2026-recap",
    "d": "2026-09-29T10:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -1028,16 +1048,6 @@
    "cat": "Newsletter",
    "t": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
    "u": "https://tldr.tech/ai/2026-09-29",
-   "d": "2026-09-29T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "ac38b11550c040d1",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing dots",
-   "u": "https://openai.com/index/introducing-dots",
    "d": "2026-09-29T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -1219,16 +1229,6 @@
    "t": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
    "u": "https://www.latent.space/p/openrouter",
    "d": "2026-09-25T23:14:41.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "24cc4d48dce41b99",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "DeepSeek is CRAZY",
-   "u": "https://www.youtube.com/shorts/zICv3IJaAfQ",
-   "d": "2026-09-25T21:05:41.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3115,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1016 > 1000"
+   "error": "Entity expansion limit exceeded: 1024 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3161,7 +3161,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1028 > 1000"
+   "error": "Entity expansion limit exceeded: 1020 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3183,19 +3183,23 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
