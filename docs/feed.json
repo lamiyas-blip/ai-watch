@@ -1,6 +1,46 @@
 {
- "generated": "2026-10-07T02:30:33.506Z",
+ "generated": "2026-10-07T09:26:59.764Z",
  "items": [
+  {
+   "id": "42a41086aa47911b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Turba Labs, which develops tech for optimizing AI infrastructure by creating digital twins of data centers, emerges from stealth with a $52M seed and Series A (Sarah Klearman/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261007/p5#a261007p5",
+   "d": "2026-10-07T06:20:01.000Z",
+   "first": "2026-10-07T09:26:59.764Z"
+  },
+  {
+   "id": "3d531fb99d41c72f",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+   "u": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+   "d": "2026-10-07T04:55:44.000Z",
+   "first": "2026-10-07T09:26:59.764Z"
+  },
+  {
+   "id": "249d85846c741099",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "OpenAI's secret model just BROKE math...",
+   "u": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
+   "d": "2026-10-07T04:02:49.000Z",
+   "first": "2026-10-07T09:26:59.764Z"
+  },
+  {
+   "id": "0017fbb6c50e6777",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI startup acquisitions by AI startups hit 195 through September 29, up 14% from all of 2025, but the number of buyers grew just 2%; OpenAI was the most active (Mary Ann Azevedo/Crunchbase News)",
+   "u": "https://www.techmeme.com/261007/p1#a261007p1",
+   "d": "2026-10-07T04:00:57.000Z",
+   "first": "2026-10-07T09:26:59.764Z"
+  },
   {
    "id": "caf5d9ee8b69f2f6",
    "f": "techmeme",
@@ -46,7 +86,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)",
+   "t": "OpenAI says its internal model produced 372 math breakthroughs, nearly all from a single prompt to one AI agent, though some may have taken multiple attempts (Joseph Howlett/Scientific American)",
    "u": "https://www.techmeme.com/261006/p46#a261006p46",
    "d": "2026-10-06T23:55:02.000Z",
    "first": "2026-10-07T02:30:33.506Z"
@@ -56,19 +96,9 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)",
+   "t": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower than Nano Banana 2 (Matthias Bastian/The Decoder)",
    "u": "https://www.techmeme.com/261006/p45#a261006p45",
    "d": "2026-10-06T23:20:01.000Z",
-   "first": "2026-10-07T02:30:33.506Z"
-  },
-  {
-   "id": "287100856a3b2ffe",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo (Financial Times)",
-   "u": "https://www.techmeme.com/261006/p44#a261006p44",
-   "d": "2026-10-06T23:15:00.000Z",
    "first": "2026-10-07T02:30:33.506Z"
   },
   {
@@ -82,34 +112,14 @@
    "first": "2026-10-07T02:30:33.506Z"
   },
   {
-   "id": "4cc63dc354e48d3a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "98da916ec2e56096",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage (OpenAI)",
-   "u": "https://www.techmeme.com/261006/p42#a261006p42",
-   "d": "2026-10-06T22:30:01.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
-   "id": "70ec615e8f3d122c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
-   "u": "https://www.techmeme.com/261006/p38#a261006p38",
-   "d": "2026-10-06T20:50:00.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
-   "id": "e78a32f875a096fa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says it found 5,500 verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)",
-   "u": "https://www.techmeme.com/261006/p36#a261006p36",
-   "d": "2026-10-06T20:00:49.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
+   "t": "Sharing AI progress in mathematics",
+   "u": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+   "d": "2026-10-06T22:17:21.000Z",
+   "first": "2026-10-07T09:26:59.764Z"
   },
   {
    "id": "d5f20e84815040d4",
@@ -120,6 +130,16 @@
    "u": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
    "d": "2026-10-06T19:57:04.000Z",
    "first": "2026-10-06T23:07:58.959Z"
+  },
+  {
+   "id": "e48591aca2999862",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "OpenTPU – An open-source AI accelerator, developed by AI",
+   "u": "https://github.com/FeSens/openTPU",
+   "d": "2026-10-06T16:23:25.000Z",
+   "first": "2026-10-07T09:26:59.764Z"
   },
   {
    "id": "ff81faccd1632956",
@@ -1152,16 +1172,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "9a01d6a91e1f9601",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "There are no \"rogue\" AI agents",
-   "u": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-   "d": "2026-09-27T16:19:46.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "aa06d89d2df27d4a",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -1342,16 +1352,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "f296bc46e490ba98",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "How I changed teaching after AI managed to do all my homework assignments",
-   "u": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-   "d": "2026-09-24T20:51:50.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "607b6632f1d8819d",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1359,16 +1359,6 @@
    "t": "Introducing Gemini 3.8 Live with Live Avatar",
    "u": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
    "d": "2026-09-24T16:20:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "39d297cf4c37d4a1",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Foundries vs Navigators: Lowering the Cost of Science",
-   "u": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-   "d": "2026-09-24T15:03:16.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1629,16 +1619,6 @@
    "t": "Why I still haven’t bought into true RSI",
    "u": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
    "d": "2026-09-19T15:42:20.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "d8f500f436e4dd6c",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "OpenAI JUST got HACKED...",
-   "u": "https://www.youtube.com/watch?v=iQGLI14p88Q",
-   "d": "2026-09-19T08:43:54.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3115,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1024 > 1000"
+   "error": "Entity expansion limit exceeded: 1044 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3143,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3161,7 +3140,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1020 > 1000"
+   "error": "Entity expansion limit exceeded: 1072 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3183,23 +3162,19 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",

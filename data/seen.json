@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "3d531fb99d41c72f",
     "5c7ad898644ed487",
     "77ce46ddfb217e30",
     "b6b40dcf6f71f4ee",
@@ -239,6 +240,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "42a41086aa47911b",
+    "0017fbb6c50e6777",
     "caf5d9ee8b69f2f6",
     "aacbed76eb491532",
     "933a217ba441a41f",
@@ -488,6 +491,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "249d85846c741099",
     "9cf7ba359d01b775",
     "ca1926f9462cfe53",
     "c0e05122143ed236",
@@ -501,6 +505,8 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "98da916ec2e56096",
+    "e48591aca2999862",
     "27177b8cc8d12ecf",
     "ee5b133140d7e7f4",
     "4cfdafc5b0cf81c2",
