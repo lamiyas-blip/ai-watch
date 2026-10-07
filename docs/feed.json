@@ -1,12 +1,102 @@
 {
- "generated": "2026-10-07T16:44:22.968Z",
+ "generated": "2026-10-07T21:40:32.728Z",
  "items": [
+  {
+   "id": "cfc069bc5da1664e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why 90% of Cortés's Army Wasn't Spanish - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/JoE9AbbVT9A",
+   "d": "2026-10-07T21:14:29.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "e07725226bdde022",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says GPT-6 in ChatGPT's Chat tab is powered by GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers and GPT-6 Luna for Free and Go tiers (@openai)",
+   "u": "https://www.techmeme.com/261007/p36#a261007p36",
+   "d": "2026-10-07T20:55:02.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "d9e6b949284602e8",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "How to Find Nano Banana 2.1 in Google AI Studio",
+   "u": "https://www.youtube.com/shorts/EItxPNgKOX4",
+   "d": "2026-10-07T20:23:22.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "2b598984c70ebb99",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI startups, prioritizing national security (Leo Schwartz/The Information)",
+   "u": "https://www.techmeme.com/261007/p35#a261007p35",
+   "d": "2026-10-07T19:30:31.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "b8e8958b169f19e4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic cuts Sonnet 5.5 cache read price from $0.20 to $0.10 and adds monthly API credits: $100 for Max 5x, $200 for Max 20x, up to $500 shared by Team users (Carl Franzen/VentureBeat)",
+   "u": "https://www.techmeme.com/261007/p34#a261007p34",
+   "d": "2026-10-07T19:05:01.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "8c0f81fcb0c68d19",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
+   "u": "https://www.techmeme.com/261007/p33#a261007p33",
+   "d": "2026-10-07T18:45:30.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "d0446f1e3ad2eb6a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers (OpenAI)",
+   "u": "https://www.techmeme.com/261007/p32#a261007p32",
+   "d": "2026-10-07T18:40:02.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "517c97863ae1a787",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests (Anthropic)",
+   "u": "https://www.techmeme.com/261007/p31#a261007p31",
+   "d": "2026-10-07T18:22:12.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
+  {
+   "id": "88f980abde4f47ed",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)",
+   "u": "https://www.techmeme.com/261007/p28#a261007p28",
+   "d": "2026-10-07T17:20:01.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
+  },
   {
    "id": "fa18063c6f3206f3",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI's first report on teen ChatGPT use says teens spend under 15 minutes a day on average on the chatbot, with less than 2% using it for 3+ hours straight (Reuters)",
+   "t": "OpenAI's first report on teen ChatGPT use says teens spend under 15 minutes per day on average on the chatbot, with less than 2% using it for 3+ hours straight (Reuters)",
    "u": "https://www.techmeme.com/261007/p27#a261007p27",
    "d": "2026-10-07T16:30:19.000Z",
    "first": "2026-10-07T16:44:22.968Z"
@@ -16,7 +106,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Healthleap, which makes AI screening software to identify patients at risk of undiagnosed illnesses, raised $38M across a $30M Series A and an $8M seed (Ram Iyer/TechCrunch)",
+   "t": "Healthleap, which makes AI screening software that helps identify patients at risk of undiagnosed illnesses, raised $38M across a $30M Series A and an $8M seed (Ram Iyer/TechCrunch)",
    "u": "https://www.techmeme.com/261007/p25#a261007p25",
    "d": "2026-10-07T15:35:02.000Z",
    "first": "2026-10-07T16:44:22.968Z"
@@ -26,7 +116,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Elon Musk says Grok Bot will use the \"best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno\" (Grace Kay/The Information)",
+   "t": "Elon Musk says Grok Bot going forward will use the \"best back-end model for any given task, including Claude Opus 5.5, MidJourney, Suno, and other leading APIs\" (Grace Kay/The Information)",
    "u": "https://www.techmeme.com/261007/p23#a261007p23",
    "d": "2026-10-07T14:40:01.000Z",
    "first": "2026-10-07T16:44:22.968Z"
@@ -42,46 +132,6 @@
    "first": "2026-10-07T16:44:22.968Z"
   },
   {
-   "id": "1b9f946636669fb4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261007/p21#a261007p21",
-   "d": "2026-10-07T14:10:01.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "7afc92d4aa2f1ecb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nous Research, which makes the open-source Hermes AI agent that has hit 22M+ downloads since February, raised $90M at a $1.2B valuation to expand to enterprises (Yuliya Chernova/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261007/p20#a261007p20",
-   "d": "2026-10-07T14:05:01.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "dd645aa897b862e6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "North American startup funding hit $92B in Q3, down 35% QoQ but up 50% YoY, with $61B to AI startups; there were 11 $1B+ acquisitions and IPOs remained quiet (Joanna Glasner/Crunchbase News)",
-   "u": "https://www.techmeme.com/261007/p19#a261007p19",
-   "d": "2026-10-07T13:55:03.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "3d7883b1439fee97",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta, Google DeepMind, and Isomorphic Labs invest $300M and the US invests $500M+ in Zuckerberg-backed Biohub to build open biology datasets for AI training (Krystal Hu/Reuters)",
-   "u": "https://www.techmeme.com/261007/p18#a261007p18",
-   "d": "2026-10-07T13:40:03.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
    "id": "1e3e07a1e7ea433e",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -89,26 +139,6 @@
    "t": "DeepMind's New AI Just Cracked The Code Of Life",
    "u": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "d": "2026-10-07T13:29:33.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "44353b78af024050",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Stuut, which uses AI agents to automate enterprise order-to-cash cycles and serves 150+ clients, raised a $52.5M Series B led by Insight, for $93M total funding (Mike Wheatley/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261007/p17#a261007p17",
-   "d": "2026-10-07T13:01:06.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "25a00770cd244c3a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria (Jay Peters/The Verge)",
-   "u": "https://www.techmeme.com/261007/p15#a261007p15",
-   "d": "2026-10-07T12:20:04.000Z",
    "first": "2026-10-07T16:44:22.968Z"
   },
   {
@@ -122,14 +152,14 @@
    "first": "2026-10-07T16:44:22.968Z"
   },
   {
-   "id": "b439d435538f90df",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Dallas-based Disruptive is targeting up to $10B for a late-stage fund and has secured $7.5B; founded in 2012, it has backed Groq and Reflection AI (Kate Clark/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261007/p13#a261007p13",
-   "d": "2026-10-07T11:00:43.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
+   "id": "5704ea7f3b9de2d6",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "u": "https://openai.com/index/radisson",
+   "d": "2026-10-07T07:00:00.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
   },
   {
    "id": "3d531fb99d41c72f",
@@ -170,6 +200,16 @@
    "u": "https://tldr.tech/ai/2026-10-07",
    "d": "2026-10-07T00:00:00.000Z",
    "first": "2026-10-07T16:44:22.968Z"
+  },
+  {
+   "id": "f6870958c4ea323e",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "GPT-6 and Intelligent UI for everyone",
+   "u": "https://openai.com/index/gpt-6-for-everyone",
+   "d": "2026-10-07T00:00:00.000Z",
+   "first": "2026-10-07T21:40:32.728Z"
   },
   {
    "id": "29c73315fbfcb7e1",
@@ -842,16 +882,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "ed869410398cb9a3",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Russia Couldn't Afford to Keep Fighting - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/jSkAV5f9Ptw",
-   "d": "2026-09-30T23:45:05.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "a1bd73a0649109e4",
    "f": "latent-space",
    "src": "Latent Space",
@@ -929,16 +959,6 @@
    "t": "Disrupting a coordinated model-distillation campaign",
    "u": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
    "d": "2026-09-30T10:30:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "6ac3ac1f6ae1d49d",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Helping small businesses put AI to work",
-   "u": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-   "d": "2026-09-30T10:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1039,16 +1059,6 @@
    "t": "Making AI an asset, not an expense",
    "u": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
    "d": "2026-09-29T10:43:45.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "276a1a109f5ce9d9",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing GPT-6.1 Sol",
-   "u": "https://openai.com/index/introducing-gpt-6-1-sol",
-   "d": "2026-09-29T10:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1279,16 +1289,6 @@
    "t": "AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!",
    "u": "https://www.youtube.com/watch?v=aDpIra7NFuE",
    "d": "2026-09-26T02:37:49.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "9b38d69015e714c6",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "What People Are Building With Opus 5.5",
-   "u": "https://www.youtube.com/shorts/rgO5v8MFtFg",
-   "d": "2026-09-26T01:30:30.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3125,7 +3125,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1026 > 1000"
+   "error": "Entity expansion limit exceeded: 1015 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
