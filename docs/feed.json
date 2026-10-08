@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-07T21:40:32.728Z",
+ "generated": "2026-10-08T01:23:56.023Z",
  "items": [
+  {
+   "id": "56c22412510b8ecd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)",
+   "u": "https://www.techmeme.com/261007/p44#a261007p44",
+   "d": "2026-10-08T01:05:01.000Z",
+   "first": "2026-10-08T01:23:56.023Z"
+  },
+  {
+   "id": "27fc1ee79b55189f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (Marina Temkin/TechCrunch)",
+   "u": "https://www.techmeme.com/261007/p43#a261007p43",
+   "d": "2026-10-08T00:35:01.000Z",
+   "first": "2026-10-08T01:23:56.023Z"
+  },
+  {
+   "id": "339eb9e317fadde9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261007/p42#a261007p42",
+   "d": "2026-10-08T00:05:01.000Z",
+   "first": "2026-10-08T01:23:56.023Z"
+  },
+  {
+   "id": "d9770756f49252bf",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "12 AI Assistant Use Cases That Feel Illegal",
+   "u": "https://www.youtube.com/watch?v=BsNHg6cNjZE",
+   "d": "2026-10-07T23:08:41.000Z",
+   "first": "2026-10-08T01:23:56.023Z"
+  },
+  {
+   "id": "bf554acc08fa7ee0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261007/p37#a261007p37",
+   "d": "2026-10-07T21:45:32.000Z",
+   "first": "2026-10-08T01:23:56.023Z"
+  },
   {
    "id": "cfc069bc5da1664e",
    "f": "yt-dwarkesh",
@@ -80,46 +130,6 @@
    "u": "https://www.techmeme.com/261007/p31#a261007p31",
    "d": "2026-10-07T18:22:12.000Z",
    "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
-   "id": "88f980abde4f47ed",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)",
-   "u": "https://www.techmeme.com/261007/p28#a261007p28",
-   "d": "2026-10-07T17:20:01.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
-   "id": "fa18063c6f3206f3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI's first report on teen ChatGPT use says teens spend under 15 minutes per day on average on the chatbot, with less than 2% using it for 3+ hours straight (Reuters)",
-   "u": "https://www.techmeme.com/261007/p27#a261007p27",
-   "d": "2026-10-07T16:30:19.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "defdf7ff1bba297a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Healthleap, which makes AI screening software that helps identify patients at risk of undiagnosed illnesses, raised $38M across a $30M Series A and an $8M seed (Ram Iyer/TechCrunch)",
-   "u": "https://www.techmeme.com/261007/p25#a261007p25",
-   "d": "2026-10-07T15:35:02.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "14a324b29b78d740",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Elon Musk says Grok Bot going forward will use the \"best back-end model for any given task, including Claude Opus 5.5, MidJourney, Suno, and other leading APIs\" (Grace Kay/The Information)",
-   "u": "https://www.techmeme.com/261007/p23#a261007p23",
-   "d": "2026-10-07T14:40:01.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
   },
   {
    "id": "a9aee6e4adacd6c5",
@@ -1129,16 +1139,6 @@
    "t": "Bio Risk is Not Like Cyber Risk",
    "u": "https://www.youtube.com/shorts/f4mhTu3u9Uk",
    "d": "2026-09-29T00:49:29.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "077f0033678a54a2",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "What We Built With Sonnet 5.5",
-   "u": "https://www.youtube.com/shorts/0NhtHVPQwt8",
-   "d": "2026-09-29T00:01:18.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3125,7 +3125,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1015 > 1000"
+   "error": "Entity expansion limit exceeded: 1016 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3153,7 +3153,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3175,7 +3176,7 @@
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
