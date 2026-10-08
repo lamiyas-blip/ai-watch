@@ -88,6 +88,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "4d05b9b3fda8e202",
     "7aa08665b0e473b0",
     "ce77d8b00fdf286e",
     "760cd3b1525a5fd4",
@@ -130,6 +131,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "75d25a2b192a2be5",
     "22dce8d3a94d544e",
     "c7765728fd911c27",
     "6ac73f8d413699fc",
@@ -153,6 +155,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "3eb5fae03670d233",
     "0273dc994d437dbf",
     "4385e07d2499a622",
     "760b0bd76227e5f4",
@@ -246,6 +249,13 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "ec8c241c3577f527",
+    "4ff50a5a0b6efd29",
+    "4db552bcbc647e21",
+    "44c5cdaeab9dd393",
+    "1ae0016e83b88d83",
+    "4a9a406f70658ad3",
+    "caf81511a69120b1",
     "f87724e96579462a",
     "16cf89dc916d5089",
     "bfe49ab8fa85a61f",
@@ -339,6 +349,8 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "5143fd23a0d28a57",
+    "149f150400562a72",
     "1295ac880d0de350",
     "563752630300677a",
     "8384833d74c343bd",
@@ -420,6 +432,8 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "87ff2c156e976a29",
+    "7e4033a56dcdb463",
     "30e23a186263f7c1",
     "859efd6f40ba1ff1",
     "d7c46355309974cd",

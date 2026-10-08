@@ -1,6 +1,136 @@
 {
- "generated": "2026-10-08T07:36:20.931Z",
+ "generated": "2026-10-08T15:00:11.845Z",
  "items": [
+  {
+   "id": "ec8c241c3577f527",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Gallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M (Colin Demarest/Axios)",
+   "u": "https://www.techmeme.com/261008/p29#a261008p29",
+   "d": "2026-10-08T14:25:05.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "4d05b9b3fda8e202",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+   "u": "https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
+   "d": "2026-10-08T14:00:43.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "4ff50a5a0b6efd29",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "European venture funding rose 77% YoY to $25B in Q3, the region's strongest funding quarter in four years, representing 16% of global VC and led by AI startups (Gené Teare/Crunchbase News)",
+   "u": "https://www.techmeme.com/261008/p28#a261008p28",
+   "d": "2026-10-08T13:55:01.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "4db552bcbc647e21",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google debuts Google AI Edge Foresight, a local macOS note-taking app for meetings that uses its 740M-parameter EmbeddingGemma 2 model and Gemma 4 assistant (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261008/p27#a261008p27",
+   "d": "2026-10-08T13:45:11.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "44c5cdaeab9dd393",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI disrupts a Russian influence campaign tied to the Politology network that targeted schools, media, and foreign officials, and gives it a 5/6 impact score (Kevin Collier/NBC News)",
+   "u": "https://www.techmeme.com/261008/p26#a261008p26",
+   "d": "2026-10-08T13:40:00.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "1ae0016e83b88d83",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google Cloud unveils a universal Gemini agent to handle multi-day enterprise workflows in Workspace, Microsoft 365, and Slack that supports several AI models (Carl Franzen/VentureBeat)",
+   "u": "https://www.techmeme.com/261008/p25#a261008p25",
+   "d": "2026-10-08T13:25:01.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "3eb5fae03670d233",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Text is so 2023",
+   "u": "https://www.bensbites.com/p/text-is-so-2023",
+   "d": "2026-10-08T13:00:52.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "4a9a406f70658ad3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI retail trading agent startup Catalyst raised a $30M seed led by Sequoia and says a pilot generated hundreds of millions in trading volume over two weeks (Allie Garfinkle/Fortune)",
+   "u": "https://www.techmeme.com/261008/p23#a261008p23",
+   "d": "2026-10-08T12:35:00.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "87ff2c156e976a29",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Life as it could be | Akarsh Kumar on Artificial Life",
+   "u": "https://www.youtube.com/shorts/pniLY0I9VJQ",
+   "d": "2026-10-08T11:34:31.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "caf81511a69120b1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: planned and active data center investments in Finland surpass €67B, driven by AI demand, cool climate conditions, and renewable energy access (Kirsi Heikel/Bloomberg)",
+   "u": "https://www.techmeme.com/261008/p17#a261008p17",
+   "d": "2026-10-08T10:55:01.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "7e4033a56dcdb463",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Game of Thrones: Turing Edition | Akarsh Kumar on Core War",
+   "u": "https://www.youtube.com/shorts/LfUgsSUdaX8",
+   "d": "2026-10-08T10:30:08.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "5143fd23a0d28a57",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
+   "u": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+   "d": "2026-10-08T09:00:00.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "149f150400562a72",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Building a safer path to autonomous industrial AI",
+   "u": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+   "d": "2026-10-08T08:17:32.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
+  },
   {
    "id": "7600e66f5b64560a",
    "f": "latent-space",
@@ -9,86 +139,6 @@
    "t": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
    "u": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
    "d": "2026-10-08T07:27:51.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "f87724e96579462a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The Association for Human Mathematics says OpenAI's new math documents show power, not scholarship, and urges mathematicians to stop working with the company (AHM)",
-   "u": "https://www.techmeme.com/261008/p9#a261008p9",
-   "d": "2026-10-08T06:25:07.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "16cf89dc916d5089",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at Emeryville, CA-based Atomic Machines, which is training AI on materials and designs to revamp how microelectromechanical systems (MEMS) are built (Cade Metz/New York Times)",
-   "u": "https://www.techmeme.com/261008/p8#a261008p8",
-   "d": "2026-10-08T06:20:00.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "bfe49ab8fa85a61f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A theoretical computer scientist, citing sources, says AI labs have quietly started probing whether their models can break important cryptographic protocols (Scott Aaronson/Shtetl-Optimized)",
-   "u": "https://www.techmeme.com/261008/p6#a261008p6",
-   "d": "2026-10-08T05:10:11.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "82d818111d63f14a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Vitalik Buterin says \"we should take the risks to cryptography from AI-accelerated math seriously\", backing a \"bunker mode\" call for the blockchain industry (Felix Ng/Cointelegraph)",
-   "u": "https://www.techmeme.com/261008/p5#a261008p5",
-   "d": "2026-10-08T05:05:01.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "3af97369778c2cf1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: Shanghai-based AI chipmaker Biren raises ~$515M in a new share sale; Biren's Hong Kong-listed stock is down 50%+ from a June peak but up ~70% YTD (Bloomberg)",
-   "u": "https://www.techmeme.com/261008/p3#a261008p3",
-   "d": "2026-10-08T04:45:50.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "9a1d53873882fcb2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Isomorphic Labs, an AI drug discovery startup spun out of Google DeepMind, is in early talks to raise funds at a valuation of at least $40B (Bloomberg)",
-   "u": "https://www.techmeme.com/261008/p1#a261008p1",
-   "d": "2026-10-08T04:35:00.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "83508796a6201b6c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn't want to wait (The Information)",
-   "u": "https://www.techmeme.com/261007/p47#a261007p47",
-   "d": "2026-10-08T03:25:00.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "f693ea67f88d5703",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January (Angel Au-Yeung/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261007/p46#a261007p46",
-   "d": "2026-10-08T03:15:43.000Z",
    "first": "2026-10-08T07:36:20.931Z"
   },
   {
@@ -102,14 +152,14 @@
    "first": "2026-10-08T07:36:20.931Z"
   },
   {
-   "id": "56c22412510b8ecd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)",
-   "u": "https://www.techmeme.com/261007/p44#a261007p44",
-   "d": "2026-10-08T01:05:01.000Z",
-   "first": "2026-10-08T01:23:56.023Z"
+   "id": "75d25a2b192a2be5",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
+   "u": "https://tldr.tech/ai/2026-10-08",
+   "d": "2026-10-08T00:00:00.000Z",
+   "first": "2026-10-08T15:00:11.845Z"
   },
   {
    "id": "d9770756f49252bf",
@@ -1172,16 +1222,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "e8eca65598350970",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "u": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-   "d": "2026-09-28T22:17:07.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "930469005f5355cc",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1209,16 +1249,6 @@
    "t": "This AI Model Is INSANELY Fast & Cheap",
    "u": "https://www.youtube.com/shorts/hx42whM7NsY",
    "d": "2026-09-28T17:07:47.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "e30de35ff755ee76",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "When can we say AI made a scientific discovery?",
-   "u": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-   "d": "2026-09-28T17:03:16.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1469,26 +1499,6 @@
    "t": "ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns",
    "u": "https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard",
    "d": "2026-09-23T21:20:29.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "12336385d4e00ba7",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "A perfect model can still get causality backwards",
-   "u": "https://www.youtube.com/shorts/emTe0M9Yw24",
-   "d": "2026-09-23T18:09:12.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "5f589656f4b2db79",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "The AI That Replaces Hours of Model Tuning - Frank Hutter",
-   "u": "https://www.youtube.com/watch?v=72Im-Mm5JKs",
-   "d": "2026-09-23T18:06:15.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1769,16 +1779,6 @@
    "t": "The Talker Does Not Control The Doer (in Current AIs)",
    "u": "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais",
    "d": "2026-09-17T02:05:40.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "733a521273c3d6ef",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Claude + Cowork merge 🛠️, ChatGPT sponsored agents 💰, harness tax 🤖",
-   "u": "https://tldr.tech/ai/2026-09-17",
-   "d": "2026-09-17T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2102,16 +2102,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "77680e4a71f8da37",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "GPT-6 Astra might be too powerful to understand or control",
-   "u": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
-   "d": "2026-09-04T11:05:49.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "94f91d1f34cd9328",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -2229,16 +2219,6 @@
    "t": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
    "u": "https://www.alignmentforum.org/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning",
    "d": "2026-08-29T17:35:50.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "bd3548e645dedd1f",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "How I built this",
-   "u": "https://www.bensbites.com/p/how-i-built-this-21f",
-   "d": "2026-08-28T12:14:10.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
