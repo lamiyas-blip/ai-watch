@@ -1,6 +1,106 @@
 {
- "generated": "2026-10-08T01:23:56.023Z",
+ "generated": "2026-10-08T07:36:20.931Z",
  "items": [
+  {
+   "id": "7600e66f5b64560a",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+   "u": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+   "d": "2026-10-08T07:27:51.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "f87724e96579462a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The Association for Human Mathematics says OpenAI's new math documents show power, not scholarship, and urges mathematicians to stop working with the company (AHM)",
+   "u": "https://www.techmeme.com/261008/p9#a261008p9",
+   "d": "2026-10-08T06:25:07.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "16cf89dc916d5089",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at Emeryville, CA-based Atomic Machines, which is training AI on materials and designs to revamp how microelectromechanical systems (MEMS) are built (Cade Metz/New York Times)",
+   "u": "https://www.techmeme.com/261008/p8#a261008p8",
+   "d": "2026-10-08T06:20:00.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "bfe49ab8fa85a61f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A theoretical computer scientist, citing sources, says AI labs have quietly started probing whether their models can break important cryptographic protocols (Scott Aaronson/Shtetl-Optimized)",
+   "u": "https://www.techmeme.com/261008/p6#a261008p6",
+   "d": "2026-10-08T05:10:11.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "82d818111d63f14a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Vitalik Buterin says \"we should take the risks to cryptography from AI-accelerated math seriously\", backing a \"bunker mode\" call for the blockchain industry (Felix Ng/Cointelegraph)",
+   "u": "https://www.techmeme.com/261008/p5#a261008p5",
+   "d": "2026-10-08T05:05:01.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "3af97369778c2cf1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Shanghai-based AI chipmaker Biren raises ~$515M in a new share sale; Biren's Hong Kong-listed stock is down 50%+ from a June peak but up ~70% YTD (Bloomberg)",
+   "u": "https://www.techmeme.com/261008/p3#a261008p3",
+   "d": "2026-10-08T04:45:50.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "9a1d53873882fcb2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Isomorphic Labs, an AI drug discovery startup spun out of Google DeepMind, is in early talks to raise funds at a valuation of at least $40B (Bloomberg)",
+   "u": "https://www.techmeme.com/261008/p1#a261008p1",
+   "d": "2026-10-08T04:35:00.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "83508796a6201b6c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: Nvidia considered a last-minute OpenRouter bid, telling its leadership it was prepared to make a generous offer, but OpenRouter didn't want to wait (The Information)",
+   "u": "https://www.techmeme.com/261007/p47#a261007p47",
+   "d": "2026-10-08T03:25:00.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "f693ea67f88d5703",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenRouter: the share of business spending between OpenAI and Anthropic models was roughly even in September, vs. Anthropic commanding a 75% share in January (Angel Au-Yeung/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261007/p46#a261007p46",
+   "d": "2026-10-08T03:15:43.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
+  {
+   "id": "5d2d4d08df53558d",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "What's the date?",
+   "u": "https://www.lesswrong.com/posts/vzKWsEskYBEWTwpBP/what-s-the-date",
+   "d": "2026-10-08T02:49:10.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
+  },
   {
    "id": "56c22412510b8ecd",
    "f": "techmeme",
@@ -12,43 +112,13 @@
    "first": "2026-10-08T01:23:56.023Z"
   },
   {
-   "id": "27fc1ee79b55189f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (Marina Temkin/TechCrunch)",
-   "u": "https://www.techmeme.com/261007/p43#a261007p43",
-   "d": "2026-10-08T00:35:01.000Z",
-   "first": "2026-10-08T01:23:56.023Z"
-  },
-  {
-   "id": "339eb9e317fadde9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261007/p42#a261007p42",
-   "d": "2026-10-08T00:05:01.000Z",
-   "first": "2026-10-08T01:23:56.023Z"
-  },
-  {
    "id": "d9770756f49252bf",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "12 AI Assistant Use Cases That Feel Illegal",
+   "t": "12 Grok Bot Use Cases That Feel Illegal",
    "u": "https://www.youtube.com/watch?v=BsNHg6cNjZE",
    "d": "2026-10-07T23:08:41.000Z",
-   "first": "2026-10-08T01:23:56.023Z"
-  },
-  {
-   "id": "bf554acc08fa7ee0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Broadcom has been working to arrange more than $50B in financing for OpenAI's custom AI chip; Oracle is in talks on financing for a big chip purchase (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261007/p37#a261007p37",
-   "d": "2026-10-07T21:45:32.000Z",
    "first": "2026-10-08T01:23:56.023Z"
   },
   {
@@ -62,16 +132,6 @@
    "first": "2026-10-07T21:40:32.728Z"
   },
   {
-   "id": "e07725226bdde022",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI says GPT-6 in ChatGPT's Chat tab is powered by GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers and GPT-6 Luna for Free and Go tiers (@openai)",
-   "u": "https://www.techmeme.com/261007/p36#a261007p36",
-   "d": "2026-10-07T20:55:02.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
    "id": "d9e6b949284602e8",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -82,54 +142,14 @@
    "first": "2026-10-07T21:40:32.728Z"
   },
   {
-   "id": "2b598984c70ebb99",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "775cf248b141b302",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI startups, prioritizing national security (Leo Schwartz/The Information)",
-   "u": "https://www.techmeme.com/261007/p35#a261007p35",
-   "d": "2026-10-07T19:30:31.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
-   "id": "b8e8958b169f19e4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic cuts Sonnet 5.5 cache read price from $0.20 to $0.10 and adds monthly API credits: $100 for Max 5x, $200 for Max 20x, up to $500 shared by Team users (Carl Franzen/VentureBeat)",
-   "u": "https://www.techmeme.com/261007/p34#a261007p34",
-   "d": "2026-10-07T19:05:01.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
-   "id": "8c0f81fcb0c68d19",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
-   "u": "https://www.techmeme.com/261007/p33#a261007p33",
-   "d": "2026-10-07T18:45:30.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
-   "id": "d0446f1e3ad2eb6a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers (OpenAI)",
-   "u": "https://www.techmeme.com/261007/p32#a261007p32",
-   "d": "2026-10-07T18:40:02.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
-   "id": "517c97863ae1a787",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests (Anthropic)",
-   "u": "https://www.techmeme.com/261007/p31#a261007p31",
-   "d": "2026-10-07T18:22:12.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
+   "t": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+   "u": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+   "d": "2026-10-07T18:49:40.000Z",
+   "first": "2026-10-08T07:36:20.931Z"
   },
   {
    "id": "a9aee6e4adacd6c5",
@@ -1212,16 +1232,6 @@
    "first": "2026-10-05T02:09:06.006Z"
   },
   {
-   "id": "ef02e031b3961163",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Nvidia wants to put a watchdog chip next to every AI agent",
-   "u": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-   "d": "2026-09-28T15:46:36.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "7f2a50fec861c655",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -1349,16 +1359,6 @@
    "t": "THE END IS NEAR... and more AI doom",
    "u": "https://www.youtube.com/watch?v=LYNSHecA2Ks",
    "d": "2026-09-25T13:28:28.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "a3f6dc2d2510dcc4",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] The Future of Latent Space",
-   "u": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-   "d": "2026-09-25T05:37:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2302,16 +2302,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b60c820c0f87673d",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "On Writing #3",
-   "u": "https://www.lesswrong.com/posts/rA6pqn6kz8NvHyznT/on-writing-3",
-   "d": "2026-08-26T00:23:18.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "9477a0d8d89a8efe",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -3153,8 +3143,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3176,7 +3165,7 @@
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
