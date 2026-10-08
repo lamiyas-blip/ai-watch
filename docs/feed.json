@@ -1,15 +1,135 @@
 {
- "generated": "2026-10-08T15:00:11.845Z",
+ "generated": "2026-10-08T20:32:04.764Z",
  "items": [
   {
-   "id": "ec8c241c3577f527",
+   "id": "b9a0c7c605bf645a",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Gallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M (Colin Demarest/Axios)",
-   "u": "https://www.techmeme.com/261008/p29#a261008p29",
-   "d": "2026-10-08T14:25:05.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
+   "t": "Anthropic launches OSS Scanner, a free opt-in vulnerability scanner for critical open-source projects; its AI-generated reports are sent without human review (Anthropic)",
+   "u": "https://www.techmeme.com/261008/p45#a261008p45",
+   "d": "2026-10-08T20:23:09.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "d9dbba727f6321a7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others (Sam Sabin/Axios)",
+   "u": "https://www.techmeme.com/261008/p43#a261008p43",
+   "d": "2026-10-08T19:30:41.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "f70e6c6aacb53a47",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported (CNBC)",
+   "u": "https://www.techmeme.com/261008/p42#a261008p42",
+   "d": "2026-10-08T19:20:01.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "2f0ed1d996b06fdf",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
+   "u": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+   "d": "2026-10-08T17:46:05.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "76f109946494fba8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude; ending chats is \"the primary enforcement mechanism\" (Hayden Field/The Verge)",
+   "u": "https://www.techmeme.com/261008/p39#a261008p39",
+   "d": "2026-10-08T17:20:01.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "dfbe9fd8872e09cb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs (Financial Times)",
+   "u": "https://www.techmeme.com/261008/p37#a261008p37",
+   "d": "2026-10-08T16:51:53.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "2c7f37a9e8d9f3b3",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+   "u": "https://www.latent.space/p/periodic",
+   "d": "2026-10-08T16:27:54.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "83abaeabe6077a3c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct (Aisha Malik/TechCrunch)",
+   "u": "https://www.techmeme.com/261008/p36#a261008p36",
+   "d": "2026-10-08T16:25:01.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "39a97246a73ce90c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
+   "u": "https://www.techmeme.com/261008/p35#a261008p35",
+   "d": "2026-10-08T16:20:02.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "da74e08952dcfef9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Hone, founded by former OpenAI and Cognition staffers to create AI agents that can help run a business, raised a $60M seed at a $285M valuation (Bloomberg)",
+   "u": "https://www.techmeme.com/261008/p32#a261008p32",
+   "d": "2026-10-08T16:01:39.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "816de960d25b1709",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "u": "https://openai.com/index/oracle",
+   "d": "2026-10-08T16:00:00.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "9a9c81f8d90b997b",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Mistral Large 4 Failed My Rubik's Cube Test",
+   "u": "https://www.youtube.com/shorts/QnxXx1FpnF8",
+   "d": "2026-10-08T15:54:52.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "1ad8edc6d9da4820",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI Design Hack Saves HOURS",
+   "u": "https://www.youtube.com/shorts/grOilk8aCS0",
+   "d": "2026-10-08T15:13:52.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
   },
   {
    "id": "4d05b9b3fda8e202",
@@ -19,46 +139,6 @@
    "t": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
    "u": "https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
    "d": "2026-10-08T14:00:43.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "4ff50a5a0b6efd29",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "European venture funding rose 77% YoY to $25B in Q3, the region's strongest funding quarter in four years, representing 16% of global VC and led by AI startups (Gené Teare/Crunchbase News)",
-   "u": "https://www.techmeme.com/261008/p28#a261008p28",
-   "d": "2026-10-08T13:55:01.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "4db552bcbc647e21",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google debuts Google AI Edge Foresight, a local macOS note-taking app for meetings that uses its 740M-parameter EmbeddingGemma 2 model and Gemma 4 assistant (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261008/p27#a261008p27",
-   "d": "2026-10-08T13:45:11.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "44c5cdaeab9dd393",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI disrupts a Russian influence campaign tied to the Politology network that targeted schools, media, and foreign officials, and gives it a 5/6 impact score (Kevin Collier/NBC News)",
-   "u": "https://www.techmeme.com/261008/p26#a261008p26",
-   "d": "2026-10-08T13:40:00.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "1ae0016e83b88d83",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google Cloud unveils a universal Gemini agent to handle multi-day enterprise workflows in Workspace, Microsoft 365, and Slack that supports several AI models (Carl Franzen/VentureBeat)",
-   "u": "https://www.techmeme.com/261008/p25#a261008p25",
-   "d": "2026-10-08T13:25:01.000Z",
    "first": "2026-10-08T15:00:11.845Z"
   },
   {
@@ -72,14 +152,14 @@
    "first": "2026-10-08T15:00:11.845Z"
   },
   {
-   "id": "4a9a406f70658ad3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI retail trading agent startup Catalyst raised a $30M seed led by Sequoia and says a pilot generated hundreds of millions in trading volume over two weeks (Allie Garfinkle/Fortune)",
-   "u": "https://www.techmeme.com/261008/p23#a261008p23",
-   "d": "2026-10-08T12:35:00.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
+   "id": "65d85f989dc01281",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "u": "https://openai.com/index/pollo-ai",
+   "d": "2026-10-08T12:00:00.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
   },
   {
    "id": "87ff2c156e976a29",
@@ -89,16 +169,6 @@
    "t": "Life as it could be | Akarsh Kumar on Artificial Life",
    "u": "https://www.youtube.com/shorts/pniLY0I9VJQ",
    "d": "2026-10-08T11:34:31.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "caf81511a69120b1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis: planned and active data center investments in Finland surpass €67B, driven by AI demand, cool climate conditions, and renewable energy access (Kirsi Heikel/Bloomberg)",
-   "u": "https://www.techmeme.com/261008/p17#a261008p17",
-   "d": "2026-10-08T10:55:01.000Z",
    "first": "2026-10-08T15:00:11.845Z"
   },
   {
@@ -160,6 +230,46 @@
    "u": "https://tldr.tech/ai/2026-10-08",
    "d": "2026-10-08T00:00:00.000Z",
    "first": "2026-10-08T15:00:11.845Z"
+  },
+  {
+   "id": "fe59e3ebb142bc86",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Disrupting AI-enabled “false front” operations",
+   "u": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+   "d": "2026-10-08T00:00:00.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "55db05e650cd10b0",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Building on our commitment to American scientific discovery",
+   "u": "https://www.anthropic.com/news/genesis-mission-commitment",
+   "d": "2026-10-08T00:00:00.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "16d6c4a116e8d261",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Introducing the Anthropic Cyber Mission",
+   "u": "https://www.anthropic.com/news/anthropic-cyber-mission",
+   "d": "2026-10-08T00:00:00.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "b91960833ff3d7cc",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "2026 Usage Policy update",
+   "u": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "d": "2026-10-08T00:00:00.000Z",
+   "first": "2026-10-08T20:32:04.764Z"
   },
   {
    "id": "d9770756f49252bf",
@@ -872,16 +982,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "dd4d9685a43a9e04",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Albertsons Companies is reimagining retail from the inside out",
-   "u": "https://openai.com/index/albertsons-reimagining-retail",
-   "d": "2026-10-01T16:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "760cd3b1525a5fd4",
    "f": "transformer",
    "src": "Transformer",
@@ -938,16 +1038,6 @@
    "cat": "Newsletter",
    "t": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
    "u": "https://tldr.tech/ai/2026-10-01",
-   "d": "2026-10-01T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "44359e0b855ec02a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "u": "https://openai.com/index/the-den-family-social",
    "d": "2026-10-01T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
@@ -1029,16 +1119,6 @@
    "t": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
    "u": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
    "d": "2026-09-30T10:40:30.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "d6d932300cd4d04c",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Disrupting a coordinated model-distillation campaign",
-   "u": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-   "d": "2026-09-30T10:30:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1160,16 +1240,6 @@
    "u": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
    "d": "2026-09-29T09:03:41.000Z",
    "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
-   "id": "eb7fb2906175033d",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "How Did Anthropic Pull This Off?",
-   "u": "https://www.youtube.com/watch?v=T-E7rmD6rh4",
-   "d": "2026-09-29T05:04:38.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
   },
   {
    "id": "1c1e1f3229dfb6fd",
@@ -1329,16 +1399,6 @@
    "t": "AI News: Opus 5.5, GPT-6 Sol, Jev, Muse and More!",
    "u": "https://www.youtube.com/watch?v=aDpIra7NFuE",
    "d": "2026-09-26T02:37:49.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "f40a00700e081c2c",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
-   "u": "https://www.latent.space/p/openrouter",
-   "d": "2026-09-25T23:14:41.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1639,16 +1699,6 @@
    "t": "Computation and Data Movement for Inference",
    "u": "https://newsletter.semianalysis.com/p/computation-and-data-movement-for",
    "d": "2026-09-21T18:14:15.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "b982340ac06a4aad",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "This Robot Looks DEMONIC... On Purpose?",
-   "u": "https://www.youtube.com/shorts/rcUTZysF9s4",
-   "d": "2026-09-21T12:43:38.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2152,16 +2202,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "9e8f580381e6edbc",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Korea’s Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses",
-   "u": "https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign",
-   "d": "2026-09-01T20:14:32.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "56263e76b21f84f7",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -2392,16 +2432,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "13243c2f5bb42be8",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Improving Fable 5's biology safeguards",
-   "u": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-   "d": "2026-08-07T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "2dc8b1d3013dec25",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -2429,16 +2459,6 @@
    "t": "AI agents can't yet do open-ended AI research",
    "u": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
    "d": "2026-08-05T13:49:19.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "e977db93f0ba750c",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-   "u": "https://www.anthropic.com/news/tino-cuellar",
-   "d": "2026-08-04T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2489,16 +2509,6 @@
    "t": "The Long (Self-)Correction",
    "u": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2",
    "d": "2026-07-31T01:15:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "1bc3d2cd4bdac684",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Investigating three real-world incidents in our cybersecurity evaluations",
-   "u": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-   "d": "2026-07-30T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
