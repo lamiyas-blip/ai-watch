@@ -1,12 +1,72 @@
 {
- "generated": "2026-10-09T13:56:06.459Z",
+ "generated": "2026-10-09T19:08:51.363Z",
  "items": [
+  {
+   "id": "f6992f06b9df1a11",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
+   "u": "https://www.techmeme.com/261009/p20#a261009p20",
+   "d": "2026-10-09T17:35:02.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "82c99113480edf39",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots (Jeff John Roberts/Fortune)",
+   "u": "https://www.techmeme.com/261009/p17#a261009p17",
+   "d": "2026-10-09T16:15:01.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "013f95bb9aa8eb12",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: Haiku-5.5, Visual ChatGPT, Grok's New Trick, and more!",
+   "u": "https://www.youtube.com/watch?v=NUizyuGj-kE",
+   "d": "2026-10-09T15:00:01.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "a303e31e39eeb5f0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed (Rashi Shrivastava/Forbes)",
+   "u": "https://www.techmeme.com/261009/p15#a261009p15",
+   "d": "2026-10-09T14:55:01.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "5382e312923b42b9",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Democrats prepare to battle over AI regulation",
+   "u": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
+   "d": "2026-10-09T14:34:34.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "e72614f61dbfca70",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)",
+   "u": "https://www.techmeme.com/261009/p14#a261009p14",
+   "d": "2026-10-09T14:15:01.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
+  },
   {
    "id": "c324267d38073106",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating (Bloomberg)",
+   "t": "Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)",
    "u": "https://www.techmeme.com/261009/p13#a261009p13",
    "d": "2026-10-09T13:25:03.000Z",
    "first": "2026-10-09T13:56:06.459Z"
@@ -16,7 +76,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "The Chinese developer of ARTEX says it has converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)",
+   "t": "The Chinese developer of ARTEX says they have converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)",
    "u": "https://www.techmeme.com/261009/p11#a261009p11",
    "d": "2026-10-09T11:55:01.000Z",
    "first": "2026-10-09T13:56:06.459Z"
@@ -62,16 +122,6 @@
    "first": "2026-10-09T13:56:06.459Z"
   },
   {
-   "id": "7a72c5ed6ac97da8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but for violating \"clear policies on handling sensitive information\" (Michael Considine/CNBC)",
-   "u": "https://www.techmeme.com/261009/p5#a261009p5",
-   "d": "2026-10-09T08:50:01.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
    "id": "8feec7b042f5e219",
    "f": "openai-news",
    "src": "OpenAI",
@@ -82,14 +132,14 @@
    "first": "2026-10-09T13:56:06.459Z"
   },
   {
-   "id": "07d220ee07e33804",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
-   "u": "https://www.techmeme.com/261009/p2#a261009p2",
-   "d": "2026-10-09T05:05:01.000Z",
-   "first": "2026-10-09T06:53:03.679Z"
+   "id": "f50c9cb3ca57de55",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "u": "https://openai.com/index/asana-browser-agent",
+   "d": "2026-10-09T07:00:00.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
   },
   {
    "id": "c72e19dbb41e805d",
@@ -110,16 +160,6 @@
    "u": "https://www.youtube.com/shorts/o_gf-LEaOWw",
    "d": "2026-10-09T04:10:23.000Z",
    "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "bfbdeb65ec6f9db3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
-   "u": "https://www.techmeme.com/261009/p1#a261009p1",
-   "d": "2026-10-09T04:05:01.000Z",
-   "first": "2026-10-09T06:53:03.679Z"
   },
   {
    "id": "bce41b36acb1b8cb",
@@ -849,16 +889,6 @@
    "t": "The Myth of the Helpless Aztecs and Inca - Si Sheppard",
    "u": "https://www.youtube.com/shorts/IMRyQ4ro9lg",
    "d": "2026-10-02T23:57:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "8475a84e35ce68be",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "A model guide for the GPT-6 family",
-   "u": "https://openai.com/index/practical-guide-building-gpt-6",
-   "d": "2026-10-02T16:15:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1632,16 +1662,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "2d9f478362f83bcd",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Claude Opus 5.5 Didn’t Need to Go This Hard",
-   "u": "https://www.youtube.com/watch?v=0t-eWrGFZyA",
-   "d": "2026-09-22T22:30:04.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "e1fec14ceafb458b",
    "f": "transformer",
    "src": "Transformer",
@@ -2119,16 +2139,6 @@
    "t": "Drone WMDs Don’t Need Any New Technology",
    "u": "https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology",
    "d": "2026-09-06T21:28:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "141018831b7f712e",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Congress goes quiet as AI safety concerns mount",
-   "u": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow",
-   "d": "2026-09-04T16:01:58.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3105,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1020 > 1000"
+   "error": "Entity expansion limit exceeded: 1018 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3151,7 +3161,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1072 > 1000"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
