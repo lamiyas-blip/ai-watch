@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "d31a0fa2bb2a296c",
     "2c7f37a9e8d9f3b3",
     "7600e66f5b64560a",
     "a9aee6e4adacd6c5",
@@ -181,6 +182,7 @@
    "ids": [
     "816de960d25b1709",
     "65d85f989dc01281",
+    "cb2f3bc01e969bf5",
     "fe59e3ebb142bc86",
     "76acad3bff1db9be",
     "5704ea7f3b9de2d6",
@@ -257,6 +259,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "802e76b5ef838e43",
+    "170a6c715ad7cbf6",
     "b9a0c7c605bf645a",
     "d9dbba727f6321a7",
     "f70e6c6aacb53a47",
@@ -365,6 +369,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "bce41b36acb1b8cb",
     "5143fd23a0d28a57",
     "149f150400562a72",
     "1295ac880d0de350",
@@ -431,6 +436,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "f6929a94d9242922",
     "cfc069bc5da1664e",
     "29c73315fbfcb7e1",
     "3048bee766c3f774",

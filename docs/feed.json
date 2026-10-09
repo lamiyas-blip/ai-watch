@@ -1,12 +1,62 @@
 {
- "generated": "2026-10-08T20:32:04.764Z",
+ "generated": "2026-10-09T00:45:16.648Z",
  "items": [
+  {
+   "id": "bce41b36acb1b8cb",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+   "u": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+   "d": "2026-10-09T00:08:24.000Z",
+   "first": "2026-10-09T00:45:16.648Z"
+  },
+  {
+   "id": "f6929a94d9242922",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Silver Made Spain Poorer - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/f2g-3rYGHJE",
+   "d": "2026-10-09T00:01:37.000Z",
+   "first": "2026-10-09T00:45:16.648Z"
+  },
+  {
+   "id": "d31a0fa2bb2a296c",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] not much happened today",
+   "u": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+   "d": "2026-10-08T23:29:43.000Z",
+   "first": "2026-10-09T00:45:16.648Z"
+  },
+  {
+   "id": "802e76b5ef838e43",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)",
+   "u": "https://www.techmeme.com/261008/p49#a261008p49",
+   "d": "2026-10-08T23:01:29.000Z",
+   "first": "2026-10-09T00:45:16.648Z"
+  },
+  {
+   "id": "170a6c715ad7cbf6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)",
+   "u": "https://www.techmeme.com/261008/p47#a261008p47",
+   "d": "2026-10-08T20:40:01.000Z",
+   "first": "2026-10-09T00:45:16.648Z"
+  },
   {
    "id": "b9a0c7c605bf645a",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic launches OSS Scanner, a free opt-in vulnerability scanner for critical open-source projects; its AI-generated reports are sent without human review (Anthropic)",
+   "t": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review (Anthropic)",
    "u": "https://www.techmeme.com/261008/p45#a261008p45",
    "d": "2026-10-08T20:23:09.000Z",
    "first": "2026-10-08T20:32:04.764Z"
@@ -16,7 +66,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others (Sam Sabin/Axios)",
+   "t": "Anthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others (Sam Sabin/Axios)",
    "u": "https://www.techmeme.com/261008/p43#a261008p43",
    "d": "2026-10-08T19:30:41.000Z",
    "first": "2026-10-08T20:32:04.764Z"
@@ -52,16 +102,6 @@
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
-   "id": "dfbe9fd8872e09cb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs (Financial Times)",
-   "u": "https://www.techmeme.com/261008/p37#a261008p37",
-   "d": "2026-10-08T16:51:53.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
    "id": "2c7f37a9e8d9f3b3",
    "f": "latent-space",
    "src": "Latent Space",
@@ -69,36 +109,6 @@
    "t": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
    "u": "https://www.latent.space/p/periodic",
    "d": "2026-10-08T16:27:54.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "83abaeabe6077a3c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct (Aisha Malik/TechCrunch)",
-   "u": "https://www.techmeme.com/261008/p36#a261008p36",
-   "d": "2026-10-08T16:25:01.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "39a97246a73ce90c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
-   "u": "https://www.techmeme.com/261008/p35#a261008p35",
-   "d": "2026-10-08T16:20:02.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "da74e08952dcfef9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Hone, founded by former OpenAI and Cognition staffers to create AI agents that can help run a business, raised a $60M seed at a $285M valuation (Bloomberg)",
-   "u": "https://www.techmeme.com/261008/p32#a261008p32",
-   "d": "2026-10-08T16:01:39.000Z",
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
@@ -160,6 +170,16 @@
    "u": "https://openai.com/index/pollo-ai",
    "d": "2026-10-08T12:00:00.000Z",
    "first": "2026-10-08T20:32:04.764Z"
+  },
+  {
+   "id": "cb2f3bc01e969bf5",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "LegalOn halves Codex costs while maintaining development speed",
+   "u": "https://openai.com/index/legalon-halves-codex-costs",
+   "d": "2026-10-08T12:00:00.000Z",
+   "first": "2026-10-09T00:45:16.648Z"
   },
   {
    "id": "87ff2c156e976a29",
@@ -942,16 +962,6 @@
    "first": "2026-10-05T02:09:06.006Z"
   },
   {
-   "id": "6affbb956462ce9f",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "The eternal complement",
-   "u": "https://openai.com/index/the-eternal-complement",
-   "d": "2026-10-01T17:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "2bc3fc9466715098",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -969,16 +979,6 @@
    "t": "A big-tent or small-tent AI safety movement?",
    "u": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
    "d": "2026-10-01T16:34:51.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "a6116aa6f1f0b70c",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How did a few hundred Spanish soldiers topple two empires? – Si Sheppard",
-   "u": "https://www.youtube.com/watch?v=LwQQ7nBCGSs",
-   "d": "2026-10-01T16:00:01.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1212,16 +1212,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "f509360bfe2ff456",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Making AI an asset, not an expense",
-   "u": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-   "d": "2026-09-29T10:43:45.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "f02e380d50d6b6ba",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -1259,16 +1249,6 @@
    "t": "[AINews] Opus 5.5 is good at explainer videos",
    "u": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
    "d": "2026-09-29T02:44:29.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "5b0cf68933e465bc",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-   "u": "https://www.latent.space/p/thariq",
-   "d": "2026-09-29T01:48:18.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3105,7 +3085,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1016 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3133,7 +3113,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
