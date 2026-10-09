@@ -29,6 +29,7 @@
   "interconnects": {
    "init": true,
    "ids": [
+    "493d90e5f5216717",
     "dea9ad28e543d6ef",
     "70cba92deb0be88a",
     "9e0b64ff81ec13e1",
@@ -263,6 +264,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "573448efed80c6fc",
+    "e8dceaef3fd25ce1",
+    "62d631e594055328",
+    "ab305f121ebc7ecf",
     "f6992f06b9df1a11",
     "82c99113480edf39",
     "a303e31e39eeb5f0",

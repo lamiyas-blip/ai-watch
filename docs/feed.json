@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-09T19:08:51.363Z",
+ "generated": "2026-10-09T23:21:33.597Z",
  "items": [
+  {
+   "id": "573448efed80c6fc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Trump admin says it's now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
+   "u": "https://www.techmeme.com/261009/p29#a261009p29",
+   "d": "2026-10-09T23:05:01.000Z",
+   "first": "2026-10-09T23:21:33.597Z"
+  },
+  {
+   "id": "493d90e5f5216717",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "I expect rapid progress but not towards general superintelligence",
+   "u": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+   "d": "2026-10-09T21:33:47.000Z",
+   "first": "2026-10-09T23:21:33.597Z"
+  },
+  {
+   "id": "e8dceaef3fd25ce1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)",
+   "u": "https://www.techmeme.com/261009/p26#a261009p26",
+   "d": "2026-10-09T21:25:01.000Z",
+   "first": "2026-10-09T23:21:33.597Z"
+  },
+  {
+   "id": "62d631e594055328",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)",
+   "u": "https://www.techmeme.com/261009/p25#a261009p25",
+   "d": "2026-10-09T21:16:18.000Z",
+   "first": "2026-10-09T23:21:33.597Z"
+  },
+  {
+   "id": "ab305f121ebc7ecf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
+   "u": "https://www.techmeme.com/261009/p22#a261009p22",
+   "d": "2026-10-09T20:00:49.000Z",
+   "first": "2026-10-09T23:21:33.597Z"
+  },
   {
    "id": "f6992f06b9df1a11",
    "f": "techmeme",
@@ -50,66 +100,6 @@
    "u": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
    "d": "2026-10-09T14:34:34.000Z",
    "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
-   "id": "e72614f61dbfca70",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)",
-   "u": "https://www.techmeme.com/261009/p14#a261009p14",
-   "d": "2026-10-09T14:15:01.000Z",
-   "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
-   "id": "c324267d38073106",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)",
-   "u": "https://www.techmeme.com/261009/p13#a261009p13",
-   "d": "2026-10-09T13:25:03.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "b4fc4b5d5860b893",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The Chinese developer of ARTEX says they have converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)",
-   "u": "https://www.techmeme.com/261009/p11#a261009p11",
-   "d": "2026-10-09T11:55:01.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "78ecad31e6afaa96",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources detail Mark Zuckerberg's decision to launch Muse despite safety concerns, after seeing that AI startup Instinct's similar agent product gained traction (Eli Tan/New York Times)",
-   "u": "https://www.techmeme.com/261009/p9#a261009p9",
-   "d": "2026-10-09T11:05:00.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "19a507e18a33e00b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia commits $1B over five years to build out the US' \"capacity for super intelligence R&D\" in fields like quantum computing, healthcare, and energy security (Tobias Mann/The Register)",
-   "u": "https://www.techmeme.com/261009/p8#a261009p8",
-   "d": "2026-10-09T10:45:01.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "daf506363c0c7808",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A slew of cyberattacks hit Japanese companies in September, exposing the data of millions and prompting calls for security checks, as AI lowers hacking barriers (Sarah Hilton/Bloomberg)",
-   "u": "https://www.techmeme.com/261009/p7#a261009p7",
-   "d": "2026-10-09T10:01:12.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
   },
   {
    "id": "09087eed03418f32",
@@ -2482,16 +2472,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "1ea03888b7d82eff",
-   "f": "interconnects",
-   "src": "Interconnects",
-   "cat": "Newsletter",
-   "t": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
-   "u": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
-   "d": "2026-08-02T13:01:40.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "415c37eb8c072703",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -3115,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1018 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
