@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-09T00:45:16.648Z",
+ "generated": "2026-10-09T06:53:03.679Z",
  "items": [
+  {
+   "id": "07d220ee07e33804",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
+   "u": "https://www.techmeme.com/261009/p2#a261009p2",
+   "d": "2026-10-09T05:05:01.000Z",
+   "first": "2026-10-09T06:53:03.679Z"
+  },
+  {
+   "id": "bfbdeb65ec6f9db3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
+   "u": "https://www.techmeme.com/261009/p1#a261009p1",
+   "d": "2026-10-09T04:05:01.000Z",
+   "first": "2026-10-09T06:53:03.679Z"
+  },
   {
    "id": "bce41b36acb1b8cb",
    "f": "mit-tr",
@@ -62,26 +82,6 @@
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
-   "id": "d9dbba727f6321a7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic debuts the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site engineers, starting with CrowdStrike and others (Sam Sabin/Axios)",
-   "u": "https://www.techmeme.com/261008/p43#a261008p43",
-   "d": "2026-10-08T19:30:41.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "f70e6c6aacb53a47",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported (CNBC)",
-   "u": "https://www.techmeme.com/261008/p42#a261008p42",
-   "d": "2026-10-08T19:20:01.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
    "id": "2f0ed1d996b06fdf",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -89,16 +89,6 @@
    "t": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
    "u": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
    "d": "2026-10-08T17:46:05.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "76f109946494fba8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude; ending chats is \"the primary enforcement mechanism\" (Hayden Field/The Verge)",
-   "u": "https://www.techmeme.com/261008/p39#a261008p39",
-   "d": "2026-10-08T17:20:01.000Z",
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
@@ -3085,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1006 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3113,8 +3103,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3145,35 +3134,43 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3181,11 +3178,13 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
