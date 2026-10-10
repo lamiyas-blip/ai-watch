@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-10T08:46:16.299Z",
+ "generated": "2026-10-10T14:52:19.830Z",
  "items": [
+  {
+   "id": "c6df9c11285a3105",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+   "u": "https://www.latent.space/p/standard-bots",
+   "d": "2026-10-10T14:04:11.000Z",
+   "first": "2026-10-10T14:52:19.830Z"
+  },
+  {
+   "id": "02f69ddd2134dcda",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261010/p12#a261010p12",
+   "d": "2026-10-10T13:50:00.000Z",
+   "first": "2026-10-10T14:52:19.830Z"
+  },
+  {
+   "id": "25b237f633f2a8d4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)",
+   "u": "https://www.techmeme.com/261010/p11#a261010p11",
+   "d": "2026-10-10T12:40:01.000Z",
+   "first": "2026-10-10T14:52:19.830Z"
+  },
   {
    "id": "783a9f7da940e18a",
    "f": "latent-space",
@@ -1219,16 +1249,6 @@
    "t": "AI Made a Game I’d ACTUALLY Play",
    "u": "https://www.youtube.com/shorts/c7twMUavy5Q",
    "d": "2026-09-30T12:15:21.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "dbb6b20891b46084",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-   "u": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
-   "d": "2026-09-30T05:53:10.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3103,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3121,7 +3140,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1018 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
