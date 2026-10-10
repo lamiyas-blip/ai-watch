@@ -1,6 +1,76 @@
 {
- "generated": "2026-10-10T02:28:04.071Z",
+ "generated": "2026-10-10T08:46:16.299Z",
  "items": [
+  {
+   "id": "783a9f7da940e18a",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+   "u": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+   "d": "2026-10-10T06:45:57.000Z",
+   "first": "2026-10-10T08:46:16.299Z"
+  },
+  {
+   "id": "ad42c103890ce23e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)",
+   "u": "https://www.techmeme.com/261010/p8#a261010p8",
+   "d": "2026-10-10T06:35:01.000Z",
+   "first": "2026-10-10T08:46:16.299Z"
+  },
+  {
+   "id": "0610d0fad6423c7c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)",
+   "u": "https://www.techmeme.com/261010/p6#a261010p6",
+   "d": "2026-10-10T06:15:00.000Z",
+   "first": "2026-10-10T08:46:16.299Z"
+  },
+  {
+   "id": "324baae6f455ce3f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+   "u": "https://www.techmeme.com/261010/p3#a261010p3",
+   "d": "2026-10-10T05:20:01.000Z",
+   "first": "2026-10-10T08:46:16.299Z"
+  },
+  {
+   "id": "fd3ff1c617f0260d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits (Nik Popli/Time)",
+   "u": "https://www.techmeme.com/261010/p1#a261010p1",
+   "d": "2026-10-10T05:05:00.000Z",
+   "first": "2026-10-10T08:46:16.299Z"
+  },
+  {
+   "id": "9db1fcc86cac9f51",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "What Most People Get Wrong About Evolution | Akarsh Kumar",
+   "u": "https://www.youtube.com/watch?v=615B5nyMFPk",
+   "d": "2026-10-10T04:31:57.000Z",
+   "first": "2026-10-10T08:46:16.299Z"
+  },
+  {
+   "id": "60759c572fd802d0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)",
+   "u": "https://www.techmeme.com/261009/p35#a261009p35",
+   "d": "2026-10-10T03:30:01.000Z",
+   "first": "2026-10-10T08:46:16.299Z"
+  },
   {
    "id": "c0e835aca222e62a",
    "f": "yt-matthew-berman",
@@ -32,16 +102,6 @@
    "first": "2026-10-10T02:28:04.071Z"
   },
   {
-   "id": "573448efed80c6fc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Trump admin says it's now mandating AI companies \"immediately disclose incidents involving their models\" and move swiftly to remedy harm from security incidents (Axios)",
-   "u": "https://www.techmeme.com/261009/p29#a261009p29",
-   "d": "2026-10-09T23:05:01.000Z",
-   "first": "2026-10-09T23:21:33.597Z"
-  },
-  {
    "id": "493d90e5f5216717",
    "f": "interconnects",
    "src": "Interconnects",
@@ -50,46 +110,6 @@
    "u": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
    "d": "2026-10-09T21:33:47.000Z",
    "first": "2026-10-09T23:21:33.597Z"
-  },
-  {
-   "id": "e8dceaef3fd25ce1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event (Maria Curi/Axios)",
-   "u": "https://www.techmeme.com/261009/p26#a261009p26",
-   "d": "2026-10-09T21:25:01.000Z",
-   "first": "2026-10-09T23:21:33.597Z"
-  },
-  {
-   "id": "62d631e594055328",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: as Google prepares to roll out its Gemini 4 Argon, staff are testing a new version internally named Carbon; one staffer says it \"feels like Opus 5.5\" (Hugh Langley/Business Insider)",
-   "u": "https://www.techmeme.com/261009/p25#a261009p25",
-   "d": "2026-10-09T21:16:18.000Z",
-   "first": "2026-10-09T23:21:33.597Z"
-  },
-  {
-   "id": "ab305f121ebc7ecf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
-   "u": "https://www.techmeme.com/261009/p22#a261009p22",
-   "d": "2026-10-09T20:00:49.000Z",
-   "first": "2026-10-09T23:21:33.597Z"
-  },
-  {
-   "id": "f6992f06b9df1a11",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
-   "u": "https://www.techmeme.com/261009/p20#a261009p20",
-   "d": "2026-10-09T17:35:02.000Z",
-   "first": "2026-10-09T19:08:51.363Z"
   },
   {
    "id": "dbb778e3fcf6b8c7",
@@ -1302,16 +1322,6 @@
    "first": "2026-10-05T02:09:06.006Z"
   },
   {
-   "id": "1c1e1f3229dfb6fd",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-   "u": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-   "d": "2026-09-29T02:55:27.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "c771ddbf79ad3999",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -1379,16 +1389,6 @@
    "t": "Reward hacking… or just fixing a bug? #podcast",
    "u": "https://www.youtube.com/shorts/qUlfKYGP-vI",
    "d": "2026-09-27T02:16:03.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "e711d244f1fd5875",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
-   "u": "https://www.youtube.com/watch?v=yB6_iFGTq9k",
-   "d": "2026-09-26T19:32:30.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3103,7 +3103,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",

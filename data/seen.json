@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "783a9f7da940e18a",
     "655137d0691955c2",
     "d31a0fa2bb2a296c",
     "2c7f37a9e8d9f3b3",
@@ -265,6 +266,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "ad42c103890ce23e",
+    "0610d0fad6423c7c",
+    "324baae6f455ce3f",
+    "fd3ff1c617f0260d",
+    "60759c572fd802d0",
     "573448efed80c6fc",
     "e8dceaef3fd25ce1",
     "62d631e594055328",
@@ -478,6 +484,7 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "9db1fcc86cac9f51",
     "87ff2c156e976a29",
     "7e4033a56dcdb463",
     "30e23a186263f7c1",
