@@ -1,12 +1,52 @@
 {
- "generated": "2026-10-10T19:00:09.059Z",
+ "generated": "2026-10-10T22:15:38.983Z",
  "items": [
+  {
+   "id": "b281e7f3b14e8cde",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+   "u": "https://www.latent.space/p/nyc2026",
+   "d": "2026-10-10T22:07:17.000Z",
+   "first": "2026-10-10T22:15:38.983Z"
+  },
+  {
+   "id": "6f4546ccd9b69913",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
+   "u": "https://www.techmeme.com/261010/p17#a261010p17",
+   "d": "2026-10-10T19:45:00.000Z",
+   "first": "2026-10-10T22:15:38.983Z"
+  },
+  {
+   "id": "34d5825a172c2490",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)",
+   "u": "https://www.techmeme.com/261010/p16#a261010p16",
+   "d": "2026-10-10T19:08:43.000Z",
+   "first": "2026-10-10T22:15:38.983Z"
+  },
+  {
+   "id": "83cf3c18c93b7384",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/hTHPsAOEIWM",
+   "d": "2026-10-10T18:49:05.000Z",
+   "first": "2026-10-10T22:15:38.983Z"
+  },
   {
    "id": "32569f2dcdac1b62",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "Software is dead",
+   "t": "Everything has been solved",
    "u": "https://www.youtube.com/watch?v=cX2kD2yQf88",
    "d": "2026-10-10T18:42:01.000Z",
    "first": "2026-10-10T19:00:09.059Z"
@@ -79,26 +119,6 @@
    "t": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)",
    "u": "https://www.techmeme.com/261010/p6#a261010p6",
    "d": "2026-10-10T06:15:00.000Z",
-   "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
-   "id": "324baae6f455ce3f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
-   "u": "https://www.techmeme.com/261010/p3#a261010p3",
-   "d": "2026-10-10T05:20:01.000Z",
-   "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
-   "id": "fd3ff1c617f0260d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits (Nik Popli/Time)",
-   "u": "https://www.techmeme.com/261010/p1#a261010p1",
-   "d": "2026-10-10T05:05:00.000Z",
    "first": "2026-10-10T08:46:16.299Z"
   },
   {
@@ -952,16 +972,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "3d96e49d89cc934e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "The Myth of the Helpless Aztecs and Inca - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/IMRyQ4ro9lg",
-   "d": "2026-10-02T23:57:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "b329f504bf386f28",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1189,16 +1199,6 @@
    "t": "Barclays scales Claude to upgrade operations and improve client experience",
    "u": "https://www.anthropic.com/news/barclays-scales-claude",
    "d": "2026-10-01T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "a1bd73a0649109e4",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-   "u": "https://www.latent.space/p/devday-2026",
-   "d": "2026-09-30T22:23:40.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3141,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1008 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
