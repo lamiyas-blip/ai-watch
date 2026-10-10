@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-10T14:52:19.830Z",
+ "generated": "2026-10-10T19:00:09.059Z",
  "items": [
+  {
+   "id": "32569f2dcdac1b62",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Software is dead",
+   "u": "https://www.youtube.com/watch?v=cX2kD2yQf88",
+   "d": "2026-10-10T18:42:01.000Z",
+   "first": "2026-10-10T19:00:09.059Z"
+  },
+  {
+   "id": "6e69ddbe7304a1b2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access (CBS News)",
+   "u": "https://www.techmeme.com/261010/p14#a261010p14",
+   "d": "2026-10-10T16:50:11.000Z",
+   "first": "2026-10-10T19:00:09.059Z"
+  },
   {
    "id": "c6df9c11285a3105",
    "f": "latent-space",
@@ -89,16 +109,6 @@
    "t": "What Most People Get Wrong About Evolution | Akarsh Kumar",
    "u": "https://www.youtube.com/watch?v=615B5nyMFPk",
    "d": "2026-10-10T04:31:57.000Z",
-   "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
-   "id": "60759c572fd802d0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)",
-   "u": "https://www.techmeme.com/261009/p35#a261009p35",
-   "d": "2026-10-10T03:30:01.000Z",
    "first": "2026-10-10T08:46:16.299Z"
   },
   {
@@ -880,16 +890,6 @@
    "u": "https://www.youtube.com/shorts/j7AgSzNlRBk",
    "d": "2026-10-04T20:57:04.000Z",
    "first": "2026-10-04T23:19:47.687Z"
-  },
-  {
-   "id": "db61bdcba7a557b9",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "DeepSeek Painted My Portrait",
-   "u": "https://www.youtube.com/shorts/jo70OkhryIA",
-   "d": "2026-10-04T20:05:25.000Z",
-   "first": "2026-10-04T20:16:58.176Z"
   },
   {
    "id": "9cf7ba359d01b775",
@@ -3123,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1018 > 1000"
+   "error": "Entity expansion limit exceeded: 1008 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
