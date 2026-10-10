@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "655137d0691955c2",
     "d31a0fa2bb2a296c",
     "2c7f37a9e8d9f3b3",
     "7600e66f5b64560a",
@@ -458,6 +459,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "de6750da575dfd81",
     "f6929a94d9242922",
     "cfc069bc5da1664e",
     "29c73315fbfcb7e1",
@@ -573,6 +575,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "c0e835aca222e62a",
     "ffc43651d897e8b5",
     "9a9c81f8d90b997b",
     "d9770756f49252bf",
@@ -608,6 +611,8 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "dbb778e3fcf6b8c7",
+    "3a45a28d599f74ed",
     "775cf248b141b302",
     "98da916ec2e56096",
     "9d6ce57e5ca36cb8",

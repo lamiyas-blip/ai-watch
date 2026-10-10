@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-09T23:21:33.597Z",
+ "generated": "2026-10-10T02:28:04.071Z",
  "items": [
+  {
+   "id": "c0e835aca222e62a",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "AI Is Recreating Photoshop and Other Adobe Apps",
+   "u": "https://www.youtube.com/shorts/TqxHhuOve2Q",
+   "d": "2026-10-10T00:41:09.000Z",
+   "first": "2026-10-10T02:28:04.071Z"
+  },
+  {
+   "id": "655137d0691955c2",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+   "u": "https://www.latent.space/p/biohub-deepmind",
+   "d": "2026-10-10T00:31:26.000Z",
+   "first": "2026-10-10T02:28:04.071Z"
+  },
+  {
+   "id": "de6750da575dfd81",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/BWnygfn04qA",
+   "d": "2026-10-10T00:00:15.000Z",
+   "first": "2026-10-10T02:28:04.071Z"
+  },
   {
    "id": "573448efed80c6fc",
    "f": "techmeme",
@@ -62,14 +92,14 @@
    "first": "2026-10-09T19:08:51.363Z"
   },
   {
-   "id": "82c99113480edf39",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "dbb778e3fcf6b8c7",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots (Jeff John Roberts/Fortune)",
-   "u": "https://www.techmeme.com/261009/p17#a261009p17",
-   "d": "2026-10-09T16:15:01.000Z",
-   "first": "2026-10-09T19:08:51.363Z"
+   "t": "Typesafe AI raises $870M at $7.5B",
+   "u": "https://typesafe.ai/blog/series-ai",
+   "d": "2026-10-09T17:02:31.000Z",
+   "first": "2026-10-10T02:28:04.071Z"
   },
   {
    "id": "013f95bb9aa8eb12",
@@ -82,16 +112,6 @@
    "first": "2026-10-09T19:08:51.363Z"
   },
   {
-   "id": "a303e31e39eeb5f0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed (Rashi Shrivastava/Forbes)",
-   "u": "https://www.techmeme.com/261009/p15#a261009p15",
-   "d": "2026-10-09T14:55:01.000Z",
-   "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
    "id": "5382e312923b42b9",
    "f": "transformer",
    "src": "Transformer",
@@ -100,6 +120,16 @@
    "u": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
    "d": "2026-10-09T14:34:34.000Z",
    "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "3a45a28d599f74ed",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+   "u": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "d": "2026-10-09T11:03:48.000Z",
+   "first": "2026-10-10T02:28:04.071Z"
   },
   {
    "id": "09087eed03418f32",
@@ -992,16 +1022,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "766c71c75d51294e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Conquistadors Conquered the Aztecs - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/KWluK74cNzs",
-   "d": "2026-10-01T22:22:58.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "6c4aae1257692431",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -1040,16 +1060,6 @@
    "u": "https://stoppels.ch/goalposts/",
    "d": "2026-10-01T17:32:43.000Z",
    "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
-   "id": "2bc3fc9466715098",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Muse from Meta Can Work Through Your To-Do List",
-   "u": "https://www.youtube.com/shorts/OODvXcQJyVo",
-   "d": "2026-10-01T16:59:24.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
   },
   {
    "id": "eb9af7714c8e004a",
@@ -1302,16 +1312,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "9bc296cde57f6cc1",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Opus 5.5 is good at explainer videos",
-   "u": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-   "d": "2026-09-29T02:44:29.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "c771ddbf79ad3999",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -1332,16 +1332,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "930469005f5355cc",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "It's Time to Investigate the AI Labs",
-   "u": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-   "d": "2026-09-28T19:53:35.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "50785fc8317ccc28",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -1360,16 +1350,6 @@
    "u": "https://www.youtube.com/shorts/hx42whM7NsY",
    "d": "2026-09-28T17:07:47.000Z",
    "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "70cf684e9297e8e7",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "The problem is not AI code, but not knowing about system architecture or intent",
-   "u": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-   "d": "2026-09-28T16:11:42.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "7f2a50fec861c655",
@@ -3095,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1016 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,8 +3103,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3141,7 +3120,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
