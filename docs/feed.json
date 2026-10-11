@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-11T19:02:37.957Z",
+ "generated": "2026-10-11T23:00:13.530Z",
  "items": [
+  {
+   "id": "d0fb2d643fac8958",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261011/p11#a261011p11",
+   "d": "2026-10-11T21:20:01.000Z",
+   "first": "2026-10-11T23:00:13.530Z"
+  },
+  {
+   "id": "0a040936953bed3c",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/Q3nhfMQLZdQ",
+   "d": "2026-10-11T20:54:26.000Z",
+   "first": "2026-10-11T23:00:13.530Z"
+  },
+  {
+   "id": "abf2d210d0656678",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)",
+   "u": "https://www.techmeme.com/261011/p10#a261011p10",
+   "d": "2026-10-11T20:45:01.000Z",
+   "first": "2026-10-11T23:00:13.530Z"
+  },
   {
    "id": "84c97404f7046ec1",
    "f": "lesswrong",
@@ -119,16 +149,6 @@
    "t": "Everything has been solved",
    "u": "https://www.youtube.com/watch?v=cX2kD2yQf88",
    "d": "2026-10-10T18:42:01.000Z",
-   "first": "2026-10-10T19:00:09.059Z"
-  },
-  {
-   "id": "6e69ddbe7304a1b2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access (CBS News)",
-   "u": "https://www.techmeme.com/261010/p14#a261010p14",
-   "d": "2026-10-10T16:50:11.000Z",
    "first": "2026-10-10T19:00:09.059Z"
   },
   {
@@ -990,16 +1010,6 @@
    "u": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
    "d": "2026-10-03T22:18:13.000Z",
    "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
-   "id": "05b64c59da0e866e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How 168 Men Captured the Inca Emperor - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/5QsADHyOU2w",
-   "d": "2026-10-03T20:22:31.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
   },
   {
    "id": "ee5b133140d7e7f4",
@@ -3141,7 +3151,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1024 > 1000"
+   "error": "Entity expansion limit exceeded: 1004 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3155,7 +3165,8 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3163,7 +3174,8 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3171,7 +3183,8 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3179,7 +3192,8 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3195,7 +3209,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
