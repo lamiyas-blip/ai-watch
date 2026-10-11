@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T22:15:38.983Z",
+ "generated": "2026-10-11T01:05:02.136Z",
  "items": [
   {
    "id": "b281e7f3b14e8cde",
@@ -92,6 +92,16 @@
    "first": "2026-10-10T14:52:19.830Z"
   },
   {
+   "id": "c8e4906044e0e29e",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "u": "https://github.com/rociiu/talorys",
+   "d": "2026-10-10T10:52:09.000Z",
+   "first": "2026-10-11T01:05:02.136Z"
+  },
+  {
    "id": "783a9f7da940e18a",
    "f": "latent-space",
    "src": "Latent Space",
@@ -160,6 +170,16 @@
    "u": "https://www.youtube.com/shorts/BWnygfn04qA",
    "d": "2026-10-10T00:00:15.000Z",
    "first": "2026-10-10T02:28:04.071Z"
+  },
+  {
+   "id": "090268d1ffb4382e",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+   "u": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+   "d": "2026-10-09T22:00:35.000Z",
+   "first": "2026-10-11T01:05:02.136Z"
   },
   {
    "id": "493d90e5f5216717",
@@ -1292,16 +1312,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "e14d1b54bacb3163",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "DraftKings is using AI to behaviorally target chronic gamblers",
-   "u": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-   "d": "2026-09-29T16:30:48.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "760b0bd76227e5f4",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -1330,16 +1340,6 @@
    "u": "https://www.youtube.com/shorts/tQ3nMI-anxU",
    "d": "2026-09-29T09:50:26.000Z",
    "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "d3b050527f2258ba",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-   "u": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-   "d": "2026-09-29T09:03:41.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "c771ddbf79ad3999",
@@ -3095,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1016 > 1000"
+   "error": "Entity expansion limit exceeded: 1017 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3141,7 +3140,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1018 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3155,27 +3154,33 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3183,19 +3188,23 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
