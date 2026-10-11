@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-11T01:05:02.136Z",
+ "generated": "2026-10-11T07:23:26.712Z",
  "items": [
+  {
+   "id": "a0f530db0c985167",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M (Meir Orbach/CTech)",
+   "u": "https://www.techmeme.com/261011/p4#a261011p4",
+   "d": "2026-10-11T05:50:01.000Z",
+   "first": "2026-10-11T07:23:26.712Z"
+  },
+  {
+   "id": "9fc9c1bb5d024674",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models (Achint Srivastava/Command Line)",
+   "u": "https://www.techmeme.com/261011/p2#a261011p2",
+   "d": "2026-10-11T05:05:02.000Z",
+   "first": "2026-10-11T07:23:26.712Z"
+  },
   {
    "id": "b281e7f3b14e8cde",
    "f": "latent-space",
@@ -16,7 +36,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
+   "t": "Hundreds of old games were decompiled and ported to run on browsers in recent weeks, driven by Claude Opus 5.5; titles like GTA: Vice City and Halo: CE run well (Lewis Parker/Kotaku)",
    "u": "https://www.techmeme.com/261010/p17#a261010p17",
    "d": "2026-10-10T19:45:00.000Z",
    "first": "2026-10-10T22:15:38.983Z"
@@ -109,26 +129,6 @@
    "t": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
    "u": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
    "d": "2026-10-10T06:45:57.000Z",
-   "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
-   "id": "ad42c103890ce23e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)",
-   "u": "https://www.techmeme.com/261010/p8#a261010p8",
-   "d": "2026-10-10T06:35:01.000Z",
-   "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
-   "id": "0610d0fad6423c7c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)",
-   "u": "https://www.techmeme.com/261010/p6#a261010p6",
-   "d": "2026-10-10T06:15:00.000Z",
    "first": "2026-10-10T08:46:16.299Z"
   },
   {
@@ -3123,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1018 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3154,33 +3155,27 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3188,23 +3183,19 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
