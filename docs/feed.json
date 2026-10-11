@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-11T07:23:26.712Z",
+ "generated": "2026-10-11T14:14:01.943Z",
  "items": [
+  {
+   "id": "bea330a3c45cafab",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)",
+   "u": "https://www.techmeme.com/261011/p6#a261011p6",
+   "d": "2026-10-11T13:00:51.000Z",
+   "first": "2026-10-11T14:14:01.943Z"
+  },
+  {
+   "id": "089abce35ee3b621",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "AI Coding Is a Slot Machine: Loss Disguised as a Win | Jeremy Howard",
+   "u": "https://www.youtube.com/shorts/DVRMDoYhVBI",
+   "d": "2026-10-11T09:19:59.000Z",
+   "first": "2026-10-11T14:14:01.943Z"
+  },
   {
    "id": "a0f530db0c985167",
    "f": "techmeme",
@@ -1399,16 +1419,6 @@
    "t": "Muse manifesto 📜, OpenAI training pause 🚨, trading compute 🤝",
    "u": "https://tldr.tech/ai/2026-09-28",
    "d": "2026-09-28T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "aa06d89d2df27d4a",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Reward hacking… or just fixing a bug? #podcast",
-   "u": "https://www.youtube.com/shorts/qUlfKYGP-vI",
-   "d": "2026-09-27T02:16:03.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3123,8 +3133,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3141,7 +3150,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
