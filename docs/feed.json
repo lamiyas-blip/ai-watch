@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-11T14:14:01.943Z",
+ "generated": "2026-10-11T19:02:37.957Z",
  "items": [
+  {
+   "id": "84c97404f7046ec1",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "A critical look at Lean4",
+   "u": "https://www.lesswrong.com/posts/zHhGa3iQBQcdSifFL/a-critical-look-at-lean4-1",
+   "d": "2026-10-11T18:34:40.000Z",
+   "first": "2026-10-11T19:02:37.957Z"
+  },
+  {
+   "id": "9c02b275bf810b73",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
+   "u": "https://www.techmeme.com/261011/p9#a261011p9",
+   "d": "2026-10-11T18:15:02.000Z",
+   "first": "2026-10-11T19:02:37.957Z"
+  },
+  {
+   "id": "37db21f3e190886f",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "DeepSeek Solved AI’s Memory Problem",
+   "u": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+   "d": "2026-10-11T16:53:17.000Z",
+   "first": "2026-10-11T19:02:37.957Z"
+  },
   {
    "id": "bea330a3c45cafab",
    "f": "techmeme",
@@ -109,26 +139,6 @@
    "t": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
    "u": "https://www.latent.space/p/standard-bots",
    "d": "2026-10-10T14:04:11.000Z",
-   "first": "2026-10-10T14:52:19.830Z"
-  },
-  {
-   "id": "02f69ddd2134dcda",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261010/p12#a261010p12",
-   "d": "2026-10-10T13:50:00.000Z",
-   "first": "2026-10-10T14:52:19.830Z"
-  },
-  {
-   "id": "25b237f633f2a8d4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)",
-   "u": "https://www.techmeme.com/261010/p11#a261010p11",
-   "d": "2026-10-10T12:40:01.000Z",
    "first": "2026-10-10T14:52:19.830Z"
   },
   {
@@ -2112,16 +2122,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "6c1142c0a031ce3d",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "GPT-6 Astra Changes Everything",
-   "u": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-   "d": "2026-09-08T08:24:27.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "5db1516d97d92bac",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2249,16 +2249,6 @@
    "t": "Improving our alignment and security efforts",
    "u": "https://www.anthropic.com/news/improving-alignment-security-efforts",
    "d": "2026-08-31T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "b41ed0abac4f31a8",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident",
-   "u": "https://www.lesswrong.com/posts/nB8KKapnWGBXtKKiM/brief-independent-investigation-of-agents-behavior-reasoning",
-   "d": "2026-08-29T17:35:50.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3133,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3150,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "Entity expansion limit exceeded: 1024 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
