@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-11T23:00:13.530Z",
+ "generated": "2026-10-12T02:30:54.916Z",
  "items": [
+  {
+   "id": "33d3a37dbcf5f0b2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating (Heather Landi/Fierce Healthcare)",
+   "u": "https://www.techmeme.com/261011/p13#a261011p13",
+   "d": "2026-10-12T00:45:00.000Z",
+   "first": "2026-10-12T02:30:54.916Z"
+  },
+  {
+   "id": "d6615714fcae9d32",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
+   "u": "https://www.techmeme.com/261011/p12#a261011p12",
+   "d": "2026-10-11T23:50:02.000Z",
+   "first": "2026-10-12T02:30:54.916Z"
+  },
   {
    "id": "d0fb2d643fac8958",
    "f": "techmeme",
@@ -109,26 +129,6 @@
    "t": "[Subscriber Exclusive] NYC Subscriber Meetups!",
    "u": "https://www.latent.space/p/nyc2026",
    "d": "2026-10-10T22:07:17.000Z",
-   "first": "2026-10-10T22:15:38.983Z"
-  },
-  {
-   "id": "6f4546ccd9b69913",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Hundreds of old games were decompiled and ported to run on browsers in recent weeks, driven by Claude Opus 5.5; titles like GTA: Vice City and Halo: CE run well (Lewis Parker/Kotaku)",
-   "u": "https://www.techmeme.com/261010/p17#a261010p17",
-   "d": "2026-10-10T19:45:00.000Z",
-   "first": "2026-10-10T22:15:38.983Z"
-  },
-  {
-   "id": "34d5825a172c2490",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)",
-   "u": "https://www.techmeme.com/261010/p16#a261010p16",
-   "d": "2026-10-10T19:08:43.000Z",
    "first": "2026-10-10T22:15:38.983Z"
   },
   {
@@ -3170,7 +3170,8 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3184,11 +3185,12 @@
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 500"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3197,15 +3199,18 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
