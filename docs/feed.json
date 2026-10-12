@@ -1,75 +1,125 @@
 {
- "generated": "2026-10-12T09:54:18.432Z",
+ "generated": "2026-10-12T19:27:58.641Z",
  "items": [
   {
-   "id": "f86db380ae4a5e5b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Christian leaders are weighing in on AI earlier than they did with other tech, as AI leaders' talk of creating a new consciousness fuels religious concerns (Tim Higgins/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261012/p10#a261012p10",
-   "d": "2026-10-12T09:30:01.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
+   "id": "0c0782f72663c32d",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+   "u": "https://www.latent.space/p/claude-dynamic-workflows",
+   "d": "2026-10-12T18:18:17.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "8262138ff95b0f07",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "X has re-found its footing under Elon Musk, as it continues to host more interesting discussions on AI and other fun and smart topics than rival platforms (John Gruber/Daring Fireball)",
-   "u": "https://www.techmeme.com/261012/p9#a261012p9",
-   "d": "2026-10-12T09:05:02.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
+   "id": "b154fec417e0fe7a",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/RUoY5GCdONY",
+   "d": "2026-10-12T17:40:51.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "a3899ce06474a0a8",
+   "id": "62e77407615553d8",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "US soldiers using AI tech during a July exercise say they encountered issues like drone overheating, highlighting challenges in the Army's modernization effort (Heather Somerville/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261012/p8#a261012p8",
-   "d": "2026-10-12T08:45:01.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
+   "t": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios)",
+   "u": "https://www.techmeme.com/261012/p34#a261012p34",
+   "d": "2026-10-12T17:25:10.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "671b557516bc8a78",
+   "id": "ac136c1e3dcebc73",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A look at China's bid to turn excess wind and solar energy into an AI edge via a $3.9T grid buildout through 2049, as ~9% of renewable output was wasted in 2026 (Bloomberg)",
-   "u": "https://www.techmeme.com/261012/p5#a261012p5",
-   "d": "2026-10-12T07:45:00.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
+   "t": "Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse\" (Robert Hart/The Verge)",
+   "u": "https://www.techmeme.com/261012/p33#a261012p33",
+   "d": "2026-10-12T17:20:01.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "e4a5c9715249ff7e",
+   "id": "e745d56f44963231",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: the US restores the UK AISI's access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month (Tony Diver/Telegraph)",
-   "u": "https://www.techmeme.com/261012/p4#a261012p4",
-   "d": "2026-10-12T05:40:00.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
+   "t": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown (Hannah Murphy/Financial Times)",
+   "u": "https://www.techmeme.com/261012/p32#a261012p32",
+   "d": "2026-10-12T17:15:01.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "249acba69193c91e",
+   "id": "a7e6b2fc6d1f7ca6",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)",
-   "u": "https://www.techmeme.com/261012/p3#a261012p3",
-   "d": "2026-10-12T05:25:00.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
+   "t": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
+   "u": "https://www.techmeme.com/261012/p31#a261012p31",
+   "d": "2026-10-12T17:00:13.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "78cf693160dabc5e",
+   "id": "e15af56c368872ab",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "I'm Rebuilding Super Mario World With AI",
+   "u": "https://www.youtube.com/shorts/FTaPMTB-LxI",
+   "d": "2026-10-12T16:21:04.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
+  },
+  {
+   "id": "4a5a717bcc06fe51",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Why aren't AI companies being charged for hacking?",
+   "u": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+   "d": "2026-10-12T14:52:37.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
+  },
+  {
+   "id": "9fae0df87cc4f018",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Qualcomm CEO Cristiano Amon says AI companies are \"starting to do phones\" and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 (Alex Heath/Sources)",
-   "u": "https://www.techmeme.com/261011/p15#a261011p15",
-   "d": "2026-10-12T02:55:00.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
+   "t": "How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it cheaper and easier to run fake investment schemes and other scams (Bloomberg)",
+   "u": "https://www.techmeme.com/261012/p28#a261012p28",
+   "d": "2026-10-12T14:50:00.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
+  },
+  {
+   "id": "7be5847a76ea7e06",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction (Lynn Doan/Bloomberg)",
+   "u": "https://www.techmeme.com/261012/p24#a261012p24",
+   "d": "2026-10-12T13:55:13.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
+  },
+  {
+   "id": "c2e2c16ef7c7476c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of Microsoft EVP of Copilot Charles Lamanna, a potential Satya Nadella successor; a source says Microsoft is on track to pay Anthropic $2B+ per year (Aaron Holmes/The Information)",
+   "u": "https://www.techmeme.com/261012/p23#a261012p23",
+   "d": "2026-10-12T13:45:00.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
+  },
+  {
+   "id": "4f7eaf6c37401d75",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "QGIS: No AI contributions permitted",
+   "u": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+   "d": "2026-10-12T11:22:24.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
    "id": "5ab94baefeab8b53",
@@ -82,14 +132,14 @@
    "first": "2026-10-12T09:54:18.432Z"
   },
   {
-   "id": "33d3a37dbcf5f0b2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating (Heather Landi/Fierce Healthcare)",
-   "u": "https://www.techmeme.com/261011/p13#a261011p13",
-   "d": "2026-10-12T00:45:00.000Z",
-   "first": "2026-10-12T02:30:54.916Z"
+   "id": "22909fc0ae06bd43",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Gemini 4 Carbon 🧠, Nvidia weighs Reflection acquihire 💰, decision model race 🤖",
+   "u": "https://tldr.tech/ai/2026-10-12",
+   "d": "2026-10-12T00:00:00.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
    "id": "0a040936953bed3c",
@@ -130,6 +180,16 @@
    "u": "https://www.youtube.com/shorts/DVRMDoYhVBI",
    "d": "2026-10-11T09:19:59.000Z",
    "first": "2026-10-11T14:14:01.943Z"
+  },
+  {
+   "id": "387dc9a4271ed24a",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "500B tokens later: Letting AI agents decompile a first-person shooter",
+   "u": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+   "d": "2026-10-11T02:02:38.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
    "id": "b281e7f3b14e8cde",
@@ -250,6 +310,16 @@
    "u": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
    "d": "2026-10-09T21:33:47.000Z",
    "first": "2026-10-09T23:21:33.597Z"
+  },
+  {
+   "id": "c4f1e6481a94acf5",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+   "u": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+   "d": "2026-10-09T17:42:12.000Z",
+   "first": "2026-10-12T19:27:58.641Z"
   },
   {
    "id": "dbb778e3fcf6b8c7",
@@ -682,16 +752,6 @@
    "first": "2026-10-07T09:26:59.764Z"
   },
   {
-   "id": "700c329aa082ae02",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Mistral is BACK! (Le Chonk)",
-   "u": "https://www.youtube.com/watch?v=Hu1JOK6aXsI",
-   "d": "2026-10-07T00:12:03.000Z",
-   "first": "2026-10-07T02:30:33.506Z"
-  },
-  {
    "id": "22dce8d3a94d544e",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -972,16 +1032,6 @@
    "first": "2026-10-05T18:36:54.915Z"
   },
   {
-   "id": "2da64886f01ce99e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "The Army Sent to Stop Cortés Joined Him Instead - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/j7AgSzNlRBk",
-   "d": "2026-10-04T20:57:04.000Z",
-   "first": "2026-10-04T23:19:47.687Z"
-  },
-  {
    "id": "9cf7ba359d01b775",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1172,16 +1222,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "4b4f5951fac2d3ef",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Vote on which of Hacker News' challenges for AI have been met",
-   "u": "https://stoppels.ch/goalposts/",
-   "d": "2026-10-01T17:32:43.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "eb9af7714c8e004a",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -1212,16 +1252,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b3b79304cfba221d",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "u": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-   "d": "2026-10-01T13:00:55.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "ca1926f9462cfe53",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1229,16 +1259,6 @@
    "t": "GEMINI 4 is nuts...",
    "u": "https://www.youtube.com/watch?v=Sy1Fjf-H-Qg",
    "d": "2026-10-01T12:53:12.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "fc239d52fb598177",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-   "u": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-   "d": "2026-10-01T06:45:05.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1282,16 +1302,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "948a5f1d3564edd5",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "The AI Race Just Got Awkward",
-   "u": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-   "d": "2026-09-30T15:50:11.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "542656b950fd6a6e",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1330,16 +1340,6 @@
    "u": "https://www.youtube.com/watch?v=ZpQFebTK75A",
    "d": "2026-09-29T22:38:34.000Z",
    "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "dc9ec9e1e5b640c7",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI needs $6T in annual revenue to justify data centre boom",
-   "u": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-   "d": "2026-09-29T19:21:25.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "c0e05122143ed236",
@@ -1759,16 +1759,6 @@
    "t": "The current balance of power in open models",
    "u": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
    "d": "2026-09-21T11:56:56.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "5caf9dd3a11b252b",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
-   "u": "https://tldr.tech/ai/2026-09-21",
-   "d": "2026-09-21T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3105,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1017 > 1000"
+   "error": "Entity expansion limit exceeded: 1016 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3133,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
