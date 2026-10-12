@@ -1,6 +1,86 @@
 {
- "generated": "2026-10-12T02:30:54.916Z",
+ "generated": "2026-10-12T09:54:18.432Z",
  "items": [
+  {
+   "id": "f86db380ae4a5e5b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Christian leaders are weighing in on AI earlier than they did with other tech, as AI leaders' talk of creating a new consciousness fuels religious concerns (Tim Higgins/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261012/p10#a261012p10",
+   "d": "2026-10-12T09:30:01.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
+  {
+   "id": "8262138ff95b0f07",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "X has re-found its footing under Elon Musk, as it continues to host more interesting discussions on AI and other fun and smart topics than rival platforms (John Gruber/Daring Fireball)",
+   "u": "https://www.techmeme.com/261012/p9#a261012p9",
+   "d": "2026-10-12T09:05:02.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
+  {
+   "id": "a3899ce06474a0a8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US soldiers using AI tech during a July exercise say they encountered issues like drone overheating, highlighting challenges in the Army's modernization effort (Heather Somerville/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261012/p8#a261012p8",
+   "d": "2026-10-12T08:45:01.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
+  {
+   "id": "671b557516bc8a78",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at China's bid to turn excess wind and solar energy into an AI edge via a $3.9T grid buildout through 2049, as ~9% of renewable output was wasted in 2026 (Bloomberg)",
+   "u": "https://www.techmeme.com/261012/p5#a261012p5",
+   "d": "2026-10-12T07:45:00.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
+  {
+   "id": "e4a5c9715249ff7e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: the US restores the UK AISI's access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month (Tony Diver/Telegraph)",
+   "u": "https://www.techmeme.com/261012/p4#a261012p4",
+   "d": "2026-10-12T05:40:00.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
+  {
+   "id": "249acba69193c91e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI \"super learner\" using RL as an alternative path to LLMs, and more (Madhumita Murgia/Financial Times)",
+   "u": "https://www.techmeme.com/261012/p3#a261012p3",
+   "d": "2026-10-12T05:25:00.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
+  {
+   "id": "78cf693160dabc5e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Qualcomm CEO Cristiano Amon says AI companies are \"starting to do phones\" and asking Qualcomm to support running 100B-parameter local LLMs continuously by 2028 (Alex Heath/Sources)",
+   "u": "https://www.techmeme.com/261011/p15#a261011p15",
+   "d": "2026-10-12T02:55:00.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
+  {
+   "id": "5ab94baefeab8b53",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Human Creativity Still Matters",
+   "u": "https://www.youtube.com/shorts/PODwi90Ne8k",
+   "d": "2026-10-12T02:23:09.000Z",
+   "first": "2026-10-12T09:54:18.432Z"
+  },
   {
    "id": "33d3a37dbcf5f0b2",
    "f": "techmeme",
@@ -12,26 +92,6 @@
    "first": "2026-10-12T02:30:54.916Z"
   },
   {
-   "id": "d6615714fcae9d32",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
-   "u": "https://www.techmeme.com/261011/p12#a261011p12",
-   "d": "2026-10-11T23:50:02.000Z",
-   "first": "2026-10-12T02:30:54.916Z"
-  },
-  {
-   "id": "d0fb2d643fac8958",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261011/p11#a261011p11",
-   "d": "2026-10-11T21:20:01.000Z",
-   "first": "2026-10-11T23:00:13.530Z"
-  },
-  {
    "id": "0a040936953bed3c",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -39,16 +99,6 @@
    "t": "The Aztec Prince Who Helped Cortés Destroy His Own Empire - Si Sheppard",
    "u": "https://www.youtube.com/shorts/Q3nhfMQLZdQ",
    "d": "2026-10-11T20:54:26.000Z",
-   "first": "2026-10-11T23:00:13.530Z"
-  },
-  {
-   "id": "abf2d210d0656678",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)",
-   "u": "https://www.techmeme.com/261011/p10#a261011p10",
-   "d": "2026-10-11T20:45:01.000Z",
    "first": "2026-10-11T23:00:13.530Z"
   },
   {
@@ -62,16 +112,6 @@
    "first": "2026-10-11T19:02:37.957Z"
   },
   {
-   "id": "9c02b275bf810b73",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
-   "u": "https://www.techmeme.com/261011/p9#a261011p9",
-   "d": "2026-10-11T18:15:02.000Z",
-   "first": "2026-10-11T19:02:37.957Z"
-  },
-  {
    "id": "37db21f3e190886f",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -82,16 +122,6 @@
    "first": "2026-10-11T19:02:37.957Z"
   },
   {
-   "id": "bea330a3c45cafab",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes (Rafe Rosner-Uddin/Financial Times)",
-   "u": "https://www.techmeme.com/261011/p6#a261011p6",
-   "d": "2026-10-11T13:00:51.000Z",
-   "first": "2026-10-11T14:14:01.943Z"
-  },
-  {
    "id": "089abce35ee3b621",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -100,26 +130,6 @@
    "u": "https://www.youtube.com/shorts/DVRMDoYhVBI",
    "d": "2026-10-11T09:19:59.000Z",
    "first": "2026-10-11T14:14:01.943Z"
-  },
-  {
-   "id": "a0f530db0c985167",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M (Meir Orbach/CTech)",
-   "u": "https://www.techmeme.com/261011/p4#a261011p4",
-   "d": "2026-10-11T05:50:01.000Z",
-   "first": "2026-10-11T07:23:26.712Z"
-  },
-  {
-   "id": "9fc9c1bb5d024674",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models (Achint Srivastava/Command Line)",
-   "u": "https://www.techmeme.com/261011/p2#a261011p2",
-   "d": "2026-10-11T05:05:02.000Z",
-   "first": "2026-10-11T07:23:26.712Z"
   },
   {
    "id": "b281e7f3b14e8cde",
@@ -820,16 +830,6 @@
    "u": "https://openai.com/index/advancing-computer-use-with-ironclad",
    "d": "2026-10-06T10:00:00.000Z",
    "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
-   "id": "0c288c8ae4654b4f",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Video Game Mashups: Minecraft and Mario in Elden Ring",
-   "u": "https://www.youtube.com/shorts/yrn7FqgVOW8",
-   "d": "2026-10-06T08:13:55.000Z",
-   "first": "2026-10-06T13:43:10.181Z"
   },
   {
    "id": "5c7ad898644ed487",
@@ -3165,18 +3165,15 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3184,38 +3181,31 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
