@@ -1,35 +1,185 @@
 {
- "generated": "2026-10-13T08:36:55.972Z",
+ "generated": "2026-10-13T16:32:23.524Z",
  "items": [
   {
-   "id": "69483908facb5214",
+   "id": "4609c7a773bda3e5",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix down 9.2%, and Micron 4% (Financial Times)",
-   "u": "https://www.techmeme.com/261013/p4#a261013p4",
-   "d": "2026-10-13T05:05:01.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
+   "t": "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network (John Gruber/Daring Fireball)",
+   "u": "https://www.techmeme.com/261013/p31#a261013p31",
+   "d": "2026-10-13T16:20:01.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "74bf47722c508207",
+   "id": "26d01f44a2ae588c",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
-   "u": "https://www.techmeme.com/261013/p3#a261013p3",
-   "d": "2026-10-13T04:55:02.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
+   "t": "Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users (Robert Hart/The Verge)",
+   "u": "https://www.techmeme.com/261013/p30#a261013p30",
+   "d": "2026-10-13T16:08:15.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "31dc72225b9b81ec",
+   "id": "832d7cf24dba3f2f",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini 4 Argon for Robotics",
+   "u": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "d": "2026-10-13T16:01:58.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "e807158022f7267e",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini 4 Argon: Built to solve your hardest problems",
+   "u": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "d": "2026-10-13T16:01:52.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "e8f8b450cc576e5c",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)",
-   "u": "https://www.techmeme.com/261013/p2#a261013p2",
-   "d": "2026-10-13T04:45:01.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
+   "t": "Anthropic co-founder Jack Clark says \"I now think it's more likely we'll see full RSI become possible in 2027\", earlier than his previous prediction of 2028 (Jack Clark/Import AI)",
+   "u": "https://www.techmeme.com/261013/p29#a261013p29",
+   "d": "2026-10-13T15:55:44.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "d8697bc0cdf2139c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Scuba, which is building a \"context engine\" designed to serve as a shared memory hub for human workers and AI agents, raised $34M across pre-seed and seed (Alex Konrad/Upstarts Media)",
+   "u": "https://www.techmeme.com/261013/p28#a261013p28",
+   "d": "2026-10-13T15:10:55.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "c3e168252165d1cd",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "How To Stop Being An \"AI Meat Proxy\"",
+   "u": "https://www.youtube.com/shorts/b0jA6fkGsk8",
+   "d": "2026-10-13T15:10:54.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "2e00db65cefd8432",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "‘Artificial’ is not the AI film we deserve",
+   "u": "https://www.transformernews.ai/p/artificial-review-not-the-ai-film-we-deserve",
+   "d": "2026-10-13T15:02:01.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "4e373c5288d349af",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\" (Hartley Charlton/MacRumors)",
+   "u": "https://www.techmeme.com/261013/p24#a261013p24",
+   "d": "2026-10-13T13:46:17.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "51f0ca048517799b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple HomeView demo: a square screen with a personalized, iPhone-like experience based on facial recognition, up to six users, Siri AI, and a closed ecosystem (Nicole Nguyen/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261013/p22#a261013p22",
+   "d": "2026-10-13T13:25:31.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "739635902ac5b761",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple unveils the fourth-gen Apple TV 4K, with Siri AI, an A19 chip, 128GB of storage, far-field mics, Wi-Fi 7, and Bluetooth 6, shipping November 13 for $299 (Jennifer Pattison Tuohy/The Verge)",
+   "u": "https://www.techmeme.com/261013/p21#a261013p21",
+   "d": "2026-10-13T13:08:38.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "c181c2ba463f5e9d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple unveils the $149 HomePod mini 2, with an S10 chip, \"Sound Glow\" interactive lighting, and Siri AI via a future update, in five colors, shipping October 30 (Apple)",
+   "u": "https://www.techmeme.com/261013/p20#a261013p20",
+   "d": "2026-10-13T13:05:01.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "6f029e3afa50979e",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Zuck’s wonder...full",
+   "u": "https://www.bensbites.com/p/zucks-wonderfull",
+   "d": "2026-10-13T13:00:35.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "5770cdcf1f7ef445",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak (Aditya Soni/Reuters)",
+   "u": "https://www.techmeme.com/261013/p17#a261013p17",
+   "d": "2026-10-13T11:45:00.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "e2be2cf54496c6c3",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Open models have real benefits. Do they outweigh the risks?",
+   "u": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+   "d": "2026-10-13T10:00:00.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "c19f98ea73f0454b",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+   "u": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+   "d": "2026-10-13T09:37:04.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "9bcff42e68a05c06",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "AI labs are buying data from dead startups to train their models",
+   "u": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+   "d": "2026-10-13T09:00:00.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "ee2c770df23691b7",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "OpenAI Just Changed What It Means To Do Math",
+   "u": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+   "d": "2026-10-13T08:56:12.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
   },
   {
    "id": "1625db3c510720cf",
@@ -39,46 +189,6 @@
    "t": "Vibe Coding 2.0 is here...",
    "u": "https://www.youtube.com/watch?v=S0JwWcLVzQA",
    "d": "2026-10-13T04:16:47.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
-   "id": "3b33bf7bfe2598f7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99% (Anthropic)",
-   "u": "https://www.techmeme.com/261012/p46#a261012p46",
-   "d": "2026-10-13T03:45:01.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
-   "id": "e7108e036e408815",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: NTT Data is in advanced talks to build an up to 500 MW data center for Anthropic in Osaka, among Japan's largest, potentially costing $6.3B (Nikkei Asia)",
-   "u": "https://www.techmeme.com/261012/p45#a261012p45",
-   "d": "2026-10-13T03:15:01.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
-   "id": "781c05df539665a1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more (Cheeky Pint)",
-   "u": "https://www.techmeme.com/261012/p44#a261012p44",
-   "d": "2026-10-13T02:50:01.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
-   "id": "be60b37b35b78a7d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)",
-   "u": "https://www.techmeme.com/261012/p43#a261012p43",
-   "d": "2026-10-13T01:35:00.000Z",
    "first": "2026-10-13T08:36:55.972Z"
   },
   {
@@ -92,14 +202,14 @@
    "first": "2026-10-13T08:36:55.972Z"
   },
   {
-   "id": "7a0c2832ac2b8da3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
-   "u": "https://www.techmeme.com/261012/p42#a261012p42",
-   "d": "2026-10-13T00:15:02.000Z",
-   "first": "2026-10-13T01:31:07.614Z"
+   "id": "e767168ef0e9bad0",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Muse Wonder ✨, Maia 300 ⚡, AI self-replication 🧬",
+   "u": "https://tldr.tech/ai/2026-10-13",
+   "d": "2026-10-13T00:00:00.000Z",
+   "first": "2026-10-13T16:32:23.524Z"
   },
   {
    "id": "fbff78550db0bc09",
@@ -110,36 +220,6 @@
    "u": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
    "d": "2026-10-12T22:52:31.000Z",
    "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
-   "id": "3cba108c5ce23503",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B (Claire Ruckin/Bloomberg)",
-   "u": "https://www.techmeme.com/261012/p41#a261012p41",
-   "d": "2026-10-12T22:10:01.000Z",
-   "first": "2026-10-13T01:31:07.614Z"
-  },
-  {
-   "id": "d4696621a75f26f1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic researchers say small AI models may be months away from being able to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes (Anthropic)",
-   "u": "https://www.techmeme.com/261012/p40#a261012p40",
-   "d": "2026-10-12T21:50:01.000Z",
-   "first": "2026-10-13T01:31:07.614Z"
-  },
-  {
-   "id": "611b1bad72f0ed37",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\" (Jason Schreier/Bloomberg)",
-   "u": "https://www.techmeme.com/261012/p39#a261012p39",
-   "d": "2026-10-12T20:25:00.000Z",
-   "first": "2026-10-13T01:31:07.614Z"
   },
   {
    "id": "0c0782f72663c32d",
@@ -1142,16 +1222,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b329f504bf386f28",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Redefining enterprise intelligence with autonomous AI",
-   "u": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-   "d": "2026-10-02T15:49:04.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "ce77d8b00fdf286e",
    "f": "transformer",
    "src": "Transformer",
@@ -1192,16 +1262,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b9898c75fb132fb2",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Don’t be fooled—LLMs don’t reason",
-   "u": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-   "d": "2026-10-02T08:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "244b5b45cd6fd1a9",
    "f": "ai-futures",
    "src": "AI Futures Project",
@@ -1219,16 +1279,6 @@
    "t": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
    "u": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
    "d": "2026-10-02T06:40:53.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "9b6a4eacd5dbba21",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Academia is for Ambition — Alex Zhang, MIT",
-   "u": "https://www.latent.space/p/rlm",
-   "d": "2026-10-02T00:28:04.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1682,16 +1732,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "d6ef5c38498282eb",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "I hate it when they do this!",
-   "u": "https://www.youtube.com/shorts/nsA_HeY3idE",
-   "d": "2026-09-23T16:41:20.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "cebba381884233b8",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1779,16 +1819,6 @@
    "t": "We've saved the world before: what the ozone hole teaches us about AI",
    "u": "https://www.lesswrong.com/posts/zxXPEtSSSEdwpjopb/we-ve-saved-the-world-before-what-the-ozone-hole-teaches-us",
    "d": "2026-09-22T01:13:30.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "14161f537117460e",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Opus 5.5 imminent ⏳, Grok 4.7 🚀, MiMo v2.6 🤖",
-   "u": "https://tldr.tech/ai/2026-09-22",
-   "d": "2026-09-22T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2102,16 +2132,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "06b41ba063e68e9d",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "I Never Thought I’d See This Happen",
-   "u": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-   "d": "2026-09-10T08:47:23.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "13f379fc90a62c45",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2149,16 +2169,6 @@
    "t": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
    "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
    "d": "2026-09-08T14:00:15.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "6a896789e9da6250",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Everything you need to know about the ‘rogue’ AI incidents",
-   "u": "https://www.transformernews.ai/p/rogue-ai-incidents-timeline",
-   "d": "2026-09-08T13:06:25.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2272,16 +2282,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "052d24326dd2aedf",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "Build your ideas",
-   "u": "https://www.bensbites.com/p/build-your-ideas",
-   "d": "2026-09-01T13:04:30.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "355cfae504fcbd49",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2332,16 +2332,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "2a751d515045c386",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Piloting the world's first double-blind AI evaluations",
-   "u": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-   "d": "2026-08-27T12:59:16.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "49ebdf6da618bcc8",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2359,16 +2349,6 @@
    "t": "Expanding our support for scientists",
    "u": "https://www.anthropic.com/news/expanding-support-for-scientists",
    "d": "2026-08-27T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "33d56d9cbad57d02",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Intelligent transcription with Gemini 3.5 Transcribe",
-   "u": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-   "d": "2026-08-26T17:01:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3135,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1027 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3164,7 +3144,7 @@
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
    "ok": false,
-   "error": "HTTP 502"
+   "error": "fetch failed"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3181,7 +3161,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1008 > 1000"
+   "error": "Entity expansion limit exceeded: 1168 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

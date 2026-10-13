@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "c19f98ea73f0454b",
     "0c0782f72663c32d",
     "b281e7f3b14e8cde",
     "c6df9c11285a3105",
@@ -96,6 +97,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "2e00db65cefd8432",
     "5382e312923b42b9",
     "4d05b9b3fda8e202",
     "7aa08665b0e473b0",
@@ -141,6 +143,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "e767168ef0e9bad0",
     "22909fc0ae06bd43",
     "d2ea09f5a80c83dd",
     "75d25a2b192a2be5",
@@ -167,6 +170,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "6f029e3afa50979e",
     "3eb5fae03670d233",
     "0273dc994d437dbf",
     "4385e07d2499a622",
@@ -224,6 +228,8 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "832d7cf24dba3f2f",
+    "e807158022f7267e",
     "d5f20e84815040d4",
     "2e9748a70d12bca7",
     "542656b950fd6a6e",
@@ -270,6 +276,15 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "4609c7a773bda3e5",
+    "26d01f44a2ae588c",
+    "e8f8b450cc576e5c",
+    "d8697bc0cdf2139c",
+    "4e373c5288d349af",
+    "51f0ca048517799b",
+    "739635902ac5b761",
+    "c181c2ba463f5e9d",
+    "5770cdcf1f7ef445",
     "69483908facb5214",
     "74bf47722c508207",
     "31dc72225b9b81ec",
@@ -440,6 +455,8 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "e2be2cf54496c6c3",
+    "9bcff42e68a05c06",
     "09087eed03418f32",
     "bce41b36acb1b8cb",
     "5143fd23a0d28a57",
@@ -601,6 +618,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "ee2c770df23691b7",
     "37db21f3e190886f",
     "1e3e07a1e7ea433e",
     "858951482ca05277",
@@ -617,6 +635,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "c3e168252165d1cd",
     "013f95bb9aa8eb12",
     "1ad8edc6d9da4820",
     "2df0174b845e2242",
