@@ -1,6 +1,116 @@
 {
- "generated": "2026-10-13T16:32:23.524Z",
+ "generated": "2026-10-13T21:37:41.621Z",
  "items": [
+  {
+   "id": "070b86fc344f468d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)",
+   "u": "https://www.techmeme.com/261013/p44#a261013p44",
+   "d": "2026-10-13T21:26:05.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "c8a7af9cc80445a6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)",
+   "u": "https://www.techmeme.com/261013/p42#a261013p42",
+   "d": "2026-10-13T20:40:59.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "9e6741a9c61ac082",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)",
+   "u": "https://www.techmeme.com/261013/p41#a261013p41",
+   "d": "2026-10-13T20:34:10.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "a016a71d3938349f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)",
+   "u": "https://www.techmeme.com/261013/p40#a261013p40",
+   "d": "2026-10-13T20:02:14.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "6271bda5a32f47e4",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Developing Gemini 4 Argon responsibly and safely",
+   "u": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "d": "2026-10-13T19:43:07.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "2ef672d88ad6e7c1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+ (Anthropic)",
+   "u": "https://www.techmeme.com/261013/p38#a261013p38",
+   "d": "2026-10-13T19:10:52.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "016ef199ab462da4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow (Katie Roof/Business Insider)",
+   "u": "https://www.techmeme.com/261013/p36#a261013p36",
+   "d": "2026-10-13T17:55:52.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "7112e4f61e712202",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April (Ram Iyer/TechCrunch)",
+   "u": "https://www.techmeme.com/261013/p35#a261013p35",
+   "d": "2026-10-13T17:50:01.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "4bef0bbfd574f851",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)",
+   "u": "https://www.techmeme.com/261013/p34#a261013p34",
+   "d": "2026-10-13T17:35:02.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "fc397537a34bd780",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)",
+   "u": "https://www.techmeme.com/261013/p33#a261013p33",
+   "d": "2026-10-13T17:25:51.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "9e3c8e8205825eb8",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Google Just Caught Up (Gemini-4 Argon)",
+   "u": "https://www.youtube.com/watch?v=eBszYxzE2dk",
+   "d": "2026-10-13T16:47:07.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
   {
    "id": "4609c7a773bda3e5",
    "f": "techmeme",
@@ -42,24 +152,14 @@
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "e8f8b450cc576e5c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "c21309f75870621c",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Anthropic co-founder Jack Clark says \"I now think it's more likely we'll see full RSI become possible in 2027\", earlier than his previous prediction of 2028 (Jack Clark/Import AI)",
-   "u": "https://www.techmeme.com/261013/p29#a261013p29",
-   "d": "2026-10-13T15:55:44.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "d8697bc0cdf2139c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Scuba, which is building a \"context engine\" designed to serve as a shared memory hub for human workers and AI agents, raised $34M across pre-seed and seed (Alex Konrad/Upstarts Media)",
-   "u": "https://www.techmeme.com/261013/p28#a261013p28",
-   "d": "2026-10-13T15:10:55.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
+   "t": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "u": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+   "d": "2026-10-13T15:25:50.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "c3e168252165d1cd",
@@ -82,46 +182,6 @@
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "4e373c5288d349af",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple says the HomeView will not be available in the EU because Siri AI is currently unavailable on iOS there and it is \"working constructively with the EU\" (Hartley Charlton/MacRumors)",
-   "u": "https://www.techmeme.com/261013/p24#a261013p24",
-   "d": "2026-10-13T13:46:17.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "51f0ca048517799b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple HomeView demo: a square screen with a personalized, iPhone-like experience based on facial recognition, up to six users, Siri AI, and a closed ecosystem (Nicole Nguyen/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261013/p22#a261013p22",
-   "d": "2026-10-13T13:25:31.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "739635902ac5b761",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple unveils the fourth-gen Apple TV 4K, with Siri AI, an A19 chip, 128GB of storage, far-field mics, Wi-Fi 7, and Bluetooth 6, shipping November 13 for $299 (Jennifer Pattison Tuohy/The Verge)",
-   "u": "https://www.techmeme.com/261013/p21#a261013p21",
-   "d": "2026-10-13T13:08:38.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "c181c2ba463f5e9d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple unveils the $149 HomePod mini 2, with an S10 chip, \"Sound Glow\" interactive lighting, and Siri AI via a future update, in five colors, shipping October 30 (Apple)",
-   "u": "https://www.techmeme.com/261013/p20#a261013p20",
-   "d": "2026-10-13T13:05:01.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
    "id": "6f029e3afa50979e",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -132,14 +192,14 @@
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "5770cdcf1f7ef445",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic and OpenAI have pushed for substantial control over what external AI evaluators can publish, out of concern that trade secrets could leak (Aditya Soni/Reuters)",
-   "u": "https://www.techmeme.com/261013/p17#a261013p17",
-   "d": "2026-10-13T11:45:00.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
+   "id": "fdeb41c798b9a7be",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Higgsfield takes AI video from 1 minute to over 10",
+   "u": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "d": "2026-10-13T12:00:00.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "e2be2cf54496c6c3",
@@ -176,10 +236,20 @@
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
    "cat": "YouTube",
-   "t": "OpenAI Just Changed What It Means To Do Math",
+   "t": "OpenAI’s New AI Is Doing Things We Barely Understand",
    "u": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "d": "2026-10-13T08:56:12.000Z",
    "first": "2026-10-13T16:32:23.524Z"
+  },
+  {
+   "id": "1c3e529bc67cf4ca",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+   "u": "https://blog.character.ai/an-update-on-character-ai/",
+   "d": "2026-10-13T07:28:34.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "1625db3c510720cf",
@@ -190,6 +260,16 @@
    "u": "https://www.youtube.com/watch?v=S0JwWcLVzQA",
    "d": "2026-10-13T04:16:47.000Z",
    "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "23b671ac0e07fb49",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI models can provably hide arbitrary capabilities",
+   "u": "https://arxiv.org/abs/2610.13928",
+   "d": "2026-10-13T02:07:08.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "c23b9d1fa069d0a3",
@@ -222,6 +302,26 @@
    "first": "2026-10-13T08:36:55.972Z"
   },
   {
+   "id": "25b33e0bb86425dd",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI is a tool and using it well takes skill",
+   "u": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+   "d": "2026-10-12T21:40:18.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
+   "id": "28df2f19306591d1",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+   "u": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+   "d": "2026-10-12T21:35:35.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
    "id": "0c0782f72663c32d",
    "f": "latent-space",
    "src": "Latent Space",
@@ -230,6 +330,16 @@
    "u": "https://www.latent.space/p/claude-dynamic-workflows",
    "d": "2026-10-12T18:18:17.000Z",
    "first": "2026-10-12T19:27:58.641Z"
+  },
+  {
+   "id": "4856ac0bb7a0f0ad",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "'AI' Is Not a Tool by Rich Hickey",
+   "u": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+   "d": "2026-10-12T18:00:25.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "b154fec417e0fe7a",
@@ -242,6 +352,16 @@
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
+   "id": "017e17edfb9778c3",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI coding agents generate more code, but not more software",
+   "u": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "d": "2026-10-12T17:14:01.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
+  },
+  {
    "id": "e15af56c368872ab",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -250,6 +370,16 @@
    "u": "https://www.youtube.com/shorts/FTaPMTB-LxI",
    "d": "2026-10-12T16:21:04.000Z",
    "first": "2026-10-12T19:27:58.641Z"
+  },
+  {
+   "id": "705db1d5bc51d90d",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+   "u": "https://taylor.town/kk-ai-2026",
+   "d": "2026-10-12T15:16:45.000Z",
+   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "4a5a717bcc06fe51",
@@ -266,7 +396,7 @@
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "QGIS: No AI contributions permitted",
+   "t": "QGIS enacts moratorium on AI contributions",
    "u": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
    "d": "2026-10-12T11:22:24.000Z",
    "first": "2026-10-12T19:27:58.641Z"
@@ -500,16 +630,6 @@
    "u": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
    "d": "2026-10-09T14:34:34.000Z",
    "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
-   "id": "3a45a28d599f74ed",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-   "u": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-   "d": "2026-10-09T11:03:48.000Z",
-   "first": "2026-10-10T02:28:04.071Z"
   },
   {
    "id": "09087eed03418f32",
@@ -822,16 +942,6 @@
    "first": "2026-10-07T21:40:32.728Z"
   },
   {
-   "id": "775cf248b141b302",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-   "u": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-   "d": "2026-10-07T18:49:40.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
    "id": "a9aee6e4adacd6c5",
    "f": "latent-space",
    "src": "Latent Space",
@@ -922,26 +1032,6 @@
    "first": "2026-10-07T02:30:33.506Z"
   },
   {
-   "id": "98da916ec2e56096",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Sharing AI progress in mathematics",
-   "u": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-   "d": "2026-10-06T22:17:21.000Z",
-   "first": "2026-10-07T09:26:59.764Z"
-  },
-  {
-   "id": "9d6ce57e5ca36cb8",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Penguin Mail – open-source Rust email client for Linux with AI",
-   "u": "https://penguin-mail.com/",
-   "d": "2026-10-06T21:59:43.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
    "id": "d5f20e84815040d4",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -950,16 +1040,6 @@
    "u": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
    "d": "2026-10-06T19:57:04.000Z",
    "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
-   "id": "e48591aca2999862",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "OpenTPU – An open-source AI accelerator, developed by AI",
-   "u": "https://github.com/FeSens/openTPU",
-   "d": "2026-10-06T16:23:25.000Z",
-   "first": "2026-10-07T09:26:59.764Z"
   },
   {
    "id": "ff81faccd1632956",
@@ -1112,16 +1192,6 @@
    "first": "2026-10-05T18:36:54.915Z"
   },
   {
-   "id": "f73a6525ad01fb63",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Building advertising for the way people use AI",
-   "u": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-   "d": "2026-10-05T10:00:00.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
    "id": "858951482ca05277",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1192,26 +1262,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "27177b8cc8d12ecf",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-   "u": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-   "d": "2026-10-03T22:18:13.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
-   "id": "ee5b133140d7e7f4",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-   "u": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-   "d": "2026-10-03T17:44:29.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
-  },
-  {
    "id": "77ce46ddfb217e30",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1240,16 +1290,6 @@
    "u": "https://www.youtube.com/watch?v=dDgncbBAA0c",
    "d": "2026-10-02T15:00:16.000Z",
    "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "4cfdafc5b0cf81c2",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "With most information hidden, the game Stratego had stumped AI until now",
-   "u": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "d": "2026-10-02T14:11:24.000Z",
-   "first": "2026-10-05T02:09:06.006Z"
   },
   {
    "id": "b6b40dcf6f71f4ee",
@@ -1659,16 +1699,6 @@
    "t": "Opus 5.5: How Close Are We to Automated AI Research?",
    "u": "https://www.youtube.com/watch?v=R9momwXV9w4",
    "d": "2026-09-24T22:51:54.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "8ed2a9ee44dea07f",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "5 ChatGPT Prompts To Try Right Now!",
-   "u": "https://www.youtube.com/shorts/SUtGm-nr4Hk",
-   "d": "2026-09-24T21:27:54.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2319,16 +2349,6 @@
    "t": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
    "u": "https://www.youtube.com/watch?v=KL9_1GbmCic",
    "d": "2026-08-27T19:16:24.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "6e43f70f2c6eb808",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Gemini Omni 1.1 Flash lets you build with more control",
-   "u": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-   "d": "2026-08-27T16:11:32.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3143,8 +3163,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3161,7 +3180,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1168 > 1000"
+   "error": "Entity expansion limit exceeded: 1167 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3183,11 +3202,13 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
@@ -3211,7 +3232,8 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
