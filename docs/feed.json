@@ -1,6 +1,96 @@
 {
- "generated": "2026-10-13T01:31:07.614Z",
+ "generated": "2026-10-13T08:36:55.972Z",
  "items": [
+  {
+   "id": "69483908facb5214",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix down 9.2%, and Micron 4% (Financial Times)",
+   "u": "https://www.techmeme.com/261013/p4#a261013p4",
+   "d": "2026-10-13T05:05:01.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "74bf47722c508207",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
+   "u": "https://www.techmeme.com/261013/p3#a261013p3",
+   "d": "2026-10-13T04:55:02.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "31dc72225b9b81ec",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "IDC: Nvidia's AI chip shipments in China fell 44% YoY to 678K in H1 2026, as its market share slid to 34% amid US export curbs and rising domestic competition (Reuters)",
+   "u": "https://www.techmeme.com/261013/p2#a261013p2",
+   "d": "2026-10-13T04:45:01.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "1625db3c510720cf",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Vibe Coding 2.0 is here...",
+   "u": "https://www.youtube.com/watch?v=S0JwWcLVzQA",
+   "d": "2026-10-13T04:16:47.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "3b33bf7bfe2598f7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic says new measures like preserved thinking in Fable 5.1 and Opus 5.5 have reduced data harvesting through distillation attacks by about 90% to 99% (Anthropic)",
+   "u": "https://www.techmeme.com/261012/p46#a261012p46",
+   "d": "2026-10-13T03:45:01.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "e7108e036e408815",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: NTT Data is in advanced talks to build an up to 500 MW data center for Anthropic in Osaka, among Japan's largest, potentially costing $6.3B (Nikkei Asia)",
+   "u": "https://www.techmeme.com/261012/p45#a261012p45",
+   "d": "2026-10-13T03:15:01.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "781c05df539665a1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta's AI team, agentic commerce, more (Cheeky Pint)",
+   "u": "https://www.techmeme.com/261012/p44#a261012p44",
+   "d": "2026-10-13T02:50:01.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "be60b37b35b78a7d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its \"physical AI\" efforts (Anton Bridge/Reuters)",
+   "u": "https://www.techmeme.com/261012/p43#a261012p43",
+   "d": "2026-10-13T01:35:00.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "c23b9d1fa069d0a3",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Meta just dropped something insane... (Muse Wonder)",
+   "u": "https://www.youtube.com/watch?v=rpLrkJ5NNEI",
+   "d": "2026-10-13T00:47:04.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
+  },
   {
    "id": "7a0c2832ac2b8da3",
    "f": "techmeme",
@@ -10,6 +100,16 @@
    "u": "https://www.techmeme.com/261012/p42#a261012p42",
    "d": "2026-10-13T00:15:02.000Z",
    "first": "2026-10-13T01:31:07.614Z"
+  },
+  {
+   "id": "fbff78550db0bc09",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+   "u": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+   "d": "2026-10-12T22:52:31.000Z",
+   "first": "2026-10-13T08:36:55.972Z"
   },
   {
    "id": "3cba108c5ce23503",
@@ -42,16 +142,6 @@
    "first": "2026-10-13T01:31:07.614Z"
   },
   {
-   "id": "527ef720c70b2412",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Suki, an AI ambient scribe for healthcare providers, raised a $90M Series E led by Healthier Capital; a source says it projects $60M-$80M in revenue this year (Brock E.W. Turner/Axios)",
-   "u": "https://www.techmeme.com/261012/p38#a261012p38",
-   "d": "2026-10-12T20:00:48.000Z",
-   "first": "2026-10-13T01:31:07.614Z"
-  },
-  {
    "id": "0c0782f72663c32d",
    "f": "latent-space",
    "src": "Latent Space",
@@ -72,46 +162,6 @@
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "62e77407615553d8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta says Wonder includes Active Memory and Active Focus, two features designed to help AI systems perform more useful work over extended periods (Ina Fried/Axios)",
-   "u": "https://www.techmeme.com/261012/p34#a261012p34",
-   "d": "2026-10-12T17:25:10.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "ac136c1e3dcebc73",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta says it plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it \"can bring to everyone using Muse\" (Robert Hart/The Verge)",
-   "u": "https://www.techmeme.com/261012/p33#a261012p33",
-   "d": "2026-10-12T17:20:01.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "e745d56f44963231",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An interview with Mark Zuckerberg, who says Meta has caught up with rivals at the frontier of AI with its Wonder model and rejects calls for a slowdown (Hannah Murphy/Financial Times)",
-   "u": "https://www.techmeme.com/261012/p32#a261012p32",
-   "d": "2026-10-12T17:15:01.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "a7e6b2fc6d1f7ca6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta introduces Muse Wonder and Muse Wonder Full, saying they deliver state-of-the-art performance on personal and professional agentic tasks (Meta AI Research)",
-   "u": "https://www.techmeme.com/261012/p31#a261012p31",
-   "d": "2026-10-12T17:00:13.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
    "id": "e15af56c368872ab",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -129,16 +179,6 @@
    "t": "Why aren't AI companies being charged for hacking?",
    "u": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
    "d": "2026-10-12T14:52:37.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "9fae0df87cc4f018",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it easier to run fake scams on sites like Facebook and Instagram (Bloomberg)",
-   "u": "https://www.techmeme.com/261012/p28#a261012p28",
-   "d": "2026-10-12T14:50:00.000Z",
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
@@ -699,16 +739,6 @@
    "t": "Why 90% of Cortés's Army Wasn't Spanish - Si Sheppard",
    "u": "https://www.youtube.com/shorts/JoE9AbbVT9A",
    "d": "2026-10-07T21:14:29.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
-   "id": "d9e6b949284602e8",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "How to Find Nano Banana 2.1 in Google AI Studio",
-   "u": "https://www.youtube.com/shorts/EItxPNgKOX4",
-   "d": "2026-10-07T20:23:22.000Z",
    "first": "2026-10-07T21:40:32.728Z"
   },
   {
@@ -1629,16 +1659,6 @@
    "t": "Claude Opus 5.5 AI: An Incredible Leap Forward",
    "u": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "d": "2026-09-24T08:40:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "5e73d01d73166891",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "Claude JUST found hidden DNA...",
-   "u": "https://www.youtube.com/watch?v=H7KruLVX2Rk",
-   "d": "2026-09-24T05:24:14.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2622,16 +2642,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "ba641871efc7ffec",
-   "f": "yt-ai-explained",
-   "src": "AI Explained",
-   "cat": "YouTube",
-   "t": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
-   "u": "https://www.youtube.com/watch?v=mWlCituW7wo",
-   "d": "2026-07-10T12:40:15.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "9bdc8bc521ccc21d",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -3185,58 +3195,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
