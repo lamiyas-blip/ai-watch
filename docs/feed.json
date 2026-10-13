@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-12T19:27:58.641Z",
+ "generated": "2026-10-13T01:31:07.614Z",
  "items": [
+  {
+   "id": "7a0c2832ac2b8da3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
+   "u": "https://www.techmeme.com/261012/p42#a261012p42",
+   "d": "2026-10-13T00:15:02.000Z",
+   "first": "2026-10-13T01:31:07.614Z"
+  },
+  {
+   "id": "3cba108c5ce23503",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B (Claire Ruckin/Bloomberg)",
+   "u": "https://www.techmeme.com/261012/p41#a261012p41",
+   "d": "2026-10-12T22:10:01.000Z",
+   "first": "2026-10-13T01:31:07.614Z"
+  },
+  {
+   "id": "d4696621a75f26f1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic researchers say small AI models may be months away from being able to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes (Anthropic)",
+   "u": "https://www.techmeme.com/261012/p40#a261012p40",
+   "d": "2026-10-12T21:50:01.000Z",
+   "first": "2026-10-13T01:31:07.614Z"
+  },
+  {
+   "id": "611b1bad72f0ed37",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\" (Jason Schreier/Bloomberg)",
+   "u": "https://www.techmeme.com/261012/p39#a261012p39",
+   "d": "2026-10-12T20:25:00.000Z",
+   "first": "2026-10-13T01:31:07.614Z"
+  },
+  {
+   "id": "527ef720c70b2412",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Suki, an AI ambient scribe for healthcare providers, raised a $90M Series E led by Healthier Capital; a source says it projects $60M-$80M in revenue this year (Brock E.W. Turner/Axios)",
+   "u": "https://www.techmeme.com/261012/p38#a261012p38",
+   "d": "2026-10-12T20:00:48.000Z",
+   "first": "2026-10-13T01:31:07.614Z"
+  },
   {
    "id": "0c0782f72663c32d",
    "f": "latent-space",
@@ -86,29 +136,9 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it cheaper and easier to run fake investment schemes and other scams (Bloomberg)",
+   "t": "How the Chinese scam industry is spreading beyond Asia's fortified compounds as AI makes it easier to run fake scams on sites like Facebook and Instagram (Bloomberg)",
    "u": "https://www.techmeme.com/261012/p28#a261012p28",
    "d": "2026-10-12T14:50:00.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "7be5847a76ea7e06",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis: constructing and equipping a 1GW AI data center in Abilene, Texas, could cost ~$30B, including $17B on chips, $3B on power, and $2.4B on construction (Lynn Doan/Bloomberg)",
-   "u": "https://www.techmeme.com/261012/p24#a261012p24",
-   "d": "2026-10-12T13:55:13.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "c2e2c16ef7c7476c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A profile of Microsoft EVP of Copilot Charles Lamanna, a potential Satya Nadella successor; a source says Microsoft is on track to pay Anthropic $2B+ per year (Aaron Holmes/The Information)",
-   "u": "https://www.techmeme.com/261012/p23#a261012p23",
-   "d": "2026-10-12T13:45:00.000Z",
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
@@ -3095,7 +3125,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1016 > 1000"
+   "error": "Entity expansion limit exceeded: 1027 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,7 +3153,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,7 +3171,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1004 > 1000"
+   "error": "Entity expansion limit exceeded: 1008 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3154,47 +3185,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
