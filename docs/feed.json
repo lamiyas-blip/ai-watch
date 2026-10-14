@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-13T21:37:41.621Z",
+ "generated": "2026-10-14T00:42:08.628Z",
  "items": [
+  {
+   "id": "84ced5ead62ef18c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)",
+   "u": "https://www.techmeme.com/261013/p49#a261013p49",
+   "d": "2026-10-14T00:35:02.000Z",
+   "first": "2026-10-14T00:42:08.628Z"
+  },
+  {
+   "id": "be1e62e0576330a7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)",
+   "u": "https://www.techmeme.com/261013/p48#a261013p48",
+   "d": "2026-10-14T00:05:01.000Z",
+   "first": "2026-10-14T00:42:08.628Z"
+  },
+  {
+   "id": "877baf03f646a3c1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)",
+   "u": "https://www.techmeme.com/261013/p47#a261013p47",
+   "d": "2026-10-13T23:20:01.000Z",
+   "first": "2026-10-14T00:42:08.628Z"
+  },
+  {
+   "id": "feef2fdaa4b175e2",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+   "u": "https://www.latent.space/p/dyna",
+   "d": "2026-10-13T22:25:55.000Z",
+   "first": "2026-10-14T00:42:08.628Z"
+  },
+  {
+   "id": "df134d1f5436460b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)",
+   "u": "https://www.techmeme.com/261013/p45#a261013p45",
+   "d": "2026-10-13T21:56:04.000Z",
+   "first": "2026-10-14T00:42:08.628Z"
+  },
   {
    "id": "070b86fc344f468d",
    "f": "techmeme",
@@ -82,26 +132,6 @@
    "first": "2026-10-13T21:37:41.621Z"
   },
   {
-   "id": "4bef0bbfd574f851",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google says users with a standard account can now build personal Android apps for free in AI Studio and will be able to share them with friends in coming months (Artie Beaty/ZDNET)",
-   "u": "https://www.techmeme.com/261013/p34#a261013p34",
-   "d": "2026-10-13T17:35:02.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "fc397537a34bd780",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)",
-   "u": "https://www.techmeme.com/261013/p33#a261013p33",
-   "d": "2026-10-13T17:25:51.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
    "id": "9e3c8e8205825eb8",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -110,26 +140,6 @@
    "u": "https://www.youtube.com/watch?v=eBszYxzE2dk",
    "d": "2026-10-13T16:47:07.000Z",
    "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "4609c7a773bda3e5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network (John Gruber/Daring Fireball)",
-   "u": "https://www.techmeme.com/261013/p31#a261013p31",
-   "d": "2026-10-13T16:20:01.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "26d01f44a2ae588c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users (Robert Hart/The Verge)",
-   "u": "https://www.techmeme.com/261013/p30#a261013p30",
-   "d": "2026-10-13T16:08:15.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
   },
   {
    "id": "832d7cf24dba3f2f",
@@ -1309,16 +1319,6 @@
    "t": "Senate Testimony Sept 2026",
    "u": "https://blog.aifutures.org/p/senate-testimony-sept-2026",
    "d": "2026-10-02T07:37:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "1c8bc81a14d5a99d",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-   "u": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-   "d": "2026-10-02T06:40:53.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3135,7 +3135,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1150 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3194,11 +3194,13 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3212,23 +3214,28 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
@@ -3237,7 +3244,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
