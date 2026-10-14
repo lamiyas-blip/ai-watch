@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "b4da712a20e5dd2a",
     "feef2fdaa4b175e2",
     "c19f98ea73f0454b",
     "0c0782f72663c32d",
@@ -194,6 +195,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "24ef464a5ce66829",
     "fdeb41c798b9a7be",
     "8feec7b042f5e219",
     "f50c9cb3ca57de55",
@@ -255,6 +257,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "3873710e669257dd",
     "55db05e650cd10b0",
     "16d6c4a116e8d261",
     "b91960833ff3d7cc",
@@ -280,6 +283,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "05a92db37d896265",
+    "65a07c4542a7581d",
+    "8647bc4f703e273a",
+    "fd9a38643023fe02",
     "a9b36eff03e25ff9",
     "415eb625a157928d",
     "84ced5ead62ef18c",
@@ -671,6 +678,8 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "9ec42bc5e8264acb",
+    "f9910b72c3c0ed8d",
     "c23b9d1fa069d0a3",
     "e15af56c368872ab",
     "5ab94baefeab8b53",
@@ -696,6 +705,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "10636127416c2c72",
     "1625db3c510720cf",
     "c72e19dbb41e805d",
     "249d85846c741099",
