@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-14T15:35:52.509Z",
+ "generated": "2026-10-14T19:47:43.043Z",
  "items": [
+  {
+   "id": "2abec9c1b9580e51",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+   "u": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "d": "2026-10-14T17:45:23.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
+  },
+  {
+   "id": "7894751fa3f23ec4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+ (Michelle Fox/CNBC)",
+   "u": "https://www.techmeme.com/261014/p36#a261014p36",
+   "d": "2026-10-14T16:45:02.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
+  },
+  {
+   "id": "0a0ed1307f5e0000",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI's head of computing capacity Sachin Katti is leaving the company next month after about a year and is expected to stay on as an adviser (Anissa Gardizy/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261014/p34#a261014p34",
+   "d": "2026-10-14T16:15:01.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
+  },
+  {
+   "id": "6872ddc3e7a91025",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses (Dina Bass/Bloomberg)",
+   "u": "https://www.techmeme.com/261014/p33#a261014p33",
+   "d": "2026-10-14T16:05:01.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
+  },
+  {
+   "id": "42c510fe9572c81a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership (Reuters)",
+   "u": "https://www.techmeme.com/261014/p32#a261014p32",
+   "d": "2026-10-14T15:45:01.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
+  },
   {
    "id": "ea226b4788e11751",
    "f": "techmeme",
@@ -26,7 +76,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A profile of Abdulrahman Alfozan, a Saudi national who the FBI arrested after OpenAI discovered a recording device and who has deep connections in Saudi Arabia (Financial Times)",
+   "t": "Profile of Abdulrahman Alfozan, a Saudi national the FBI arrested after OpenAI found a recording device; he has deep ties to Saudi officials and tech investors (Financial Times)",
    "u": "https://www.techmeme.com/261014/p29#a261014p29",
    "d": "2026-10-14T14:40:01.000Z",
    "first": "2026-10-14T15:35:52.509Z"
@@ -52,34 +102,24 @@
    "first": "2026-10-14T15:35:52.509Z"
   },
   {
-   "id": "1927f3a4b59453c7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year (Benoit Berthelot/Bloomberg)",
-   "u": "https://www.techmeme.com/261014/p23#a261014p23",
-   "d": "2026-10-14T13:35:00.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
+   "id": "7e9efa791d59a4ff",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Amp puts AI agents to work beyond code with OpenAI models",
+   "u": "https://openai.com/index/amp-beyond-coding",
+   "d": "2026-10-14T12:00:00.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
   },
   {
-   "id": "3fc87b421674f72f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)",
-   "u": "https://www.techmeme.com/261014/p21#a261014p21",
-   "d": "2026-10-14T13:25:01.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
-  },
-  {
-   "id": "eb0ee87620241ef5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Harmonic Security, which uses small language models to inspect employee interactions with AI tools, raised a $50M Series B, taking its total funding to $76M (Duncan Riley/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261014/p17#a261014p17",
-   "d": "2026-10-14T12:40:01.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
+   "id": "5039be8d693576a1",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "SentinelOne cuts malware analysis from weeks to hours",
+   "u": "https://openai.com/index/sentinelone",
+   "d": "2026-10-14T12:00:00.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
   },
   {
    "id": "8649bcdaa2649ee9",
@@ -160,6 +200,16 @@
    "u": "https://www.anthropic.com/news/singapore-office-opening",
    "d": "2026-10-14T00:00:00.000Z",
    "first": "2026-10-14T10:44:28.796Z"
+  },
+  {
+   "id": "73b60fc15fe07509",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Preparing for the 2026 US midterms",
+   "u": "https://www.anthropic.com/news/2026-us-midterms",
+   "d": "2026-10-14T00:00:00.000Z",
+   "first": "2026-10-14T19:47:43.043Z"
   },
   {
    "id": "feef2fdaa4b175e2",
@@ -672,16 +722,6 @@
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "dbb778e3fcf6b8c7",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Typesafe AI raises $870M at $7.5B",
-   "u": "https://typesafe.ai/blog/series-ai",
-   "d": "2026-10-09T17:02:31.000Z",
-   "first": "2026-10-10T02:28:04.071Z"
-  },
-  {
    "id": "013f95bb9aa8eb12",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -1130,26 +1170,6 @@
    "u": "https://www.bensbites.com/p/thoughts-from-san-francisco",
    "d": "2026-10-06T13:01:18.000Z",
    "first": "2026-10-06T13:43:10.181Z"
-  },
-  {
-   "id": "0bfd0a11a6b9d347",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Jump Trading is scaling quant research with ChatGPT",
-   "u": "https://openai.com/index/jump-trading",
-   "d": "2026-10-06T12:00:00.000Z",
-   "first": "2026-10-07T02:30:33.506Z"
-  },
-  {
-   "id": "95408a96f49897a3",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Sharing AI progress in mathematics",
-   "u": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-   "d": "2026-10-06T12:00:00.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
   },
   {
    "id": "5c7ad898644ed487",
@@ -2342,16 +2362,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "9477a0d8d89a8efe",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Funding better evaluations of AI’s impact on wellbeing",
-   "u": "https://www.anthropic.com/news/wellbeing-research-grants",
-   "d": "2026-08-25T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "bb48be090a6b6b1a",
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
@@ -3095,7 +3105,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1166 > 1000"
+   "error": "Entity expansion limit exceeded: 1258 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",

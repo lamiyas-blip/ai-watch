@@ -196,6 +196,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "7e9efa791d59a4ff",
+    "5039be8d693576a1",
     "8649bcdaa2649ee9",
     "24ef464a5ce66829",
     "fdeb41c798b9a7be",
@@ -260,6 +262,7 @@
    "init": true,
    "ids": [
     "3873710e669257dd",
+    "73b60fc15fe07509",
     "55db05e650cd10b0",
     "16d6c4a116e8d261",
     "b91960833ff3d7cc",
@@ -285,6 +288,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "7894751fa3f23ec4",
+    "0a0ed1307f5e0000",
+    "6872ddc3e7a91025",
+    "42c510fe9572c81a",
     "ea226b4788e11751",
     "e88dfe9da3ce4b88",
     "ce05f9d060113f19",
@@ -732,6 +739,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "2abec9c1b9580e51",
     "c21309f75870621c",
     "1c3e529bc67cf4ca",
     "23b671ac0e07fb49",
