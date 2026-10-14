@@ -3,6 +3,8 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "e34147cb50209de7",
+    "3c314a226979156e",
     "b4da712a20e5dd2a",
     "feef2fdaa4b175e2",
     "c19f98ea73f0454b",
@@ -59,6 +61,7 @@
   "ai-snake-oil": {
    "init": true,
    "ids": [
+    "07565479b52e0aba",
     "eb9af7714c8e004a",
     "7f2a50fec861c655",
     "f3df47f4c00a576f",
@@ -288,6 +291,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "2794b3542e86dd02",
+    "0719dd868478e8eb",
+    "c26e50ca1afad302",
+    "28893f1bb229c9fa",
+    "40452de43b45c213",
     "7894751fa3f23ec4",
     "0a0ed1307f5e0000",
     "6872ddc3e7a91025",

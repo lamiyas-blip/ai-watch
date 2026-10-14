@@ -1,6 +1,86 @@
 {
- "generated": "2026-10-14T19:47:43.043Z",
+ "generated": "2026-10-14T22:46:09.874Z",
  "items": [
+  {
+   "id": "2794b3542e86dd02",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic told investors that its revenue jumped to $16.8B in Q3, up from $11.5B in Q2, and that the company was profitable on an adjusted basis in Q3 (Financial Times)",
+   "u": "https://www.techmeme.com/261014/p44#a261014p44",
+   "d": "2026-10-14T22:30:03.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "0719dd868478e8eb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple closes above a $5T market cap for the first time, the second company after Nvidia to do so; Apple had crossed $5T six times intraday previously (Rolfe Winkler/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261014/p43#a261014p43",
+   "d": "2026-10-14T22:15:02.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "e34147cb50209de7",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+   "u": "https://www.latent.space/p/crossing-the-threshold",
+   "d": "2026-10-14T21:40:52.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "c26e50ca1afad302",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Zenzap, a private messenger with AI agents that aims to replace apps like WhatsApp in the workplace, raised $44M from Bessemer, Lightspeed, and others (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261014/p42#a261014p42",
+   "d": "2026-10-14T21:40:01.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "28893f1bb229c9fa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "YouTube Music rolls out labels for songs created with the help of AI; Spotify has AI labels, and Apple Music plans to add \"Made With AI\" labels later this year (Lauren Forristal/TechCrunch)",
+   "u": "https://www.techmeme.com/261014/p41#a261014p41",
+   "d": "2026-10-14T21:15:03.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "3c314a226979156e",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+   "u": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+   "d": "2026-10-14T20:35:09.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "40452de43b45c213",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won't include Siri AI (Mark Gurman/Bloomberg)",
+   "u": "https://www.techmeme.com/261014/p39#a261014p39",
+   "d": "2026-10-14T20:05:02.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "07565479b52e0aba",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Steering AI Beyond Automation",
+   "u": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
+   "d": "2026-10-14T19:56:44.000Z",
+   "first": "2026-10-14T22:46:09.874Z"
+  },
   {
    "id": "2abec9c1b9580e51",
    "f": "hacker-news",
@@ -69,36 +149,6 @@
    "t": "This Robot Is Unlike Any Other On The Market",
    "u": "https://www.youtube.com/shorts/XEl4ZQKKxig",
    "d": "2026-10-14T14:41:38.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
-  },
-  {
-   "id": "e88dfe9da3ce4b88",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Profile of Abdulrahman Alfozan, a Saudi national the FBI arrested after OpenAI found a recording device; he has deep ties to Saudi officials and tech investors (Financial Times)",
-   "u": "https://www.techmeme.com/261014/p29#a261014p29",
-   "d": "2026-10-14T14:40:01.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
-  },
-  {
-   "id": "ce05f9d060113f19",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Salience Labs, which develops specialized all-optical circuit switching tech for AI data centers, raised a $125M Series B led by Bullhound Capital (Mike Wheatley/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261014/p27#a261014p27",
-   "d": "2026-10-14T14:10:02.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
-  },
-  {
-   "id": "9dd49efbe76581f7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI infrastructure startup Modal raised a $750M Series D led by Accel at a $15.75B post-money valuation, taking its total funding to $1.2B, and passes $1B ARR (Chris Metinko/Axios)",
-   "u": "https://www.techmeme.com/261014/p25#a261014p25",
-   "d": "2026-10-14T14:00:41.000Z",
    "first": "2026-10-14T15:35:52.509Z"
   },
   {
@@ -1172,16 +1222,6 @@
    "first": "2026-10-06T13:43:10.181Z"
   },
   {
-   "id": "5c7ad898644ed487",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-   "u": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-   "d": "2026-10-06T06:28:43.000Z",
-   "first": "2026-10-06T06:36:41.344Z"
-  },
-  {
    "id": "c7765728fd911c27",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1309,16 +1349,6 @@
    "t": "Welcome to #TeamHuman",
    "u": "https://www.youtube.com/shorts/uqiH3R4TEgk",
    "d": "2026-10-04T03:17:06.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "77ce46ddfb217e30",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] not much happened today",
-   "u": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-   "d": "2026-10-03T08:45:15.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2972,16 +3002,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "54adcd0b9c12976b",
-   "f": "ai-snake-oil",
-   "src": "AI Snake Oil",
-   "cat": "Newsletter",
-   "t": "Could AI slow science?",
-   "u": "https://www.normaltech.ai/p/could-ai-slow-science",
-   "d": "2025-07-16T21:35:56.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "384322baa7a8a14e",
    "f": "yt-karpathy",
    "src": "Andrej Karpathy",
@@ -3133,7 +3153,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3150,7 +3171,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1167 > 1000"
+   "error": "Entity expansion limit exceeded: 1089 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3168,19 +3189,23 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3196,11 +3221,13 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
