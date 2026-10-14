@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-14T00:42:08.628Z",
+ "generated": "2026-10-14T05:34:29.529Z",
  "items": [
+  {
+   "id": "a9b36eff03e25ff9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Open letter: Geoffrey Hinton, Yoshua Bengio, and over 400 scientists call for an international body to oversee AI containment standards and incident reporting (Leo Marchandon/Reuters)",
+   "u": "https://www.techmeme.com/261013/p53#a261013p53",
+   "d": "2026-10-14T03:55:00.000Z",
+   "first": "2026-10-14T05:34:29.529Z"
+  },
+  {
+   "id": "415eb625a157928d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Delaware-based Causa Prima, which develops an agent-to-agent AI platform for managing B2B payments, resolving billing disputes, and more, raised a $20M seed (Camila Grigera Naón/Fortune)",
+   "u": "https://www.techmeme.com/261013/p52#a261013p52",
+   "d": "2026-10-14T03:10:01.000Z",
+   "first": "2026-10-14T05:34:29.529Z"
+  },
+  {
+   "id": "0b1394e407839b3b",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "u": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "d": "2026-10-14T02:00:14.000Z",
+   "first": "2026-10-14T05:34:29.529Z"
+  },
   {
    "id": "84ced5ead62ef18c",
    "f": "techmeme",
@@ -99,36 +129,6 @@
    "t": "Developing Gemini 4 Argon responsibly and safely",
    "u": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
    "d": "2026-10-13T19:43:07.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "2ef672d88ad6e7c1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic details Scion, a git replacement for its monorepo, built by seven engineers with Claude in five months, as daily merges rose from 2.5K in May to 30K+ (Anthropic)",
-   "u": "https://www.techmeme.com/261013/p38#a261013p38",
-   "d": "2026-10-13T19:10:52.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "016ef199ab462da4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow (Katie Roof/Business Insider)",
-   "u": "https://www.techmeme.com/261013/p36#a261013p36",
-   "d": "2026-10-13T17:55:52.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "7112e4f61e712202",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April (Ram Iyer/TechCrunch)",
-   "u": "https://www.techmeme.com/261013/p35#a261013p35",
-   "d": "2026-10-13T17:50:01.000Z",
    "first": "2026-10-13T21:37:41.621Z"
   },
   {
@@ -2302,16 +2302,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "56263e76b21f84f7",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Introducing agentic video understanding with Gemini",
-   "u": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-   "d": "2026-09-01T17:08:51.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "355cfae504fcbd49",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -3135,7 +3125,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1150 > 1000"
+   "error": "Entity expansion limit exceeded: 1166 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3163,7 +3153,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3180,12 +3171,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1167 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1006 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
