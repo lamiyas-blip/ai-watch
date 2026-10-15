@@ -292,6 +292,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "2a601e6b75722b79",
+    "90aae4f2b0d99253",
+    "002f63f3d5943561",
+    "dc0b21375045b2a2",
+    "1b98e9776bbba0dd",
     "6cebcac57f965999",
     "e114985ad0f7b48b",
     "2794b3542e86dd02",
@@ -533,6 +538,7 @@
   "lesswrong": {
    "init": true,
    "ids": [
+    "fc9b7e23ab2b73f4",
     "84c97404f7046ec1",
     "5d2d4d08df53558d",
     "e155b3608b6d0d50",
@@ -750,6 +756,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "a08e5d1babf0d7ae",
     "2abec9c1b9580e51",
     "c21309f75870621c",
     "1c3e529bc67cf4ca",
