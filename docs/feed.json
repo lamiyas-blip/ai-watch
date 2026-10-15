@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-15T05:59:46.965Z",
+ "generated": "2026-10-15T10:57:33.507Z",
  "items": [
+  {
+   "id": "08f7a88d25cabfc1",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+   "u": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+   "d": "2026-10-15T10:08:08.000Z",
+   "first": "2026-10-15T10:57:33.507Z"
+  },
+  {
+   "id": "8d85a8665e3a4164",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more (New York Times)",
+   "u": "https://www.techmeme.com/261015/p10#a261015p10",
+   "d": "2026-10-15T06:35:01.000Z",
+   "first": "2026-10-15T10:57:33.507Z"
+  },
+  {
+   "id": "67e63af2bea6bc07",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261015/p8#a261015p8",
+   "d": "2026-10-15T06:20:01.000Z",
+   "first": "2026-10-15T10:57:33.507Z"
+  },
   {
    "id": "2a601e6b75722b79",
    "f": "techmeme",
@@ -22,24 +52,14 @@
    "first": "2026-10-15T05:59:46.965Z"
   },
   {
-   "id": "002f63f3d5943561",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Asian chipmakers extend Wall Street losses as US Fed rate hike fears and AI funding worries mount; SK Hynix fell 10%+ on the KRX, while Samsung fell ~10% (Lee Ying Shan/CNBC)",
-   "u": "https://www.techmeme.com/261015/p1#a261015p1",
-   "d": "2026-10-15T04:05:01.000Z",
-   "first": "2026-10-15T05:59:46.965Z"
-  },
-  {
-   "id": "dc0b21375045b2a2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic told investors that distillation accounts for 5% to 7% of revenue; its rapid but slowing revenue growth could weigh on its IPO valuation (Cory Weinberg/The Information)",
-   "u": "https://www.techmeme.com/261014/p56#a261014p56",
-   "d": "2026-10-15T03:40:00.000Z",
-   "first": "2026-10-15T05:59:46.965Z"
+   "id": "d1c6cb5f7bd2177e",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "AI just BROKE all of the software industry...",
+   "u": "https://www.youtube.com/watch?v=EmaXeEdlJkI",
+   "d": "2026-10-15T03:46:29.000Z",
+   "first": "2026-10-15T10:57:33.507Z"
   },
   {
    "id": "fc9b7e23ab2b73f4",
@@ -52,26 +72,6 @@
    "first": "2026-10-15T05:59:46.965Z"
   },
   {
-   "id": "1b98e9776bbba0dd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Letter: Democratic senators question Meta's $6.6B in federal tax credits claimed over the past two years toward costs of building \"experimental\" AI data centers (Kashmir Hill/New York Times)",
-   "u": "https://www.techmeme.com/261014/p53#a261014p53",
-   "d": "2026-10-15T02:20:02.000Z",
-   "first": "2026-10-15T05:59:46.965Z"
-  },
-  {
-   "id": "6cebcac57f965999",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices (Bloomberg)",
-   "u": "https://www.techmeme.com/261014/p50#a261014p50",
-   "d": "2026-10-15T00:45:08.000Z",
-   "first": "2026-10-15T01:01:49.057Z"
-  },
-  {
    "id": "e34147cb50209de7",
    "f": "latent-space",
    "src": "Latent Space",
@@ -80,6 +80,16 @@
    "u": "https://www.latent.space/p/crossing-the-threshold",
    "d": "2026-10-14T21:40:52.000Z",
    "first": "2026-10-14T22:46:09.874Z"
+  },
+  {
+   "id": "6290265cc78656d3",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/_hH7vnTWnq8",
+   "d": "2026-10-14T21:33:58.000Z",
+   "first": "2026-10-15T10:57:33.507Z"
   },
   {
    "id": "3c314a226979156e",
@@ -1102,16 +1112,6 @@
    "first": "2026-10-07T21:40:32.728Z"
   },
   {
-   "id": "3d531fb99d41c72f",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-   "u": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-   "d": "2026-10-07T04:55:44.000Z",
-   "first": "2026-10-07T09:26:59.764Z"
-  },
-  {
    "id": "249d85846c741099",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1210,16 +1210,6 @@
    "u": "https://www.anthropic.com/news/cyber-verification-program",
    "d": "2026-10-06T00:00:00.000Z",
    "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
-   "id": "3048bee766c3f774",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "168 Conquistadors vs 80000 Inca - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/NWZGTdxyTpc",
-   "d": "2026-10-05T21:07:07.000Z",
-   "first": "2026-10-06T00:25:45.121Z"
   },
   {
    "id": "49efa0345fefe3ba",
@@ -1619,16 +1609,6 @@
    "t": "Muse manifesto 📜, OpenAI training pause 🚨, trading compute 🤝",
    "u": "https://tldr.tech/ai/2026-09-28",
    "d": "2026-09-28T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "1c1e06102b9de3f9",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "OpenAI paused all training runs... ALIGNMENT FAILURE",
-   "u": "https://www.youtube.com/watch?v=V3KeMw2nIDA",
-   "d": "2026-09-26T15:22:31.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3113,7 +3093,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3130,7 +3111,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1089 > 1000"
+   "error": "Entity expansion limit exceeded: 1180 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3144,58 +3125,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
