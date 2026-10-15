@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-14T22:46:09.874Z",
+ "generated": "2026-10-15T01:01:49.057Z",
  "items": [
+  {
+   "id": "6cebcac57f965999",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees' devices (Bloomberg)",
+   "u": "https://www.techmeme.com/261014/p50#a261014p50",
+   "d": "2026-10-15T00:45:08.000Z",
+   "first": "2026-10-15T01:01:49.057Z"
+  },
+  {
+   "id": "e114985ad0f7b48b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn't implement sufficient safeguards to protect kids and other vulnerable users (Cassandre Coyer/Bloomberg Law)",
+   "u": "https://www.techmeme.com/261014/p46#a261014p46",
+   "d": "2026-10-14T22:55:02.000Z",
+   "first": "2026-10-15T01:01:49.057Z"
+  },
   {
    "id": "2794b3542e86dd02",
    "f": "techmeme",
@@ -96,50 +116,10 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+ (Michelle Fox/CNBC)",
+   "t": "CoreWeave closed down 15.5% as yields on its bonds near 15% amid concern over tech companies' heavy AI borrowing; Oracle dropped 8.8%, Nebius 10%, Dell 11.3% (Michelle Fox/CNBC)",
    "u": "https://www.techmeme.com/261014/p36#a261014p36",
    "d": "2026-10-14T16:45:02.000Z",
    "first": "2026-10-14T19:47:43.043Z"
-  },
-  {
-   "id": "0a0ed1307f5e0000",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI's head of computing capacity Sachin Katti is leaving the company next month after about a year and is expected to stay on as an adviser (Anissa Gardizy/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261014/p34#a261014p34",
-   "d": "2026-10-14T16:15:01.000Z",
-   "first": "2026-10-14T19:47:43.043Z"
-  },
-  {
-   "id": "6872ddc3e7a91025",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses (Dina Bass/Bloomberg)",
-   "u": "https://www.techmeme.com/261014/p33#a261014p33",
-   "d": "2026-10-14T16:05:01.000Z",
-   "first": "2026-10-14T19:47:43.043Z"
-  },
-  {
-   "id": "42c510fe9572c81a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: OpenAI says a staffer who joined Apple sent 100+ files to a personal account and made a presentation about an unreleased product to Apple leadership (Reuters)",
-   "u": "https://www.techmeme.com/261014/p32#a261014p32",
-   "d": "2026-10-14T15:45:01.000Z",
-   "first": "2026-10-14T19:47:43.043Z"
-  },
-  {
-   "id": "ea226b4788e11751",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Researchers say they discovered and communicated with Chinese AI agents that were trying to bypass security controls on websites and were traced to Tencent (Dylan Freedman/New York Times)",
-   "u": "https://www.techmeme.com/261014/p31#a261014p31",
-   "d": "2026-10-14T15:25:02.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
   },
   {
    "id": "91e094e5f4bcd726",
@@ -180,6 +160,16 @@
    "u": "https://openai.com/index/third-moment-research",
    "d": "2026-10-14T07:00:00.000Z",
    "first": "2026-10-14T15:35:52.509Z"
+  },
+  {
+   "id": "c78e8c4aa7886acc",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Block is building AI-powered security with OpenAI technology",
+   "u": "https://openai.com/index/block-ai-powered-security",
+   "d": "2026-10-14T07:00:00.000Z",
+   "first": "2026-10-15T01:01:49.057Z"
   },
   {
    "id": "b4da712a20e5dd2a",
@@ -1180,16 +1170,6 @@
    "u": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
    "d": "2026-10-06T19:57:04.000Z",
    "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
-   "id": "ff81faccd1632956",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-   "u": "https://openai.com/index/atlassian-partnership",
-   "d": "2026-10-06T16:00:00.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
   },
   {
    "id": "7aa08665b0e473b0",
@@ -3125,7 +3105,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1258 > 1000"
+   "error": "Entity expansion limit exceeded: 1013 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3185,12 +3165,13 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3205,19 +3186,22 @@
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3231,7 +3215,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
