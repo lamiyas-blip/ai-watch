@@ -103,6 +103,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "14758153dc578c9d",
     "2e00db65cefd8432",
     "5382e312923b42b9",
     "4d05b9b3fda8e202",
@@ -149,6 +150,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "a7429129bdfb0c2a",
     "713ec6283da015b3",
     "e767168ef0e9bad0",
     "22909fc0ae06bd43",
@@ -177,6 +179,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "03dc4200d7e27134",
     "6f029e3afa50979e",
     "3eb5fae03670d233",
     "0273dc994d437dbf",
@@ -200,6 +203,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "1dae2d13b7238042",
     "7e9efa791d59a4ff",
     "5039be8d693576a1",
     "8649bcdaa2649ee9",
@@ -293,6 +297,16 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "af96ae16de85a515",
+    "36e4d7986036ee6b",
+    "231d0c1cedc55d45",
+    "a1abbcf4e4d3d195",
+    "624da0851489f4cb",
+    "b41c17c14632de87",
+    "b1c98ca5a7b51251",
+    "1965195cb898e74a",
+    "9600f86a241c734c",
+    "6afa509ca1d2acc9",
     "8d85a8665e3a4164",
     "67e63af2bea6bc07",
     "2a601e6b75722b79",

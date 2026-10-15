@@ -1,6 +1,136 @@
 {
- "generated": "2026-10-15T10:57:33.507Z",
+ "generated": "2026-10-15T15:27:27.208Z",
  "items": [
+  {
+   "id": "14758153dc578c9d",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "OpenAI’s spy shows it needs to grow up, fast",
+   "u": "https://www.transformernews.ai/p/openai-spy-exposes-wider-security-problem",
+   "d": "2026-10-15T15:01:20.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "af96ae16de85a515",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Documents: Nvidia and Apple each committed $25M, the top contribution amount, to Trump's WH ballroom; Microsoft and Palantir committed $10M, Meta and Amazon $5M (Washington Post)",
+   "u": "https://www.techmeme.com/261015/p32#a261015p32",
+   "d": "2026-10-15T14:40:01.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "36e4d7986036ee6b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Portland-based Mueon, which says its AI server racks could fit up to 10x more computing capacity, raised $65M led by Maverick Silicon, with Intel participating (Phoebe Liu/The Information)",
+   "u": "https://www.techmeme.com/261015/p31#a261015p31",
+   "d": "2026-10-15T13:55:00.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "231d0c1cedc55d45",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "North.cloud, which helps companies watch their cloud, AI and data spend, raised a $60M Series B led by PeakSpan Capital, taking its total funding to $67M (Chris Metinko/Axios)",
+   "u": "https://www.techmeme.com/261015/p30#a261015p30",
+   "d": "2026-10-15T13:30:02.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "a1abbcf4e4d3d195",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with Dwarkesh Patel on his podcast, lessons from history, AGI, the mood in San Francisco, the Hugging Face hack, Chinese AI, pacing the frontier, and more (New York Times)",
+   "u": "https://www.techmeme.com/261015/p28#a261015p28",
+   "d": "2026-10-15T13:15:09.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "03dc4200d7e27134",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Prompt tips from Anthropic",
+   "u": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
+   "d": "2026-10-15T13:01:39.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "1dae2d13b7238042",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Teaching students to think and learn through questions",
+   "u": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+   "d": "2026-10-15T13:00:00.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "624da0851489f4cb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos (Hugh Son/CNBC)",
+   "u": "https://www.techmeme.com/261015/p27#a261015p27",
+   "d": "2026-10-15T12:55:01.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "b41c17c14632de87",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom's Hardware)",
+   "u": "https://www.techmeme.com/261015/p26#a261015p26",
+   "d": "2026-10-15T12:45:01.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "b1c98ca5a7b51251",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)",
+   "u": "https://www.techmeme.com/261015/p24#a261015p24",
+   "d": "2026-10-15T12:10:01.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "1965195cb898e74a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI executives have warned staff over potential espionage like honey pots and insider threats and told them to adopt operational security measures (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261015/p23#a261015p23",
+   "d": "2026-10-15T12:00:46.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "9600f86a241c734c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection (Maria Curi/Axios)",
+   "u": "https://www.techmeme.com/261015/p20#a261015p20",
+   "d": "2026-10-15T11:25:00.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "6afa509ca1d2acc9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s (Scott Alexander/Astral Codex Ten)",
+   "u": "https://www.techmeme.com/261015/p19#a261015p19",
+   "d": "2026-10-15T11:15:01.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
+  },
   {
    "id": "08f7a88d25cabfc1",
    "f": "latent-space",
@@ -10,46 +140,6 @@
    "u": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
    "d": "2026-10-15T10:08:08.000Z",
    "first": "2026-10-15T10:57:33.507Z"
-  },
-  {
-   "id": "8d85a8665e3a4164",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with MIT sociologist Sherry Turkle, who has been studying relationships between humans and machines since the 1970s, on her new book, AI chatbots, and more (New York Times)",
-   "u": "https://www.techmeme.com/261015/p10#a261015p10",
-   "d": "2026-10-15T06:35:01.000Z",
-   "first": "2026-10-15T10:57:33.507Z"
-  },
-  {
-   "id": "67e63af2bea6bc07",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261015/p8#a261015p8",
-   "d": "2026-10-15T06:20:01.000Z",
-   "first": "2026-10-15T10:57:33.507Z"
-  },
-  {
-   "id": "2a601e6b75722b79",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "TSMC reports Q3 revenue up 50.9% YoY to $46.36B, net income up 68.7% to $23.7B, both above est., marking a sixth straight quarterly profit record on AI demand (Jenny Lee/CNBC)",
-   "u": "https://www.techmeme.com/261015/p7#a261015p7",
-   "d": "2026-10-15T05:56:47.000Z",
-   "first": "2026-10-15T05:59:46.965Z"
-  },
-  {
-   "id": "90aae4f2b0d99253",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Bloomberg is making its ASKB conversational AI interface available to all Terminal users, letting them integrate their own content with existing financial data (Steven Rosenbush/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261015/p3#a261015p3",
-   "d": "2026-10-15T04:35:04.000Z",
-   "first": "2026-10-15T05:59:46.965Z"
   },
   {
    "id": "d1c6cb5f7bd2177e",
@@ -70,6 +160,16 @@
    "u": "https://www.lesswrong.com/posts/SwYBLQvo8MddDcCwz/cat-belling-problems",
    "d": "2026-10-15T02:32:11.000Z",
    "first": "2026-10-15T05:59:46.965Z"
+  },
+  {
+   "id": "a7429129bdfb0c2a",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Jev 1.14 ⚡, Grok Voice 3 🎙️, RSI 🔁",
+   "u": "https://tldr.tech/ai/2026-10-15",
+   "d": "2026-10-15T00:00:00.000Z",
+   "first": "2026-10-15T15:27:27.208Z"
   },
   {
    "id": "e34147cb50209de7",
@@ -136,7 +236,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "This Robot Is Unlike Any Other On The Market",
+   "t": "The Cheapest Robot On The Market?!",
    "u": "https://www.youtube.com/shorts/XEl4ZQKKxig",
    "d": "2026-10-14T14:41:38.000Z",
    "first": "2026-10-14T15:35:52.509Z"
@@ -1132,16 +1232,6 @@
    "first": "2026-10-07T16:44:22.968Z"
   },
   {
-   "id": "f6870958c4ea323e",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "GPT-6 and Intelligent UI for everyone",
-   "u": "https://openai.com/index/gpt-6-for-everyone",
-   "d": "2026-10-07T00:00:00.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
-  },
-  {
    "id": "29c73315fbfcb7e1",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1732,16 +1822,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "2880b0683d6944de",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
-   "u": "https://tldr.tech/ai/2026-09-24",
-   "d": "2026-09-24T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "8a7cf5569302f71e",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2152,16 +2232,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "d31590d1c7d39794",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Distributing AGI’s wealth worldwide is a very tricky problem",
-   "u": "https://www.transformernews.ai/p/distributing-agi-wealth-worldwide-difficult",
-   "d": "2026-09-08T16:02:47.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "5e257b78c1730cd2",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2239,16 +2309,6 @@
    "t": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
    "u": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
    "d": "2026-09-03T15:02:08.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "035d90372f05de9b",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "Fable 5.1",
-   "u": "https://www.bensbites.com/p/fable-51",
-   "d": "2026-09-03T13:03:56.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3065,7 +3125,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1013 > 1000"
+   "error": "Entity expansion limit exceeded: 1105 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
