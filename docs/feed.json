@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-16T09:58:02.023Z",
+ "generated": "2026-10-16T14:28:45.766Z",
  "items": [
+  {
+   "id": "eb2979f6c0697228",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Taiwan plans to curb AI server and chip exports to China as part of a US trade deal and make shipping restricted AI hardware to China a criminal offense (Bloomberg)",
+   "u": "https://www.techmeme.com/261016/p8#a261016p8",
+   "d": "2026-10-16T11:45:05.000Z",
+   "first": "2026-10-16T14:28:45.766Z"
+  },
+  {
+   "id": "f8e74eacb45dd26b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use (Stuart A. Thompson/New York Times)",
+   "u": "https://www.techmeme.com/261016/p7#a261016p7",
+   "d": "2026-10-16T10:55:01.000Z",
+   "first": "2026-10-16T14:28:45.766Z"
+  },
+  {
+   "id": "65219c7c6e5cdc27",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "India's cyber agency says AI agents broke into Indian organizations' systems and read confidential files undetected; AI model providers flagged the incidents (Munsif Vengattil/Reuters)",
+   "u": "https://www.techmeme.com/261016/p6#a261016p6",
+   "d": "2026-10-16T10:40:01.000Z",
+   "first": "2026-10-16T14:28:45.766Z"
+  },
+  {
+   "id": "5bb78faa468b8f73",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements (Bloomberg)",
+   "u": "https://www.techmeme.com/261016/p5#a261016p5",
+   "d": "2026-10-16T10:35:02.000Z",
+   "first": "2026-10-16T14:28:45.766Z"
+  },
+  {
+   "id": "78af730bdccdb7f5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases (Shaurya Malwa/CoinDesk)",
+   "u": "https://www.techmeme.com/261016/p4#a261016p4",
+   "d": "2026-10-16T10:10:22.000Z",
+   "first": "2026-10-16T14:28:45.766Z"
+  },
   {
    "id": "55da42a7457a9691",
    "f": "techmeme",
@@ -62,46 +112,6 @@
    "first": "2026-10-16T05:13:34.270Z"
   },
   {
-   "id": "222a44904caed578",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-   "u": "https://www.techmeme.com/261015/p59#a261015p59",
-   "d": "2026-10-16T02:20:01.000Z",
-   "first": "2026-10-16T05:13:34.270Z"
-  },
-  {
-   "id": "5746e6cf7513943f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI continues to work to grow its ad business in ChatGPT, cutting ad rates, chasing small and midsize businesses, and hiring some new talent from Meta (Alix Coutures/The Information)",
-   "u": "https://www.techmeme.com/261015/p58#a261015p58",
-   "d": "2026-10-16T01:30:03.000Z",
-   "first": "2026-10-16T05:13:34.270Z"
-  },
-  {
-   "id": "1fa26ccaa62780ab",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The White House's AI task force begins its 120-day window to evaluate AI, including producing a risk report, implementing the White House Accord on SI, and more (Ashley Gold/Semafor)",
-   "u": "https://www.techmeme.com/261015/p57#a261015p57",
-   "d": "2026-10-16T01:00:14.000Z",
-   "first": "2026-10-16T05:13:34.270Z"
-  },
-  {
-   "id": "f0d6b5b4781bfa93",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
-   "u": "https://www.techmeme.com/261015/p56#a261015p56",
-   "d": "2026-10-16T00:15:02.000Z",
-   "first": "2026-10-16T00:52:03.467Z"
-  },
-  {
    "id": "7048928bfd95b42e",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -112,24 +122,14 @@
    "first": "2026-10-16T09:58:02.023Z"
   },
   {
-   "id": "c277e020cb2db120",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Bluesky expands Attie, its AI tool for building custom feeds, with a \"social vibe coding\" feature to create sites, games, quizzes, and more on the AT Protocol (Sarah Perez/TechCrunch)",
-   "u": "https://www.techmeme.com/261015/p53#a261015p53",
-   "d": "2026-10-15T21:35:04.000Z",
-   "first": "2026-10-15T22:30:57.761Z"
-  },
-  {
-   "id": "0fd7bf7405af7297",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: some Anthropic investors discussed a ~$1.5T valuation for its IPO, down from ~$2T they had expected, after disclosures showed slowing Q3 revenue growth (Reuters)",
-   "u": "https://www.techmeme.com/261015/p52#a261015p52",
-   "d": "2026-10-15T21:20:01.000Z",
-   "first": "2026-10-15T22:30:57.761Z"
+   "id": "7fed59e729a8d339",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
+   "u": "https://tldr.tech/ai/2026-10-16",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-16T14:28:45.766Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -1789,16 +1789,6 @@
    "t": "Swarm Scaling",
    "u": "https://www.lesswrong.com/posts/6cb7qd3RSkgnviCpf/swarm-scaling",
    "d": "2026-09-25T02:32:30.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "47bf1ba51946e4bd",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "ChatGPT Pro Max 🤖, Muse realtime avatar 🎭, DeepSeek $1B ARR 💰",
-   "u": "https://tldr.tech/ai/2026-09-25",
-   "d": "2026-09-25T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
