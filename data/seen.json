@@ -104,6 +104,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "b05a7c150b4f4a35",
     "14758153dc578c9d",
     "2e00db65cefd8432",
     "5382e312923b42b9",
@@ -304,6 +305,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "073c774cb69c080a",
+    "cb289f0c5d2a1094",
     "eb2979f6c0697228",
     "f8e74eacb45dd26b",
     "65219c7c6e5cdc27",
@@ -699,6 +702,7 @@
   "yt-3b1b": {
    "init": true,
    "ids": [
+    "2a965856ca7614cb",
     "43225a490f5b5ab9",
     "9605a10e2b0f2cb8",
     "18ba65fdaed99c85",
@@ -742,6 +746,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "aeacdd84b4603f6a",
     "d06f1db104bfef87",
     "91e094e5f4bcd726",
     "9e3c8e8205825eb8",
@@ -761,6 +766,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "aabe82bf7ec343f2",
     "57ff1d295370f770",
     "9ec42bc5e8264acb",
     "f9910b72c3c0ed8d",
@@ -809,6 +815,7 @@
    "ids": [
     "6225e233c579450c",
     "3c39514743032395",
+    "7b0686f4fdd74869",
     "a08e5d1babf0d7ae",
     "2abec9c1b9580e51",
     "c21309f75870621c",

@@ -1,6 +1,66 @@
 {
- "generated": "2026-10-16T14:28:45.766Z",
+ "generated": "2026-10-16T18:15:41.908Z",
  "items": [
+  {
+   "id": "073c774cb69c080a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens (Matt Marshall/VentureBeat)",
+   "u": "https://www.techmeme.com/261016/p15#a261016p15",
+   "d": "2026-10-16T16:40:02.000Z",
+   "first": "2026-10-16T18:15:41.908Z"
+  },
+  {
+   "id": "aeacdd84b4603f6a",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: 6 New Models & A Nano Banana Killer",
+   "u": "https://www.youtube.com/watch?v=KGcuuhqmPhI",
+   "d": "2026-10-16T16:20:28.000Z",
+   "first": "2026-10-16T18:15:41.908Z"
+  },
+  {
+   "id": "2a965856ca7614cb",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "There's never been a better time to go into math",
+   "u": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "d": "2026-10-16T16:15:20.000Z",
+   "first": "2026-10-16T18:15:41.908Z"
+  },
+  {
+   "id": "b05a7c150b4f4a35",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Leading the Future stumbles as pro-safety PACs gain ground",
+   "u": "https://www.transformernews.ai/p/leading-the-future-struggles-ai-safety-pacs-gain-ground",
+   "d": "2026-10-16T15:13:20.000Z",
+   "first": "2026-10-16T18:15:41.908Z"
+  },
+  {
+   "id": "cb289f0c5d2a1094",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "In its first meeting, Trump's Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings (John Harney/Bloomberg)",
+   "u": "https://www.techmeme.com/261016/p14#a261016p14",
+   "d": "2026-10-16T14:55:01.000Z",
+   "first": "2026-10-16T18:15:41.908Z"
+  },
+  {
+   "id": "aabe82bf7ec343f2",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Gemini 4 Argon built this cyberpunk city",
+   "u": "https://www.youtube.com/shorts/vdU8mYN_-hE",
+   "d": "2026-10-16T14:31:21.000Z",
+   "first": "2026-10-16T18:15:41.908Z"
+  },
   {
    "id": "eb2979f6c0697228",
    "f": "techmeme",
@@ -72,21 +132,11 @@
    "first": "2026-10-16T09:58:02.023Z"
   },
   {
-   "id": "f058eadee17a4d3e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)",
-   "u": "https://www.techmeme.com/261016/p1#a261016p1",
-   "d": "2026-10-16T04:55:00.000Z",
-   "first": "2026-10-16T05:13:34.270Z"
-  },
-  {
    "id": "d06f1db104bfef87",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "This Tesla Actualy Flies (NOT AI)",
+   "t": "This Tesla Actually Flies (NOT AI)",
    "u": "https://www.youtube.com/shorts/WXWFmwfo1JA",
    "d": "2026-10-16T04:30:35.000Z",
    "first": "2026-10-16T09:58:02.023Z"
@@ -99,16 +149,6 @@
    "t": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
    "u": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
    "d": "2026-10-16T04:16:45.000Z",
-   "first": "2026-10-16T05:13:34.270Z"
-  },
-  {
-   "id": "c7e6fc4ebcb391b5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures (Chris Metinko/Axios)",
-   "u": "https://www.techmeme.com/261015/p61#a261015p61",
-   "d": "2026-10-16T03:40:00.000Z",
    "first": "2026-10-16T05:13:34.270Z"
   },
   {
@@ -200,6 +240,16 @@
    "u": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
    "d": "2026-10-15T14:58:48.000Z",
    "first": "2026-10-15T22:30:57.761Z"
+  },
+  {
+   "id": "7b0686f4fdd74869",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Using AI to reverse engineer hardware",
+   "u": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+   "d": "2026-10-15T14:35:15.000Z",
+   "first": "2026-10-16T18:15:41.908Z"
   },
   {
    "id": "03dc4200d7e27134",
@@ -842,16 +892,6 @@
    "first": "2026-10-11T14:14:01.943Z"
   },
   {
-   "id": "387dc9a4271ed24a",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "500B tokens later: Letting AI agents decompile a first-person shooter",
-   "u": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-   "d": "2026-10-11T02:02:38.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
    "id": "b281e7f3b14e8cde",
    "f": "latent-space",
    "src": "Latent Space",
@@ -910,16 +950,6 @@
    "u": "https://www.youtube.com/watch?v=615B5nyMFPk",
    "d": "2026-10-10T04:31:57.000Z",
    "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
-   "id": "c0e835aca222e62a",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "AI Is Recreating Photoshop and Other Adobe Apps",
-   "u": "https://www.youtube.com/shorts/TqxHhuOve2Q",
-   "d": "2026-10-10T00:41:09.000Z",
-   "first": "2026-10-10T02:28:04.071Z"
   },
   {
    "id": "655137d0691955c2",
@@ -1612,16 +1642,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "1032cedf755c5ae1",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "AI Made a Game I’d ACTUALLY Play",
-   "u": "https://www.youtube.com/shorts/c7twMUavy5Q",
-   "d": "2026-09-30T12:15:21.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "2b16197dc6b0f272",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -2172,16 +2192,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "cf7d60a6742485a0",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Congress must not waste the AI policy window",
-   "u": "https://www.transformernews.ai/p/congress-must-not-waste-the-ai-policy-window",
-   "d": "2026-09-11T14:02:53.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "11568838b9aeba66",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -2672,16 +2682,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "afd5b583b1705d66",
-   "f": "yt-3b1b",
-   "src": "3Blue1Brown",
-   "cat": "YouTube",
-   "t": "Measuring the entropy of English",
-   "u": "https://www.youtube.com/shorts/-7etvZSBxlk",
-   "d": "2026-06-12T13:22:02.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "af942d448773e6e9",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -3143,8 +3143,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
