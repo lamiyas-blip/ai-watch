@@ -207,6 +207,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "3df7356f7778e618",
     "478230949877699a",
     "c201cf133107aa16",
     "1dae2d13b7238042",
@@ -306,6 +307,9 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "abba5dad2bd4bf78",
+    "2b3c217a0ce1b5f7",
+    "c6ae063a3f686b5c",
     "aef57b1bb854e2a3",
     "fdceb7fe1dd1aea3",
     "6f7dd26f8a4f7d57",
@@ -817,6 +821,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "e893d24dd7c8c167",
     "6225e233c579450c",
     "3c39514743032395",
     "7b0686f4fdd74869",

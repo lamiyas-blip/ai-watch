@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-16T21:26:21.000Z",
+ "generated": "2026-10-16T23:43:56.253Z",
  "items": [
+  {
+   "id": "abba5dad2bd4bf78",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
+   "u": "https://www.techmeme.com/261016/p25#a261016p25",
+   "d": "2026-10-16T23:00:01.000Z",
+   "first": "2026-10-16T23:43:56.253Z"
+  },
+  {
+   "id": "2b3c217a0ce1b5f7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)",
+   "u": "https://www.techmeme.com/261016/p24#a261016p24",
+   "d": "2026-10-16T22:45:01.000Z",
+   "first": "2026-10-16T23:43:56.253Z"
+  },
+  {
+   "id": "c6ae063a3f686b5c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills (Theodore Schleifer/New York Times)",
+   "u": "https://www.techmeme.com/261016/p21#a261016p21",
+   "d": "2026-10-16T21:35:00.000Z",
+   "first": "2026-10-16T23:43:56.253Z"
+  },
   {
    "id": "aef57b1bb854e2a3",
    "f": "techmeme",
@@ -22,6 +52,16 @@
    "first": "2026-10-16T21:26:21.000Z"
   },
   {
+   "id": "3df7356f7778e618",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Itaú is building generative AI for its entire customer base",
+   "u": "https://openai.com/index/itau-generative-ai",
+   "d": "2026-10-16T19:00:00.000Z",
+   "first": "2026-10-16T23:43:56.253Z"
+  },
+  {
    "id": "6f7dd26f8a4f7d57",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
@@ -40,6 +80,16 @@
    "u": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
    "d": "2026-10-16T18:00:00.000Z",
    "first": "2026-10-09T00:45:16.648Z"
+  },
+  {
+   "id": "e893d24dd7c8c167",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "u": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "d": "2026-10-16T17:08:38.000Z",
+   "first": "2026-10-16T23:43:56.253Z"
   },
   {
    "id": "073c774cb69c080a",
@@ -100,36 +150,6 @@
    "u": "https://www.youtube.com/shorts/vdU8mYN_-hE",
    "d": "2026-10-16T14:31:21.000Z",
    "first": "2026-10-16T18:15:41.908Z"
-  },
-  {
-   "id": "eb2979f6c0697228",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Taiwan plans to curb AI server and chip exports to China as part of a US trade deal and make shipping restricted AI hardware to China a criminal offense (Bloomberg)",
-   "u": "https://www.techmeme.com/261016/p8#a261016p8",
-   "d": "2026-10-16T11:45:05.000Z",
-   "first": "2026-10-16T14:28:45.766Z"
-  },
-  {
-   "id": "f8e74eacb45dd26b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use (Stuart A. Thompson/New York Times)",
-   "u": "https://www.techmeme.com/261016/p7#a261016p7",
-   "d": "2026-10-16T10:55:01.000Z",
-   "first": "2026-10-16T14:28:45.766Z"
-  },
-  {
-   "id": "65219c7c6e5cdc27",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "India's cyber agency says AI agents broke into Indian organizations' systems and read confidential files undetected; AI model providers flagged the incidents (Munsif Vengattil/Reuters)",
-   "u": "https://www.techmeme.com/261016/p6#a261016p6",
-   "d": "2026-10-16T10:40:01.000Z",
-   "first": "2026-10-16T14:28:45.766Z"
   },
   {
    "id": "d06f1db104bfef87",
@@ -832,16 +852,6 @@
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "4f7eaf6c37401d75",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "QGIS enacts moratorium on AI contributions",
-   "u": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-   "d": "2026-10-12T11:22:24.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
    "id": "5ab94baefeab8b53",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -1150,16 +1160,6 @@
    "u": "https://openai.com/index/pollo-ai",
    "d": "2026-10-08T12:00:00.000Z",
    "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "cb2f3bc01e969bf5",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "LegalOn halves Codex costs while maintaining development speed",
-   "u": "https://openai.com/index/legalon-halves-codex-costs",
-   "d": "2026-10-08T12:00:00.000Z",
-   "first": "2026-10-09T00:45:16.648Z"
   },
   {
    "id": "87ff2c156e976a29",
@@ -3105,7 +3105,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1173 > 1000"
+   "error": "Entity expansion limit exceeded: 1027 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3133,8 +3133,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3165,47 +3164,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
