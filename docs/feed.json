@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-16T05:13:34.270Z",
+ "generated": "2026-10-16T09:58:02.023Z",
  "items": [
+  {
+   "id": "55da42a7457a9691",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at China's AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI (Afra Wang/New York Magazine)",
+   "u": "https://www.techmeme.com/261016/p3#a261016p3",
+   "d": "2026-10-16T08:30:01.000Z",
+   "first": "2026-10-16T09:58:02.023Z"
+  },
+  {
+   "id": "696755830d952c4f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI (Reuters)",
+   "u": "https://www.techmeme.com/261016/p2#a261016p2",
+   "d": "2026-10-16T06:05:01.000Z",
+   "first": "2026-10-16T09:58:02.023Z"
+  },
   {
    "id": "f058eadee17a4d3e",
    "f": "techmeme",
@@ -10,6 +30,16 @@
    "u": "https://www.techmeme.com/261016/p1#a261016p1",
    "d": "2026-10-16T04:55:00.000Z",
    "first": "2026-10-16T05:13:34.270Z"
+  },
+  {
+   "id": "d06f1db104bfef87",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "This Tesla Actualy Flies (NOT AI)",
+   "u": "https://www.youtube.com/shorts/WXWFmwfo1JA",
+   "d": "2026-10-16T04:30:35.000Z",
+   "first": "2026-10-16T09:58:02.023Z"
   },
   {
    "id": "51fc6b24ce00f859",
@@ -70,6 +100,16 @@
    "u": "https://www.techmeme.com/261015/p56#a261015p56",
    "d": "2026-10-16T00:15:02.000Z",
    "first": "2026-10-16T00:52:03.467Z"
+  },
+  {
+   "id": "7048928bfd95b42e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Spain Got Rich and Fell Behind - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/hjhJQXlQ6HQ",
+   "d": "2026-10-16T00:01:56.000Z",
+   "first": "2026-10-16T09:58:02.023Z"
   },
   {
    "id": "c277e020cb2db120",
@@ -1242,16 +1282,6 @@
    "first": "2026-10-07T16:44:22.968Z"
   },
   {
-   "id": "29c73315fbfcb7e1",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Toppling Saddam was the easy part - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/7rk18oEEqzc",
-   "d": "2026-10-06T22:55:07.000Z",
-   "first": "2026-10-07T02:30:33.506Z"
-  },
-  {
    "id": "d5f20e84815040d4",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1679,16 +1709,6 @@
    "t": "How GLM5.3 Sparse Attention Affects HBM Memory Usage",
    "u": "https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53",
    "d": "2026-09-28T19:26:41.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "1a5c7746727ca080",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "This AI Model Is INSANELY Fast & Cheap",
-   "u": "https://www.youtube.com/shorts/hx42whM7NsY",
-   "d": "2026-09-28T17:07:47.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3165,58 +3185,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
