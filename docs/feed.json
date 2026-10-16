@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-15T22:30:57.761Z",
+ "generated": "2026-10-16T00:52:03.467Z",
  "items": [
+  {
+   "id": "f0d6b5b4781bfa93",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
+   "u": "https://www.techmeme.com/261015/p56#a261015p56",
+   "d": "2026-10-16T00:15:02.000Z",
+   "first": "2026-10-16T00:52:03.467Z"
+  },
   {
    "id": "c277e020cb2db120",
    "f": "techmeme",
@@ -102,16 +112,6 @@
    "first": "2026-10-15T19:17:47.223Z"
   },
   {
-   "id": "fc8bb4279e79e779",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices (Anthropic)",
-   "u": "https://www.techmeme.com/261015/p41#a261015p41",
-   "d": "2026-10-15T17:46:31.000Z",
-   "first": "2026-10-15T19:17:47.223Z"
-  },
-  {
    "id": "066f5a7939361f0d",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -200,6 +200,16 @@
    "u": "https://tldr.tech/ai/2026-10-15",
    "d": "2026-10-15T00:00:00.000Z",
    "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "9267f2197fbebaad",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Sullivan & Cromwell brings legal expertise into agreement review",
+   "u": "https://openai.com/index/sullivan-cromwell",
+   "d": "2026-10-15T00:00:00.000Z",
+   "first": "2026-10-16T00:52:03.467Z"
   },
   {
    "id": "7544b4309b81d94b",
@@ -912,16 +922,6 @@
    "first": "2026-10-09T13:56:06.459Z"
   },
   {
-   "id": "8feec7b042f5e219",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "u": "https://openai.com/index/sophos",
-   "d": "2026-10-09T07:00:00.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
    "id": "f50c9cb3ca57de55",
    "f": "openai-news",
    "src": "OpenAI",
@@ -930,6 +930,16 @@
    "u": "https://openai.com/index/asana-browser-agent",
    "d": "2026-10-09T07:00:00.000Z",
    "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "8feec7b042f5e219",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "u": "https://openai.com/index/sophos",
+   "d": "2026-10-09T07:00:00.000Z",
+   "first": "2026-10-09T13:56:06.459Z"
   },
   {
    "id": "c72e19dbb41e805d",
@@ -1199,16 +1209,6 @@
    "t": "DeepMind's New AI Just Cracked The Code Of Life",
    "u": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "d": "2026-10-07T13:29:33.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "76acad3bff1db9be",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Helping teens learn, plan, and shape the future of AI",
-   "u": "https://openai.com/index/teens-learn-and-plan",
-   "d": "2026-10-07T12:00:00.000Z",
    "first": "2026-10-07T16:44:22.968Z"
   },
   {
@@ -3123,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,12 +3141,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1155 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1011 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3154,47 +3155,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
