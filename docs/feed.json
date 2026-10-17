@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T17:22:05.179Z",
+ "generated": "2026-10-17T19:33:29.146Z",
  "items": [
   {
    "id": "1e3a0957a5f510f3",
@@ -100,26 +100,6 @@
    "u": "https://www.techmeme.com/261017/p2#a261017p2",
    "d": "2026-10-17T05:05:01.000Z",
    "first": "2026-10-17T06:19:18.802Z"
-  },
-  {
-   "id": "019f83f032cb6d1e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-   "u": "https://www.techmeme.com/261017/p1#a261017p1",
-   "d": "2026-10-17T04:50:01.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
-  },
-  {
-   "id": "f65e9117defefeef",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more (Anthropic)",
-   "u": "https://www.techmeme.com/261016/p30#a261016p30",
-   "d": "2026-10-17T01:45:01.000Z",
-   "first": "2026-10-17T01:49:28.655Z"
   },
   {
    "id": "c1213c8d616e0f2a",
@@ -3143,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3160,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1015 > 1000"
+   "error": "Entity expansion limit exceeded: 1075 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
