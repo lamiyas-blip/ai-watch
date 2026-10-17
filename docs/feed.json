@@ -1,6 +1,46 @@
 {
- "generated": "2026-10-17T01:49:28.655Z",
+ "generated": "2026-10-17T06:19:18.802Z",
  "items": [
+  {
+   "id": "425724d9aad020a0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
+   "u": "https://www.techmeme.com/261017/p7#a261017p7",
+   "d": "2026-10-17T06:15:02.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
+  },
+  {
+   "id": "fc7c3e70c1231bd3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
+   "u": "https://www.techmeme.com/261017/p4#a261017p4",
+   "d": "2026-10-17T05:30:01.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
+  },
+  {
+   "id": "4dca83502cfd80ae",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261017/p2#a261017p2",
+   "d": "2026-10-17T05:05:01.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
+  },
+  {
+   "id": "019f83f032cb6d1e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
+   "u": "https://www.techmeme.com/261017/p1#a261017p1",
+   "d": "2026-10-17T04:50:01.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
+  },
   {
    "id": "f65e9117defefeef",
    "f": "techmeme",
@@ -62,36 +102,6 @@
    "first": "2026-10-16T23:43:56.253Z"
   },
   {
-   "id": "c6ae063a3f686b5c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills (Theodore Schleifer/New York Times)",
-   "u": "https://www.techmeme.com/261016/p21#a261016p21",
-   "d": "2026-10-16T21:35:00.000Z",
-   "first": "2026-10-16T23:43:56.253Z"
-  },
-  {
-   "id": "aef57b1bb854e2a3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)",
-   "u": "https://www.techmeme.com/261016/p20#a261016p20",
-   "d": "2026-10-16T20:25:02.000Z",
-   "first": "2026-10-16T21:26:21.000Z"
-  },
-  {
-   "id": "fdceb7fe1dd1aea3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots (Bloomberg)",
-   "u": "https://www.techmeme.com/261016/p19#a261016p19",
-   "d": "2026-10-16T19:50:01.000Z",
-   "first": "2026-10-16T21:26:21.000Z"
-  },
-  {
    "id": "3df7356f7778e618",
    "f": "openai-news",
    "src": "OpenAI",
@@ -100,16 +110,6 @@
    "u": "https://openai.com/index/itau-generative-ai",
    "d": "2026-10-16T19:00:00.000Z",
    "first": "2026-10-16T23:43:56.253Z"
-  },
-  {
-   "id": "6f7dd26f8a4f7d57",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)",
-   "u": "https://www.techmeme.com/261016/p17#a261016p17",
-   "d": "2026-10-16T18:45:00.000Z",
-   "first": "2026-10-16T21:26:21.000Z"
   },
   {
    "id": "bce41b36acb1b8cb",
@@ -220,6 +220,16 @@
    "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-16T21:26:21.000Z"
+  },
+  {
+   "id": "0429f76b95143efe",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Benefit Street Partners answers questions faster with Codex",
+   "u": "https://openai.com/index/benefit-street-partners",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -1170,16 +1180,6 @@
    "u": "https://www.bensbites.com/p/text-is-so-2023",
    "d": "2026-10-08T13:00:52.000Z",
    "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "65d85f989dc01281",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "u": "https://openai.com/index/pollo-ai",
-   "d": "2026-10-08T12:00:00.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
   },
   {
    "id": "87ff2c156e976a29",
@@ -3185,7 +3185,8 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3220,7 +3221,7 @@
   "yt-two-minute": {
    "name": "Two Minute Papers",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3235,7 +3236,7 @@
   "yt-wes-roth": {
    "name": "Wes Roth",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   }
  }
 }
