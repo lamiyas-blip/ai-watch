@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-17T06:19:18.802Z",
+ "generated": "2026-10-17T11:00:27.083Z",
  "items": [
+  {
+   "id": "45c549b67894ccfe",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] High Taste Testers Ep. 1",
+   "u": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+   "d": "2026-10-17T07:47:38.000Z",
+   "first": "2026-10-17T11:00:27.083Z"
+  },
+  {
+   "id": "41e7d4dfc92f7905",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
+   "u": "https://www.techmeme.com/261017/p8#a261017p8",
+   "d": "2026-10-17T06:35:01.000Z",
+   "first": "2026-10-17T11:00:27.083Z"
+  },
   {
    "id": "425724d9aad020a0",
    "f": "techmeme",
@@ -10,6 +30,16 @@
    "u": "https://www.techmeme.com/261017/p7#a261017p7",
    "d": "2026-10-17T06:15:02.000Z",
    "first": "2026-10-17T06:19:18.802Z"
+  },
+  {
+   "id": "ef2ecfeb11f0af87",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Gemini 4 Argon Built an Excel Clone in 20 Minutes",
+   "u": "https://www.youtube.com/shorts/YMulO01LMBE",
+   "d": "2026-10-17T05:41:17.000Z",
+   "first": "2026-10-17T11:00:27.083Z"
   },
   {
    "id": "fc7c3e70c1231bd3",
@@ -82,6 +112,16 @@
    "first": "2026-10-17T01:49:28.655Z"
   },
   {
+   "id": "c1213c8d616e0f2a",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why Guns Didn’t Conquer the Aztecs - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/B6FAMw8FgX4",
+   "d": "2026-10-16T23:06:48.000Z",
+   "first": "2026-10-17T11:00:27.083Z"
+  },
+  {
    "id": "abba5dad2bd4bf78",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
@@ -89,16 +129,6 @@
    "t": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
    "u": "https://www.techmeme.com/261016/p25#a261016p25",
    "d": "2026-10-16T23:00:01.000Z",
-   "first": "2026-10-16T23:43:56.253Z"
-  },
-  {
-   "id": "2b3c217a0ce1b5f7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)",
-   "u": "https://www.techmeme.com/261016/p24#a261016p24",
-   "d": "2026-10-16T22:45:01.000Z",
    "first": "2026-10-16T23:43:56.253Z"
   },
   {
@@ -962,16 +992,6 @@
    "first": "2026-10-10T22:15:38.983Z"
   },
   {
-   "id": "32569f2dcdac1b62",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Everything has been solved",
-   "u": "https://www.youtube.com/watch?v=cX2kD2yQf88",
-   "d": "2026-10-10T18:42:01.000Z",
-   "first": "2026-10-10T19:00:09.059Z"
-  },
-  {
    "id": "c6df9c11285a3105",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1222,16 +1242,6 @@
    "first": "2026-10-08T15:00:11.845Z"
   },
   {
-   "id": "7600e66f5b64560a",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-   "u": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-   "d": "2026-10-08T07:27:51.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
    "id": "5d2d4d08df53558d",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1280,16 +1290,6 @@
    "u": "https://www.anthropic.com/news/2026-usage-policy-update",
    "d": "2026-10-08T00:00:00.000Z",
    "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "cfc069bc5da1664e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why 90% of Cortés's Army Wasn't Spanish - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/JoE9AbbVT9A",
-   "d": "2026-10-07T21:14:29.000Z",
-   "first": "2026-10-07T21:40:32.728Z"
   },
   {
    "id": "1e3e07a1e7ea433e",
@@ -3153,8 +3153,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3171,7 +3170,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1155 > 1000"
+   "error": "Entity expansion limit exceeded: 1079 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3185,58 +3184,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
