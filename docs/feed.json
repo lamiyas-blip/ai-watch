@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-17T14:17:55.934Z",
+ "generated": "2026-10-17T17:22:05.179Z",
  "items": [
+  {
+   "id": "1e3a0957a5f510f3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor (Saritha Rai/Bloomberg)",
+   "u": "https://www.techmeme.com/261017/p13#a261017p13",
+   "d": "2026-10-17T15:00:37.000Z",
+   "first": "2026-10-17T17:22:05.179Z"
+  },
   {
    "id": "62145b1bf93c285a",
    "f": "interconnects",
@@ -112,26 +122,6 @@
    "first": "2026-10-17T01:49:28.655Z"
   },
   {
-   "id": "935646afc4198319",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic is offering Blackstone a 10%+ yield to help finance Anthropic's $60B debt package to buy Google TPUs; Blackstone would invest $9B in the debt (Financial Times)",
-   "u": "https://www.techmeme.com/261016/p29#a261016p29",
-   "d": "2026-10-17T01:35:02.000Z",
-   "first": "2026-10-17T01:49:28.655Z"
-  },
-  {
-   "id": "5cbb0ef44199ed70",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more (Anthropic)",
-   "u": "https://www.techmeme.com/261016/p28#a261016p28",
-   "d": "2026-10-17T01:00:12.000Z",
-   "first": "2026-10-17T01:49:28.655Z"
-  },
-  {
    "id": "c1213c8d616e0f2a",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -190,6 +180,16 @@
    "u": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
    "d": "2026-10-16T16:15:20.000Z",
    "first": "2026-10-16T18:15:41.908Z"
+  },
+  {
+   "id": "353e4c7e3bb9d50c",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+   "u": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+   "d": "2026-10-16T15:55:40.000Z",
+   "first": "2026-10-17T17:22:05.179Z"
   },
   {
    "id": "b05a7c150b4f4a35",
@@ -252,16 +252,6 @@
    "first": "2026-10-16T14:28:45.766Z"
   },
   {
-   "id": "478230949877699a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-16T21:26:21.000Z"
-  },
-  {
    "id": "0429f76b95143efe",
    "f": "openai-news",
    "src": "OpenAI",
@@ -270,6 +260,16 @@
    "u": "https://openai.com/index/benefit-street-partners",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-17T06:19:18.802Z"
+  },
+  {
+   "id": "478230949877699a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-16T21:26:21.000Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -912,16 +912,6 @@
    "first": "2026-10-13T21:37:41.621Z"
   },
   {
-   "id": "4a5a717bcc06fe51",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Why aren't AI companies being charged for hacking?",
-   "u": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-   "d": "2026-10-12T14:52:37.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
    "id": "5ab94baefeab8b53",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -1092,16 +1082,6 @@
    "first": "2026-10-09T13:56:06.459Z"
   },
   {
-   "id": "8feec7b042f5e219",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "u": "https://openai.com/index/sophos",
-   "d": "2026-10-09T07:00:00.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
    "id": "f50c9cb3ca57de55",
    "f": "openai-news",
    "src": "OpenAI",
@@ -1110,6 +1090,16 @@
    "u": "https://openai.com/index/asana-browser-agent",
    "d": "2026-10-09T07:00:00.000Z",
    "first": "2026-10-09T19:08:51.363Z"
+  },
+  {
+   "id": "8feec7b042f5e219",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "u": "https://openai.com/index/sophos",
+   "d": "2026-10-09T07:00:00.000Z",
+   "first": "2026-10-09T13:56:06.459Z"
   },
   {
    "id": "c72e19dbb41e805d",
@@ -3153,8 +3143,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3171,7 +3160,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1148 > 1000"
+   "error": "Entity expansion limit exceeded: 1015 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
