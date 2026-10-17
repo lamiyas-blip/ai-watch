@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-17T11:00:27.083Z",
+ "generated": "2026-10-17T14:17:55.934Z",
  "items": [
+  {
+   "id": "62145b1bf93c285a",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Meta shakes up the frontiers, open and closed",
+   "u": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "d": "2026-10-17T14:06:54.000Z",
+   "first": "2026-10-17T14:17:55.934Z"
+  },
+  {
+   "id": "6ffc07309e0ab82e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261017/p11#a261017p11",
+   "d": "2026-10-17T13:45:01.000Z",
+   "first": "2026-10-17T14:17:55.934Z"
+  },
+  {
+   "id": "87414685dc9873c0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)",
+   "u": "https://www.techmeme.com/261017/p10#a261017p10",
+   "d": "2026-10-17T12:35:02.000Z",
+   "first": "2026-10-17T14:17:55.934Z"
+  },
   {
    "id": "45c549b67894ccfe",
    "f": "latent-space",
@@ -102,16 +132,6 @@
    "first": "2026-10-17T01:49:28.655Z"
   },
   {
-   "id": "6850593962937a14",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review (Marcus Mendes/9to5Mac)",
-   "u": "https://www.techmeme.com/261016/p26#a261016p26",
-   "d": "2026-10-16T23:45:01.000Z",
-   "first": "2026-10-17T01:49:28.655Z"
-  },
-  {
    "id": "c1213c8d616e0f2a",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -120,16 +140,6 @@
    "u": "https://www.youtube.com/shorts/B6FAMw8FgX4",
    "d": "2026-10-16T23:06:48.000Z",
    "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
-   "id": "abba5dad2bd4bf78",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
-   "u": "https://www.techmeme.com/261016/p25#a261016p25",
-   "d": "2026-10-16T23:00:01.000Z",
-   "first": "2026-10-16T23:43:56.253Z"
   },
   {
    "id": "3df7356f7778e618",
@@ -2522,16 +2532,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "4d25533691eda932",
-   "f": "interconnects",
-   "src": "Interconnects",
-   "cat": "Newsletter",
-   "t": "Introducing our Artifacts Hub and Adoption Dashboard",
-   "u": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
-   "d": "2026-08-03T14:03:08.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "415c37eb8c072703",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -3153,7 +3153,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3170,7 +3171,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1079 > 1000"
+   "error": "Entity expansion limit exceeded: 1148 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
