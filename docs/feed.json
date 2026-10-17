@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-17T19:33:29.146Z",
+ "generated": "2026-10-17T21:48:48.061Z",
  "items": [
+  {
+   "id": "7bd805e6371d2ed4",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Gemini 4 Argon Made a Fall Guys Clone",
+   "u": "https://www.youtube.com/shorts/kb74_MmsTFM",
+   "d": "2026-10-17T21:23:14.000Z",
+   "first": "2026-10-17T21:48:48.061Z"
+  },
   {
    "id": "1e3a0957a5f510f3",
    "f": "techmeme",
@@ -89,16 +99,6 @@
    "t": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
    "u": "https://www.techmeme.com/261017/p4#a261017p4",
    "d": "2026-10-17T05:30:01.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
-  },
-  {
-   "id": "4dca83502cfd80ae",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261017/p2#a261017p2",
-   "d": "2026-10-17T05:05:01.000Z",
    "first": "2026-10-17T06:19:18.802Z"
   },
   {
@@ -890,16 +890,6 @@
    "u": "https://taylor.town/kk-ai-2026",
    "d": "2026-10-12T15:16:45.000Z",
    "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "5ab94baefeab8b53",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Human Creativity Still Matters",
-   "u": "https://www.youtube.com/shorts/PODwi90Ne8k",
-   "d": "2026-10-12T02:23:09.000Z",
-   "first": "2026-10-12T09:54:18.432Z"
   },
   {
    "id": "22909fc0ae06bd43",
@@ -3123,8 +3113,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
