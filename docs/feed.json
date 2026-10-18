@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-18T17:47:26.878Z",
+ "generated": "2026-10-18T19:46:31.840Z",
  "items": [
+  {
+   "id": "5bec8baa49e5a8d6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
+   "u": "https://www.techmeme.com/261018/p10#a261018p10",
+   "d": "2026-10-18T19:10:00.000Z",
+   "first": "2026-10-18T19:46:31.840Z"
+  },
+  {
+   "id": "06adac332e2fa6e6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC's 3nm process; Samsung agreed, its first use of TSMC (Kyu-Seok Shim/Reuters)",
+   "u": "https://www.techmeme.com/261018/p9#a261018p9",
+   "d": "2026-10-18T18:10:01.000Z",
+   "first": "2026-10-18T19:46:31.840Z"
+  },
   {
    "id": "3f1a8b0ef0c5f8aa",
    "f": "techmeme",
@@ -70,6 +90,16 @@
    "u": "https://www.techmeme.com/261017/p20#a261017p20",
    "d": "2026-10-18T01:20:02.000Z",
    "first": "2026-10-18T01:47:30.640Z"
+  },
+  {
+   "id": "54271ffa73c5c138",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Investing in the public benefit",
+   "u": "https://www.anthropic.com/news/public-benefit-fund",
+   "d": "2026-10-18T00:00:00.000Z",
+   "first": "2026-10-18T19:46:31.840Z"
   },
   {
    "id": "7bd805e6371d2ed4",
@@ -2362,16 +2392,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "49ebdf6da618bcc8",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Previewing the Model Hardware Standard",
-   "u": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-   "d": "2026-08-27T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "bb48be090a6b6b1a",
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
@@ -3113,7 +3133,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3130,7 +3151,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1042 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

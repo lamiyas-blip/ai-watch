@@ -282,6 +282,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "54271ffa73c5c138",
     "7544b4309b81d94b",
     "3873710e669257dd",
     "73b60fc15fe07509",
@@ -310,6 +311,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "5bec8baa49e5a8d6",
+    "06adac332e2fa6e6",
     "3f1a8b0ef0c5f8aa",
     "05e9d083ae1667a1",
     "42c736a6d344e73f",
