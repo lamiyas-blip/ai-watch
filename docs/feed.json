@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T14:58:31.474Z",
+ "generated": "2026-10-18T17:47:26.878Z",
  "items": [
   {
    "id": "3f1a8b0ef0c5f8aa",
@@ -40,6 +40,16 @@
    "u": "https://www.techmeme.com/261018/p2#a261018p2",
    "d": "2026-10-18T05:10:01.000Z",
    "first": "2026-10-18T06:43:13.012Z"
+  },
+  {
+   "id": "ad502c6ad580d6a2",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+   "u": "https://sphinx-six-theta.vercel.app/",
+   "d": "2026-10-18T04:33:49.000Z",
+   "first": "2026-10-18T17:47:26.878Z"
   },
   {
    "id": "98479c81cf4e3907",
@@ -880,16 +890,6 @@
    "u": "https://www.youtube.com/shorts/FTaPMTB-LxI",
    "d": "2026-10-12T16:21:04.000Z",
    "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "705db1d5bc51d90d",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-   "u": "https://taylor.town/kk-ai-2026",
-   "d": "2026-10-12T15:16:45.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "22909fc0ae06bd43",
@@ -3113,8 +3113,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
