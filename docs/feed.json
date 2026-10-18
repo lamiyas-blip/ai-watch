@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-18T01:47:30.640Z",
+ "generated": "2026-10-18T06:43:13.012Z",
  "items": [
+  {
+   "id": "3f1a8b0ef0c5f8aa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+   "u": "https://www.techmeme.com/261018/p5#a261018p5",
+   "d": "2026-10-18T06:10:04.000Z",
+   "first": "2026-10-18T06:43:13.012Z"
+  },
+  {
+   "id": "05e9d083ae1667a1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+   "u": "https://www.techmeme.com/261018/p4#a261018p4",
+   "d": "2026-10-18T06:05:00.000Z",
+   "first": "2026-10-18T06:43:13.012Z"
+  },
+  {
+   "id": "42c736a6d344e73f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+   "u": "https://www.techmeme.com/261018/p3#a261018p3",
+   "d": "2026-10-18T05:40:01.000Z",
+   "first": "2026-10-18T06:43:13.012Z"
+  },
+  {
+   "id": "1c03f9209cd038f2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+   "u": "https://www.techmeme.com/261018/p2#a261018p2",
+   "d": "2026-10-18T05:10:01.000Z",
+   "first": "2026-10-18T06:43:13.012Z"
+  },
+  {
+   "id": "98479c81cf4e3907",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)",
+   "u": "https://www.techmeme.com/261017/p21#a261017p21",
+   "d": "2026-10-18T03:50:01.000Z",
+   "first": "2026-10-18T06:43:13.012Z"
+  },
   {
    "id": "13a1379aa30a0da1",
    "f": "techmeme",
@@ -42,26 +92,6 @@
    "first": "2026-10-17T14:17:55.934Z"
   },
   {
-   "id": "6ffc07309e0ab82e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "As AI giants rack up potential legal liabilities of tens of billions amid safety incidents, insurers worry claims may outpace limits on existing coverage (Jean Eaglesham/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261017/p11#a261017p11",
-   "d": "2026-10-17T13:45:01.000Z",
-   "first": "2026-10-17T14:17:55.934Z"
-  },
-  {
-   "id": "87414685dc9873c0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google (Preeti Singh/Bloomberg)",
-   "u": "https://www.techmeme.com/261017/p10#a261017p10",
-   "d": "2026-10-17T12:35:02.000Z",
-   "first": "2026-10-17T14:17:55.934Z"
-  },
-  {
    "id": "45c549b67894ccfe",
    "f": "latent-space",
    "src": "Latent Space",
@@ -70,26 +100,6 @@
    "u": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
    "d": "2026-10-17T07:47:38.000Z",
    "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
-   "id": "41e7d4dfc92f7905",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-   "u": "https://www.techmeme.com/261017/p8#a261017p8",
-   "d": "2026-10-17T06:35:01.000Z",
-   "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
-   "id": "425724d9aad020a0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-   "u": "https://www.techmeme.com/261017/p7#a261017p7",
-   "d": "2026-10-17T06:15:02.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
   },
   {
    "id": "ef2ecfeb11f0af87",
@@ -3085,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1027 > 1000"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3130,7 +3140,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1120 > 1000"
+   "error": "Entity expansion limit exceeded: 1042 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3144,7 +3154,8 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3168,7 +3179,8 @@
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3177,15 +3189,18 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
