@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-17T23:34:08.944Z",
+ "generated": "2026-10-18T01:47:30.640Z",
  "items": [
+  {
+   "id": "13a1379aa30a0da1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)",
+   "u": "https://www.techmeme.com/261017/p20#a261017p20",
+   "d": "2026-10-18T01:20:02.000Z",
+   "first": "2026-10-18T01:47:30.640Z"
+  },
   {
    "id": "7bd805e6371d2ed4",
    "f": "yt-matthew-berman",
@@ -90,16 +100,6 @@
    "u": "https://www.youtube.com/shorts/YMulO01LMBE",
    "d": "2026-10-17T05:41:17.000Z",
    "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
-   "id": "fc7c3e70c1231bd3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
-   "u": "https://www.techmeme.com/261017/p4#a261017p4",
-   "d": "2026-10-17T05:30:01.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
   },
   {
    "id": "c1213c8d616e0f2a",
@@ -3113,8 +3113,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3131,7 +3130,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1075 > 1000"
+   "error": "Entity expansion limit exceeded: 1120 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3149,19 +3148,23 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3169,7 +3172,8 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3185,7 +3189,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
