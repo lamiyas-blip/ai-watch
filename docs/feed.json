@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-18T19:46:31.840Z",
+ "generated": "2026-10-18T21:58:59.952Z",
  "items": [
+  {
+   "id": "069e14d99bd56349",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
+   "u": "https://www.techmeme.com/261018/p11#a261018p11",
+   "d": "2026-10-18T19:55:01.000Z",
+   "first": "2026-10-18T21:58:59.952Z"
+  },
+  {
+   "id": "46bef41e129fded2",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why India’s Kings Lost to a Company - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/HkMlMdaiODQ",
+   "d": "2026-10-18T19:44:44.000Z",
+   "first": "2026-10-18T21:58:59.952Z"
+  },
   {
    "id": "5bec8baa49e5a8d6",
    "f": "techmeme",
@@ -1110,16 +1130,6 @@
    "u": "https://www.youtube.com/watch?v=rxpV3QLV-pg",
    "d": "2026-10-09T04:28:24.000Z",
    "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "f6929a94d9242922",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Silver Made Spain Poorer - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/f2g-3rYGHJE",
-   "d": "2026-10-09T00:01:37.000Z",
-   "first": "2026-10-09T00:45:16.648Z"
   },
   {
    "id": "d2ea09f5a80c83dd",
@@ -3133,8 +3143,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
