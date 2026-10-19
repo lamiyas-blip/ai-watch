@@ -132,6 +132,7 @@
   "semianalysis": {
    "init": true,
    "ids": [
+    "d8c55bdb6961d5c7",
     "c7201d7caeea9334",
     "2f0ed1d996b06fdf",
     "49efa0345fefe3ba",
@@ -311,6 +312,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "ef50bc46562c602d",
+    "948d10e76e7db1fd",
+    "4b191dcf6b7f3862",
+    "134642bbd9c446cd",
     "22792bd79e19040c",
     "069e14d99bd56349",
     "5bec8baa49e5a8d6",
