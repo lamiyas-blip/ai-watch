@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-18T23:55:09.212Z",
+ "generated": "2026-10-19T02:04:51.840Z",
  "items": [
+  {
+   "id": "22792bd79e19040c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)",
+   "u": "https://www.techmeme.com/261018/p14#a261018p14",
+   "d": "2026-10-19T01:40:00.000Z",
+   "first": "2026-10-19T02:04:51.840Z"
+  },
   {
    "id": "986c3e679cc638a2",
    "f": "yt-matthew-berman",
@@ -110,16 +120,6 @@
    "u": "https://www.techmeme.com/261017/p21#a261017p21",
    "d": "2026-10-18T03:50:01.000Z",
    "first": "2026-10-18T06:43:13.012Z"
-  },
-  {
-   "id": "13a1379aa30a0da1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more (Joanna Stern/The New Things)",
-   "u": "https://www.techmeme.com/261017/p20#a261017p20",
-   "d": "2026-10-18T01:20:02.000Z",
-   "first": "2026-10-18T01:47:30.640Z"
   },
   {
    "id": "54271ffa73c5c138",
@@ -3115,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "Entity expansion limit exceeded: 1028 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3178,27 +3178,33 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3206,15 +3212,18 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
