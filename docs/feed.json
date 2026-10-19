@@ -1,25 +1,145 @@
 {
- "generated": "2026-10-19T07:56:55.026Z",
+ "generated": "2026-10-19T15:10:12.575Z",
  "items": [
   {
-   "id": "ef50bc46562c602d",
+   "id": "41c9f5fdc1af47f3",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "AI's ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the technology's accuracy (Financial Times)",
-   "u": "https://www.techmeme.com/261019/p5#a261019p5",
-   "d": "2026-10-19T06:25:00.000Z",
-   "first": "2026-10-19T07:56:55.026Z"
+   "t": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261019/p28#a261019p28",
+   "d": "2026-10-19T14:55:01.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
   },
   {
-   "id": "948d10e76e7db1fd",
+   "id": "7a73335953d30688",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Survey of 94 economists: 54% expect AI's gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind (Financial Times)",
-   "u": "https://www.techmeme.com/261019/p4#a261019p4",
-   "d": "2026-10-19T05:45:01.000Z",
-   "first": "2026-10-19T07:56:55.026Z"
+   "t": "Filing: US prosecutors say OpenAI suspect Abdulrahman Alfozan maintained frequent WhatsApp contact in 2025 and 2026 with an unnamed Saudi Royal Family member (Dan Mangan/CNBC)",
+   "u": "https://www.techmeme.com/261019/p26#a261019p26",
+   "d": "2026-10-19T14:25:00.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "2662407943a4bdae",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: Anthropic is preparing a model with superior intuition and reasoning that can discern unstated intentions and is better at thinking outside of the box (Stephanie Palazzolo/The Information)",
+   "u": "https://www.techmeme.com/261019/p25#a261019p25",
+   "d": "2026-10-19T14:15:01.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "5bdd09f0868736f7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Microsoft debuts new security tools in Microsoft 365 E7 and its Project Perception system that treat AI agents as potential insider threats via risk assessments (Todd Bishop/GeekWire)",
+   "u": "https://www.techmeme.com/261019/p24#a261019p24",
+   "d": "2026-10-19T13:25:02.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "b0707b7a21371775",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry (Lauren Feiner/The Verge)",
+   "u": "https://www.techmeme.com/261019/p23#a261019p23",
+   "d": "2026-10-19T13:05:04.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "93918f368d03d66e",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "3 New Claude Prompts You Need To Try",
+   "u": "https://www.youtube.com/shorts/aIrrq3CLSKM",
+   "d": "2026-10-19T12:43:39.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "9a6bc75d7f6cdf92",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens (Raphael Satter/Reuters)",
+   "u": "https://www.techmeme.com/261019/p22#a261019p22",
+   "d": "2026-10-19T12:30:10.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "91b9d7732559263b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Tel Aviv-based doubleAI releases a code execution model for improving GPU and CPU performance; doubleAI raised $220M, using ~50% to buy 1,000 Nvidia B300 chips (Belle Lin/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261019/p21#a261019p21",
+   "d": "2026-10-19T12:20:02.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "890bf39e656ace6f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024 (Bloomberg)",
+   "u": "https://www.techmeme.com/261019/p18#a261019p18",
+   "d": "2026-10-19T11:45:00.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "98f2b87d2ed44cfa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Character.AI's Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech, shielding Disney from Character.AI's legal liabilities (Maddy Varner/Wired)",
+   "u": "https://www.techmeme.com/261019/p16#a261019p16",
+   "d": "2026-10-19T11:10:02.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "fe85356d9a64f648",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at Anthropic's opaque, five-member Long-Term Benefit Trust, where members own no Anthropic equity but hold enormous sway by appointing most of its board (Theo Francis/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261019/p15#a261019p15",
+   "d": "2026-10-19T10:50:02.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "57f65b40f79aebbd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon's planned 2027 price (Matthias Bastian/The Decoder)",
+   "u": "https://www.techmeme.com/261019/p14#a261019p14",
+   "d": "2026-10-19T10:30:01.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "9170e54af628a67a",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "u": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+   "d": "2026-10-19T09:08:05.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "d8b331098725868c",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Gemini 4 Argon Really Surprised Me",
+   "u": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+   "d": "2026-10-19T08:49:21.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
   },
   {
    "id": "d8c55bdb6961d5c7",
@@ -32,34 +152,14 @@
    "first": "2026-10-19T07:56:55.026Z"
   },
   {
-   "id": "4b191dcf6b7f3862",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Abby Care, which runs a clinically led, AI-powered platform to train and certify family caregivers, raised an $82M Series C led by Transformation Capital (Allie Garfinkle/Fortune)",
-   "u": "https://www.techmeme.com/261019/p2#a261019p2",
-   "d": "2026-10-19T04:40:02.000Z",
-   "first": "2026-10-19T07:56:55.026Z"
-  },
-  {
-   "id": "134642bbd9c446cd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending (Osmond Chia/BBC)",
-   "u": "https://www.techmeme.com/261018/p17#a261018p17",
-   "d": "2026-10-19T03:30:00.000Z",
-   "first": "2026-10-19T07:56:55.026Z"
-  },
-  {
-   "id": "22792bd79e19040c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Europe's three biggest industrial companies are cashing in on the AI boom, as Schneider and Siemens expand further into software, while ABB focuses on equipment (Aaron Kirchfeld/Financial Times)",
-   "u": "https://www.techmeme.com/261018/p14#a261018p14",
-   "d": "2026-10-19T01:40:00.000Z",
-   "first": "2026-10-19T02:04:51.840Z"
+   "id": "fc438081c2799840",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
+   "u": "https://tldr.tech/ai/2026-10-19",
+   "d": "2026-10-19T00:00:00.000Z",
+   "first": "2026-10-19T15:10:12.575Z"
   },
   {
    "id": "986c3e679cc638a2",
@@ -72,16 +172,6 @@
    "first": "2026-10-18T23:55:09.212Z"
   },
   {
-   "id": "069e14d99bd56349",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases (Phoebe Liu/The Information)",
-   "u": "https://www.techmeme.com/261018/p11#a261018p11",
-   "d": "2026-10-18T19:55:01.000Z",
-   "first": "2026-10-18T21:58:59.952Z"
-  },
-  {
    "id": "46bef41e129fded2",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -90,16 +180,6 @@
    "u": "https://www.youtube.com/shorts/HkMlMdaiODQ",
    "d": "2026-10-18T19:44:44.000Z",
    "first": "2026-10-18T21:58:59.952Z"
-  },
-  {
-   "id": "5bec8baa49e5a8d6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
-   "u": "https://www.techmeme.com/261018/p10#a261018p10",
-   "d": "2026-10-18T19:10:00.000Z",
-   "first": "2026-10-18T19:46:31.840Z"
   },
   {
    "id": "ad502c6ad580d6a2",
@@ -1432,16 +1512,6 @@
    "first": "2026-10-05T09:16:28.496Z"
   },
   {
-   "id": "ed0f9ba2a305b593",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "EmTech Future 2026: When AI Meets Everything",
-   "u": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-   "d": "2026-10-05T04:00:00.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
    "id": "e155b3608b6d0d50",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1489,16 +1559,6 @@
    "t": "Human oversight won’t solve AI warfare’s risks",
    "u": "https://www.transformernews.ai/p/human-oversight-wont-solve-ai-warfare-risks",
    "d": "2026-10-02T15:04:04.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "2df0174b845e2242",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-   "u": "https://www.youtube.com/watch?v=dDgncbBAA0c",
-   "d": "2026-10-02T15:00:16.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -1749,16 +1809,6 @@
    "t": "AI existential risk probabilities are (still) too unreliable to inform policy",
    "u": "https://www.normaltech.ai/p/p-doom",
    "d": "2026-09-28T11:13:47.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "b2248e94354c2346",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Muse manifesto 📜, OpenAI training pause 🚨, trading compute 🤝",
-   "u": "https://tldr.tech/ai/2026-09-28",
-   "d": "2026-09-28T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2139,16 +2189,6 @@
    "t": "Good luck slowing this down",
    "u": "https://www.bensbites.com/p/good-luck-slowing-this-down",
    "d": "2026-09-15T13:02:52.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "1ad62d83537fb101",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-   "u": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-   "d": "2026-09-15T10:12:34.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3123,7 +3163,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
