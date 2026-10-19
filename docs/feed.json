@@ -1,54 +1,114 @@
 {
- "generated": "2026-10-19T15:10:12.575Z",
+ "generated": "2026-10-19T20:38:57.966Z",
  "items": [
+  {
+   "id": "a4019cf3b9d0d030",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "New paper: Emerging trends in AI agent evaluation",
+   "u": "https://www.normaltech.ai/p/new-paper-emerging-trends-in-ai-agent",
+   "d": "2026-10-19T20:11:55.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "c9baaf17660745df",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips (Bloomberg)",
+   "u": "https://www.techmeme.com/261019/p41#a261019p41",
+   "d": "2026-10-19T19:55:03.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "0484dc0190313f91",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Making the internet better for AI agents might make it worse for everyone else",
+   "u": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+   "d": "2026-10-19T18:22:47.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "85830e91570afff7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June (Dominic-Madori Davis/TechCrunch)",
+   "u": "https://www.techmeme.com/261019/p39#a261019p39",
+   "d": "2026-10-19T18:20:00.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "35bcb69e7c2045d3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)",
+   "u": "https://www.techmeme.com/261019/p38#a261019p38",
+   "d": "2026-10-19T18:05:02.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "0320265ce884bc59",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+   "u": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "d": "2026-10-19T17:45:55.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "70b7712a2b4ba85c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Tolan, an AI assistant focused on users that are not tech-savvy, raised $30M from USV, Khosla Ventures, and Homebrew, and says 70% of its users are women (Alex Konrad/Upstarts Media)",
+   "u": "https://www.techmeme.com/261019/p36#a261019p36",
+   "d": "2026-10-19T17:15:01.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "0bdb9ea6e5634ab1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: DeepSeek and Huawei are collaborating on future AI chip designs; DeepSeek plans to start using Ascend 950DT for pre-training as soon as 2026's end (The Information)",
+   "u": "https://www.techmeme.com/261019/p35#a261019p35",
+   "d": "2026-10-19T17:05:07.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "a2b4e5bfd95fcf7c",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Anthropic’s weak AI bill undermines its ‘safety first’ approach",
+   "u": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach",
+   "d": "2026-10-19T16:47:52.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
+  {
+   "id": "bc7e702d9a746156",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips (Stephen Nellis/Reuters)",
+   "u": "https://www.techmeme.com/261019/p31#a261019p31",
+   "d": "2026-10-19T15:40:02.000Z",
+   "first": "2026-10-19T20:38:57.966Z"
+  },
   {
    "id": "41c9f5fdc1af47f3",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
+   "t": "The US DHS orders all federal civilian agencies to remove DeepSeek's tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
    "u": "https://www.techmeme.com/261019/p28#a261019p28",
    "d": "2026-10-19T14:55:01.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "7a73335953d30688",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: US prosecutors say OpenAI suspect Abdulrahman Alfozan maintained frequent WhatsApp contact in 2025 and 2026 with an unnamed Saudi Royal Family member (Dan Mangan/CNBC)",
-   "u": "https://www.techmeme.com/261019/p26#a261019p26",
-   "d": "2026-10-19T14:25:00.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "2662407943a4bdae",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Anthropic is preparing a model with superior intuition and reasoning that can discern unstated intentions and is better at thinking outside of the box (Stephanie Palazzolo/The Information)",
-   "u": "https://www.techmeme.com/261019/p25#a261019p25",
-   "d": "2026-10-19T14:15:01.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "5bdd09f0868736f7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Microsoft debuts new security tools in Microsoft 365 E7 and its Project Perception system that treat AI agents as potential insider threats via risk assessments (Todd Bishop/GeekWire)",
-   "u": "https://www.techmeme.com/261019/p24#a261019p24",
-   "d": "2026-10-19T13:25:02.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "b0707b7a21371775",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry (Lauren Feiner/The Verge)",
-   "u": "https://www.techmeme.com/261019/p23#a261019p23",
-   "d": "2026-10-19T13:05:04.000Z",
    "first": "2026-10-19T15:10:12.575Z"
   },
   {
@@ -59,66 +119,6 @@
    "t": "3 New Claude Prompts You Need To Try",
    "u": "https://www.youtube.com/shorts/aIrrq3CLSKM",
    "d": "2026-10-19T12:43:39.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "9a6bc75d7f6cdf92",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens (Raphael Satter/Reuters)",
-   "u": "https://www.techmeme.com/261019/p22#a261019p22",
-   "d": "2026-10-19T12:30:10.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "91b9d7732559263b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tel Aviv-based doubleAI releases a code execution model for improving GPU and CPU performance; doubleAI raised $220M, using ~50% to buy 1,000 Nvidia B300 chips (Belle Lin/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261019/p21#a261019p21",
-   "d": "2026-10-19T12:20:02.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "890bf39e656ace6f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI chip startup Tenstorrent raised a $1.5B Series E led by Trace Capital and Innovation X at a $6.2B valuation, up from $2.6B after raising $700M in 2024 (Bloomberg)",
-   "u": "https://www.techmeme.com/261019/p18#a261019p18",
-   "d": "2026-10-19T11:45:00.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "98f2b87d2ed44cfa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Character.AI's Chapter 11 court filings indicate a two-part deal with Disney to transfer talent and tech, shielding Disney from Character.AI's legal liabilities (Maddy Varner/Wired)",
-   "u": "https://www.techmeme.com/261019/p16#a261019p16",
-   "d": "2026-10-19T11:10:02.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "fe85356d9a64f648",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at Anthropic's opaque, five-member Long-Term Benefit Trust, where members own no Anthropic equity but hold enormous sway by appointing most of its board (Theo Francis/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261019/p15#a261019p15",
-   "d": "2026-10-19T10:50:02.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "57f65b40f79aebbd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon's planned 2027 price (Matthias Bastian/The Decoder)",
-   "u": "https://www.techmeme.com/261019/p14#a261019p14",
-   "d": "2026-10-19T10:30:01.000Z",
    "first": "2026-10-19T15:10:12.575Z"
   },
   {
@@ -1482,16 +1482,6 @@
    "first": "2026-10-05T18:36:54.915Z"
   },
   {
-   "id": "563752630300677a",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Bringing predictive analytics to the agentic AI era",
-   "u": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-   "d": "2026-10-05T13:29:32.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
    "id": "858951482ca05277",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1500,16 +1490,6 @@
    "u": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
    "d": "2026-10-05T09:53:12.000Z",
    "first": "2026-10-05T18:36:54.915Z"
-  },
-  {
-   "id": "8384833d74c343bd",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "People really hate AI, so why can’t they get enough?",
-   "u": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-   "d": "2026-10-05T08:00:00.000Z",
-   "first": "2026-10-05T09:16:28.496Z"
   },
   {
    "id": "e155b3608b6d0d50",
@@ -2169,16 +2149,6 @@
    "t": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
    "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
    "d": "2026-09-15T17:05:57.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "5e0a235f06fde040",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "To bargain with China, the US needs to regulate AI",
-   "u": "https://www.transformernews.ai/p/bargaining-with-china-us-needs-to-regulate-ai",
-   "d": "2026-09-15T15:30:43.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3002,16 +2972,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "d42db3784ee8049e",
-   "f": "ai-snake-oil",
-   "src": "AI Snake Oil",
-   "cat": "Newsletter",
-   "t": "A guide to understanding AI as normal technology",
-   "u": "https://www.normaltech.ai/p/a-guide-to-understanding-ai-as-normal",
-   "d": "2025-09-09T13:00:40.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "384322baa7a8a14e",
    "f": "yt-karpathy",
    "src": "Andrej Karpathy",
@@ -3163,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3181,12 +3140,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1006 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1006 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",

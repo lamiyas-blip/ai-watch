@@ -65,6 +65,7 @@
   "ai-snake-oil": {
    "init": true,
    "ids": [
+    "a4019cf3b9d0d030",
     "07565479b52e0aba",
     "eb9af7714c8e004a",
     "7f2a50fec861c655",
@@ -106,6 +107,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "a2b4e5bfd95fcf7c",
     "b05a7c150b4f4a35",
     "14758153dc578c9d",
     "2e00db65cefd8432",
@@ -313,6 +315,12 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "c9baaf17660745df",
+    "85830e91570afff7",
+    "35bcb69e7c2045d3",
+    "70b7712a2b4ba85c",
+    "0bdb9ea6e5634ab1",
+    "bc7e702d9a746156",
     "41c9f5fdc1af47f3",
     "7a73335953d30688",
     "2662407943a4bdae",
@@ -613,6 +621,8 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "0484dc0190313f91",
+    "0320265ce884bc59",
     "9170e54af628a67a",
     "bce41b36acb1b8cb",
     "e2be2cf54496c6c3",
