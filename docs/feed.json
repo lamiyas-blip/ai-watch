@@ -1,15 +1,115 @@
 {
- "generated": "2026-10-20T08:57:12.649Z",
+ "generated": "2026-10-20T14:00:59.631Z",
  "items": [
   {
-   "id": "64a3b71cfb3652db",
+   "id": "40e21d26caa6446c",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)",
-   "u": "https://www.techmeme.com/261020/p2#a261020p2",
-   "d": "2026-10-20T06:15:01.000Z",
-   "first": "2026-10-20T08:57:12.649Z"
+   "t": "Sources: OpenAI has retreated from advocating for strict US chip export controls to China ahead of the lame-duck session, aligning closer with President Trump (Politico)",
+   "u": "https://www.techmeme.com/261020/p25#a261020p25",
+   "d": "2026-10-20T13:55:03.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "4aa64ec5c5aa2476",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation (Kate Rooney/CNBC)",
+   "u": "https://www.techmeme.com/261020/p23#a261020p23",
+   "d": "2026-10-20T13:25:01.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "d82334d8e2c2856b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Eka Robotics, which is developing a \"vision-force-action\" architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation (Tim Fernholz/TechCrunch)",
+   "u": "https://www.techmeme.com/261020/p22#a261020p22",
+   "d": "2026-10-20T13:15:01.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "84743e0b76c03fb0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs (Saritha Rai/Bloomberg)",
+   "u": "https://www.techmeme.com/261020/p21#a261020p21",
+   "d": "2026-10-20T13:05:01.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "9142439fbfb8b949",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "How I built my ‘everything’ app",
+   "u": "https://www.bensbites.com/p/how-i-built-my-everything-app",
+   "d": "2026-10-20T13:02:28.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "18cfb68fda8a76d9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)",
+   "u": "https://www.techmeme.com/261020/p20#a261020p20",
+   "d": "2026-10-20T12:35:01.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "6f69eb9264e1843a",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "AI adoption by industry shows what other sectors can learn",
+   "u": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+   "d": "2026-10-20T12:00:00.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "97df3b8bf0b7093f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261020/p16#a261020p16",
+   "d": "2026-10-20T11:55:02.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "a84eacdf598fa164",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Four Z.ai founders participated in a 2018 to 2021 research project co-funded by CGTRI, which the UK's MI5 said had \"very strong ties\" to China's main spy agency (Bloomberg)",
+   "u": "https://www.techmeme.com/261020/p15#a261020p15",
+   "d": "2026-10-20T11:35:03.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "deb111560b2772e2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's leaked federal AI bill draws widespread criticism from AI safety advocates for being significantly weaker than the bipartisan FRONTIER Act (Shakeel Hashim/Transformer)",
+   "u": "https://www.techmeme.com/261020/p12#a261020p12",
+   "d": "2026-10-20T10:55:00.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "d6af183469a2ed1a",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "A visit to Samsung’s massive new semiconductor hub",
+   "u": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+   "d": "2026-10-20T09:00:00.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
   },
   {
    "id": "f2d96203090039a2",
@@ -32,34 +132,14 @@
    "first": "2026-10-20T08:57:12.649Z"
   },
   {
-   "id": "52a4983829aa4874",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster (Jason Hiner/The Deep View)",
-   "u": "https://www.techmeme.com/261019/p51#a261019p51",
-   "d": "2026-10-20T01:45:01.000Z",
-   "first": "2026-10-20T03:46:55.447Z"
-  },
-  {
-   "id": "2fa808850c4d96b4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: OpenAI is racing to secure investor commitments before Anthropic's planned IPO in mid-November, aiming to raise ~$30B; the round may value it at $1.4T+ (Reuters)",
-   "u": "https://www.techmeme.com/261019/p49#a261019p49",
-   "d": "2026-10-19T23:38:29.000Z",
-   "first": "2026-10-20T00:00:02.994Z"
-  },
-  {
-   "id": "5d6e5442191514b2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO (Bloomberg)",
-   "u": "https://www.techmeme.com/261019/p46#a261019p46",
-   "d": "2026-10-19T22:40:03.000Z",
-   "first": "2026-10-20T00:00:02.994Z"
+   "id": "ea5ab5760446c0c7",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Mercury 3 🤖, MiniMax Flash 3.1 ⚡, Exa 3 🔎",
+   "u": "https://tldr.tech/ai/2026-10-20",
+   "d": "2026-10-20T00:00:00.000Z",
+   "first": "2026-10-20T14:00:59.631Z"
   },
   {
    "id": "d33bf6afddc5df94",
@@ -1282,16 +1362,6 @@
    "first": "2026-10-08T15:00:11.845Z"
   },
   {
-   "id": "149f150400562a72",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Building a safer path to autonomous industrial AI",
-   "u": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-   "d": "2026-10-08T08:17:32.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
    "id": "5d2d4d08df53558d",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1440,16 +1510,6 @@
    "u": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
    "d": "2026-10-05T20:01:09.000Z",
    "first": "2026-10-06T00:25:45.121Z"
-  },
-  {
-   "id": "1295ac880d0de350",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Connecting AI agents to enterprise knowledge",
-   "u": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-   "d": "2026-10-05T15:47:52.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
   },
   {
    "id": "858951482ca05277",
@@ -1729,16 +1789,6 @@
    "t": "Bio Risk is Not Like Cyber Risk",
    "u": "https://www.youtube.com/shorts/f4mhTu3u9Uk",
    "d": "2026-09-29T00:49:29.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "c4ee251f2baaa6ed",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
-   "u": "https://tldr.tech/ai/2026-09-29",
-   "d": "2026-09-29T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2279,16 +2329,6 @@
    "t": "Drone WMDs Don’t Need Any New Technology",
    "u": "https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology",
    "d": "2026-09-06T21:28:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "04c7390953f0cc76",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "Scraping 107M rows of data to build this",
-   "u": "https://www.bensbites.com/p/scraping-107m-rows-of-data-to-build",
-   "d": "2026-09-04T14:56:17.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3093,7 +3133,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3110,7 +3151,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1084 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

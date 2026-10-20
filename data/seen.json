@@ -159,6 +159,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "ea5ab5760446c0c7",
     "fc438081c2799840",
     "7fed59e729a8d339",
     "a7429129bdfb0c2a",
@@ -190,6 +191,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "9142439fbfb8b949",
     "03dc4200d7e27134",
     "6f029e3afa50979e",
     "3eb5fae03670d233",
@@ -317,6 +319,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "40e21d26caa6446c",
+    "4aa64ec5c5aa2476",
+    "d82334d8e2c2856b",
+    "84743e0b76c03fb0",
+    "18cfb68fda8a76d9",
+    "97df3b8bf0b7093f",
+    "a84eacdf598fa164",
+    "deb111560b2772e2",
     "64a3b71cfb3652db",
     "52a4983829aa4874",
     "2fa808850c4d96b4",
@@ -627,6 +637,8 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "6f69eb9264e1843a",
+    "d6af183469a2ed1a",
     "0484dc0190313f91",
     "0320265ce884bc59",
     "9170e54af628a67a",
