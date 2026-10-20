@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-19T20:38:57.966Z",
+ "generated": "2026-10-20T00:00:02.994Z",
  "items": [
+  {
+   "id": "2fa808850c4d96b4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)",
+   "u": "https://www.techmeme.com/261019/p49#a261019p49",
+   "d": "2026-10-19T23:38:29.000Z",
+   "first": "2026-10-20T00:00:02.994Z"
+  },
+  {
+   "id": "5d6e5442191514b2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO (Bloomberg)",
+   "u": "https://www.techmeme.com/261019/p46#a261019p46",
+   "d": "2026-10-19T22:40:03.000Z",
+   "first": "2026-10-20T00:00:02.994Z"
+  },
+  {
+   "id": "d33bf6afddc5df94",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How a US Tariff Helped Push Japan to War - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/jG-I55-5rYo",
+   "d": "2026-10-19T21:28:33.000Z",
+   "first": "2026-10-20T00:00:02.994Z"
+  },
   {
    "id": "a4019cf3b9d0d030",
    "f": "ai-snake-oil",
@@ -92,26 +122,6 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
-   "id": "bc7e702d9a746156",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips (Stephen Nellis/Reuters)",
-   "u": "https://www.techmeme.com/261019/p31#a261019p31",
-   "d": "2026-10-19T15:40:02.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
-   "id": "41c9f5fdc1af47f3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The US DHS orders all federal civilian agencies to remove DeepSeek's tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261019/p28#a261019p28",
-   "d": "2026-10-19T14:55:01.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
    "id": "93918f368d03d66e",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -120,6 +130,16 @@
    "u": "https://www.youtube.com/shorts/aIrrq3CLSKM",
    "d": "2026-10-19T12:43:39.000Z",
    "first": "2026-10-19T15:10:12.575Z"
+  },
+  {
+   "id": "f68f40339b5fe47c",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Advancing coding in low‑resource programming languages",
+   "u": "https://openai.com/index/low-resource-programming-languages",
+   "d": "2026-10-19T12:00:00.000Z",
+   "first": "2026-10-20T00:00:02.994Z"
   },
   {
    "id": "9170e54af628a67a",
@@ -372,16 +392,6 @@
    "first": "2026-10-16T14:28:45.766Z"
   },
   {
-   "id": "0429f76b95143efe",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Benefit Street Partners answers questions faster with Codex",
-   "u": "https://openai.com/index/benefit-street-partners",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
-  },
-  {
    "id": "478230949877699a",
    "f": "openai-news",
    "src": "OpenAI",
@@ -390,6 +400,16 @@
    "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-16T21:26:21.000Z"
+  },
+  {
+   "id": "0429f76b95143efe",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Benefit Street Partners answers questions faster with Codex",
+   "u": "https://openai.com/index/benefit-street-partners",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -1122,16 +1142,6 @@
    "first": "2026-10-10T02:28:04.071Z"
   },
   {
-   "id": "de6750da575dfd81",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why Moctezuma’s Own People Turned on Him - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/BWnygfn04qA",
-   "d": "2026-10-10T00:00:15.000Z",
-   "first": "2026-10-10T02:28:04.071Z"
-  },
-  {
    "id": "493d90e5f5216717",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1239,16 +1249,6 @@
    "t": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
    "u": "https://www.latent.space/p/periodic",
    "d": "2026-10-08T16:27:54.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "816de960d25b1709",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "u": "https://openai.com/index/oracle",
-   "d": "2026-10-08T16:00:00.000Z",
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
@@ -3123,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3145,7 +3146,7 @@
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1006 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
