@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-20T00:00:02.994Z",
+ "generated": "2026-10-20T03:46:55.447Z",
  "items": [
+  {
+   "id": "52a4983829aa4874",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Inception launches Mercury 3, a diffusion-based LLM it claims is \"comparable to Luna and Haiku models\" but 4x to 8x faster, generating ~1,000 tokens per second (Jason Hiner/The Deep View)",
+   "u": "https://www.techmeme.com/261019/p51#a261019p51",
+   "d": "2026-10-20T01:45:01.000Z",
+   "first": "2026-10-20T03:46:55.447Z"
+  },
   {
    "id": "2fa808850c4d96b4",
    "f": "techmeme",
@@ -72,16 +82,6 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
-   "id": "35bcb69e7c2045d3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)",
-   "u": "https://www.techmeme.com/261019/p38#a261019p38",
-   "d": "2026-10-19T18:05:02.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
    "id": "0320265ce884bc59",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -89,26 +89,6 @@
    "t": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
    "u": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
    "d": "2026-10-19T17:45:55.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
-   "id": "70b7712a2b4ba85c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tolan, an AI assistant focused on users that are not tech-savvy, raised $30M from USV, Khosla Ventures, and Homebrew, and says 70% of its users are women (Alex Konrad/Upstarts Media)",
-   "u": "https://www.techmeme.com/261019/p36#a261019p36",
-   "d": "2026-10-19T17:15:01.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
-   "id": "0bdb9ea6e5634ab1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: DeepSeek and Huawei are collaborating on future AI chip designs; DeepSeek plans to start using Ascend 950DT for pre-training as soon as 2026's end (The Information)",
-   "u": "https://www.techmeme.com/261019/p35#a261019p35",
-   "d": "2026-10-19T17:05:07.000Z",
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
@@ -140,6 +120,16 @@
    "u": "https://openai.com/index/low-resource-programming-languages",
    "d": "2026-10-19T12:00:00.000Z",
    "first": "2026-10-20T00:00:02.994Z"
+  },
+  {
+   "id": "37f9d2330f2279c0",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+   "u": "https://news.ycombinator.com/item?id=50151036",
+   "d": "2026-10-19T11:24:34.000Z",
+   "first": "2026-10-20T03:46:55.447Z"
   },
   {
    "id": "9170e54af628a67a",
@@ -392,16 +382,6 @@
    "first": "2026-10-16T14:28:45.766Z"
   },
   {
-   "id": "478230949877699a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-16T21:26:21.000Z"
-  },
-  {
    "id": "0429f76b95143efe",
    "f": "openai-news",
    "src": "OpenAI",
@@ -410,6 +390,16 @@
    "u": "https://openai.com/index/benefit-street-partners",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-17T06:19:18.802Z"
+  },
+  {
+   "id": "478230949877699a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-16T21:26:21.000Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -1022,16 +1012,6 @@
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
-   "id": "017e17edfb9778c3",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI coding agents generate more code, but not more software",
-   "u": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "d": "2026-10-12T17:14:01.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
    "id": "22909fc0ae06bd43",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1182,16 +1162,6 @@
    "first": "2026-10-09T13:56:06.459Z"
   },
   {
-   "id": "f50c9cb3ca57de55",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "u": "https://openai.com/index/asana-browser-agent",
-   "d": "2026-10-09T07:00:00.000Z",
-   "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
    "id": "8feec7b042f5e219",
    "f": "openai-news",
    "src": "OpenAI",
@@ -1200,6 +1170,16 @@
    "u": "https://openai.com/index/sophos",
    "d": "2026-10-09T07:00:00.000Z",
    "first": "2026-10-09T13:56:06.459Z"
+  },
+  {
+   "id": "f50c9cb3ca57de55",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "u": "https://openai.com/index/asana-browser-agent",
+   "d": "2026-10-09T07:00:00.000Z",
+   "first": "2026-10-09T19:08:51.363Z"
   },
   {
    "id": "c72e19dbb41e805d",
@@ -3095,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1028 > 1000"
+   "error": "Entity expansion limit exceeded: 1032 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,8 +3103,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3141,7 +3120,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1064 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3155,11 +3134,13 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3171,31 +3152,38 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
