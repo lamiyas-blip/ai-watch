@@ -1,25 +1,75 @@
 {
- "generated": "2026-10-20T18:33:34.710Z",
+ "generated": "2026-10-20T21:58:15.418Z",
  "items": [
   {
-   "id": "f4df1420d3f992a6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind (Madison Mills/Axios)",
-   "u": "https://www.techmeme.com/261020/p34#a261020p34",
-   "d": "2026-10-20T18:20:01.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
+   "id": "3fbf62b6ee182545",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "What if the Vikings had colonized America? - Si Sheppard",
+   "u": "https://www.youtube.com/shorts/ykyt-M6s3PA",
+   "d": "2026-10-20T21:25:20.000Z",
+   "first": "2026-10-20T21:58:15.418Z"
   },
   {
-   "id": "2a9c2f622c993dc9",
+   "id": "45074507f6f4444c",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: Sam Altman told OpenAI staff of three AI endgames: an IAEA-style regulator, a CERN-like lab merger, or one lab using RSI to \"melt everyone else's GPUs\" (The Information)",
-   "u": "https://www.techmeme.com/261020/p32#a261020p32",
-   "d": "2026-10-20T17:45:02.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
+   "t": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years (David Morris/Bloomberg)",
+   "u": "https://www.techmeme.com/261020/p46#a261020p46",
+   "d": "2026-10-20T20:50:03.000Z",
+   "first": "2026-10-20T21:58:15.418Z"
+  },
+  {
+   "id": "78081d4c2d75f6fc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B (Lora Kolodny/CNBC)",
+   "u": "https://www.techmeme.com/261020/p43#a261020p43",
+   "d": "2026-10-20T20:26:57.000Z",
+   "first": "2026-10-20T21:58:15.418Z"
+  },
+  {
+   "id": "adee386d1f22f970",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
+   "u": "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape",
+   "d": "2026-10-20T20:26:31.000Z",
+   "first": "2026-10-20T21:58:15.418Z"
+  },
+  {
+   "id": "a8450202bd2a9eba",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261020/p40#a261020p40",
+   "d": "2026-10-20T19:46:50.000Z",
+   "first": "2026-10-20T21:58:15.418Z"
+  },
+  {
+   "id": "bc8b71eb9bdd0354",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "The Programmable Data Center — Evan Conrad, SF Compute",
+   "u": "https://www.latent.space/p/sfcompute2",
+   "d": "2026-10-20T19:31:57.000Z",
+   "first": "2026-10-20T21:58:15.418Z"
+  },
+  {
+   "id": "6e67b7f02c8e1295",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google debuts TorchTPU, an open-source version of PyTorch for running AI apps on TPUs and Google Cloud via a simple configuration change and no code rewriting (Julie Bort/TechCrunch)",
+   "u": "https://www.techmeme.com/261020/p37#a261020p37",
+   "d": "2026-10-20T19:00:58.000Z",
+   "first": "2026-10-20T21:58:15.418Z"
   },
   {
    "id": "2273a448d96d0760",
@@ -42,16 +92,6 @@
    "first": "2026-10-20T18:33:34.710Z"
   },
   {
-   "id": "66059655635d7641",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June (Bloomberg)",
-   "u": "https://www.techmeme.com/261020/p28#a261020p28",
-   "d": "2026-10-20T15:55:04.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
    "id": "fc0f40097a39c317",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -62,66 +102,6 @@
    "first": "2026-10-20T18:33:34.710Z"
   },
   {
-   "id": "7cf4b37bbc61fc5b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation, bringing its total funding to $91M (Jeremy Kahn/Fortune)",
-   "u": "https://www.techmeme.com/261020/p27#a261020p27",
-   "d": "2026-10-20T15:00:48.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
-   "id": "65c1e8563a2ff758",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Firefly, whose AI software connects with existing cameras, radios, and sensors to detect incidents and coordinate real-time responses, raised a $20M Series A (Chris Metinko/Axios)",
-   "u": "https://www.techmeme.com/261020/p26#a261020p26",
-   "d": "2026-10-20T14:35:03.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
-   "id": "40e21d26caa6446c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: OpenAI has retreated from advocating for strict export controls on US chipmakers selling to China, a boon for Nvidia and aligning with President Trump (Politico)",
-   "u": "https://www.techmeme.com/261020/p25#a261020p25",
-   "d": "2026-10-20T13:55:03.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "4aa64ec5c5aa2476",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Arda, which builds AI software and agents to accelerate assembly lines and manufacturing, raised $230M at a $1.5B valuation led by Altimeter, Accel, and Khosla (Kate Rooney/CNBC)",
-   "u": "https://www.techmeme.com/261020/p23#a261020p23",
-   "d": "2026-10-20T13:25:01.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "d82334d8e2c2856b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Eka Robotics, which is developing a \"vision-force-action\" architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation (Tim Fernholz/TechCrunch)",
-   "u": "https://www.techmeme.com/261020/p22#a261020p22",
-   "d": "2026-10-20T13:15:01.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "84743e0b76c03fb0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "DeepSeek open-sources DeepInfer, its high-performance inference framework that powers its production services, starting with support for DeepSeek-V4.1-Flash (Saritha Rai/Bloomberg)",
-   "u": "https://www.techmeme.com/261020/p21#a261020p21",
-   "d": "2026-10-20T13:05:01.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
    "id": "9142439fbfb8b949",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -129,16 +109,6 @@
    "t": "How I built my ‘everything’ app",
    "u": "https://www.bensbites.com/p/how-i-built-my-everything-app",
    "d": "2026-10-20T13:02:28.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "18cfb68fda8a76d9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)",
-   "u": "https://www.techmeme.com/261020/p20#a261020p20",
-   "d": "2026-10-20T12:35:01.000Z",
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
@@ -1242,16 +1212,6 @@
    "first": "2026-10-10T22:15:38.983Z"
   },
   {
-   "id": "83cf3c18c93b7384",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "The One Weakness That Destroyed the Aztec and Inca Empires - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/hTHPsAOEIWM",
-   "d": "2026-10-10T18:49:05.000Z",
-   "first": "2026-10-10T22:15:38.983Z"
-  },
-  {
    "id": "c6df9c11285a3105",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1350,16 +1310,6 @@
    "u": "https://tldr.tech/ai/2026-10-09",
    "d": "2026-10-09T00:00:00.000Z",
    "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "d31a0fa2bb2a296c",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] not much happened today",
-   "u": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
-   "d": "2026-10-08T23:29:43.000Z",
-   "first": "2026-10-09T00:45:16.648Z"
   },
   {
    "id": "2f0ed1d996b06fdf",
@@ -2372,16 +2322,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "319ab807cda84253",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "Drone WMDs Don’t Need Any New Technology",
-   "u": "https://www.lesswrong.com/posts/bGoo3NWzMAzsLQceJ/drone-wmds-don-t-need-any-new-technology",
-   "d": "2026-09-06T21:28:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "78ada465946df7b5",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -3125,7 +3065,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1032 > 1000"
+   "error": "Entity expansion limit exceeded: 1238 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
