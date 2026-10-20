@@ -43,6 +43,7 @@
   "interconnects": {
    "init": true,
    "ids": [
+    "2273a448d96d0760",
     "62145b1bf93c285a",
     "493d90e5f5216717",
     "dea9ad28e543d6ef",
@@ -108,6 +109,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "87a392b0b5dfeb76",
     "a2b4e5bfd95fcf7c",
     "b05a7c150b4f4a35",
     "14758153dc578c9d",
@@ -216,6 +218,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "4e097e0ba5f95090",
+    "18f42d596bc0fc9e",
     "f68f40339b5fe47c",
     "3df7356f7778e618",
     "0429f76b95143efe",
@@ -294,13 +298,17 @@
     "7544b4309b81d94b",
     "3873710e669257dd",
     "73b60fc15fe07509",
+    "24dcd2eb49edb467",
     "55db05e650cd10b0",
     "16d6c4a116e8d261",
     "b91960833ff3d7cc",
+    "7271064254bd3a2d",
     "8532c0ccd7a6bbb1",
     "52b8f17e9342ddb2",
     "12f419a0af20e3ad",
+    "32002e2eac3ad1ae",
     "26519b8d5c6c30d8",
+    "811366862ee69b3e",
     "fa40335fa2f29844",
     "5779ed6e359bafac",
     "355cfae504fcbd49",
@@ -319,6 +327,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "f4df1420d3f992a6",
+    "2a9c2f622c993dc9",
+    "66059655635d7641",
+    "7cf4b37bbc61fc5b",
+    "65c1e8563a2ff758",
     "40e21d26caa6446c",
     "4aa64ec5c5aa2476",
     "d82334d8e2c2856b",
@@ -637,6 +650,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "fc0f40097a39c317",
     "6f69eb9264e1843a",
     "d6af183469a2ed1a",
     "0484dc0190313f91",

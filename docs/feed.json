@@ -1,12 +1,92 @@
 {
- "generated": "2026-10-20T14:00:59.631Z",
+ "generated": "2026-10-20T18:33:34.710Z",
  "items": [
+  {
+   "id": "f4df1420d3f992a6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind (Madison Mills/Axios)",
+   "u": "https://www.techmeme.com/261020/p34#a261020p34",
+   "d": "2026-10-20T18:20:01.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
+   "id": "2a9c2f622c993dc9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Sam Altman told OpenAI staff of three AI endgames: an IAEA-style regulator, a CERN-like lab merger, or one lab using RSI to \"melt everyone else's GPUs\" (The Information)",
+   "u": "https://www.techmeme.com/261020/p32#a261020p32",
+   "d": "2026-10-20T17:45:02.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
+   "id": "2273a448d96d0760",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+   "u": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+   "d": "2026-10-20T17:04:21.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
+   "id": "87a392b0b5dfeb76",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Is a new job in Rep. Moran’s office a sign Congress is staffing up on AI?",
+   "u": "https://www.transformernews.ai/p/nathaniel-moran-to-hire-ai-staffer",
+   "d": "2026-10-20T17:00:32.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
+   "id": "66059655635d7641",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June (Bloomberg)",
+   "u": "https://www.techmeme.com/261020/p28#a261020p28",
+   "d": "2026-10-20T15:55:04.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
+   "id": "fc0f40097a39c317",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "The new economics of enterprise AI",
+   "u": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+   "d": "2026-10-20T15:20:25.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
+   "id": "7cf4b37bbc61fc5b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation, bringing its total funding to $91M (Jeremy Kahn/Fortune)",
+   "u": "https://www.techmeme.com/261020/p27#a261020p27",
+   "d": "2026-10-20T15:00:48.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
+   "id": "65c1e8563a2ff758",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Firefly, whose AI software connects with existing cameras, radios, and sensors to detect incidents and coordinate real-time responses, raised a $20M Series A (Chris Metinko/Axios)",
+   "u": "https://www.techmeme.com/261020/p26#a261020p26",
+   "d": "2026-10-20T14:35:03.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
   {
    "id": "40e21d26caa6446c",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: OpenAI has retreated from advocating for strict US chip export controls to China ahead of the lame-duck session, aligning closer with President Trump (Politico)",
+   "t": "Sources: OpenAI has retreated from advocating for strict export controls on US chipmakers selling to China, a boon for Nvidia and aligning with President Trump (Politico)",
    "u": "https://www.techmeme.com/261020/p25#a261020p25",
    "d": "2026-10-20T13:55:03.000Z",
    "first": "2026-10-20T14:00:59.631Z"
@@ -16,7 +96,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Arda, which develops AI software and agents to accelerate assembly line programming and manufacturing automation, raised $230M at a $1.5B valuation (Kate Rooney/CNBC)",
+   "t": "Arda, which builds AI software and agents to accelerate assembly lines and manufacturing, raised $230M at a $1.5B valuation led by Altimeter, Accel, and Khosla (Kate Rooney/CNBC)",
    "u": "https://www.techmeme.com/261020/p23#a261020p23",
    "d": "2026-10-20T13:25:01.000Z",
    "first": "2026-10-20T14:00:59.631Z"
@@ -36,7 +116,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs (Saritha Rai/Bloomberg)",
+   "t": "DeepSeek open-sources DeepInfer, its high-performance inference framework that powers its production services, starting with support for DeepSeek-V4.1-Flash (Saritha Rai/Bloomberg)",
    "u": "https://www.techmeme.com/261020/p21#a261020p21",
    "d": "2026-10-20T13:05:01.000Z",
    "first": "2026-10-20T14:00:59.631Z"
@@ -72,34 +152,14 @@
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
-   "id": "97df3b8bf0b7093f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261020/p16#a261020p16",
-   "d": "2026-10-20T11:55:02.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "a84eacdf598fa164",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Four Z.ai founders participated in a 2018 to 2021 research project co-funded by CGTRI, which the UK's MI5 said had \"very strong ties\" to China's main spy agency (Bloomberg)",
-   "u": "https://www.techmeme.com/261020/p15#a261020p15",
-   "d": "2026-10-20T11:35:03.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "deb111560b2772e2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's leaked federal AI bill draws widespread criticism from AI safety advocates for being significantly weaker than the bipartisan FRONTIER Act (Shakeel Hashim/Transformer)",
-   "u": "https://www.techmeme.com/261020/p12#a261020p12",
-   "d": "2026-10-20T10:55:00.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
+   "id": "4e097e0ba5f95090",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "u": "https://openai.com/index/ted-taylor-restaurant",
+   "d": "2026-10-20T10:00:00.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
   },
   {
    "id": "d6af183469a2ed1a",
@@ -140,6 +200,16 @@
    "u": "https://tldr.tech/ai/2026-10-20",
    "d": "2026-10-20T00:00:00.000Z",
    "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "18f42d596bc0fc9e",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI acquires Orchestra Bio",
+   "u": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+   "d": "2026-10-20T00:00:00.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
   },
   {
    "id": "d33bf6afddc5df94",
@@ -1112,6 +1182,16 @@
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
+   "id": "24dcd2eb49edb467",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Strengthening our defenses against distillation attacks",
+   "u": "https://www.anthropic.com/news/distillation-defenses",
+   "d": "2026-10-12T00:00:00.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
    "id": "0a040936953bed3c",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1252,26 +1332,6 @@
    "first": "2026-10-09T13:56:06.459Z"
   },
   {
-   "id": "8feec7b042f5e219",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "u": "https://openai.com/index/sophos",
-   "d": "2026-10-09T07:00:00.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
-   "id": "f50c9cb3ca57de55",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "u": "https://openai.com/index/asana-browser-agent",
-   "d": "2026-10-09T07:00:00.000Z",
-   "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
    "id": "c72e19dbb41e805d",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1349,16 +1409,6 @@
    "t": "Game of Thrones: Turing Edition | Akarsh Kumar on Core War",
    "u": "https://www.youtube.com/shorts/LfUgsSUdaX8",
    "d": "2026-10-08T10:30:08.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "5143fd23a0d28a57",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
-   "u": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-   "d": "2026-10-08T09:00:00.000Z",
    "first": "2026-10-08T15:00:11.845Z"
   },
   {
@@ -1440,6 +1490,16 @@
    "u": "https://tldr.tech/ai/2026-10-07",
    "d": "2026-10-07T00:00:00.000Z",
    "first": "2026-10-07T16:44:22.968Z"
+  },
+  {
+   "id": "7271064254bd3a2d",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Introducing Claude Haiku 5.5",
+   "u": "https://www.anthropic.com/claude-haiku-5-5",
+   "d": "2026-10-07T00:00:00.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
   },
   {
    "id": "d5f20e84815040d4",
@@ -1812,6 +1872,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "32002e2eac3ad1ae",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Introducing Claude Sonnet 5.5",
+   "u": "https://www.anthropic.com/claude-sonnet-5-5",
+   "d": "2026-09-28T00:00:00.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
    "id": "af88adcd143103e8",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2012,6 +2082,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "811366862ee69b3e",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Introducing Claude Opus 5.5",
+   "u": "https://www.anthropic.com/claude-opus-5-5",
+   "d": "2026-09-22T00:00:00.000Z",
+   "first": "2026-10-20T18:33:34.710Z"
+  },
+  {
    "id": "bd9f0253176145b0",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2092,26 +2172,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "fa40335fa2f29844",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Partnering with Accenture on embedded evaluation",
-   "u": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-   "d": "2026-09-18T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "d57096439115c9aa",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "AI expansion may not be one big environmental problem. But it’ll be lots of smaller ones.",
-   "u": "https://www.transformernews.ai/p/ai-expansion-could-create-lots-of-smaller-environmental-problems",
-   "d": "2026-09-17T15:09:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "478728626106c750",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -2129,16 +2189,6 @@
    "t": "The Talker Does Not Control The Doer (in Current AIs)",
    "u": "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais",
    "d": "2026-09-17T02:05:40.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "5779ed6e359bafac",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Introducing the Life Sciences Verification Program",
-   "u": "https://www.anthropic.com/news/life-sciences-verification-program",
-   "d": "2026-09-17T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2362,26 +2412,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "355cfae504fcbd49",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Developing Enterprise Frontier Safeguards with our customers",
-   "u": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-   "d": "2026-09-01T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "576964ee9e38ad87",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Improving our alignment and security efforts",
-   "u": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-   "d": "2026-08-31T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "c1dfdd966d97c7e0",
    "f": "alignment-forum",
    "src": "Alignment Forum",
@@ -2469,16 +2499,6 @@
    "t": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
    "u": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
    "d": "2026-08-10T13:02:42.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "19df2977668f17cd",
-   "f": "interconnects",
-   "src": "Interconnects",
-   "cat": "Newsletter",
-   "t": "Lessons from the hacks",
-   "u": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-   "d": "2026-08-09T14:57:11.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
