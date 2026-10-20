@@ -1,12 +1,42 @@
 {
- "generated": "2026-10-20T03:46:55.447Z",
+ "generated": "2026-10-20T08:57:12.649Z",
  "items": [
+  {
+   "id": "64a3b71cfb3652db",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets (Sam Biddle/The Intercept)",
+   "u": "https://www.techmeme.com/261020/p2#a261020p2",
+   "d": "2026-10-20T06:15:01.000Z",
+   "first": "2026-10-20T08:57:12.649Z"
+  },
+  {
+   "id": "f2d96203090039a2",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] not much happened today",
+   "u": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+   "d": "2026-10-20T05:21:52.000Z",
+   "first": "2026-10-20T08:57:12.649Z"
+  },
+  {
+   "id": "3cd8a222de63fe62",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "My favorite new image editing tool",
+   "u": "https://www.youtube.com/shorts/VVBszkWK0Io",
+   "d": "2026-10-20T04:19:39.000Z",
+   "first": "2026-10-20T08:57:12.649Z"
+  },
   {
    "id": "52a4983829aa4874",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Inception launches Mercury 3, a diffusion-based LLM it claims is \"comparable to Luna and Haiku models\" but 4x to 8x faster, generating ~1,000 tokens per second (Jason Hiner/The Deep View)",
+   "t": "Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster (Jason Hiner/The Deep View)",
    "u": "https://www.techmeme.com/261019/p51#a261019p51",
    "d": "2026-10-20T01:45:01.000Z",
    "first": "2026-10-20T03:46:55.447Z"
@@ -16,7 +46,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: OpenAI is racing to secure investor commitments before Anthropic's expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ (Reuters)",
+   "t": "Sources: OpenAI is racing to secure investor commitments before Anthropic's planned IPO in mid-November, aiming to raise ~$30B; the round may value it at $1.4T+ (Reuters)",
    "u": "https://www.techmeme.com/261019/p49#a261019p49",
    "d": "2026-10-19T23:38:29.000Z",
    "first": "2026-10-20T00:00:02.994Z"
@@ -52,16 +82,6 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
-   "id": "c9baaf17660745df",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips (Bloomberg)",
-   "u": "https://www.techmeme.com/261019/p41#a261019p41",
-   "d": "2026-10-19T19:55:03.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
    "id": "0484dc0190313f91",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -69,16 +89,6 @@
    "t": "Making the internet better for AI agents might make it worse for everyone else",
    "u": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
    "d": "2026-10-19T18:22:47.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
-   "id": "85830e91570afff7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June (Dominic-Madori Davis/TechCrunch)",
-   "u": "https://www.techmeme.com/261019/p39#a261019p39",
-   "d": "2026-10-19T18:20:00.000Z",
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
@@ -146,7 +156,7 @@
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
    "cat": "YouTube",
-   "t": "Gemini 4 Argon Really Surprised Me",
+   "t": "Gemini 4 Argon Is Not What I Expected",
    "u": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
    "d": "2026-10-19T08:49:21.000Z",
    "first": "2026-10-19T15:10:12.575Z"
@@ -1219,26 +1229,6 @@
    "t": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
    "u": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
    "d": "2026-10-08T17:46:05.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "2c7f37a9e8d9f3b3",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-   "u": "https://www.latent.space/p/periodic",
-   "d": "2026-10-08T16:27:54.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "1ad8edc6d9da4820",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "AI Design Hack Saves HOURS",
-   "u": "https://www.youtube.com/shorts/grOilk8aCS0",
-   "d": "2026-10-08T15:13:52.000Z",
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
@@ -3120,7 +3110,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1064 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3134,13 +3124,11 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3152,38 +3140,31 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
