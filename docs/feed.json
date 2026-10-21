@@ -1,6 +1,96 @@
 {
- "generated": "2026-10-21T19:25:43.093Z",
+ "generated": "2026-10-21T22:32:23.894Z",
  "items": [
+  {
+   "id": "cb362f55d2d645bf",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Sam Altman on Why AI Needs a New Kind of Hardware",
+   "u": "https://www.youtube.com/shorts/u6Tf62_5CP0",
+   "d": "2026-10-21T21:38:30.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "0bb935a70bf35b00",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Sam Altman on Why Demand for Coders Hasn't Disappeared",
+   "u": "https://www.youtube.com/shorts/1g9Tqvyt4kU",
+   "d": "2026-10-21T21:09:46.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "72be0ef6ba408aaa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)",
+   "u": "https://www.techmeme.com/261021/p49#a261021p49",
+   "d": "2026-10-21T21:01:02.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "214bc15c062a969d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Broad access through consistent standards",
+   "u": "https://openai.com/index/broad-access-through-consistent-standards",
+   "d": "2026-10-21T21:00:00.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "5ef08555cd8313cd",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "they’re shutting it DOWN",
+   "u": "https://www.youtube.com/watch?v=ehcBwqyUGjo",
+   "d": "2026-10-21T20:47:18.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "d8aab0495fe925e9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 (Meghan Bobrowsky/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261021/p47#a261021p47",
+   "d": "2026-10-21T20:20:01.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "a8595878c1460b3a",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Sam Altman on Why AI Hasn't Made Us Less Busy",
+   "u": "https://www.youtube.com/shorts/SU-h1k5IYOI",
+   "d": "2026-10-21T20:13:24.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "917677b100112a5f",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Actual Robot Bodyguard",
+   "u": "https://www.youtube.com/shorts/5eJnIYrr8rg",
+   "d": "2026-10-21T19:52:18.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
+  {
+   "id": "ce5cea7709a73a9a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)",
+   "u": "https://www.techmeme.com/261021/p45#a261021p45",
+   "d": "2026-10-21T19:45:01.000Z",
+   "first": "2026-10-21T22:32:23.894Z"
+  },
   {
    "id": "8753350a65f1f187",
    "f": "yt-dwarkesh",
@@ -52,26 +142,6 @@
    "first": "2026-10-21T19:25:43.093Z"
   },
   {
-   "id": "54d939841f2d3385",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)",
-   "u": "https://www.techmeme.com/261021/p39#a261021p39",
-   "d": "2026-10-21T16:35:02.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
-   "id": "05635c78668ae190",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed (Alex Konrad/Upstarts Media)",
-   "u": "https://www.techmeme.com/261021/p38#a261021p38",
-   "d": "2026-10-21T16:10:19.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
    "id": "5e9edeaa1934fd7a",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -99,46 +169,6 @@
    "t": "Why nobody could stop World War I - Sarah Paine",
    "u": "https://www.youtube.com/shorts/2FaEkewECHs",
    "d": "2026-10-21T15:00:09.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "64a2017cdfb0f6e3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation (Natasha Mascarenhas/Bloomberg)",
-   "u": "https://www.techmeme.com/261021/p35#a261021p35",
-   "d": "2026-10-21T14:50:03.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "6bda519f192bb83f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\" (OpenAI)",
-   "u": "https://www.techmeme.com/261021/p34#a261021p34",
-   "d": "2026-10-21T14:31:56.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "4e9b4cb98c2ce719",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A (Sean O'Kane/TechCrunch)",
-   "u": "https://www.techmeme.com/261021/p33#a261021p33",
-   "d": "2026-10-21T14:30:02.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "9a9815026e5b2ebb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years (Chris Rohlf/Anthropic)",
-   "u": "https://www.techmeme.com/261021/p31#a261021p31",
-   "d": "2026-10-21T14:15:01.000Z",
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
@@ -702,16 +732,6 @@
    "first": "2026-10-16T18:15:41.908Z"
   },
   {
-   "id": "aabe82bf7ec343f2",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Gemini 4 Argon built this cyberpunk city",
-   "u": "https://www.youtube.com/shorts/vdU8mYN_-hE",
-   "d": "2026-10-16T14:31:21.000Z",
-   "first": "2026-10-16T18:15:41.908Z"
-  },
-  {
    "id": "d06f1db104bfef87",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -752,16 +772,6 @@
    "first": "2026-10-16T14:28:45.766Z"
   },
   {
-   "id": "478230949877699a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-16T21:26:21.000Z"
-  },
-  {
    "id": "0429f76b95143efe",
    "f": "openai-news",
    "src": "OpenAI",
@@ -772,6 +782,16 @@
    "first": "2026-10-17T06:19:18.802Z"
   },
   {
+   "id": "478230949877699a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-16T21:26:21.000Z"
+  },
+  {
    "id": "c7201d7caeea9334",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -779,26 +799,6 @@
    "t": "ASML Is Building a Hybrid Bonding Tool!",
    "u": "https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding",
    "d": "2026-10-15T19:27:20.000Z",
-   "first": "2026-10-15T22:30:57.761Z"
-  },
-  {
-   "id": "57ff1d295370f770",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "From Punch Cards to AI Software Factories",
-   "u": "https://www.youtube.com/shorts/6VDjFXM1FbM",
-   "d": "2026-10-15T19:16:27.000Z",
-   "first": "2026-10-15T22:30:57.761Z"
-  },
-  {
-   "id": "c201cf133107aa16",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Bringing GPT-Rosalind to academic research labs",
-   "u": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "d": "2026-10-15T19:00:00.000Z",
    "first": "2026-10-15T22:30:57.761Z"
   },
   {
@@ -1012,16 +1012,6 @@
    "first": "2026-10-14T05:34:29.529Z"
   },
   {
-   "id": "9ec42bc5e8264acb",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Google just went FRONTIER (Gemini 4 Argon)",
-   "u": "https://www.youtube.com/watch?v=M8iqahFogtA",
-   "d": "2026-10-14T01:33:55.000Z",
-   "first": "2026-10-14T10:44:28.796Z"
-  },
-  {
    "id": "713ec6283da015b3",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1060,16 +1050,6 @@
    "u": "https://www.latent.space/p/dyna",
    "d": "2026-10-13T22:25:55.000Z",
    "first": "2026-10-14T00:42:08.628Z"
-  },
-  {
-   "id": "f9910b72c3c0ed8d",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "OpenAI Employee Arrested Over Recording Device",
-   "u": "https://www.youtube.com/shorts/CIlqLzoJiU8",
-   "d": "2026-10-13T21:49:49.000Z",
-   "first": "2026-10-14T10:44:28.796Z"
   },
   {
    "id": "6271bda5a32f47e4",
@@ -1809,16 +1789,6 @@
    "t": "The Programming Language That Referees Mathematics — Leo de Moura",
    "u": "https://www.youtube.com/watch?v=ZpQFebTK75A",
    "d": "2026-09-29T22:38:34.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "c0e05122143ed236",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "ASTRA 6.1 too dangerous to be released...",
-   "u": "https://www.youtube.com/watch?v=qxOklTU2if4",
-   "d": "2026-09-29T17:45:24.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3123,8 +3093,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
