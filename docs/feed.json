@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-20T21:58:15.418Z",
+ "generated": "2026-10-21T00:21:29.569Z",
  "items": [
+  {
+   "id": "24c0e0df9ab29d3a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility (Phoebe Liu/The Information)",
+   "u": "https://www.techmeme.com/261020/p56#a261020p56",
+   "d": "2026-10-21T00:10:01.000Z",
+   "first": "2026-10-21T00:21:29.569Z"
+  },
+  {
+   "id": "a8c9a818beee63b7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
+   "u": "https://www.techmeme.com/261020/p53#a261020p53",
+   "d": "2026-10-20T22:30:04.000Z",
+   "first": "2026-10-21T00:21:29.569Z"
+  },
+  {
+   "id": "9f11d433b781319c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
+   "u": "https://www.techmeme.com/261020/p52#a261020p52",
+   "d": "2026-10-20T22:00:01.000Z",
+   "first": "2026-10-21T00:21:29.569Z"
+  },
   {
    "id": "3fbf62b6ee182545",
    "f": "yt-dwarkesh",
@@ -42,16 +72,6 @@
    "first": "2026-10-20T21:58:15.418Z"
   },
   {
-   "id": "a8450202bd2a9eba",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261020/p40#a261020p40",
-   "d": "2026-10-20T19:46:50.000Z",
-   "first": "2026-10-20T21:58:15.418Z"
-  },
-  {
    "id": "bc8b71eb9bdd0354",
    "f": "latent-space",
    "src": "Latent Space",
@@ -59,16 +79,6 @@
    "t": "The Programmable Data Center — Evan Conrad, SF Compute",
    "u": "https://www.latent.space/p/sfcompute2",
    "d": "2026-10-20T19:31:57.000Z",
-   "first": "2026-10-20T21:58:15.418Z"
-  },
-  {
-   "id": "6e67b7f02c8e1295",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google debuts TorchTPU, an open-source version of PyTorch for running AI apps on TPUs and Google Cloud via a simple configuration change and no code rewriting (Julie Bort/TechCrunch)",
-   "u": "https://www.techmeme.com/261020/p37#a261020p37",
-   "d": "2026-10-20T19:00:58.000Z",
    "first": "2026-10-20T21:58:15.418Z"
   },
   {
@@ -3065,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1238 > 1000"
+   "error": "Entity expansion limit exceeded: 1410 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3111,7 +3121,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1084 > 1000"
+   "error": "Entity expansion limit exceeded: 1098 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
