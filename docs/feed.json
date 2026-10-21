@@ -1,6 +1,86 @@
 {
- "generated": "2026-10-21T15:26:00.387Z",
+ "generated": "2026-10-21T19:25:43.093Z",
  "items": [
+  {
+   "id": "8753350a65f1f187",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why Britain Gave Up America - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/Hph1Bwzdk_4",
+   "d": "2026-10-21T18:15:24.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "767ef3f9b88229b3",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI Breakthroughs Everyone Missed",
+   "u": "https://www.youtube.com/watch?v=umGZrkyTRtw",
+   "d": "2026-10-21T17:45:26.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "f12169e72531dbc6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)",
+   "u": "https://www.techmeme.com/261021/p43#a261021p43",
+   "d": "2026-10-21T17:45:08.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "334aa381d3c24d71",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "The Huawei-DeepSeek Symbiosis",
+   "u": "https://newsletter.semianalysis.com/p/huawei-deepseek",
+   "d": "2026-10-21T17:34:38.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "9da3695a40c0ed10",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How AT&T is rethinking in-house legal work with OpenAI",
+   "u": "https://openai.com/index/att-legal",
+   "d": "2026-10-21T17:00:00.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "54d939841f2d3385",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)",
+   "u": "https://www.techmeme.com/261021/p39#a261021p39",
+   "d": "2026-10-21T16:35:02.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "05635c78668ae190",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Watchtower, which uses AI and simulation software to help the US Armed Forces make logistical decisions, emerges from stealth with a $35M seed (Alex Konrad/Upstarts Media)",
+   "u": "https://www.techmeme.com/261021/p38#a261021p38",
+   "d": "2026-10-21T16:10:19.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "5e9edeaa1934fd7a",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
+   "u": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
+   "d": "2026-10-21T15:30:24.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
   {
    "id": "86f90c887d771ecc",
    "f": "transformer",
@@ -62,26 +142,6 @@
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
-   "id": "4775d683513c34e9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell (Radhika Rajkumar/ZDNET)",
-   "u": "https://www.techmeme.com/261021/p28#a261021p28",
-   "d": "2026-10-21T13:50:49.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "a0f2fb2802c0beaa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Stockholm-based legal AI startup Legora raised a $550M Series E at an $8.8B post-money valuation, up from $5.55B after raising a $550M Series D in March (Rosie Harris-Davison/City A.M.)",
-   "u": "https://www.techmeme.com/261021/p27#a261021p27",
-   "d": "2026-10-21T13:45:01.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
    "id": "8cb263f7c7fd064c",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -89,16 +149,6 @@
    "t": "PHP2Shell: AI uncovers critical RCE in PHP",
    "u": "https://www.wiz.io/blog/php2shell-php-rce",
    "d": "2026-10-21T13:43:19.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "852888ec786aa9f7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August (Alix Coutures/The Information)",
-   "u": "https://www.techmeme.com/261021/p26#a261021p26",
-   "d": "2026-10-21T13:15:01.000Z",
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
@@ -126,39 +176,9 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "5 Prompts To Try With Google's Powerful New Model",
+   "t": "5 Prompts With Google's ULTRA Powerful New Model",
    "u": "https://www.youtube.com/shorts/S2srfNCa50A",
    "d": "2026-10-21T12:53:28.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "af339d2bec43cc2e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia launches its OpenShell Reference Architecture, a framework to secure, monitor, and govern AI agents, and partners with Canonical, AWS, BBVA, and others (Thomas Claburn/The Register)",
-   "u": "https://www.techmeme.com/261021/p23#a261021p23",
-   "d": "2026-10-21T12:30:02.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "6b5a51a3b5ddb6f9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "GTC Berlin: Jensen Huang pushes Europe on AI adoption, saying \"for Europe to benefit from AI ... you need all the end markets, the end industries to adopt AI\" (Bloomberg)",
-   "u": "https://www.techmeme.com/261021/p22#a261021p22",
-   "d": "2026-10-21T12:25:02.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "1ca7cd925a1a544b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
-   "u": "https://www.techmeme.com/261021/p21#a261021p21",
-   "d": "2026-10-21T12:15:04.000Z",
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
@@ -230,6 +250,26 @@
    "u": "https://tldr.tech/ai/2026-10-21",
    "d": "2026-10-21T00:00:00.000Z",
    "first": "2026-10-21T15:26:00.387Z"
+  },
+  {
+   "id": "da86affbbca0ab32",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "u": "https://openai.com/index/empowering-cyber-defenders",
+   "d": "2026-10-21T00:00:00.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "b5ed299d1f3ceca0",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+   "u": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "d": "2026-10-21T00:00:00.000Z",
+   "first": "2026-10-21T19:25:43.093Z"
   },
   {
    "id": "3fbf62b6ee182545",
@@ -712,16 +752,6 @@
    "first": "2026-10-16T14:28:45.766Z"
   },
   {
-   "id": "0429f76b95143efe",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Benefit Street Partners answers questions faster with Codex",
-   "u": "https://openai.com/index/benefit-street-partners",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
-  },
-  {
    "id": "478230949877699a",
    "f": "openai-news",
    "src": "OpenAI",
@@ -730,6 +760,16 @@
    "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-16T21:26:21.000Z"
+  },
+  {
+   "id": "0429f76b95143efe",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Benefit Street Partners answers questions faster with Codex",
+   "u": "https://openai.com/index/benefit-street-partners",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -822,16 +862,6 @@
    "first": "2026-10-15T15:27:27.208Z"
   },
   {
-   "id": "1dae2d13b7238042",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Teaching students to think and learn through questions",
-   "u": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "d": "2026-10-15T13:00:00.000Z",
-   "first": "2026-10-15T15:27:27.208Z"
-  },
-  {
    "id": "08f7a88d25cabfc1",
    "f": "latent-space",
    "src": "Latent Space",
@@ -870,16 +900,6 @@
    "u": "https://tldr.tech/ai/2026-10-15",
    "d": "2026-10-15T00:00:00.000Z",
    "first": "2026-10-15T15:27:27.208Z"
-  },
-  {
-   "id": "9267f2197fbebaad",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "u": "https://openai.com/index/sullivan-cromwell",
-   "d": "2026-10-15T00:00:00.000Z",
-   "first": "2026-10-16T00:52:03.467Z"
   },
   {
    "id": "7544b4309b81d94b",
@@ -1102,16 +1122,6 @@
    "first": "2026-10-13T21:37:41.621Z"
   },
   {
-   "id": "c3e168252165d1cd",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "How To Stop Being An \"AI Meat Proxy\"",
-   "u": "https://www.youtube.com/shorts/b0jA6fkGsk8",
-   "d": "2026-10-13T15:10:54.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
    "id": "2e00db65cefd8432",
    "f": "transformer",
    "src": "Transformer",
@@ -1202,16 +1212,6 @@
    "first": "2026-10-13T21:37:41.621Z"
   },
   {
-   "id": "c23b9d1fa069d0a3",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Meta just dropped something insane... (Muse Wonder)",
-   "u": "https://www.youtube.com/watch?v=rpLrkJ5NNEI",
-   "d": "2026-10-13T00:47:04.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
    "id": "e767168ef0e9bad0",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1259,16 +1259,6 @@
    "t": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)",
    "u": "https://www.latent.space/p/claude-dynamic-workflows",
    "d": "2026-10-12T18:18:17.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
-  },
-  {
-   "id": "b154fec417e0fe7a",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Nobody Knows Why the Plague Keeps Coming Back - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/RUoY5GCdONY",
-   "d": "2026-10-12T17:40:51.000Z",
    "first": "2026-10-12T19:27:58.641Z"
   },
   {
@@ -2102,16 +2092,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "811366862ee69b3e",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Introducing Claude Opus 5.5",
-   "u": "https://www.anthropic.com/claude-opus-5-5",
-   "d": "2026-09-22T00:00:00.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
    "id": "bd9f0253176145b0",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2279,16 +2259,6 @@
    "t": "Long Live the Short King: Why 4-hi HBM Wins",
    "u": "https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi",
    "d": "2026-09-13T18:19:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "0082eb3dab57000c",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Nvidia’s Backstop Universe – Heads I Win, Tails Who Loses?",
-   "u": "https://newsletter.semianalysis.com/p/nvidias-backstop-universe-heads-i",
-   "d": "2026-09-11T17:04:52.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3125,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1418 > 1000"
+   "error": "Entity expansion limit exceeded: 1660 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3153,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
