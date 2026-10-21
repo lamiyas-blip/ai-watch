@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-21T00:21:29.569Z",
+ "generated": "2026-10-21T05:03:41.409Z",
  "items": [
+  {
+   "id": "8f56c28d768ded87",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+   "u": "https://www.latent.space/p/tenex",
+   "d": "2026-10-21T05:01:26.000Z",
+   "first": "2026-10-21T05:03:41.409Z"
+  },
+  {
+   "id": "6497cb1275e2bfb8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks (OpenAI)",
+   "u": "https://www.techmeme.com/261020/p60#a261020p60",
+   "d": "2026-10-21T03:40:01.000Z",
+   "first": "2026-10-21T05:03:41.409Z"
+  },
+  {
+   "id": "38ea4c81ca17d281",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\" (David Gibson/The Verge)",
+   "u": "https://www.techmeme.com/261020/p57#a261020p57",
+   "d": "2026-10-21T01:10:02.000Z",
+   "first": "2026-10-21T05:03:41.409Z"
+  },
   {
    "id": "24c0e0df9ab29d3a",
    "f": "techmeme",
@@ -39,26 +69,6 @@
    "t": "What if the Vikings had colonized America? - Si Sheppard",
    "u": "https://www.youtube.com/shorts/ykyt-M6s3PA",
    "d": "2026-10-20T21:25:20.000Z",
-   "first": "2026-10-20T21:58:15.418Z"
-  },
-  {
-   "id": "45074507f6f4444c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Report: Anthropic's draft S-1 shows it spent ~$9B on compute and infrastructure in H1, up from $2.3B a year earlier, and could spend $750B in the coming years (David Morris/Bloomberg)",
-   "u": "https://www.techmeme.com/261020/p46#a261020p46",
-   "d": "2026-10-20T20:50:03.000Z",
-   "first": "2026-10-20T21:58:15.418Z"
-  },
-  {
-   "id": "78081d4c2d75f6fc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B (Lora Kolodny/CNBC)",
-   "u": "https://www.techmeme.com/261020/p43#a261020p43",
-   "d": "2026-10-20T20:26:57.000Z",
    "first": "2026-10-20T21:58:15.418Z"
   },
   {
@@ -150,6 +160,16 @@
    "u": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
    "d": "2026-10-20T09:00:00.000Z",
    "first": "2026-10-20T14:00:59.631Z"
+  },
+  {
+   "id": "91e51a05d993b8a2",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "u": "https://openai.com/index/terminal-x",
+   "d": "2026-10-20T07:00:00.000Z",
+   "first": "2026-10-21T05:03:41.409Z"
   },
   {
    "id": "f2d96203090039a2",
@@ -522,16 +542,6 @@
    "first": "2026-10-16T14:28:45.766Z"
   },
   {
-   "id": "0429f76b95143efe",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Benefit Street Partners answers questions faster with Codex",
-   "u": "https://openai.com/index/benefit-street-partners",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
-  },
-  {
    "id": "478230949877699a",
    "f": "openai-news",
    "src": "OpenAI",
@@ -540,6 +550,16 @@
    "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-16T21:26:21.000Z"
+  },
+  {
+   "id": "0429f76b95143efe",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Benefit Street Partners answers questions faster with Codex",
+   "u": "https://openai.com/index/benefit-street-partners",
+   "d": "2026-10-16T00:00:00.000Z",
+   "first": "2026-10-17T06:19:18.802Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -992,16 +1012,6 @@
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "fdeb41c798b9a7be",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Higgsfield takes AI video from 1 minute to over 10",
-   "u": "https://openai.com/index/higgsfield-longer-videos-voice",
-   "d": "2026-10-13T12:00:00.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
    "id": "e2be2cf54496c6c3",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1250,16 +1260,6 @@
    "u": "https://www.youtube.com/watch?v=615B5nyMFPk",
    "d": "2026-10-10T04:31:57.000Z",
    "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
-   "id": "655137d0691955c2",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-   "u": "https://www.latent.space/p/biohub-deepmind",
-   "d": "2026-10-10T00:31:26.000Z",
-   "first": "2026-10-10T02:28:04.071Z"
   },
   {
    "id": "493d90e5f5216717",
@@ -3075,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1410 > 1000"
+   "error": "Entity expansion limit exceeded: 1418 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3135,47 +3135,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
