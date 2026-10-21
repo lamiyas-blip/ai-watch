@@ -1,6 +1,76 @@
 {
- "generated": "2026-10-21T05:03:41.409Z",
+ "generated": "2026-10-21T10:22:20.903Z",
  "items": [
+  {
+   "id": "fe4a1c0abe269c2d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days (Charlotte Trueman/DatacenterDynamics)",
+   "u": "https://www.techmeme.com/261021/p12#a261021p12",
+   "d": "2026-10-21T10:20:18.000Z",
+   "first": "2026-10-21T10:22:20.903Z"
+  },
+  {
+   "id": "a14f784bd1fa36a5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "China criticizes the US DHS's DeepSeek ban, vowing \"resolute countermeasures\" while rejecting allegations from the FBI and AI labs of illicit distillation (Ephrat Livni/New York Times)",
+   "u": "https://www.techmeme.com/261021/p11#a261021p11",
+   "d": "2026-10-21T10:10:01.000Z",
+   "first": "2026-10-21T10:22:20.903Z"
+  },
+  {
+   "id": "79288e9eb88cc0cd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic and Citrini Research use an internal Claude model to autonomously generate protein minibinders against five scorpion neurotoxins, testing 211 designs (Anthropic)",
+   "u": "https://www.techmeme.com/261021/p10#a261021p10",
+   "d": "2026-10-21T09:55:03.000Z",
+   "first": "2026-10-21T10:22:20.903Z"
+  },
+  {
+   "id": "7af02910cd018293",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+   "u": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+   "d": "2026-10-21T06:54:09.000Z",
+   "first": "2026-10-21T10:22:20.903Z"
+  },
+  {
+   "id": "f3bb0bd8b23fbdf3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at Chinese philosophical views on AI; one says aligning AI to human values may be a \"suicidal mistake\" and another fears the \"machinization of humans\" (Arnaud Bertrand)",
+   "u": "https://www.techmeme.com/261021/p7#a261021p7",
+   "d": "2026-10-21T06:40:01.000Z",
+   "first": "2026-10-21T10:22:20.903Z"
+  },
+  {
+   "id": "2ede4996832a71fe",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue (Rafe Rosner-Uddin/Financial Times)",
+   "u": "https://www.techmeme.com/261021/p6#a261021p6",
+   "d": "2026-10-21T06:25:01.000Z",
+   "first": "2026-10-21T10:22:20.903Z"
+  },
+  {
+   "id": "8def08144845ced0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google, Temasek, and Bain: online spending in SE Asia to rise ~17% YoY to $368B in 2026 despite economic headwinds, as businesses harness AI to spur spending (Gabrielle Ng/Bloomberg)",
+   "u": "https://www.techmeme.com/261021/p4#a261021p4",
+   "d": "2026-10-21T06:05:10.000Z",
+   "first": "2026-10-21T10:22:20.903Z"
+  },
   {
    "id": "8f56c28d768ded87",
    "f": "latent-space",
@@ -20,46 +90,6 @@
    "u": "https://www.techmeme.com/261020/p60#a261020p60",
    "d": "2026-10-21T03:40:01.000Z",
    "first": "2026-10-21T05:03:41.409Z"
-  },
-  {
-   "id": "38ea4c81ca17d281",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\" (David Gibson/The Verge)",
-   "u": "https://www.techmeme.com/261020/p57#a261020p57",
-   "d": "2026-10-21T01:10:02.000Z",
-   "first": "2026-10-21T05:03:41.409Z"
-  },
-  {
-   "id": "24c0e0df9ab29d3a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility (Phoebe Liu/The Information)",
-   "u": "https://www.techmeme.com/261020/p56#a261020p56",
-   "d": "2026-10-21T00:10:01.000Z",
-   "first": "2026-10-21T00:21:29.569Z"
-  },
-  {
-   "id": "a8c9a818beee63b7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
-   "u": "https://www.techmeme.com/261020/p53#a261020p53",
-   "d": "2026-10-20T22:30:04.000Z",
-   "first": "2026-10-21T00:21:29.569Z"
-  },
-  {
-   "id": "9f11d433b781319c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
-   "u": "https://www.techmeme.com/261020/p52#a261020p52",
-   "d": "2026-10-20T22:00:01.000Z",
-   "first": "2026-10-21T00:21:29.569Z"
   },
   {
    "id": "3fbf62b6ee182545",
@@ -1240,16 +1270,6 @@
    "u": "https://www.latent.space/p/standard-bots",
    "d": "2026-10-10T14:04:11.000Z",
    "first": "2026-10-10T14:52:19.830Z"
-  },
-  {
-   "id": "783a9f7da940e18a",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-   "u": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-   "d": "2026-10-10T06:45:57.000Z",
-   "first": "2026-10-10T08:46:16.299Z"
   },
   {
    "id": "9db1fcc86cac9f51",
@@ -3135,58 +3155,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
