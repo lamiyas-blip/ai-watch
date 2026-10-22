@@ -1,45 +1,125 @@
 {
- "generated": "2026-10-22T06:12:41.778Z",
+ "generated": "2026-10-22T12:09:00.762Z",
  "items": [
   {
-   "id": "5e3b2b5fe4245f6d",
+   "id": "564fef1e6114c78e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Walmart unveils its Agent Gateway, a new MCP server to help users' approved AI agents shop its website, and dedicated Agent Profiles with special \"terms\" for AI (Sarah Perez/TechCrunch)",
-   "u": "https://www.techmeme.com/261021/p62#a261021p62",
-   "d": "2026-10-22T03:50:03.000Z",
-   "first": "2026-10-22T06:12:41.778Z"
+   "t": "How the AI boom is boosting paint maker PPG's sales: its specialized gray coatings serve critical functional needs and total $3M to $8M per data center, per JLL (Emmy Martin/New York Times)",
+   "u": "https://www.techmeme.com/261022/p16#a261022p16",
+   "d": "2026-10-22T11:01:23.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
   },
   {
-   "id": "ed971b9ce1a17459",
+   "id": "e48efb85af698533",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: DeepSeek raised ~$15B in its latest fundraising round, one of China's largest ever, with CATL and Tencent among the biggest contributors (Lulu Yilun Chen/Bloomberg)",
-   "u": "https://www.techmeme.com/261021/p61#a261021p61",
-   "d": "2026-10-22T03:00:46.000Z",
-   "first": "2026-10-22T06:12:41.778Z"
+   "t": "Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens (Emily Mullin/Wired)",
+   "u": "https://www.techmeme.com/261022/p15#a261022p15",
+   "d": "2026-10-22T10:45:02.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
   },
   {
-   "id": "931bd5dba99a506b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "65a0c0422f797513",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)",
-   "u": "https://www.techmeme.com/261021/p59#a261021p59",
-   "d": "2026-10-22T02:00:47.000Z",
-   "first": "2026-10-22T06:12:41.778Z"
+   "t": "Making the case for context-aware AI",
+   "u": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "d": "2026-10-22T10:00:00.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
   },
   {
-   "id": "cd3f9d5b3555f632",
+   "id": "c06488974cf83726",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale (Kyt Dotson/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261021/p56#a261021p56",
-   "d": "2026-10-21T23:50:02.000Z",
-   "first": "2026-10-22T01:02:51.111Z"
+   "t": "A look at Huawei and DeepSeek's mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization (SemiAnalysis)",
+   "u": "https://www.techmeme.com/261022/p12#a261022p12",
+   "d": "2026-10-22T09:55:01.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "63295a20dba9a0b6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)",
+   "u": "https://www.techmeme.com/261022/p11#a261022p11",
+   "d": "2026-10-22T09:45:01.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "532edde8b1bd8d5e",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "AI&#8217;s hidden storage bill: What inference leaves behind",
+   "u": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+   "d": "2026-10-22T08:41:18.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "6c8a08517e6c544c",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+   "u": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+   "d": "2026-10-22T07:42:44.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "38579bb9ae835625",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power (Foreign Affairs)",
+   "u": "https://www.techmeme.com/261022/p9#a261022p9",
+   "d": "2026-10-22T07:15:01.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "5b461fc267d26f0f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Pressure to back promising AI startups is upending the VC investment process, with investors willing to buy into the same round at rapidly escalating valuations (Bloomberg)",
+   "u": "https://www.techmeme.com/261022/p8#a261022p8",
+   "d": "2026-10-22T06:50:01.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "2af3bcd60806421d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations (AJ Vicens/Reuters)",
+   "u": "https://www.techmeme.com/261022/p5#a261022p5",
+   "d": "2026-10-22T06:25:01.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "9acf06e9ba341581",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Personal Body Guard Robot - What could go wrong?",
+   "u": "https://www.youtube.com/shorts/dyrNQV0F3Zs",
+   "d": "2026-10-22T03:06:41.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "65d6ef344954554f",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Sam Altman on What Personal AI Still Needs",
+   "u": "https://www.youtube.com/shorts/tc92psltcEg",
+   "d": "2026-10-21T23:13:23.000Z",
+   "first": "2026-10-22T12:09:00.762Z"
   },
   {
    "id": "cb362f55d2d645bf",
@@ -652,16 +732,6 @@
    "first": "2026-10-17T11:00:27.083Z"
   },
   {
-   "id": "ef2ecfeb11f0af87",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Gemini 4 Argon Built an Excel Clone in 20 Minutes",
-   "u": "https://www.youtube.com/shorts/YMulO01LMBE",
-   "d": "2026-10-17T05:41:17.000Z",
-   "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
    "id": "c1213c8d616e0f2a",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1062,16 +1132,6 @@
    "first": "2026-10-13T21:37:41.621Z"
   },
   {
-   "id": "9e3c8e8205825eb8",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Google Just Caught Up (Gemini-4 Argon)",
-   "u": "https://www.youtube.com/watch?v=eBszYxzE2dk",
-   "d": "2026-10-13T16:47:07.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
    "id": "832d7cf24dba3f2f",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1139,16 +1199,6 @@
    "t": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
    "u": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
    "d": "2026-10-13T09:37:04.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "9bcff42e68a05c06",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "AI labs are buying data from dead startups to train their models",
-   "u": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-   "d": "2026-10-13T09:00:00.000Z",
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
@@ -1292,16 +1342,6 @@
    "first": "2026-10-11T14:14:01.943Z"
   },
   {
-   "id": "b281e7f3b14e8cde",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[Subscriber Exclusive] NYC Subscriber Meetups!",
-   "u": "https://www.latent.space/p/nyc2026",
-   "d": "2026-10-10T22:07:17.000Z",
-   "first": "2026-10-10T22:15:38.983Z"
-  },
-  {
    "id": "9db1fcc86cac9f51",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -1330,16 +1370,6 @@
    "u": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
    "d": "2026-10-09T14:34:34.000Z",
    "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
-   "id": "09087eed03418f32",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "We’re putting too much faith in AI’s ability to say no",
-   "u": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-   "d": "2026-10-09T09:00:00.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
   },
   {
    "id": "c72e19dbb41e805d",
@@ -3065,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1660 > 1000"
+   "error": "Entity expansion limit exceeded: 1668 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3124,23 +3154,19 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
@@ -3152,8 +3178,7 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3161,18 +3186,15 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }

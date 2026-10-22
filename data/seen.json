@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "6c8a08517e6c544c",
     "f89a456551daa6c7",
     "7af02910cd018293",
     "8f56c28d768ded87",
@@ -345,6 +346,13 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "564fef1e6114c78e",
+    "e48efb85af698533",
+    "c06488974cf83726",
+    "63295a20dba9a0b6",
+    "38579bb9ae835625",
+    "5b461fc267d26f0f",
+    "2af3bcd60806421d",
     "5e3b2b5fe4245f6d",
     "ed971b9ce1a17459",
     "931bd5dba99a506b",
@@ -703,6 +711,8 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "65a0c0422f797513",
+    "532edde8b1bd8d5e",
     "fc0f40097a39c317",
     "6f69eb9264e1843a",
     "d6af183469a2ed1a",
@@ -901,6 +911,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "9acf06e9ba341581",
     "767ef3f9b88229b3",
     "a0bf7a7e5baa0ea2",
     "3cd8a222de63fe62",
@@ -925,6 +936,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "65d6ef344954554f",
     "cb362f55d2d645bf",
     "0bb935a70bf35b00",
     "a8595878c1460b3a",
