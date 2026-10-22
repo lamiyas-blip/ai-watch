@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-22T01:02:51.111Z",
+ "generated": "2026-10-22T06:12:41.778Z",
  "items": [
+  {
+   "id": "5e3b2b5fe4245f6d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Walmart unveils its Agent Gateway, a new MCP server to help users' approved AI agents shop its website, and dedicated Agent Profiles with special \"terms\" for AI (Sarah Perez/TechCrunch)",
+   "u": "https://www.techmeme.com/261021/p62#a261021p62",
+   "d": "2026-10-22T03:50:03.000Z",
+   "first": "2026-10-22T06:12:41.778Z"
+  },
+  {
+   "id": "ed971b9ce1a17459",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: DeepSeek raised ~$15B in its latest fundraising round, one of China's largest ever, with CATL and Tencent among the biggest contributors (Lulu Yilun Chen/Bloomberg)",
+   "u": "https://www.techmeme.com/261021/p61#a261021p61",
+   "d": "2026-10-22T03:00:46.000Z",
+   "first": "2026-10-22T06:12:41.778Z"
+  },
+  {
+   "id": "931bd5dba99a506b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)",
+   "u": "https://www.techmeme.com/261021/p59#a261021p59",
+   "d": "2026-10-22T02:00:47.000Z",
+   "first": "2026-10-22T06:12:41.778Z"
+  },
   {
    "id": "cd3f9d5b3555f632",
    "f": "techmeme",
@@ -32,16 +62,6 @@
    "first": "2026-10-21T22:32:23.894Z"
   },
   {
-   "id": "72be0ef6ba408aaa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)",
-   "u": "https://www.techmeme.com/261021/p49#a261021p49",
-   "d": "2026-10-21T21:01:02.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
-  },
-  {
    "id": "214bc15c062a969d",
    "f": "openai-news",
    "src": "OpenAI",
@@ -59,16 +79,6 @@
    "t": "they’re shutting it DOWN",
    "u": "https://www.youtube.com/watch?v=ehcBwqyUGjo",
    "d": "2026-10-21T20:47:18.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
-  },
-  {
-   "id": "d8aab0495fe925e9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 (Meghan Bobrowsky/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261021/p47#a261021p47",
-   "d": "2026-10-21T20:20:01.000Z",
    "first": "2026-10-21T22:32:23.894Z"
   },
   {
@@ -92,16 +102,6 @@
    "first": "2026-10-21T22:32:23.894Z"
   },
   {
-   "id": "ce5cea7709a73a9a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)",
-   "u": "https://www.techmeme.com/261021/p45#a261021p45",
-   "d": "2026-10-21T19:45:01.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
-  },
-  {
    "id": "8753350a65f1f187",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -119,16 +119,6 @@
    "t": "AI Breakthroughs Everyone Missed",
    "u": "https://www.youtube.com/watch?v=umGZrkyTRtw",
    "d": "2026-10-21T17:45:26.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
-   "id": "f12169e72531dbc6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)",
-   "u": "https://www.techmeme.com/261021/p43#a261021p43",
-   "d": "2026-10-21T17:45:08.000Z",
    "first": "2026-10-21T19:25:43.093Z"
   },
   {
@@ -3140,40 +3130,39 @@
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
@@ -3182,7 +3171,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
