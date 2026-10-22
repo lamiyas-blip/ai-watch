@@ -231,7 +231,6 @@
    "init": true,
    "ids": [
     "e2d8a412456e749d",
-    "9416d51c854a75a0",
     "5ca0690c2f5e1196",
     "214bc15c062a969d",
     "9da3695a40c0ed10",
@@ -246,6 +245,7 @@
     "91e51a05d993b8a2",
     "18f42d596bc0fc9e",
     "f68f40339b5fe47c",
+    "9416d51c854a75a0",
     "3df7356f7778e618",
     "478230949877699a",
     "0429f76b95143efe",
@@ -320,6 +320,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "3cbda20863b82ce9",
     "3e8dddbf5046eaf5",
     "b5ed299d1f3ceca0",
     "54271ffa73c5c138",
@@ -355,6 +356,9 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "83f02eb1984a91cb",
+    "704fa10e5812f1cc",
+    "9ff6ee13cacc7004",
     "8066802e70f6f77e",
     "a4872642733fe58c",
     "000e26676cba89a8",
@@ -731,6 +735,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "a434cb84c509fd33",
     "89e982d8a0d83128",
     "65a0c0422f797513",
     "532edde8b1bd8d5e",

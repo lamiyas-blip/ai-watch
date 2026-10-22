@@ -1,6 +1,46 @@
 {
- "generated": "2026-10-22T20:38:45.378Z",
+ "generated": "2026-10-22T23:44:06.621Z",
  "items": [
+  {
+   "id": "83f02eb1984a91cb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)",
+   "u": "https://www.techmeme.com/261022/p56#a261022p56",
+   "d": "2026-10-22T23:05:43.000Z",
+   "first": "2026-10-22T23:44:06.621Z"
+  },
+  {
+   "id": "704fa10e5812f1cc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
+   "u": "https://www.techmeme.com/261022/p55#a261022p55",
+   "d": "2026-10-22T22:35:33.000Z",
+   "first": "2026-10-22T23:44:06.621Z"
+  },
+  {
+   "id": "a434cb84c509fd33",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Designing an AI serving harness built to last",
+   "u": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "d": "2026-10-22T21:17:29.000Z",
+   "first": "2026-10-22T23:44:06.621Z"
+  },
+  {
+   "id": "9ff6ee13cacc7004",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)",
+   "u": "https://www.techmeme.com/261022/p53#a261022p53",
+   "d": "2026-10-22T20:40:10.000Z",
+   "first": "2026-10-22T23:44:06.621Z"
+  },
   {
    "id": "8066802e70f6f77e",
    "f": "techmeme",
@@ -70,36 +110,6 @@
    "u": "https://www.techmeme.com/261022/p42#a261022p42",
    "d": "2026-10-22T17:25:01.000Z",
    "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
-   "id": "c42d7c3f1d2e67c5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)",
-   "u": "https://www.techmeme.com/261022/p40#a261022p40",
-   "d": "2026-10-22T16:40:00.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
-   "id": "b0ac4c19721628c2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Atlanta-based Tractian, which uses AI and sensors to predict machine failures and recommend maintenance plans, raised a $130M Series D at a $1.4B valuation (Rocket Drew/The Information)",
-   "u": "https://www.techmeme.com/261022/p39#a261022p39",
-   "d": "2026-10-22T16:35:08.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
-   "id": "b998d4fcaa48611d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "METR says a pilot test of OpenAI's monitoring system found vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions (Anzar Mehraj/Reuters)",
-   "u": "https://www.techmeme.com/261022/p38#a261022p38",
-   "d": "2026-10-22T16:25:01.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
   },
   {
    "id": "7424dbfb4d88597e",
@@ -172,16 +182,6 @@
    "first": "2026-10-22T12:09:00.762Z"
   },
   {
-   "id": "9416d51c854a75a0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "What FDE means at OpenAI",
-   "u": "https://openai.com/index/forward-deployed-engineering-means",
-   "d": "2026-10-22T06:00:00.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
    "id": "9acf06e9ba341581",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -210,6 +210,16 @@
    "u": "https://openai.com/index/uber-chatgpt-work-rollout",
    "d": "2026-10-22T00:00:00.000Z",
    "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "3cbda20863b82ce9",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Open call for guest investigators in the life sciences",
+   "u": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "d": "2026-10-22T00:00:00.000Z",
+   "first": "2026-10-22T23:44:06.621Z"
   },
   {
    "id": "3e8dddbf5046eaf5",
@@ -712,6 +722,16 @@
    "first": "2026-10-19T15:10:12.575Z"
   },
   {
+   "id": "f68f40339b5fe47c",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Advancing coding in low‑resource programming languages",
+   "u": "https://openai.com/index/low-resource-programming-languages",
+   "d": "2026-10-19T12:00:00.000Z",
+   "first": "2026-10-22T23:44:06.621Z"
+  },
+  {
    "id": "37f9d2330f2279c0",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -840,16 +860,6 @@
    "u": "https://www.youtube.com/shorts/B6FAMw8FgX4",
    "d": "2026-10-16T23:06:48.000Z",
    "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
-   "id": "bce41b36acb1b8cb",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "u": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-   "d": "2026-10-16T18:00:00.000Z",
-   "first": "2026-10-09T00:45:16.648Z"
   },
   {
    "id": "e893d24dd7c8c167",
@@ -1910,16 +1920,6 @@
    "u": "https://www.normaltech.ai/p/p-doom",
    "d": "2026-09-28T11:13:47.000Z",
    "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "32002e2eac3ad1ae",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Introducing Claude Sonnet 5.5",
-   "u": "https://www.anthropic.com/claude-sonnet-5-5",
-   "d": "2026-09-28T00:00:00.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
   },
   {
    "id": "af88adcd143103e8",
@@ -3123,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,12 +3141,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3154,47 +3155,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   }
  }
 }
