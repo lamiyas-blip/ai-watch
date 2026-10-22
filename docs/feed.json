@@ -1,25 +1,115 @@
 {
- "generated": "2026-10-22T12:09:00.762Z",
+ "generated": "2026-10-22T17:23:04.195Z",
  "items": [
   {
-   "id": "564fef1e6114c78e",
+   "id": "c42d7c3f1d2e67c5",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "How the AI boom is boosting paint maker PPG's sales: its specialized gray coatings serve critical functional needs and total $3M to $8M per data center, per JLL (Emmy Martin/New York Times)",
-   "u": "https://www.techmeme.com/261022/p16#a261022p16",
-   "d": "2026-10-22T11:01:23.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
+   "t": "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)",
+   "u": "https://www.techmeme.com/261022/p40#a261022p40",
+   "d": "2026-10-22T16:40:00.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
   },
   {
-   "id": "e48efb85af698533",
+   "id": "b0ac4c19721628c2",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens (Emily Mullin/Wired)",
-   "u": "https://www.techmeme.com/261022/p15#a261022p15",
-   "d": "2026-10-22T10:45:02.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
+   "t": "Atlanta-based Tractian, which uses AI and sensors to predict machine failures and recommend maintenance, raised a $130M Series D at a $1.4B valuation (Rocket Drew/The Information)",
+   "u": "https://www.techmeme.com/261022/p39#a261022p39",
+   "d": "2026-10-22T16:35:08.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "b998d4fcaa48611d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "METR says a pilot test of OpenAI's monitoring system found vulnerabilities, including an exploit that could have let AI agents hide hundreds of recent actions (Anzar Mehraj/Reuters)",
+   "u": "https://www.techmeme.com/261022/p38#a261022p38",
+   "d": "2026-10-22T16:25:01.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "ead415ce9f173490",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Warp Sciences, founded by ex-OpenAI product chief Kevin Weil to speed up AI drug development, emerges from stealth with $215M at an $865M post-money valuation (Rebecca Torrence/Bloomberg)",
+   "u": "https://www.techmeme.com/261022/p36#a261022p36",
+   "d": "2026-10-22T16:00:15.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "7424dbfb4d88597e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "What will computer chips look like in 2045?",
+   "u": "https://www.youtube.com/watch?v=frYSOKvNiiE",
+   "d": "2026-10-22T16:00:07.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "8f3ef8a6fa5d93d3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users' instructions (Madison Mills/Axios)",
+   "u": "https://www.techmeme.com/261022/p35#a261022p35",
+   "d": "2026-10-22T15:45:00.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "5ca2653ac71faf53",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M (Will Maddox/Axios)",
+   "u": "https://www.techmeme.com/261022/p31#a261022p31",
+   "d": "2026-10-22T14:40:01.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "8405823ba9037fd0",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Beyond tree cover: mapping the world’s forest types",
+   "u": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "d": "2026-10-22T14:30:24.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "d55b272f10a8fc9c",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "You are the Team — Anekha Sokhal, Moshi",
+   "u": "https://www.latent.space/p/moshi",
+   "d": "2026-10-22T14:03:40.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "31235f1c00027171",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group (Mary Ann Azevedo/Crunchbase News)",
+   "u": "https://www.techmeme.com/261022/p29#a261022p29",
+   "d": "2026-10-22T13:45:07.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "4cddaad32ea71f6a",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Claude’s personal agent",
+   "u": "https://www.bensbites.com/p/claudes-personal-agent",
+   "d": "2026-10-22T13:01:21.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
   },
   {
    "id": "65a0c0422f797513",
@@ -29,26 +119,6 @@
    "t": "Making the case for context-aware AI",
    "u": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
    "d": "2026-10-22T10:00:00.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
-  },
-  {
-   "id": "c06488974cf83726",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at Huawei and DeepSeek's mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization (SemiAnalysis)",
-   "u": "https://www.techmeme.com/261022/p12#a261022p12",
-   "d": "2026-10-22T09:55:01.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
-  },
-  {
-   "id": "63295a20dba9a0b6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)",
-   "u": "https://www.techmeme.com/261022/p11#a261022p11",
-   "d": "2026-10-22T09:45:01.000Z",
    "first": "2026-10-22T12:09:00.762Z"
   },
   {
@@ -72,34 +142,14 @@
    "first": "2026-10-22T12:09:00.762Z"
   },
   {
-   "id": "38579bb9ae835625",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power (Foreign Affairs)",
-   "u": "https://www.techmeme.com/261022/p9#a261022p9",
-   "d": "2026-10-22T07:15:01.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
-  },
-  {
-   "id": "5b461fc267d26f0f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Pressure to back promising AI startups is upending the VC investment process, with investors willing to buy into the same round at rapidly escalating valuations (Bloomberg)",
-   "u": "https://www.techmeme.com/261022/p8#a261022p8",
-   "d": "2026-10-22T06:50:01.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
-  },
-  {
-   "id": "2af3bcd60806421d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations (AJ Vicens/Reuters)",
-   "u": "https://www.techmeme.com/261022/p5#a261022p5",
-   "d": "2026-10-22T06:25:01.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
+   "id": "9416d51c854a75a0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "What FDE means at OpenAI",
+   "u": "https://openai.com/index/forward-deployed-engineering-means",
+   "d": "2026-10-22T06:00:00.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
   },
   {
    "id": "9acf06e9ba341581",
@@ -110,6 +160,26 @@
    "u": "https://www.youtube.com/shorts/dyrNQV0F3Zs",
    "d": "2026-10-22T03:06:41.000Z",
    "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "b6afbe3662ba21db",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻",
+   "u": "https://tldr.tech/ai/2026-10-22",
+   "d": "2026-10-22T00:00:00.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "5ca0690c2f5e1196",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "u": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "d": "2026-10-22T00:00:00.000Z",
+   "first": "2026-10-22T17:23:04.195Z"
   },
   {
    "id": "65d6ef344954554f",
@@ -742,16 +812,6 @@
    "first": "2026-10-17T11:00:27.083Z"
   },
   {
-   "id": "3df7356f7778e618",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Itaú is building generative AI for its entire customer base",
-   "u": "https://openai.com/index/itau-generative-ai",
-   "d": "2026-10-16T19:00:00.000Z",
-   "first": "2026-10-16T23:43:56.253Z"
-  },
-  {
    "id": "bce41b36acb1b8cb",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -850,16 +910,6 @@
    "u": "https://tldr.tech/ai/2026-10-16",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-16T14:28:45.766Z"
-  },
-  {
-   "id": "478230949877699a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "u": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-16T21:26:21.000Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -990,16 +1040,6 @@
    "u": "https://www.latent.space/p/crossing-the-threshold",
    "d": "2026-10-14T21:40:52.000Z",
    "first": "2026-10-14T22:46:09.874Z"
-  },
-  {
-   "id": "6290265cc78656d3",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why the Aztecs Refused to Kill Cortés - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/_hH7vnTWnq8",
-   "d": "2026-10-14T21:33:58.000Z",
-   "first": "2026-10-15T10:57:33.507Z"
   },
   {
    "id": "3c314a226979156e",
@@ -1280,16 +1320,6 @@
    "u": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
    "d": "2026-10-12T21:35:35.000Z",
    "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "0c0782f72663c32d",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents (Updated with video!)",
-   "u": "https://www.latent.space/p/claude-dynamic-workflows",
-   "d": "2026-10-12T18:18:17.000Z",
-   "first": "2026-10-12T19:27:58.641Z"
   },
   {
    "id": "22909fc0ae06bd43",
@@ -1759,16 +1789,6 @@
    "t": "GEMINI 4 is nuts...",
    "u": "https://www.youtube.com/watch?v=Sy1Fjf-H-Qg",
    "d": "2026-10-01T12:53:12.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "de560be2f3a518b7",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
-   "u": "https://tldr.tech/ai/2026-10-01",
-   "d": "2026-10-01T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2342,16 +2362,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "08dee4939011dfdc",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "The first GPT-6 model",
-   "u": "https://www.bensbites.com/p/the-first-gpt-6-model",
-   "d": "2026-09-08T13:03:52.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "78ada465946df7b5",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -2369,16 +2379,6 @@
    "t": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
    "u": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
    "d": "2026-09-03T15:02:08.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "da45fc611e4378d0",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Proactive cyber defense for governments and enterprises",
-   "u": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-   "d": "2026-09-02T16:24:24.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3095,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1668 > 1000"
+   "error": "Entity expansion limit exceeded: 1041 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1020 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
