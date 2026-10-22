@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "6773605cc020de47",
     "d55b272f10a8fc9c",
     "6c8a08517e6c544c",
     "f89a456551daa6c7",
@@ -229,6 +230,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "e2d8a412456e749d",
     "9416d51c854a75a0",
     "5ca0690c2f5e1196",
     "214bc15c062a969d",
@@ -318,6 +320,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "3e8dddbf5046eaf5",
     "b5ed299d1f3ceca0",
     "54271ffa73c5c138",
     "7544b4309b81d94b",
@@ -352,6 +355,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "8066802e70f6f77e",
+    "a4872642733fe58c",
+    "000e26676cba89a8",
+    "e48404fa97a907c2",
     "c42d7c3f1d2e67c5",
     "b0ac4c19721628c2",
     "b998d4fcaa48611d",
@@ -724,6 +731,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "89e982d8a0d83128",
     "65a0c0422f797513",
     "532edde8b1bd8d5e",
     "fc0f40097a39c317",

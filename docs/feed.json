@@ -1,6 +1,76 @@
 {
- "generated": "2026-10-22T17:23:04.195Z",
+ "generated": "2026-10-22T20:38:45.378Z",
  "items": [
+  {
+   "id": "8066802e70f6f77e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO (Kate Rooney/CNBC)",
+   "u": "https://www.techmeme.com/261022/p52#a261022p52",
+   "d": "2026-10-22T20:23:08.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
+  },
+  {
+   "id": "e2d8a412456e749d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Build more responsive apps with the Decisions API",
+   "u": "https://openai.com/index/decisions-api",
+   "d": "2026-10-22T19:00:00.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
+  },
+  {
+   "id": "89e982d8a0d83128",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "The Foundations of Scalable AI",
+   "u": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "d": "2026-10-22T18:48:04.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
+  },
+  {
+   "id": "a4872642733fe58c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Amazon rebrands its Kindle Unlimited subscription as Kindle+ and expands access to audiobooks, including titles narrated by AI (Maria Diaz/ZDNET)",
+   "u": "https://www.techmeme.com/261022/p46#a261022p46",
+   "d": "2026-10-22T18:25:03.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
+  },
+  {
+   "id": "000e26676cba89a8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November (The Information)",
+   "u": "https://www.techmeme.com/261022/p45#a261022p45",
+   "d": "2026-10-22T18:20:22.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
+  },
+  {
+   "id": "6773605cc020de47",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+   "u": "https://www.latent.space/p/modal-d",
+   "d": "2026-10-22T17:40:57.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
+  },
+  {
+   "id": "e48404fa97a907c2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025 (Jay Peters/The Verge)",
+   "u": "https://www.techmeme.com/261022/p42#a261022p42",
+   "d": "2026-10-22T17:25:01.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
+  },
   {
    "id": "c42d7c3f1d2e67c5",
    "f": "techmeme",
@@ -16,7 +86,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Atlanta-based Tractian, which uses AI and sensors to predict machine failures and recommend maintenance, raised a $130M Series D at a $1.4B valuation (Rocket Drew/The Information)",
+   "t": "Atlanta-based Tractian, which uses AI and sensors to predict machine failures and recommend maintenance plans, raised a $130M Series D at a $1.4B valuation (Rocket Drew/The Information)",
    "u": "https://www.techmeme.com/261022/p39#a261022p39",
    "d": "2026-10-22T16:35:08.000Z",
    "first": "2026-10-22T17:23:04.195Z"
@@ -32,16 +102,6 @@
    "first": "2026-10-22T17:23:04.195Z"
   },
   {
-   "id": "ead415ce9f173490",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Warp Sciences, founded by ex-OpenAI product chief Kevin Weil to speed up AI drug development, emerges from stealth with $215M at an $865M post-money valuation (Rebecca Torrence/Bloomberg)",
-   "u": "https://www.techmeme.com/261022/p36#a261022p36",
-   "d": "2026-10-22T16:00:15.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
    "id": "7424dbfb4d88597e",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -49,26 +109,6 @@
    "t": "What will computer chips look like in 2045?",
    "u": "https://www.youtube.com/watch?v=frYSOKvNiiE",
    "d": "2026-10-22T16:00:07.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
-   "id": "8f3ef8a6fa5d93d3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users' instructions (Madison Mills/Axios)",
-   "u": "https://www.techmeme.com/261022/p35#a261022p35",
-   "d": "2026-10-22T15:45:00.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
-   "id": "5ca2653ac71faf53",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M (Will Maddox/Axios)",
-   "u": "https://www.techmeme.com/261022/p31#a261022p31",
-   "d": "2026-10-22T14:40:01.000Z",
    "first": "2026-10-22T17:23:04.195Z"
   },
   {
@@ -89,16 +129,6 @@
    "t": "You are the Team — Anekha Sokhal, Moshi",
    "u": "https://www.latent.space/p/moshi",
    "d": "2026-10-22T14:03:40.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
-   "id": "31235f1c00027171",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group (Mary Ann Azevedo/Crunchbase News)",
-   "u": "https://www.techmeme.com/261022/p29#a261022p29",
-   "d": "2026-10-22T13:45:07.000Z",
    "first": "2026-10-22T17:23:04.195Z"
   },
   {
@@ -180,6 +210,16 @@
    "u": "https://openai.com/index/uber-chatgpt-work-rollout",
    "d": "2026-10-22T00:00:00.000Z",
    "first": "2026-10-22T17:23:04.195Z"
+  },
+  {
+   "id": "3e8dddbf5046eaf5",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Donating Agent Skills to the Agentic AI Foundation",
+   "u": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "d": "2026-10-22T00:00:00.000Z",
+   "first": "2026-10-22T20:38:45.378Z"
   },
   {
    "id": "65d6ef344954554f",
@@ -670,16 +710,6 @@
    "u": "https://www.youtube.com/shorts/aIrrq3CLSKM",
    "d": "2026-10-19T12:43:39.000Z",
    "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "f68f40339b5fe47c",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Advancing coding in low‑resource programming languages",
-   "u": "https://openai.com/index/low-resource-programming-languages",
-   "d": "2026-10-19T12:00:00.000Z",
-   "first": "2026-10-20T00:00:02.994Z"
   },
   {
    "id": "37f9d2330f2279c0",
@@ -1219,26 +1249,6 @@
    "t": "Zuck’s wonder...full",
    "u": "https://www.bensbites.com/p/zucks-wonderfull",
    "d": "2026-10-13T13:00:35.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "e2be2cf54496c6c3",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Open models have real benefits. Do they outweigh the risks?",
-   "u": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-   "d": "2026-10-13T10:00:00.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "c19f98ea73f0454b",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-   "u": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-   "d": "2026-10-13T09:37:04.000Z",
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
@@ -2049,16 +2059,6 @@
    "t": "Gemini 3.8 text-to-speech says hello",
    "u": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
    "d": "2026-09-23T15:25:14.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "26519b8d5c6c30d8",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-   "u": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-   "d": "2026-09-23T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3095,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1041 > 1000"
+   "error": "Entity expansion limit exceeded: 1203 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
