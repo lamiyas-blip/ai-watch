@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-21T22:32:23.894Z",
+ "generated": "2026-10-22T01:02:51.111Z",
  "items": [
+  {
+   "id": "cd3f9d5b3555f632",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AuxoAI, which helps large businesses build and deploy AI systems, raised a $20.7M Series A led by NTTVC to accelerate growth and scale (Kyt Dotson/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261021/p56#a261021p56",
+   "d": "2026-10-21T23:50:02.000Z",
+   "first": "2026-10-22T01:02:51.111Z"
+  },
   {
    "id": "cb362f55d2d645bf",
    "f": "yt-matthew-berman",
@@ -280,6 +290,16 @@
    "u": "https://tldr.tech/ai/2026-10-21",
    "d": "2026-10-21T00:00:00.000Z",
    "first": "2026-10-21T15:26:00.387Z"
+  },
+  {
+   "id": "2d84838fd34c3b74",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "u": "https://openai.com/index/cloudflare-cyber",
+   "d": "2026-10-21T00:00:00.000Z",
+   "first": "2026-10-22T01:02:51.111Z"
   },
   {
    "id": "da86affbbca0ab32",
@@ -770,16 +790,6 @@
    "u": "https://tldr.tech/ai/2026-10-16",
    "d": "2026-10-16T00:00:00.000Z",
    "first": "2026-10-16T14:28:45.766Z"
-  },
-  {
-   "id": "0429f76b95143efe",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Benefit Street Partners answers questions faster with Codex",
-   "u": "https://openai.com/index/benefit-street-partners",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-17T06:19:18.802Z"
   },
   {
    "id": "478230949877699a",
@@ -3110,7 +3120,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1098 > 1000"
+   "error": "Entity expansion limit exceeded: 1020 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3124,11 +3134,13 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3136,23 +3148,28 @@
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3160,7 +3177,8 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
