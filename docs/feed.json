@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-22T23:44:06.621Z",
+ "generated": "2026-10-23T02:14:17.041Z",
  "items": [
+  {
+   "id": "fc3007aab2175a69",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
+   "u": "https://www.techmeme.com/261022/p59#a261022p59",
+   "d": "2026-10-23T01:10:01.000Z",
+   "first": "2026-10-23T02:14:17.041Z"
+  },
+  {
+   "id": "58f01ec4e0659501",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "German energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers (Eva Brendel/Bloomberg)",
+   "u": "https://www.techmeme.com/261022/p57#a261022p57",
+   "d": "2026-10-23T00:15:02.000Z",
+   "first": "2026-10-23T02:14:17.041Z"
+  },
   {
    "id": "83f02eb1984a91cb",
    "f": "techmeme",
@@ -82,16 +102,6 @@
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
-   "id": "000e26676cba89a8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: SoftBank's SB Energy is considering going public as soon as December or waiting until 2027, as it closely watches Anthropic's IPO, expected in November (The Information)",
-   "u": "https://www.techmeme.com/261022/p45#a261022p45",
-   "d": "2026-10-22T18:20:22.000Z",
-   "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
    "id": "6773605cc020de47",
    "f": "latent-space",
    "src": "Latent Space",
@@ -99,16 +109,6 @@
    "t": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
    "u": "https://www.latent.space/p/modal-d",
    "d": "2026-10-22T17:40:57.000Z",
-   "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
-   "id": "e48404fa97a907c2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025 (Jay Peters/The Verge)",
-   "u": "https://www.techmeme.com/261022/p42#a261022p42",
-   "d": "2026-10-22T17:25:01.000Z",
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
@@ -180,6 +180,16 @@
    "u": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
    "d": "2026-10-22T07:42:44.000Z",
    "first": "2026-10-22T12:09:00.762Z"
+  },
+  {
+   "id": "9416d51c854a75a0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "What FDE means at OpenAI",
+   "u": "https://openai.com/index/forward-deployed-engineering-means",
+   "d": "2026-10-22T06:00:00.000Z",
+   "first": "2026-10-23T02:14:17.041Z"
   },
   {
    "id": "9acf06e9ba341581",
@@ -720,16 +730,6 @@
    "u": "https://www.youtube.com/shorts/aIrrq3CLSKM",
    "d": "2026-10-19T12:43:39.000Z",
    "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "f68f40339b5fe47c",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Advancing coding in low‑resource programming languages",
-   "u": "https://openai.com/index/low-resource-programming-languages",
-   "d": "2026-10-19T12:00:00.000Z",
-   "first": "2026-10-22T23:44:06.621Z"
   },
   {
    "id": "37f9d2330f2279c0",
@@ -3141,12 +3141,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3156,7 +3156,7 @@
   "yt-ai-explained": {
    "name": "AI Explained",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 500"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3166,12 +3166,11 @@
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 500"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
@@ -3206,7 +3205,7 @@
   "yt-wes-roth": {
    "name": "Wes Roth",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   }
  }
 }
