@@ -1,12 +1,52 @@
 {
- "generated": "2026-10-23T20:43:19.635Z",
+ "generated": "2026-10-23T23:36:45.227Z",
  "items": [
+  {
+   "id": "3a9e765f5a54c3bf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
+   "u": "https://www.techmeme.com/261023/p24#a261023p24",
+   "d": "2026-10-23T23:10:05.000Z",
+   "first": "2026-10-23T23:36:45.227Z"
+  },
+  {
+   "id": "33f14f456fb1026f",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why transistors stopped being flat",
+   "u": "https://www.youtube.com/shorts/cy1yoHVX2IQ",
+   "d": "2026-10-23T22:40:10.000Z",
+   "first": "2026-10-23T23:36:45.227Z"
+  },
+  {
+   "id": "09b2c507be61d422",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "3 ChatGPT Agent Prompts To Level Up Your Life",
+   "u": "https://www.youtube.com/shorts/WSHEBdmahHY",
+   "d": "2026-10-23T21:15:47.000Z",
+   "first": "2026-10-23T23:36:45.227Z"
+  },
+  {
+   "id": "7eae9d16210c1c5e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)",
+   "u": "https://www.techmeme.com/261023/p22#a261023p22",
+   "d": "2026-10-23T21:15:02.000Z",
+   "first": "2026-10-23T23:36:45.227Z"
+  },
   {
    "id": "68c424812a54aa9a",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI says it is cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions (Rachel Metz/Bloomberg)",
+   "t": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)",
    "u": "https://www.techmeme.com/261023/p20#a261023p20",
    "d": "2026-10-23T20:20:00.000Z",
    "first": "2026-10-23T20:43:19.635Z"
@@ -86,7 +126,7 @@
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "We need to talk about this...",
+   "t": "Who is local AI really for?",
    "u": "https://www.youtube.com/watch?v=fHY0sjAejcA",
    "d": "2026-10-23T16:36:20.000Z",
    "first": "2026-10-23T17:33:03.730Z"
@@ -120,36 +160,6 @@
    "u": "https://www.techmeme.com/261023/p10#a261023p10",
    "d": "2026-10-23T13:25:02.000Z",
    "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "95bd90241c44635e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025 (Katherine Davis/Axios)",
-   "u": "https://www.techmeme.com/261023/p9#a261023p9",
-   "d": "2026-10-23T12:40:01.000Z",
-   "first": "2026-10-23T12:54:53.458Z"
-  },
-  {
-   "id": "e2352f374b3c7006",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-   "u": "https://www.techmeme.com/261023/p8#a261023p8",
-   "d": "2026-10-23T11:45:14.000Z",
-   "first": "2026-10-23T12:54:53.458Z"
-  },
-  {
-   "id": "dad7ae23217f7285",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)",
-   "u": "https://www.techmeme.com/261023/p7#a261023p7",
-   "d": "2026-10-23T10:40:01.000Z",
-   "first": "2026-10-23T12:54:53.458Z"
   },
   {
    "id": "e01c14bc59f971bb",
@@ -942,16 +952,6 @@
    "first": "2026-10-17T11:00:27.083Z"
   },
   {
-   "id": "c1213c8d616e0f2a",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why Guns Didn’t Conquer the Aztecs - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/B6FAMw8FgX4",
-   "d": "2026-10-16T23:06:48.000Z",
-   "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
    "id": "e893d24dd7c8c167",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1000,16 +1000,6 @@
    "u": "https://www.transformernews.ai/p/leading-the-future-struggles-ai-safety-pacs-gain-ground",
    "d": "2026-10-16T15:13:20.000Z",
    "first": "2026-10-16T18:15:41.908Z"
-  },
-  {
-   "id": "d06f1db104bfef87",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "This Tesla Actually Flies (NOT AI)",
-   "u": "https://www.youtube.com/shorts/WXWFmwfo1JA",
-   "d": "2026-10-16T04:30:35.000Z",
-   "first": "2026-10-16T09:58:02.023Z"
   },
   {
    "id": "51fc6b24ce00f859",
@@ -3095,7 +3085,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1355 > 1000"
+   "error": "Entity expansion limit exceeded: 1417 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,7 +3113,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,7 +3131,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1064 > 1000"
+   "error": "Entity expansion limit exceeded: 1003 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
