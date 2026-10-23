@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-23T07:44:59.278Z",
+ "generated": "2026-10-23T12:54:53.458Z",
  "items": [
+  {
+   "id": "95bd90241c44635e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from a $1.6B valuation in May 2025 (Katherine Davis/Axios)",
+   "u": "https://www.techmeme.com/261023/p9#a261023p9",
+   "d": "2026-10-23T12:40:01.000Z",
+   "first": "2026-10-23T12:54:53.458Z"
+  },
+  {
+   "id": "e2352f374b3c7006",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+   "u": "https://www.techmeme.com/261023/p8#a261023p8",
+   "d": "2026-10-23T11:45:14.000Z",
+   "first": "2026-10-23T12:54:53.458Z"
+  },
+  {
+   "id": "dad7ae23217f7285",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)",
+   "u": "https://www.techmeme.com/261023/p7#a261023p7",
+   "d": "2026-10-23T10:40:01.000Z",
+   "first": "2026-10-23T12:54:53.458Z"
+  },
+  {
+   "id": "e01c14bc59f971bb",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Black October",
+   "u": "https://latent.space/p/ainews-black-october/",
+   "d": "2026-10-23T10:09:29.000Z",
+   "first": "2026-10-23T12:54:53.458Z"
+  },
+  {
+   "id": "6d20eecef7a85d5c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
+   "u": "https://www.techmeme.com/261023/p5#a261023p5",
+   "d": "2026-10-23T09:15:03.000Z",
+   "first": "2026-10-23T12:54:53.458Z"
+  },
   {
    "id": "7795bee697c6d416",
    "f": "techmeme",
@@ -26,7 +76,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
+   "t": "The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
    "u": "https://www.techmeme.com/261022/p59#a261022p59",
    "d": "2026-10-23T01:10:01.000Z",
    "first": "2026-10-23T02:14:17.041Z"
@@ -72,16 +122,6 @@
    "first": "2026-10-22T23:44:06.621Z"
   },
   {
-   "id": "704fa10e5812f1cc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: OpenAI has cut its valuation target to $1.25T, down from the $1.4T valuation it pitched earlier this month, after facing resistance from some investors (Financial Times)",
-   "u": "https://www.techmeme.com/261022/p55#a261022p55",
-   "d": "2026-10-22T22:35:33.000Z",
-   "first": "2026-10-22T23:44:06.621Z"
-  },
-  {
    "id": "a434cb84c509fd33",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -100,26 +140,6 @@
    "u": "https://www.youtube.com/shorts/9WZpou1faFU",
    "d": "2026-10-22T20:47:14.000Z",
    "first": "2026-10-23T07:44:59.278Z"
-  },
-  {
-   "id": "9ff6ee13cacc7004",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)",
-   "u": "https://www.techmeme.com/261022/p53#a261022p53",
-   "d": "2026-10-22T20:40:10.000Z",
-   "first": "2026-10-22T23:44:06.621Z"
-  },
-  {
-   "id": "8066802e70f6f77e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO (Kate Rooney/CNBC)",
-   "u": "https://www.techmeme.com/261022/p52#a261022p52",
-   "d": "2026-10-22T20:23:08.000Z",
-   "first": "2026-10-22T20:38:45.378Z"
   },
   {
    "id": "e2d8a412456e749d",
@@ -147,7 +167,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-   "u": "https://www.latent.space/p/modal-d",
+   "u": "https://latent.space/p/modal-d/",
    "d": "2026-10-22T17:40:57.000Z",
    "first": "2026-10-22T20:38:45.378Z"
   },
@@ -177,7 +197,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "You are the Team — Anekha Sokhal, Moshi",
-   "u": "https://www.latent.space/p/moshi",
+   "u": "https://latent.space/p/moshi/",
    "d": "2026-10-22T14:03:40.000Z",
    "first": "2026-10-22T17:23:04.195Z"
   },
@@ -217,7 +237,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-   "u": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+   "u": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
    "d": "2026-10-22T07:42:44.000Z",
    "first": "2026-10-22T12:09:00.762Z"
   },
@@ -366,7 +386,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "AI Breakthroughs Everyone Missed",
+   "t": "11 AI Breakthroughs You Didn’t Know Existed",
    "u": "https://www.youtube.com/watch?v=umGZrkyTRtw",
    "d": "2026-10-21T17:45:26.000Z",
    "first": "2026-10-21T19:25:43.093Z"
@@ -437,7 +457,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "Claude Mods: Flipping the Harness Inside Out",
-   "u": "https://www.latent.space/p/claude-mods",
+   "u": "https://latent.space/p/claude-mods/",
    "d": "2026-10-21T13:04:19.000Z",
    "first": "2026-10-21T15:26:00.387Z"
   },
@@ -497,7 +517,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-   "u": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+   "u": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
    "d": "2026-10-21T06:54:09.000Z",
    "first": "2026-10-21T10:22:20.903Z"
   },
@@ -507,7 +527,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-   "u": "https://www.latent.space/p/tenex",
+   "u": "https://latent.space/p/tenex/",
    "d": "2026-10-21T05:01:26.000Z",
    "first": "2026-10-21T05:03:41.409Z"
   },
@@ -587,7 +607,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "The Programmable Data Center — Evan Conrad, SF Compute",
-   "u": "https://www.latent.space/p/sfcompute2",
+   "u": "https://latent.space/p/sfcompute2/",
    "d": "2026-10-20T19:31:57.000Z",
    "first": "2026-10-20T21:58:15.418Z"
   },
@@ -677,7 +697,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "[AINews] not much happened today",
-   "u": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+   "u": "https://latent.space/p/ainews-not-much-happened-today-f09/",
    "d": "2026-10-20T05:21:52.000Z",
    "first": "2026-10-20T08:57:12.649Z"
   },
@@ -867,7 +887,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "[AINews] High Taste Testers Ep. 1",
-   "u": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+   "u": "https://latent.space/p/ainews-high-taste-testers-ep-1/",
    "d": "2026-10-17T07:47:38.000Z",
    "first": "2026-10-17T11:00:27.083Z"
   },
@@ -947,7 +967,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-   "u": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+   "u": "https://latent.space/p/ainews-agents-disprove-polysemanticity/",
    "d": "2026-10-16T04:16:45.000Z",
    "first": "2026-10-16T05:13:34.270Z"
   },
@@ -1037,7 +1057,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-   "u": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+   "u": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d/",
    "d": "2026-10-15T10:08:08.000Z",
    "first": "2026-10-15T10:57:33.507Z"
   },
@@ -1087,7 +1107,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-   "u": "https://www.latent.space/p/crossing-the-threshold",
+   "u": "https://latent.space/p/crossing-the-threshold/",
    "d": "2026-10-14T21:40:52.000Z",
    "first": "2026-10-14T22:46:09.874Z"
   },
@@ -1097,7 +1117,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-   "u": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+   "u": "https://latent.space/p/lab-in-the-loop-at-compute-speed/",
    "d": "2026-10-14T20:35:09.000Z",
    "first": "2026-10-14T22:46:09.874Z"
   },
@@ -1147,7 +1167,7 @@
    "src": "Latent Space",
    "cat": "Newsletter",
    "t": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-   "u": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+   "u": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon/",
    "d": "2026-10-14T05:40:28.000Z",
    "first": "2026-10-14T10:44:28.796Z"
   },
@@ -1200,16 +1220,6 @@
    "u": "https://www.anthropic.com/news/2026-us-midterms",
    "d": "2026-10-14T00:00:00.000Z",
    "first": "2026-10-14T19:47:43.043Z"
-  },
-  {
-   "id": "feef2fdaa4b175e2",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-   "u": "https://www.latent.space/p/dyna",
-   "d": "2026-10-13T22:25:55.000Z",
-   "first": "2026-10-14T00:42:08.628Z"
   },
   {
    "id": "6271bda5a32f47e4",
