@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-23T02:14:17.041Z",
+ "generated": "2026-10-23T07:44:59.278Z",
  "items": [
+  {
+   "id": "7795bee697c6d416",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
+   "u": "https://www.techmeme.com/261023/p2#a261023p2",
+   "d": "2026-10-23T04:50:55.000Z",
+   "first": "2026-10-23T07:44:59.278Z"
+  },
+  {
+   "id": "bc473cc7a30337d8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261022/p61#a261022p61",
+   "d": "2026-10-23T02:50:50.000Z",
+   "first": "2026-10-23T07:44:59.278Z"
+  },
   {
    "id": "fc3007aab2175a69",
    "f": "techmeme",
@@ -20,6 +40,26 @@
    "u": "https://www.techmeme.com/261022/p57#a261022p57",
    "d": "2026-10-23T00:15:02.000Z",
    "first": "2026-10-23T02:14:17.041Z"
+  },
+  {
+   "id": "3acbad74f2a06fc2",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "u": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "d": "2026-10-23T00:00:00.000Z",
+   "first": "2026-10-23T07:44:59.278Z"
+  },
+  {
+   "id": "52e17f61abcf6cc5",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "AI’s bottleneck isn’t compute. It’s geometry.",
+   "u": "https://www.youtube.com/shorts/o5UZtZuPAeY",
+   "d": "2026-10-22T23:21:44.000Z",
+   "first": "2026-10-23T07:44:59.278Z"
   },
   {
    "id": "83f02eb1984a91cb",
@@ -50,6 +90,16 @@
    "u": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
    "d": "2026-10-22T21:17:29.000Z",
    "first": "2026-10-22T23:44:06.621Z"
+  },
+  {
+   "id": "87373cd91dabe815",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Sam Altman on AI’s Discovery Era",
+   "u": "https://www.youtube.com/shorts/9WZpou1faFU",
+   "d": "2026-10-22T20:47:14.000Z",
+   "first": "2026-10-23T07:44:59.278Z"
   },
   {
    "id": "9ff6ee13cacc7004",
@@ -89,16 +139,6 @@
    "t": "The Foundations of Scalable AI",
    "u": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
    "d": "2026-10-22T18:48:04.000Z",
-   "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
-   "id": "a4872642733fe58c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Amazon rebrands its Kindle Unlimited subscription as Kindle+ and expands access to audiobooks, including titles narrated by AI (Maria Diaz/ZDNET)",
-   "u": "https://www.techmeme.com/261022/p46#a261022p46",
-   "d": "2026-10-22T18:25:03.000Z",
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
@@ -662,16 +702,6 @@
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
-   "id": "18f42d596bc0fc9e",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI acquires Orchestra Bio",
-   "u": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "d": "2026-10-20T00:00:00.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
    "id": "d33bf6afddc5df94",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -822,16 +852,6 @@
    "first": "2026-10-18T19:46:31.840Z"
   },
   {
-   "id": "7bd805e6371d2ed4",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Gemini 4 Argon Made a Fall Guys Clone",
-   "u": "https://www.youtube.com/shorts/kb74_MmsTFM",
-   "d": "2026-10-17T21:23:14.000Z",
-   "first": "2026-10-17T21:48:48.061Z"
-  },
-  {
    "id": "62145b1bf93c285a",
    "f": "interconnects",
    "src": "Interconnects",
@@ -930,16 +950,6 @@
    "u": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
    "d": "2026-10-16T04:16:45.000Z",
    "first": "2026-10-16T05:13:34.270Z"
-  },
-  {
-   "id": "7048928bfd95b42e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Spain Got Rich and Fell Behind - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/hjhJQXlQ6HQ",
-   "d": "2026-10-16T00:01:56.000Z",
-   "first": "2026-10-16T09:58:02.023Z"
   },
   {
    "id": "7fed59e729a8d339",
@@ -3141,7 +3151,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1046 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3155,18 +3165,15 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3174,38 +3181,31 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }

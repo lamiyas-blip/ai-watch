@@ -230,6 +230,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "3acbad74f2a06fc2",
     "e2d8a412456e749d",
     "9416d51c854a75a0",
     "5ca0690c2f5e1196",
@@ -356,6 +357,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "7795bee697c6d416",
+    "bc473cc7a30337d8",
     "fc3007aab2175a69",
     "58f01ec4e0659501",
     "83f02eb1984a91cb",
@@ -821,6 +824,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "52e17f61abcf6cc5",
     "7424dbfb4d88597e",
     "8753350a65f1f187",
     "f4127ff28065459b",
@@ -965,6 +969,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "87373cd91dabe815",
     "65d6ef344954554f",
     "cb362f55d2d645bf",
     "0bb935a70bf35b00",
