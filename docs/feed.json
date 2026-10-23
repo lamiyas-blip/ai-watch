@@ -1,6 +1,46 @@
 {
- "generated": "2026-10-23T17:33:03.730Z",
+ "generated": "2026-10-23T20:43:19.635Z",
  "items": [
+  {
+   "id": "68c424812a54aa9a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says it is cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions (Rachel Metz/Bloomberg)",
+   "u": "https://www.techmeme.com/261023/p20#a261023p20",
+   "d": "2026-10-23T20:20:00.000Z",
+   "first": "2026-10-23T20:43:19.635Z"
+  },
+  {
+   "id": "ee226666af0238d8",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Amazon’s Trainium Takes a Strike at the Training King",
+   "u": "https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at",
+   "d": "2026-10-23T19:06:44.000Z",
+   "first": "2026-10-23T20:43:19.635Z"
+  },
+  {
+   "id": "346fc9679393504b",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Team AMA (and Kimi K3.1 Testing!!)",
+   "u": "https://www.youtube.com/watch?v=7fZ1rFcm1nA",
+   "d": "2026-10-23T18:07:47.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "c94afd51e445841a",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: 24 Things You Need To Know This Week",
+   "u": "https://www.youtube.com/watch?v=TVRCcMlvR10",
+   "d": "2026-10-23T17:40:19.000Z",
+   "first": "2026-10-23T20:43:19.635Z"
+  },
   {
    "id": "d90373d789e6772c",
    "f": "techmeme",
@@ -22,16 +62,6 @@
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
-   "id": "346fc9679393504b",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Team AMA (and Kimi K3.1 Testing!!)",
-   "u": "https://www.youtube.com/watch?v=7fZ1rFcm1nA",
-   "d": "2026-10-23T17:01:20.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
    "id": "c2d09de97428132f",
    "f": "openai-news",
    "src": "OpenAI",
@@ -46,7 +76,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "AISI finds Mythos 5 pushed a GitHub maintainer to accept malicious code in a July eval despite evidence he was real; other models behaved the same in simulation (AI Security Institute)",
+   "t": "AISI finds Mythos 5 attempted a supply-chain attack by submitting malicious code and creating fake accounts to pressure a GitHub maintainer into accepting it (AI Security Institute)",
    "u": "https://www.techmeme.com/261023/p13#a261023p13",
    "d": "2026-10-23T16:55:01.000Z",
    "first": "2026-10-23T17:33:03.730Z"
@@ -132,34 +162,14 @@
    "first": "2026-10-23T12:54:53.458Z"
   },
   {
-   "id": "6d20eecef7a85d5c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says it partnered with Theorem to use Claude to formally prove useful security properties at the assembly code level across 123 open-source libraries (Anthropic)",
-   "u": "https://www.techmeme.com/261023/p5#a261023p5",
-   "d": "2026-10-23T09:15:03.000Z",
-   "first": "2026-10-23T12:54:53.458Z"
-  },
-  {
-   "id": "7795bee697c6d416",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
-   "u": "https://www.techmeme.com/261023/p2#a261023p2",
-   "d": "2026-10-23T04:50:55.000Z",
-   "first": "2026-10-23T07:44:59.278Z"
-  },
-  {
-   "id": "bc473cc7a30337d8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261022/p61#a261022p61",
-   "d": "2026-10-23T02:50:50.000Z",
-   "first": "2026-10-23T07:44:59.278Z"
+   "id": "3a434fef28c21f63",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Securing our frontier model training environment",
+   "u": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "d": "2026-10-23T10:00:00.000Z",
+   "first": "2026-10-23T20:43:19.635Z"
   },
   {
    "id": "2e575241118c4c80",
@@ -732,16 +742,6 @@
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
-   "id": "4e097e0ba5f95090",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "u": "https://openai.com/index/ted-taylor-restaurant",
-   "d": "2026-10-20T10:00:00.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
    "id": "d6af183469a2ed1a",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1200,16 +1200,6 @@
    "u": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "d": "2026-10-14T17:45:23.000Z",
    "first": "2026-10-14T19:47:43.043Z"
-  },
-  {
-   "id": "91e094e5f4bcd726",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "The Cheapest Robot On The Market?!",
-   "u": "https://www.youtube.com/shorts/XEl4ZQKKxig",
-   "d": "2026-10-14T14:41:38.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
   },
   {
    "id": "10636127416c2c72",
@@ -2292,16 +2282,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "7dc3af9870920e5e",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Long Live the Short King: Why 4-hi HBM Wins",
-   "u": "https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi",
-   "d": "2026-09-13T18:19:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "11568838b9aeba66",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -3115,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1203 > 1000"
+   "error": "Entity expansion limit exceeded: 1355 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
