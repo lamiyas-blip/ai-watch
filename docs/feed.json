@@ -1,12 +1,102 @@
 {
- "generated": "2026-10-23T12:54:53.458Z",
+ "generated": "2026-10-23T17:33:03.730Z",
  "items": [
+  {
+   "id": "d90373d789e6772c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic attributes Mythos 5's deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so (Anthropic)",
+   "u": "https://www.techmeme.com/261023/p14#a261023p14",
+   "d": "2026-10-23T17:10:02.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "d59c7c69a9f5f6fb",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Sam Altman on Why Your Most Important Advice Should Come From People",
+   "u": "https://www.youtube.com/shorts/f8uIINtoJCM",
+   "d": "2026-10-23T17:03:19.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "346fc9679393504b",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Team AMA (and Kimi K3.1 Testing!!)",
+   "u": "https://www.youtube.com/watch?v=7fZ1rFcm1nA",
+   "d": "2026-10-23T17:01:20.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "c2d09de97428132f",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "u": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+   "d": "2026-10-23T17:00:00.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "e23208cde37f6b2d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AISI finds Mythos 5 pushed a GitHub maintainer to accept malicious code in a July eval despite evidence he was real; other models behaved the same in simulation (AI Security Institute)",
+   "u": "https://www.techmeme.com/261023/p13#a261023p13",
+   "d": "2026-10-23T16:55:01.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "1088e21b2d23a947",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "We need to talk about this...",
+   "u": "https://www.youtube.com/watch?v=fHY0sjAejcA",
+   "d": "2026-10-23T16:36:20.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "57fe00989e18d01e",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "AI Is Getting Good at Math. Here’s Why.",
+   "u": "https://latent.space/p/ai-is-getting-good-at-math/",
+   "d": "2026-10-23T15:19:48.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "e74013967ddbff44",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "The cyberpocalypse is here — sort of",
+   "u": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
+   "d": "2026-10-23T13:56:51.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "6081417b851b77ba",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges (Tim Fernholz/TechCrunch)",
+   "u": "https://www.techmeme.com/261023/p10#a261023p10",
+   "d": "2026-10-23T13:25:02.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
   {
    "id": "95bd90241c44635e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from a $1.6B valuation in May 2025 (Katherine Davis/Axios)",
+   "t": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025 (Katherine Davis/Axios)",
    "u": "https://www.techmeme.com/261023/p9#a261023p9",
    "d": "2026-10-23T12:40:01.000Z",
    "first": "2026-10-23T12:54:53.458Z"
@@ -46,7 +136,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
+   "t": "Anthropic says it partnered with Theorem to use Claude to formally prove useful security properties at the assembly code level across 123 open-source libraries (Anthropic)",
    "u": "https://www.techmeme.com/261023/p5#a261023p5",
    "d": "2026-10-23T09:15:03.000Z",
    "first": "2026-10-23T12:54:53.458Z"
@@ -72,24 +162,14 @@
    "first": "2026-10-23T07:44:59.278Z"
   },
   {
-   "id": "fc3007aab2175a69",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
-   "u": "https://www.techmeme.com/261022/p59#a261022p59",
-   "d": "2026-10-23T01:10:01.000Z",
-   "first": "2026-10-23T02:14:17.041Z"
-  },
-  {
-   "id": "58f01ec4e0659501",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "German energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers (Eva Brendel/Bloomberg)",
-   "u": "https://www.techmeme.com/261022/p57#a261022p57",
-   "d": "2026-10-23T00:15:02.000Z",
-   "first": "2026-10-23T02:14:17.041Z"
+   "id": "2e575241118c4c80",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖",
+   "u": "https://tldr.tech/ai/2026-10-23",
+   "d": "2026-10-23T00:00:00.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
   },
   {
    "id": "3acbad74f2a06fc2",
@@ -110,16 +190,6 @@
    "u": "https://www.youtube.com/shorts/o5UZtZuPAeY",
    "d": "2026-10-22T23:21:44.000Z",
    "first": "2026-10-23T07:44:59.278Z"
-  },
-  {
-   "id": "83f02eb1984a91cb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "a16z rebrands a16z Crypto as a16z Frontier and expands the fund's scope to back startups developing AI, robotics, and other emerging technologies (Camila Grigera Naón/Fortune)",
-   "u": "https://www.techmeme.com/261022/p56#a261022p56",
-   "d": "2026-10-22T23:05:43.000Z",
-   "first": "2026-10-22T23:44:06.621Z"
   },
   {
    "id": "a434cb84c509fd33",
@@ -162,6 +232,16 @@
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
+   "id": "99e494e7f75a4466",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "u": "https://github.com/NVIDIA/OpenShell",
+   "d": "2026-10-22T17:44:06.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
    "id": "6773605cc020de47",
    "f": "latent-space",
    "src": "Latent Space",
@@ -170,6 +250,16 @@
    "u": "https://latent.space/p/modal-d/",
    "d": "2026-10-22T17:40:57.000Z",
    "first": "2026-10-22T20:38:45.378Z"
+  },
+  {
+   "id": "dbedc8dd25a283aa",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Every AI model has the same \"controversial\" take on humans",
+   "u": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "d": "2026-10-22T16:08:00.000Z",
+   "first": "2026-10-23T17:33:03.730Z"
   },
   {
    "id": "7424dbfb4d88597e",
@@ -362,16 +452,6 @@
    "first": "2026-10-21T22:32:23.894Z"
   },
   {
-   "id": "917677b100112a5f",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Actual Robot Bodyguard",
-   "u": "https://www.youtube.com/shorts/5eJnIYrr8rg",
-   "d": "2026-10-21T19:52:18.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
-  },
-  {
    "id": "8753350a65f1f187",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -409,16 +489,6 @@
    "t": "How AT&T is rethinking in-house legal work with OpenAI",
    "u": "https://openai.com/index/att-legal",
    "d": "2026-10-21T17:00:00.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
-   "id": "5e9edeaa1934fd7a",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
-   "u": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
-   "d": "2026-10-21T15:30:24.000Z",
    "first": "2026-10-21T19:25:43.093Z"
   },
   {
@@ -682,16 +752,6 @@
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
-   "id": "91e51a05d993b8a2",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "u": "https://openai.com/index/terminal-x",
-   "d": "2026-10-20T07:00:00.000Z",
-   "first": "2026-10-21T05:03:41.409Z"
-  },
-  {
    "id": "f2d96203090039a2",
    "f": "latent-space",
    "src": "Latent Space",
@@ -830,16 +890,6 @@
    "u": "https://tldr.tech/ai/2026-10-19",
    "d": "2026-10-19T00:00:00.000Z",
    "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "986c3e679cc638a2",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "How DeepSeek Uses Less Memory",
-   "u": "https://www.youtube.com/shorts/RS9vWYlJeH8",
-   "d": "2026-10-18T23:02:55.000Z",
-   "first": "2026-10-18T23:55:09.212Z"
   },
   {
    "id": "46bef41e129fded2",
@@ -1162,16 +1212,6 @@
    "first": "2026-10-14T15:35:52.509Z"
   },
   {
-   "id": "b4da712a20e5dd2a",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-   "u": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon/",
-   "d": "2026-10-14T05:40:28.000Z",
-   "first": "2026-10-14T10:44:28.796Z"
-  },
-  {
    "id": "10636127416c2c72",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1340,26 +1380,6 @@
    "u": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
    "d": "2026-10-12T22:52:31.000Z",
    "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
-   "id": "25b33e0bb86425dd",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI is a tool and using it well takes skill",
-   "u": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-   "d": "2026-10-12T21:40:18.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "28df2f19306591d1",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "u": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-   "d": "2026-10-12T21:35:35.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "22909fc0ae06bd43",
@@ -1742,16 +1762,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "1e7826b02be448c9",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Decision models 🤖, Claude-shaped science 🧪, OpenAI safety firings 🚨",
-   "u": "https://tldr.tech/ai/2026-10-02",
-   "d": "2026-10-02T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "52b8f17e9342ddb2",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2079,16 +2089,6 @@
    "t": "Gemini 3.8 text-to-speech says hello",
    "u": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
    "d": "2026-09-23T15:25:14.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "e1fec14ceafb458b",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "How to respond to an AI disaster",
-   "u": "https://www.transformernews.ai/p/how-to-respond-to-an-ai-disaster",
-   "d": "2026-09-22T15:01:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3143,8 +3143,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3161,7 +3160,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1046 > 1000"
+   "error": "Entity expansion limit exceeded: 1064 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
