@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-24T18:52:32.742Z",
+ "generated": "2026-10-24T21:17:07.148Z",
  "items": [
+  {
+   "id": "b6029393f28bfcfd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
+   "u": "https://www.techmeme.com/261024/p8#a261024p8",
+   "d": "2026-10-24T19:45:01.000Z",
+   "first": "2026-10-24T21:17:07.148Z"
+  },
+  {
+   "id": "16abd7c77ab03a46",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why Hunter-Gatherers Lost to Farmers - Kyle Harper",
+   "u": "https://www.youtube.com/shorts/Uo297BJeNvQ",
+   "d": "2026-10-24T19:43:51.000Z",
+   "first": "2026-10-24T21:17:07.148Z"
+  },
   {
    "id": "2413dcaf44199fc5",
    "f": "yt-matt-wolfe",
@@ -970,16 +990,6 @@
    "u": "https://tldr.tech/ai/2026-10-19",
    "d": "2026-10-19T00:00:00.000Z",
    "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
-   "id": "46bef41e129fded2",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why India’s Kings Lost to a Company - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/HkMlMdaiODQ",
-   "d": "2026-10-18T19:44:44.000Z",
-   "first": "2026-10-18T21:58:59.952Z"
   },
   {
    "id": "ad502c6ad580d6a2",
@@ -3143,7 +3153,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3160,7 +3171,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1011 > 1000"
+   "error": "Entity expansion limit exceeded: 1071 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
