@@ -1,6 +1,46 @@
 {
- "generated": "2026-10-24T02:12:32.715Z",
+ "generated": "2026-10-24T07:27:21.939Z",
  "items": [
+  {
+   "id": "9c3bfb309d13375b",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+   "u": "https://latent.space/p/ainews-kimi-31/",
+   "d": "2026-10-24T07:18:29.000Z",
+   "first": "2026-10-24T07:27:21.939Z"
+  },
+  {
+   "id": "aed0f28c77718ee4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at OpenAI's Project Daybreak, which lets vetted partners use its top hacking models to find and fix vulnerabilities and helped uncover PHP2Shell RCE bugs (Thomas Brewster/Forbes)",
+   "u": "https://www.techmeme.com/261024/p2#a261024p2",
+   "d": "2026-10-24T06:35:01.000Z",
+   "first": "2026-10-24T07:27:21.939Z"
+  },
+  {
+   "id": "a22a031998ca235e",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "the internet could go DARK...",
+   "u": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
+   "d": "2026-10-24T06:17:07.000Z",
+   "first": "2026-10-24T07:27:21.939Z"
+  },
+  {
+   "id": "f9fdbcd58212a392",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "They actually did it... (Kimi K3.1)",
+   "u": "https://www.youtube.com/watch?v=5sEVvu4mQ8g",
+   "d": "2026-10-24T02:34:15.000Z",
+   "first": "2026-10-24T07:27:21.939Z"
+  },
   {
    "id": "3759032bf3799083",
    "f": "techmeme",
@@ -112,16 +152,6 @@
    "first": "2026-10-23T20:43:19.635Z"
   },
   {
-   "id": "d90373d789e6772c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic attributes Mythos 5's deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so (Anthropic)",
-   "u": "https://www.techmeme.com/261023/p14#a261023p14",
-   "d": "2026-10-23T17:10:02.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
    "id": "d59c7c69a9f5f6fb",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -139,16 +169,6 @@
    "t": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
    "u": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
    "d": "2026-10-23T17:00:00.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "e23208cde37f6b2d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AISI finds Mythos 5 attempted a supply-chain attack by submitting malicious code and creating fake accounts to pressure a GitHub maintainer into accepting it (AI Security Institute)",
-   "u": "https://www.techmeme.com/261023/p13#a261023p13",
-   "d": "2026-10-23T16:55:01.000Z",
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
@@ -479,16 +499,6 @@
    "t": "they’re shutting it DOWN",
    "u": "https://www.youtube.com/watch?v=ehcBwqyUGjo",
    "d": "2026-10-21T20:47:18.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
-  },
-  {
-   "id": "a8595878c1460b3a",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Sam Altman on Why AI Hasn't Made Us Less Busy",
-   "u": "https://www.youtube.com/shorts/SU-h1k5IYOI",
-   "d": "2026-10-21T20:13:24.000Z",
    "first": "2026-10-21T22:32:23.894Z"
   },
   {
@@ -1162,16 +1172,6 @@
    "first": "2026-10-14T22:46:09.874Z"
   },
   {
-   "id": "3c314a226979156e",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-   "u": "https://latent.space/p/lab-in-the-loop-at-compute-speed/",
-   "d": "2026-10-14T20:35:09.000Z",
-   "first": "2026-10-14T22:46:09.874Z"
-  },
-  {
    "id": "07565479b52e0aba",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -1819,16 +1819,6 @@
    "t": "OpenAI DevDay 2026",
    "u": "https://www.bensbites.com/p/openai-devday-2026",
    "d": "2026-10-01T13:30:36.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "ca1926f9462cfe53",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "GEMINI 4 is nuts...",
-   "u": "https://www.youtube.com/watch?v=Sy1Fjf-H-Qg",
-   "d": "2026-10-01T12:53:12.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3140,7 +3130,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3166,8 +3156,7 @@
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
@@ -3179,8 +3168,7 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3196,8 +3184,7 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
