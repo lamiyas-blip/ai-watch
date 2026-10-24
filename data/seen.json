@@ -365,6 +365,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "b61abb8d592268ef",
+    "70324ac22398e348",
     "1df93a03823088b3",
     "aed0f28c77718ee4",
     "3759032bf3799083",
@@ -1058,6 +1060,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "45e15a505b88b80b",
     "99e494e7f75a4466",
     "dbedc8dd25a283aa",
     "8cb263f7c7fd064c",

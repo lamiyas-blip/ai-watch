@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-24T12:08:08.958Z",
+ "generated": "2026-10-24T16:06:58.253Z",
  "items": [
+  {
+   "id": "b61abb8d592268ef",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more (Steven Rosenbush/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261024/p6#a261024p6",
+   "d": "2026-10-24T15:40:01.000Z",
+   "first": "2026-10-24T16:06:58.253Z"
+  },
+  {
+   "id": "70324ac22398e348",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)",
+   "u": "https://www.techmeme.com/261024/p5#a261024p5",
+   "d": "2026-10-24T14:30:01.000Z",
+   "first": "2026-10-24T16:06:58.253Z"
+  },
   {
    "id": "1df93a03823088b3",
    "f": "techmeme",
@@ -40,6 +60,16 @@
    "u": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
    "d": "2026-10-24T06:17:07.000Z",
    "first": "2026-10-24T07:27:21.939Z"
+  },
+  {
+   "id": "45e15a505b88b80b",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "u": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "d": "2026-10-24T05:49:57.000Z",
+   "first": "2026-10-24T16:06:58.253Z"
   },
   {
    "id": "f9fdbcd58212a392",
@@ -1350,16 +1380,6 @@
    "u": "https://www.youtube.com/watch?v=S0JwWcLVzQA",
    "d": "2026-10-13T04:16:47.000Z",
    "first": "2026-10-13T08:36:55.972Z"
-  },
-  {
-   "id": "23b671ac0e07fb49",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI models can provably hide arbitrary capabilities",
-   "u": "https://arxiv.org/abs/2610.13928",
-   "d": "2026-10-13T02:07:08.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "e767168ef0e9bad0",
@@ -3095,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1417 > 1000"
+   "error": "Entity expansion limit exceeded: 1495 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3123,8 +3143,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3141,7 +3160,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1019 > 1000"
+   "error": "Entity expansion limit exceeded: 1071 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
