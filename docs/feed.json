@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-24T21:17:07.148Z",
+ "generated": "2026-10-24T23:26:39.429Z",
  "items": [
+  {
+   "id": "fc50cc99a249a797",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
+   "u": "https://www.techmeme.com/261024/p9#a261024p9",
+   "d": "2026-10-24T21:30:01.000Z",
+   "first": "2026-10-24T23:26:39.429Z"
+  },
+  {
+   "id": "6887372f664b9a3a",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "No signs of AI payoff outside the tech sector",
+   "u": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "d": "2026-10-24T19:47:19.000Z",
+   "first": "2026-10-24T23:26:39.429Z"
+  },
   {
    "id": "b6029393f28bfcfd",
    "f": "techmeme",
@@ -169,16 +189,6 @@
    "t": "These ChatGPT Prompts Are Game-Changers!",
    "u": "https://www.youtube.com/shorts/WSHEBdmahHY",
    "d": "2026-10-23T21:15:47.000Z",
-   "first": "2026-10-23T23:36:45.227Z"
-  },
-  {
-   "id": "7eae9d16210c1c5e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)",
-   "u": "https://www.techmeme.com/261023/p22#a261023p22",
-   "d": "2026-10-23T21:15:02.000Z",
    "first": "2026-10-23T23:36:45.227Z"
   },
   {
@@ -1370,16 +1380,6 @@
    "u": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "d": "2026-10-13T08:56:12.000Z",
    "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "1c3e529bc67cf4ca",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-   "u": "https://blog.character.ai/an-update-on-character-ai/",
-   "d": "2026-10-13T07:28:34.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "1625db3c510720cf",
@@ -3153,8 +3153,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
