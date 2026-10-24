@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-24T16:06:58.253Z",
+ "generated": "2026-10-24T18:52:32.742Z",
  "items": [
+  {
+   "id": "2413dcaf44199fc5",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Open-Source AI Models Caught Up! (Kimi K3.1 Pro)",
+   "u": "https://www.youtube.com/shorts/u3WV4nf8Jdo",
+   "d": "2026-10-24T18:44:59.000Z",
+   "first": "2026-10-24T18:52:32.742Z"
+  },
+  {
+   "id": "ab4db821a7239a73",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math (Dana Goldstein/New York Times)",
+   "u": "https://www.techmeme.com/261024/p7#a261024p7",
+   "d": "2026-10-24T17:25:04.000Z",
+   "first": "2026-10-24T18:52:32.742Z"
+  },
   {
    "id": "b61abb8d592268ef",
    "f": "techmeme",
@@ -60,16 +80,6 @@
    "u": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
    "d": "2026-10-24T06:17:07.000Z",
    "first": "2026-10-24T07:27:21.939Z"
-  },
-  {
-   "id": "45e15a505b88b80b",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-   "u": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-   "d": "2026-10-24T05:49:57.000Z",
-   "first": "2026-10-24T16:06:58.253Z"
   },
   {
    "id": "f9fdbcd58212a392",
@@ -150,16 +160,6 @@
    "u": "https://www.techmeme.com/261023/p22#a261023p22",
    "d": "2026-10-23T21:15:02.000Z",
    "first": "2026-10-23T23:36:45.227Z"
-  },
-  {
-   "id": "68c424812a54aa9a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)",
-   "u": "https://www.techmeme.com/261023/p20#a261023p20",
-   "d": "2026-10-23T20:20:00.000Z",
-   "first": "2026-10-23T20:43:19.635Z"
   },
   {
    "id": "ee226666af0238d8",
@@ -772,6 +772,16 @@
    "first": "2026-10-20T21:58:15.418Z"
   },
   {
+   "id": "6123d9880f597cfa",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "A practical guide to AI image generation, from diffusion to agents",
+   "u": "https://danielball.com/notes/ai_image_generation.html",
+   "d": "2026-10-20T19:22:39.000Z",
+   "first": "2026-10-24T18:52:32.742Z"
+  },
+  {
    "id": "2273a448d96d0760",
    "f": "interconnects",
    "src": "Interconnects",
@@ -910,16 +920,6 @@
    "u": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach",
    "d": "2026-10-19T16:47:52.000Z",
    "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
-   "id": "93918f368d03d66e",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "3 New Claude Prompts You Need To Try",
-   "u": "https://www.youtube.com/shorts/aIrrq3CLSKM",
-   "d": "2026-10-19T12:43:39.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
   },
   {
    "id": "37f9d2330f2279c0",
@@ -3160,7 +3160,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1071 > 1000"
+   "error": "Entity expansion limit exceeded: 1011 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

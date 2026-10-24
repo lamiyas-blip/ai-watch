@@ -365,6 +365,7 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "ab4db821a7239a73",
     "b61abb8d592268ef",
     "70324ac22398e348",
     "1df93a03823088b3",
@@ -969,6 +970,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "2413dcaf44199fc5",
     "b5deca99c3913e07",
     "09b2c507be61d422",
     "c94afd51e445841a",
@@ -1060,10 +1062,10 @@
   "hacker-news": {
    "init": true,
    "ids": [
-    "45e15a505b88b80b",
     "99e494e7f75a4466",
     "dbedc8dd25a283aa",
     "8cb263f7c7fd064c",
+    "6123d9880f597cfa",
     "37f9d2330f2279c0",
     "ad502c6ad580d6a2",
     "e893d24dd7c8c167",
@@ -1075,6 +1077,7 @@
     "2abec9c1b9580e51",
     "c21309f75870621c",
     "1c3e529bc67cf4ca",
+    "45e15a505b88b80b",
     "23b671ac0e07fb49",
     "25b33e0bb86425dd",
     "28df2f19306591d1",
