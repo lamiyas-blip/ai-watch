@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-24T07:27:21.939Z",
+ "generated": "2026-10-24T12:08:08.958Z",
  "items": [
+  {
+   "id": "1df93a03823088b3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
+   "u": "https://www.techmeme.com/261024/p3#a261024p3",
+   "d": "2026-10-24T10:35:01.000Z",
+   "first": "2026-10-24T12:08:08.958Z"
+  },
   {
    "id": "9c3bfb309d13375b",
    "f": "latent-space",
@@ -26,7 +36,7 @@
    "f": "yt-wes-roth",
    "src": "Wes Roth",
    "cat": "YouTube",
-   "t": "the internet could go DARK...",
+   "t": "it's WORSE than we thought...",
    "u": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
    "d": "2026-10-24T06:17:07.000Z",
    "first": "2026-10-24T07:27:21.939Z"
@@ -3113,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3130,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1019 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
