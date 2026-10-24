@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-23T23:36:45.227Z",
+ "generated": "2026-10-24T02:12:32.715Z",
  "items": [
+  {
+   "id": "3759032bf3799083",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
+   "u": "https://www.techmeme.com/261023/p26#a261023p26",
+   "d": "2026-10-24T01:20:01.000Z",
+   "first": "2026-10-24T02:12:32.715Z"
+  },
+  {
+   "id": "a13d2f0e53d54926",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
+   "u": "https://www.techmeme.com/261023/p25#a261023p25",
+   "d": "2026-10-24T00:30:01.000Z",
+   "first": "2026-10-24T02:12:32.715Z"
+  },
+  {
+   "id": "b5deca99c3913e07",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Old Phones Are Becoming Robots?!?",
+   "u": "https://www.youtube.com/shorts/FiyUagHO37Y",
+   "d": "2026-10-24T00:23:07.000Z",
+   "first": "2026-10-24T02:12:32.715Z"
+  },
   {
    "id": "3a9e765f5a54c3bf",
    "f": "techmeme",
@@ -26,7 +56,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "3 ChatGPT Agent Prompts To Level Up Your Life",
+   "t": "These ChatGPT Prompts Are Game-Changers!",
    "u": "https://www.youtube.com/shorts/WSHEBdmahHY",
    "d": "2026-10-23T21:15:47.000Z",
    "first": "2026-10-23T23:36:45.227Z"
@@ -149,16 +179,6 @@
    "t": "The cyberpocalypse is here — sort of",
    "u": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
    "d": "2026-10-23T13:56:51.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "6081417b851b77ba",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges (Tim Fernholz/TechCrunch)",
-   "u": "https://www.techmeme.com/261023/p10#a261023p10",
-   "d": "2026-10-23T13:25:02.000Z",
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
@@ -960,16 +980,6 @@
    "u": "https://www.mercor.com/research/labor-index/benchmark-map/",
    "d": "2026-10-16T17:08:38.000Z",
    "first": "2026-10-16T23:43:56.253Z"
-  },
-  {
-   "id": "aeacdd84b4603f6a",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "AI News: 6 New Models & A Nano Banana Killer",
-   "u": "https://www.youtube.com/watch?v=KGcuuhqmPhI",
-   "d": "2026-10-16T16:20:28.000Z",
-   "first": "2026-10-16T18:15:41.908Z"
   },
   {
    "id": "2a965856ca7614cb",
@@ -3113,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3131,7 +3140,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1003 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3157,7 +3166,8 @@
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
@@ -3169,7 +3179,8 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3185,7 +3196,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
