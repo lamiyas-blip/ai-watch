@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-25T01:22:15.117Z",
+ "generated": "2026-10-25T06:21:07.170Z",
  "items": [
+  {
+   "id": "9c1d42f5d3a5f24e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Baba, which develops AI tools to help Medicare and Medicaid patients connect to care teams and handle advocacy tasks, raised a $40M Series A led by FirstMark (Cailey Gleeson/Fierce Healthcare)",
+   "u": "https://www.techmeme.com/261025/p5#a261025p5",
+   "d": "2026-10-25T05:40:00.000Z",
+   "first": "2026-10-25T06:21:07.170Z"
+  },
   {
    "id": "72d0b05e94d64aef",
    "f": "yt-matthew-berman",
@@ -10,6 +20,16 @@
    "u": "https://www.youtube.com/shorts/bBqP-w6DHFw",
    "d": "2026-10-24T23:22:44.000Z",
    "first": "2026-10-25T01:22:15.117Z"
+  },
+  {
+   "id": "3da68275d0ba872c",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+   "u": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "d": "2026-10-24T23:11:54.000Z",
+   "first": "2026-10-25T06:21:07.170Z"
   },
   {
    "id": "fc50cc99a249a797",
@@ -142,26 +162,6 @@
    "first": "2026-10-24T07:27:21.939Z"
   },
   {
-   "id": "3759032bf3799083",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
-   "u": "https://www.techmeme.com/261023/p26#a261023p26",
-   "d": "2026-10-24T01:20:01.000Z",
-   "first": "2026-10-24T02:12:32.715Z"
-  },
-  {
-   "id": "a13d2f0e53d54926",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
-   "u": "https://www.techmeme.com/261023/p25#a261023p25",
-   "d": "2026-10-24T00:30:01.000Z",
-   "first": "2026-10-24T02:12:32.715Z"
-  },
-  {
    "id": "b5deca99c3913e07",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -170,16 +170,6 @@
    "u": "https://www.youtube.com/shorts/FiyUagHO37Y",
    "d": "2026-10-24T00:23:07.000Z",
    "first": "2026-10-24T02:12:32.715Z"
-  },
-  {
-   "id": "3a9e765f5a54c3bf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
-   "u": "https://www.techmeme.com/261023/p24#a261023p24",
-   "d": "2026-10-23T23:10:05.000Z",
-   "first": "2026-10-23T23:36:45.227Z"
   },
   {
    "id": "33f14f456fb1026f",
@@ -1340,16 +1330,6 @@
    "u": "https://deepmind.google/blog/introducing-gemini-4-argon/",
    "d": "2026-10-13T16:01:52.000Z",
    "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "c21309f75870621c",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "I posted to HN, and then my website was flooded with AI bot traffic",
-   "u": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-   "d": "2026-10-13T15:25:50.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "2e00db65cefd8432",
@@ -3170,12 +3150,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1021 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3184,47 +3164,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
