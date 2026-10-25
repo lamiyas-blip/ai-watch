@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-25T21:03:47.433Z",
+ "generated": "2026-10-25T23:22:47.784Z",
  "items": [
+  {
+   "id": "94f0cd9a46db2502",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Kimi K3.1 Passes the Rubik's Cube Test",
+   "u": "https://www.youtube.com/shorts/L18lkQs4PeM",
+   "d": "2026-10-25T22:29:29.000Z",
+   "first": "2026-10-25T23:22:47.784Z"
+  },
+  {
+   "id": "1244fe3437474d3e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
+   "u": "https://www.techmeme.com/261025/p11#a261025p11",
+   "d": "2026-10-25T21:35:01.000Z",
+   "first": "2026-10-25T23:22:47.784Z"
+  },
   {
    "id": "9d7e936e6f6d6e92",
    "f": "lesswrong",
@@ -150,16 +170,6 @@
    "u": "https://www.techmeme.com/261024/p7#a261024p7",
    "d": "2026-10-24T17:25:04.000Z",
    "first": "2026-10-24T18:52:32.742Z"
-  },
-  {
-   "id": "b61abb8d592268ef",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more (Steven Rosenbush/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261024/p6#a261024p6",
-   "d": "2026-10-24T15:40:01.000Z",
-   "first": "2026-10-24T16:06:58.253Z"
   },
   {
    "id": "9c3bfb309d13375b",
@@ -550,16 +560,6 @@
    "u": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
    "d": "2026-10-22T00:00:00.000Z",
    "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
-   "id": "65d6ef344954554f",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Sam Altman on What Personal AI Still Needs",
-   "u": "https://www.youtube.com/shorts/tc92psltcEg",
-   "d": "2026-10-21T23:13:23.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
   },
   {
    "id": "214bc15c062a969d",
@@ -3131,7 +3131,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1049 > 1000"
+   "error": "Entity expansion limit exceeded: 1013 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3153,7 +3153,8 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3161,7 +3162,8 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3169,7 +3171,8 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
