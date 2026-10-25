@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-24T23:26:39.429Z",
+ "generated": "2026-10-25T01:22:15.117Z",
  "items": [
+  {
+   "id": "72d0b05e94d64aef",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Kimi K3.1 Invented the Benchmark Scores",
+   "u": "https://www.youtube.com/shorts/bBqP-w6DHFw",
+   "d": "2026-10-24T23:22:44.000Z",
+   "first": "2026-10-25T01:22:15.117Z"
+  },
   {
    "id": "fc50cc99a249a797",
    "f": "techmeme",
@@ -539,16 +549,6 @@
    "t": "Sam Altman on Why AI Needs a New Kind of Hardware",
    "u": "https://www.youtube.com/shorts/u6Tf62_5CP0",
    "d": "2026-10-21T21:38:30.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
-  },
-  {
-   "id": "0bb935a70bf35b00",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Sam Altman on Why Demand for Coders Hasn't Disappeared",
-   "u": "https://www.youtube.com/shorts/1g9Tqvyt4kU",
-   "d": "2026-10-21T21:09:46.000Z",
    "first": "2026-10-21T22:32:23.894Z"
   },
   {
@@ -3170,12 +3170,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1071 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
