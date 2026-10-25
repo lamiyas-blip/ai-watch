@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-25T15:08:29.703Z",
+ "generated": "2026-10-25T21:03:47.433Z",
  "items": [
+  {
+   "id": "9d7e936e6f6d6e92",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "I Did This Without Your Knowledge",
+   "u": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+   "d": "2026-10-25T20:51:57.000Z",
+   "first": "2026-10-25T21:03:47.433Z"
+  },
   {
    "id": "949055c4c191f4d4",
    "f": "yt-3b1b",
@@ -149,16 +159,6 @@
    "t": "An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena's optical networking chips, and more (Steven Rosenbush/Wall Street Journal)",
    "u": "https://www.techmeme.com/261024/p6#a261024p6",
    "d": "2026-10-24T15:40:01.000Z",
-   "first": "2026-10-24T16:06:58.253Z"
-  },
-  {
-   "id": "70324ac22398e348",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)",
-   "u": "https://www.techmeme.com/261024/p5#a261024p5",
-   "d": "2026-10-24T14:30:01.000Z",
    "first": "2026-10-24T16:06:58.253Z"
   },
   {
@@ -2322,16 +2322,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "156a4bea7d237091",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "Explaining Knightianism on one foot",
-   "u": "https://www.lesswrong.com/posts/pYFBD2SnqiWkuNns5/explaining-knightianism-on-one-foot",
-   "d": "2026-09-11T06:41:18.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "a52bf334f7ca9d51",
    "f": "interconnects",
    "src": "Interconnects",
@@ -3141,7 +3131,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1001 > 1000"
+   "error": "Entity expansion limit exceeded: 1049 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
