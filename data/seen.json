@@ -53,6 +53,7 @@
   "interconnects": {
    "init": true,
    "ids": [
+    "96755bbf3ce04b96",
     "2273a448d96d0760",
     "62145b1bf93c285a",
     "493d90e5f5216717",
@@ -930,6 +931,7 @@
   "yt-3b1b": {
    "init": true,
    "ids": [
+    "949055c4c191f4d4",
     "2a965856ca7614cb",
     "43225a490f5b5ab9",
     "9605a10e2b0f2cb8",

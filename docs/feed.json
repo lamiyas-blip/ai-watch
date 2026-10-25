@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-25T11:50:14.950Z",
+ "generated": "2026-10-25T15:08:29.703Z",
  "items": [
+  {
+   "id": "949055c4c191f4d4",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "Sphere Intersection Puzzle Corrected",
+   "u": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+   "d": "2026-10-25T14:30:46.000Z",
+   "first": "2026-10-25T15:08:29.703Z"
+  },
+  {
+   "id": "96755bbf3ce04b96",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+   "u": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+   "d": "2026-10-25T11:49:00.000Z",
+   "first": "2026-10-25T15:08:29.703Z"
+  },
   {
    "id": "f1cfdda32cd2c3ef",
    "f": "techmeme",
@@ -140,16 +160,6 @@
    "u": "https://www.techmeme.com/261024/p5#a261024p5",
    "d": "2026-10-24T14:30:01.000Z",
    "first": "2026-10-24T16:06:58.253Z"
-  },
-  {
-   "id": "1df93a03823088b3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
-   "u": "https://www.techmeme.com/261024/p3#a261024p3",
-   "d": "2026-10-24T10:35:01.000Z",
-   "first": "2026-10-24T12:08:08.958Z"
   },
   {
    "id": "9c3bfb309d13375b",
@@ -2472,16 +2482,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "f1e8efbfc38fe0de",
-   "f": "interconnects",
-   "src": "Interconnects",
-   "cat": "Newsletter",
-   "t": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
-   "u": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
-   "d": "2026-08-10T13:02:42.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "c1822be39d92331a",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -2669,16 +2669,6 @@
    "t": "A forecast of Chinese DUV and EUV photolithography progress",
    "u": "https://blog.aifutures.org/p/a-forecast-of-chinese-duv-and-euv",
    "d": "2026-06-19T15:32:43.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "3c0f06e5accd3b12",
-   "f": "yt-3b1b",
-   "src": "3Blue1Brown",
-   "cat": "YouTube",
-   "t": "100 random chords, how many intersections?",
-   "u": "https://www.youtube.com/shorts/wGffBCfrAsE",
-   "d": "2026-06-16T18:04:05.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3133,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3150,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "Entity expansion limit exceeded: 1001 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
