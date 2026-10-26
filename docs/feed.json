@@ -1,6 +1,126 @@
 {
- "generated": "2026-10-26T06:30:21.959Z",
+ "generated": "2026-10-26T13:39:53.734Z",
  "items": [
+  {
+   "id": "7018d8a2b265d3fb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic S-1: of its $80.7B net loss in H1 2026, nearly $9B came from computing power and infrastructure, and it has nearly $800B in commitments over 10 years (Financial Times)",
+   "u": "https://www.techmeme.com/261026/p23#a261026p23",
+   "d": "2026-10-26T13:30:05.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "9d4a48bf1969ecab",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic S-1: an $80.7B net loss on revenue of $16.3B in H1 2026, up from a $13B net loss on revenue of $1.2B in H1 2025, and a net revenue retention of 900% (Bailey Lipschultz/Bloomberg)",
+   "u": "https://www.techmeme.com/261026/p22#a261026p22",
+   "d": "2026-10-26T13:30:05.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "860e3ca87ef82743",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's co-founders say they \"believe that AI is one of the most consequential technologies in human history\", detail its scientific potential, and more (SEC.gov)",
+   "u": "https://www.techmeme.com/261026/p21#a261026p21",
+   "d": "2026-10-26T13:18:35.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "b43914821a97d1f2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined (Anthropic)",
+   "u": "https://www.techmeme.com/261026/p20#a261026p20",
+   "d": "2026-10-26T13:11:40.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "52459ac10f225311",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)",
+   "u": "https://www.techmeme.com/261026/p18#a261026p18",
+   "d": "2026-10-26T12:15:01.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "6464b74e746388d8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Cathedral, a months-old cybersecurity startup founded by ex-DOGE staffers, says it breached Anthropic's internal systems in under 12 hours using AI agents (Washington Post)",
+   "u": "https://www.techmeme.com/261026/p16#a261026p16",
+   "d": "2026-10-26T11:35:03.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "0892da8da5ca1ea9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)",
+   "u": "https://www.techmeme.com/261026/p15#a261026p15",
+   "d": "2026-10-26T11:25:13.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "736b5dc655e1ef0c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The public internet model is dying from too much content, algorithmic aggregators, and vulnerabilities found with AI, and that may bring new possibilities (Ben Thompson/Stratechery)",
+   "u": "https://www.techmeme.com/261026/p14#a261026p14",
+   "d": "2026-10-26T11:20:01.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "c11f02582653b424",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Ray-Ban Meta Audio glasses review: no camera is a bonus for some, good audio quality, and Meta AI works well, but lingering privacy concerns and fairly pricey (Samantha Kelly/Bloomberg)",
+   "u": "https://www.techmeme.com/261026/p13#a261026p13",
+   "d": "2026-10-26T11:10:16.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "a4080589631c599f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Modern AI panic reflects \"cognitive mercantilism\", a zero-sum worldview where intelligence is a scarce, dangerous supply-side resource that elites must manage (Venkatesh Rao/Contraptions)",
+   "u": "https://www.techmeme.com/261026/p12#a261026p12",
+   "d": "2026-10-26T10:55:18.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "fbb1488b6f6d8cd8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at OpenAI's and Anthropic's aggressive price cuts from June through September, driven by low switching costs and pricing pressure from open-weight models (Max Woolf's Blog)",
+   "u": "https://www.techmeme.com/261026/p10#a261026p10",
+   "d": "2026-10-26T10:15:02.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "0da9ddf33125a284",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "The focus on AI safety disasters ignores everyday harms",
+   "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+   "d": "2026-10-26T09:01:00.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
+  },
   {
    "id": "12e53e5906da9ebc",
    "f": "yt-matt-wolfe",
@@ -12,34 +132,14 @@
    "first": "2026-10-26T06:30:21.959Z"
   },
   {
-   "id": "fb8663f2506b5840",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
-   "u": "https://www.techmeme.com/261026/p2#a261026p2",
-   "d": "2026-10-26T05:05:00.000Z",
-   "first": "2026-10-26T06:30:21.959Z"
-  },
-  {
-   "id": "ac44bb943a2803d7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era (Bloomberg)",
-   "u": "https://www.techmeme.com/261025/p15#a261025p15",
-   "d": "2026-10-26T02:50:02.000Z",
-   "first": "2026-10-26T06:30:21.959Z"
-  },
-  {
-   "id": "12e6c3aca2261fbc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)",
-   "u": "https://www.techmeme.com/261025/p12#a261025p12",
-   "d": "2026-10-25T23:35:01.000Z",
-   "first": "2026-10-26T01:23:47.543Z"
+   "id": "57f59158d2e339f1",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
+   "u": "https://tldr.tech/ai/2026-10-26",
+   "d": "2026-10-26T00:00:00.000Z",
+   "first": "2026-10-26T13:39:53.734Z"
   },
   {
    "id": "94f0cd9a46db2502",
@@ -49,16 +149,6 @@
    "t": "Kimi K3.1 Passes the Rubik's Cube Test",
    "u": "https://www.youtube.com/shorts/L18lkQs4PeM",
    "d": "2026-10-25T22:29:29.000Z",
-   "first": "2026-10-25T23:22:47.784Z"
-  },
-  {
-   "id": "1244fe3437474d3e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
-   "u": "https://www.techmeme.com/261025/p11#a261025p11",
-   "d": "2026-10-25T21:35:01.000Z",
    "first": "2026-10-25T23:22:47.784Z"
   },
   {
@@ -102,16 +192,6 @@
    "first": "2026-10-25T15:08:29.703Z"
   },
   {
-   "id": "f1cfdda32cd2c3ef",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)",
-   "u": "https://www.techmeme.com/261025/p7#a261025p7",
-   "d": "2026-10-25T11:00:54.000Z",
-   "first": "2026-10-25T11:50:14.950Z"
-  },
-  {
    "id": "bbc811c611c37a41",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -120,16 +200,6 @@
    "u": "https://www.youtube.com/shorts/eQTOJZ6_NVU",
    "d": "2026-10-25T05:59:23.000Z",
    "first": "2026-10-25T11:50:14.950Z"
-  },
-  {
-   "id": "9c1d42f5d3a5f24e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Baba, which develops AI tools to help Medicare and Medicaid patients connect to care teams and handle advocacy tasks, raised a $40M Series A led by FirstMark (Cailey Gleeson/Fierce Healthcare)",
-   "u": "https://www.techmeme.com/261025/p5#a261025p5",
-   "d": "2026-10-25T05:40:00.000Z",
-   "first": "2026-10-25T06:21:07.170Z"
   },
   {
    "id": "70a18674f9b6a46f",
@@ -992,16 +1062,6 @@
    "first": "2026-10-20T03:46:55.447Z"
   },
   {
-   "id": "9170e54af628a67a",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-   "u": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-   "d": "2026-10-19T09:08:05.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
    "id": "d8b331098725868c",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1730,16 +1790,6 @@
    "u": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
    "d": "2026-10-05T02:56:58.000Z",
    "first": "2026-10-05T09:16:28.496Z"
-  },
-  {
-   "id": "6ac73f8d413699fc",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Prime Inference 📈, agent population 📈, Claude academy 🎓",
-   "u": "https://tldr.tech/ai/2026-10-05",
-   "d": "2026-10-05T00:00:00.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
   },
   {
    "id": "9cf7ba359d01b775",
@@ -3113,8 +3163,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3131,7 +3180,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1013 > 1000"
+   "error": "Entity expansion limit exceeded: 1039 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3145,43 +3194,35 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3189,13 +3230,11 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
