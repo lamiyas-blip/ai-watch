@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-26T01:23:47.543Z",
+ "generated": "2026-10-26T06:30:21.959Z",
  "items": [
+  {
+   "id": "12e53e5906da9ebc",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "The Robot Butler Will Clean Up After You",
+   "u": "https://www.youtube.com/shorts/B8YFkYY20OY",
+   "d": "2026-10-26T05:18:59.000Z",
+   "first": "2026-10-26T06:30:21.959Z"
+  },
+  {
+   "id": "fb8663f2506b5840",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)",
+   "u": "https://www.techmeme.com/261026/p2#a261026p2",
+   "d": "2026-10-26T05:05:00.000Z",
+   "first": "2026-10-26T06:30:21.959Z"
+  },
+  {
+   "id": "ac44bb943a2803d7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era (Bloomberg)",
+   "u": "https://www.techmeme.com/261025/p15#a261025p15",
+   "d": "2026-10-26T02:50:02.000Z",
+   "first": "2026-10-26T06:30:21.959Z"
+  },
   {
    "id": "12e6c3aca2261fbc",
    "f": "techmeme",
@@ -130,16 +160,6 @@
    "u": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
    "d": "2026-10-24T23:11:54.000Z",
    "first": "2026-10-25T06:21:07.170Z"
-  },
-  {
-   "id": "fc50cc99a249a797",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
-   "u": "https://www.techmeme.com/261024/p9#a261024p9",
-   "d": "2026-10-24T21:30:01.000Z",
-   "first": "2026-10-24T23:26:39.429Z"
   },
   {
    "id": "6887372f664b9a3a",
@@ -899,16 +919,6 @@
    "t": "[AINews] not much happened today",
    "u": "https://latent.space/p/ainews-not-much-happened-today-f09/",
    "d": "2026-10-20T05:21:52.000Z",
-   "first": "2026-10-20T08:57:12.649Z"
-  },
-  {
-   "id": "3cd8a222de63fe62",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "My favorite new image editing tool",
-   "u": "https://www.youtube.com/shorts/VVBszkWK0Io",
-   "d": "2026-10-20T04:19:39.000Z",
    "first": "2026-10-20T08:57:12.649Z"
   },
   {
@@ -3075,7 +3085,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1495 > 1000"
+   "error": "Entity expansion limit exceeded: 1527 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3103,7 +3113,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "fetch failed"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3140,15 +3151,17 @@
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
@@ -3157,7 +3170,8 @@
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3175,7 +3189,8 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
