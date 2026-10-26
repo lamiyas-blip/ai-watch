@@ -1,12 +1,52 @@
 {
- "generated": "2026-10-26T19:37:12.165Z",
+ "generated": "2026-10-26T23:25:09.019Z",
  "items": [
+  {
+   "id": "56421988aa97d193",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "u": "https://openai.com/index/greptile-code-review-codex-astra",
+   "d": "2026-10-26T22:00:00.000Z",
+   "first": "2026-10-26T23:25:09.019Z"
+  },
+  {
+   "id": "c3c807831d6e8900",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)",
+   "u": "https://www.techmeme.com/261026/p48#a261026p48",
+   "d": "2026-10-26T21:55:02.000Z",
+   "first": "2026-10-26T23:25:09.019Z"
+  },
+  {
+   "id": "0d9f3693563f1977",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle (Lynn Doan/Bloomberg)",
+   "u": "https://www.techmeme.com/261026/p47#a261026p47",
+   "d": "2026-10-26T21:35:01.000Z",
+   "first": "2026-10-26T23:25:09.019Z"
+  },
+  {
+   "id": "ee4255bf5396be19",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders (Anna Tong/Forbes)",
+   "u": "https://www.techmeme.com/261026/p45#a261026p45",
+   "d": "2026-10-26T20:25:00.000Z",
+   "first": "2026-10-26T23:25:09.019Z"
+  },
   {
    "id": "3f7893dafb1dbb4e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Apple releases iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five new languages, more (Juli Clover/MacRumors)",
+   "t": "Apple debuts iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five more languages, and more (Juli Clover/MacRumors)",
    "u": "https://www.techmeme.com/261026/p42#a261026p42",
    "d": "2026-10-26T19:30:01.000Z",
    "first": "2026-10-26T19:37:12.165Z"
@@ -16,7 +56,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic's S-1 shows a governance structure that suits a \"fun quirky little mission-driven worker cooperative\" seeking to raise billions as a public company (Matt Levine/Bloomberg)",
+   "t": "Anthropic's S-1 shows a governance structure that suits a fun quirky little mission-driven worker cooperative that needs to raise billions as a public company (Matt Levine/Bloomberg)",
    "u": "https://www.techmeme.com/261026/p41#a261026p41",
    "d": "2026-10-26T19:25:01.000Z",
    "first": "2026-10-26T19:37:12.165Z"
@@ -72,34 +112,24 @@
    "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "8f0f21967c144c23",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "9b61ff0cce02efe4",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Few VC firms are mentioned in Anthropic's S-1, except Spark, which invested ~$800M across six rounds and whose GP Yasmin Razavi is the sole VC on its board (Kate Clark/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261026/p34#a261026p34",
-   "d": "2026-10-26T16:25:02.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
+   "t": "Concerning behavior from a popular open-weight AI model",
+   "u": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "d": "2026-10-26T16:35:44.000Z",
+   "first": "2026-10-26T23:25:09.019Z"
   },
   {
-   "id": "d5b5c1cceca27baa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation (Camila Grigera Naón/Fortune)",
-   "u": "https://www.techmeme.com/261026/p33#a261026p33",
-   "d": "2026-10-26T15:55:00.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
-   "id": "6dda1ee5edbda6f9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "S-1: Anthropic warns prospective investors that its AI safety and advocacy stances risk disproportionate and selective targeting from the Trump administration (Maria Curi/Axios)",
-   "u": "https://www.techmeme.com/261026/p29#a261026p29",
-   "d": "2026-10-26T14:45:02.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
+   "id": "96441a76e11cbfb6",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Working with academic communities to build scientific understanding",
+   "u": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "d": "2026-10-26T14:30:00.000Z",
+   "first": "2026-10-26T23:25:09.019Z"
   },
   {
    "id": "9edc48c964997800",
@@ -110,6 +140,16 @@
    "u": "https://www.youtube.com/watch?v=IRJDwtAreB4",
    "d": "2026-10-26T14:23:14.000Z",
    "first": "2026-10-26T19:37:12.165Z"
+  },
+  {
+   "id": "f54c4cbbe839d23b",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "u": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "d": "2026-10-26T13:45:00.000Z",
+   "first": "2026-10-26T23:25:09.019Z"
   },
   {
    "id": "eef76e6950623cae",
@@ -812,16 +852,6 @@
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
-   "id": "945a80b49b95feca",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-   "u": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-   "d": "2026-10-21T13:00:00.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
    "id": "a0bf7a7e5baa0ea2",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -829,26 +859,6 @@
    "t": "5 Prompts With Google's ULTRA Powerful New Model",
    "u": "https://www.youtube.com/shorts/S2srfNCa50A",
    "d": "2026-10-21T12:53:28.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "05ce9879de1fbd7d",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI models are coming to Google Cloud",
-   "u": "https://openai.com/index/openai-models-google-cloud",
-   "d": "2026-10-21T12:00:00.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "ed8de251940ec848",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "u": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "d": "2026-10-21T07:00:00.000Z",
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
@@ -1220,16 +1230,6 @@
    "u": "https://www.transformernews.ai/p/openai-spy-exposes-wider-security-problem",
    "d": "2026-10-15T15:01:20.000Z",
    "first": "2026-10-15T15:27:27.208Z"
-  },
-  {
-   "id": "3c39514743032395",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-   "u": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-   "d": "2026-10-15T14:58:48.000Z",
-   "first": "2026-10-15T22:30:57.761Z"
   },
   {
    "id": "03dc4200d7e27134",
@@ -3150,7 +3150,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1051 > 1000"
+   "error": "Entity expansion limit exceeded: 1255 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3164,39 +3164,48 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
@@ -3204,7 +3213,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
