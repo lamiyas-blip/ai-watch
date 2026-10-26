@@ -238,6 +238,10 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "eef76e6950623cae",
+    "822bb7f050972ee4",
+    "8e3465a930908ada",
+    "e1504bf39cfe9843",
     "c2d09de97428132f",
     "3a434fef28c21f63",
     "3acbad74f2a06fc2",
@@ -331,6 +335,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "d37d60eea82fab52",
     "3cbda20863b82ce9",
     "3e8dddbf5046eaf5",
     "b5ed299d1f3ceca0",
@@ -367,6 +372,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "3f7893dafb1dbb4e",
+    "e4c9d29da4bee40d",
+    "18eed26f70ab58dc",
+    "ad6c43fcfc7a7584",
+    "f2cd05fc21edce80",
+    "8f0f21967c144c23",
+    "d5b5c1cceca27baa",
+    "6dda1ee5edbda6f9",
     "7018d8a2b265d3fb",
     "9d4a48bf1969ecab",
     "860e3ca87ef82743",
@@ -786,6 +799,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "77ec9a11536dd600",
     "0da9ddf33125a284",
     "a434cb84c509fd33",
     "89e982d8a0d83128",
@@ -872,6 +886,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "f758eac6f34769d0",
     "16abd7c77ab03a46",
     "33f14f456fb1026f",
     "52e17f61abcf6cc5",
@@ -906,6 +921,7 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "9edc48c964997800",
     "089abce35ee3b621",
     "9db1fcc86cac9f51",
     "87ff2c156e976a29",

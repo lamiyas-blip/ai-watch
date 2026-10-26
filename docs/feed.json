@@ -1,115 +1,125 @@
 {
- "generated": "2026-10-26T13:39:53.734Z",
+ "generated": "2026-10-26T19:37:12.165Z",
  "items": [
   {
-   "id": "7018d8a2b265d3fb",
+   "id": "3f7893dafb1dbb4e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic S-1: of its $80.7B net loss in H1 2026, nearly $9B came from computing power and infrastructure, and it has nearly $800B in commitments over 10 years (Financial Times)",
-   "u": "https://www.techmeme.com/261026/p23#a261026p23",
-   "d": "2026-10-26T13:30:05.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "Apple releases iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five new languages, more (Juli Clover/MacRumors)",
+   "u": "https://www.techmeme.com/261026/p42#a261026p42",
+   "d": "2026-10-26T19:30:01.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "9d4a48bf1969ecab",
+   "id": "e4c9d29da4bee40d",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic S-1: an $80.7B net loss on revenue of $16.3B in H1 2026, up from a $13B net loss on revenue of $1.2B in H1 2025, and a net revenue retention of 900% (Bailey Lipschultz/Bloomberg)",
-   "u": "https://www.techmeme.com/261026/p22#a261026p22",
-   "d": "2026-10-26T13:30:05.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "Anthropic's S-1 shows a governance structure that suits a \"fun quirky little mission-driven worker cooperative\" seeking to raise billions as a public company (Matt Levine/Bloomberg)",
+   "u": "https://www.techmeme.com/261026/p41#a261026p41",
+   "d": "2026-10-26T19:25:01.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "860e3ca87ef82743",
+   "id": "18eed26f70ab58dc",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic's co-founders say they \"believe that AI is one of the most consequential technologies in human history\", detail its scientific potential, and more (SEC.gov)",
-   "u": "https://www.techmeme.com/261026/p21#a261026p21",
-   "d": "2026-10-26T13:18:35.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "OpenAI releases GPT-6.1 Terra, touting \"fast and capable computer use at scale\" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens (OpenAI)",
+   "u": "https://www.techmeme.com/261026/p40#a261026p40",
+   "d": "2026-10-26T18:20:02.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "b43914821a97d1f2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "77ec9a11536dd600",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined (Anthropic)",
-   "u": "https://www.techmeme.com/261026/p20#a261026p20",
-   "d": "2026-10-26T13:11:40.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "Will the real Anthropic please stand up",
+   "u": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+   "d": "2026-10-26T17:45:43.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "52459ac10f225311",
+   "id": "ad6c43fcfc7a7584",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)",
-   "u": "https://www.techmeme.com/261026/p18#a261026p18",
-   "d": "2026-10-26T12:15:01.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "Anthropic S-1: it spent just $482M on capex in H1 2026, leasing most of its compute, and its capex is almost entirely outsourced via $782B in lease obligations (Tim Culpan/Culpium)",
+   "u": "https://www.techmeme.com/261026/p39#a261026p39",
+   "d": "2026-10-26T17:45:01.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "6464b74e746388d8",
+   "id": "f2cd05fc21edce80",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Cathedral, a months-old cybersecurity startup founded by ex-DOGE staffers, says it breached Anthropic's internal systems in under 12 hours using AI agents (Washington Post)",
-   "u": "https://www.techmeme.com/261026/p16#a261026p16",
-   "d": "2026-10-26T11:35:03.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+ (Rebecca Bellan/TechCrunch)",
+   "u": "https://www.techmeme.com/261026/p36#a261026p36",
+   "d": "2026-10-26T17:00:50.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "0892da8da5ca1ea9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom (Tim Bradshaw/Financial Times)",
-   "u": "https://www.techmeme.com/261026/p15#a261026p15",
-   "d": "2026-10-26T11:25:13.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "id": "f758eac6f34769d0",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why the US Kept Hirohito Alive - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/PUwdxqzEBY4",
+   "d": "2026-10-26T16:45:36.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "736b5dc655e1ef0c",
+   "id": "8f0f21967c144c23",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "The public internet model is dying from too much content, algorithmic aggregators, and vulnerabilities found with AI, and that may bring new possibilities (Ben Thompson/Stratechery)",
-   "u": "https://www.techmeme.com/261026/p14#a261026p14",
-   "d": "2026-10-26T11:20:01.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "Few VC firms are mentioned in Anthropic's S-1, except Spark, which invested ~$800M across six rounds and whose GP Yasmin Razavi is the sole VC on its board (Kate Clark/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261026/p34#a261026p34",
+   "d": "2026-10-26T16:25:02.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "c11f02582653b424",
+   "id": "d5b5c1cceca27baa",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Ray-Ban Meta Audio glasses review: no camera is a bonus for some, good audio quality, and Meta AI works well, but lingering privacy concerns and fairly pricey (Samantha Kelly/Bloomberg)",
-   "u": "https://www.techmeme.com/261026/p13#a261026p13",
-   "d": "2026-10-26T11:10:16.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "Nevis, which uses AI to automate paperwork for financial advisors, raised a $70M Series B led by EQT Ventures, a source says at a $500M valuation (Camila Grigera Naón/Fortune)",
+   "u": "https://www.techmeme.com/261026/p33#a261026p33",
+   "d": "2026-10-26T15:55:00.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "a4080589631c599f",
+   "id": "6dda1ee5edbda6f9",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Modern AI panic reflects \"cognitive mercantilism\", a zero-sum worldview where intelligence is a scarce, dangerous supply-side resource that elites must manage (Venkatesh Rao/Contraptions)",
-   "u": "https://www.techmeme.com/261026/p12#a261026p12",
-   "d": "2026-10-26T10:55:18.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "t": "S-1: Anthropic warns prospective investors that its AI safety and advocacy stances risk disproportionate and selective targeting from the Trump administration (Maria Curi/Axios)",
+   "u": "https://www.techmeme.com/261026/p29#a261026p29",
+   "d": "2026-10-26T14:45:02.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "fbb1488b6f6d8cd8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at OpenAI's and Anthropic's aggressive price cuts from June through September, driven by low switching costs and pricing pressure from open-weight models (Max Woolf's Blog)",
-   "u": "https://www.techmeme.com/261026/p10#a261026p10",
-   "d": "2026-10-26T10:15:02.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
+   "id": "9edc48c964997800",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Mathematics Just Changed Forever — Kevin Hartnett",
+   "u": "https://www.youtube.com/watch?v=IRJDwtAreB4",
+   "d": "2026-10-26T14:23:14.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
+  },
+  {
+   "id": "eef76e6950623cae",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "ChatGPT’s expanding world of work",
+   "u": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "d": "2026-10-26T10:00:00.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
    "id": "0da9ddf33125a284",
@@ -120,6 +130,26 @@
    "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
    "d": "2026-10-26T09:01:00.000Z",
    "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "822bb7f050972ee4",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Fanatics and OpenAI streamline the fan experience",
+   "u": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "d": "2026-10-26T07:00:00.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
+  },
+  {
+   "id": "8e3465a930908ada",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "u": "https://openai.com/index/openai-cut-incident-investigation",
+   "d": "2026-10-26T07:00:00.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
    "id": "12e53e5906da9ebc",
@@ -140,6 +170,26 @@
    "u": "https://tldr.tech/ai/2026-10-26",
    "d": "2026-10-26T00:00:00.000Z",
    "first": "2026-10-26T13:39:53.734Z"
+  },
+  {
+   "id": "e1504bf39cfe9843",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing GPT-6.1 Terra",
+   "u": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "d": "2026-10-26T00:00:00.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
+  },
+  {
+   "id": "d37d60eea82fab52",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Anthropic files S-1 with the SEC for proposed initial public offering",
+   "u": "https://www.anthropic.com/news/s1-sec",
+   "d": "2026-10-26T00:00:00.000Z",
+   "first": "2026-10-26T19:37:12.165Z"
   },
   {
    "id": "94f0cd9a46db2502",
@@ -802,16 +852,6 @@
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
-   "id": "110d93a87367db78",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-   "u": "https://openai.com/index/building-chatgpt-ad-stack",
-   "d": "2026-10-21T07:00:00.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
    "id": "7af02910cd018293",
    "f": "latent-space",
    "src": "Latent Space",
@@ -832,16 +872,6 @@
    "first": "2026-10-21T05:03:41.409Z"
   },
   {
-   "id": "403cc5b817bcd483",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Using thousands of AI agents to uncover new leads in biological data",
-   "u": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-   "d": "2026-10-21T04:50:00.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
    "id": "69f691302f7266b6",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -850,26 +880,6 @@
    "u": "https://tldr.tech/ai/2026-10-21",
    "d": "2026-10-21T00:00:00.000Z",
    "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "2d84838fd34c3b74",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "u": "https://openai.com/index/cloudflare-cyber",
-   "d": "2026-10-21T00:00:00.000Z",
-   "first": "2026-10-22T01:02:51.111Z"
-  },
-  {
-   "id": "da86affbbca0ab32",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-   "u": "https://openai.com/index/empowering-cyber-defenders",
-   "d": "2026-10-21T00:00:00.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
   },
   {
    "id": "b5ed299d1f3ceca0",
@@ -1002,16 +1012,6 @@
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
-   "id": "d33bf6afddc5df94",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How a US Tariff Helped Push Japan to War - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/jG-I55-5rYo",
-   "d": "2026-10-19T21:28:33.000Z",
-   "first": "2026-10-20T00:00:02.994Z"
-  },
-  {
    "id": "a4019cf3b9d0d030",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -1029,16 +1029,6 @@
    "t": "Making the internet better for AI agents might make it worse for everyone else",
    "u": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
    "d": "2026-10-19T18:22:47.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
-   "id": "0320265ce884bc59",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-   "u": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-   "d": "2026-10-19T17:45:55.000Z",
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
@@ -1902,16 +1892,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "12f419a0af20e3ad",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Barclays scales Claude to upgrade operations and improve client experience",
-   "u": "https://www.anthropic.com/news/barclays-scales-claude",
-   "d": "2026-10-01T00:00:00.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "2e9748a70d12bca7",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1969,16 +1949,6 @@
    "t": "Scrapping Astra 6.1 looks like a good call. OpenAI shouldn’t be the one to make it.",
    "u": "https://www.transformernews.ai/p/astra-61-scrap-shouldnt-be-openai-decision",
    "d": "2026-09-29T12:28:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "f02e380d50d6b6ba",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
-   "u": "https://www.youtube.com/shorts/tQ3nMI-anxU",
-   "d": "2026-09-29T09:50:26.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3135,7 +3105,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1527 > 1000"
+   "error": "Entity expansion limit exceeded: 1587 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3180,7 +3150,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1039 > 1000"
+   "error": "Entity expansion limit exceeded: 1051 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
