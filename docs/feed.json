@@ -1,6 +1,166 @@
 {
- "generated": "2026-10-27T14:42:55.473Z",
+ "generated": "2026-10-27T19:43:53.913Z",
  "items": [
+  {
+   "id": "0d5cc4a0e95d1e92",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing (Annie Palmer/CNBC)",
+   "u": "https://www.techmeme.com/261027/p27#a261027p27",
+   "d": "2026-10-27T19:15:34.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "0a70f166a0301951",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+   "u": "https://latent.space/p/opus55/",
+   "d": "2026-10-27T18:53:10.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "e4e173c5658f44bd",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "I Ranked 5 Ways to Wake Up",
+   "u": "https://www.youtube.com/shorts/mMzaL15KFVY",
+   "d": "2026-10-27T18:47:13.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "ff5a9f8ff65f2921",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+   "u": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+   "d": "2026-10-27T18:40:19.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "c696a5f373fd5efd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle (Financial Times)",
+   "u": "https://www.techmeme.com/261027/p26#a261027p26",
+   "d": "2026-10-27T18:10:03.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "ca10e2aea6d0c679",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Colour Theory Has Politics - Paul Lessard",
+   "u": "https://www.youtube.com/shorts/m7jelL7qRWo",
+   "d": "2026-10-27T17:51:10.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "6fbf410a24b46c9c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024 (Kurt Schlosser/GeekWire)",
+   "u": "https://www.techmeme.com/261027/p25#a261027p25",
+   "d": "2026-10-27T17:02:17.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "007398929fdb0cde",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Crazy Spy Tech You Can Use For Free!",
+   "u": "https://www.youtube.com/shorts/EUjd_UBApoA",
+   "d": "2026-10-27T16:43:52.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "8312c08e27f852a9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)",
+   "u": "https://www.techmeme.com/261027/p24#a261027p24",
+   "d": "2026-10-27T16:30:29.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "7f2d3eb64c6c8a9e",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Correct Isn't Enough. I Want the Reason. - Paul Lessard #podcast #science",
+   "u": "https://www.youtube.com/shorts/5pi9dSGYAgM",
+   "d": "2026-10-27T16:24:35.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "97c199f7d1ec4ce2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)",
+   "u": "https://www.techmeme.com/261027/p23#a261027p23",
+   "d": "2026-10-27T16:10:01.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "69d1efd08f3eafd2",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Will Anthropic’s post-IPO governance really protect its safety mission?",
+   "u": "https://www.transformernews.ai/p/anthropics-post-ipo-governance-trust",
+   "d": "2026-10-27T16:02:26.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "759335d759474e6e",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Genie 4: A new generation of world simulation",
+   "u": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "d": "2026-10-27T16:01:38.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "558d83aee2b5b3ff",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Anthropic’s IPO: Who Gets the Voting Power?",
+   "u": "https://www.youtube.com/shorts/jeUgtyvvkfs",
+   "d": "2026-10-27T15:47:35.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "4e5716c001b8625a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable (Stephanie Palazzolo/The Information)",
+   "u": "https://www.techmeme.com/261027/p22#a261027p22",
+   "d": "2026-10-27T15:20:00.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "fde4ec2ff4059936",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Coding From the Himalayas With an Offline AI Agent",
+   "u": "https://latent.space/p/offline-coding/",
+   "d": "2026-10-27T14:41:25.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
+  },
   {
    "id": "c9a2bac7618d3fcf",
    "f": "techmeme",
@@ -36,7 +196,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)",
+   "t": "Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)",
    "u": "https://www.techmeme.com/261027/p20#a261027p20",
    "d": "2026-10-27T14:10:01.000Z",
    "first": "2026-10-27T14:42:55.473Z"
@@ -56,7 +216,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Study: non-English languages can consume far more AI tokens, with the most expensive using 1.5x-5x more than the cheapest, resulting in a \"tokenizer tax\" (Ananya Bhattacharya/Rest of World)",
+   "t": "Study: non-English languages can consume far more AI tokens, with the most expensive language using 1.5x to 5x more than the cheapest, causing a \"tokenizer tax\" (Ananya Bhattacharya/Rest of World)",
    "u": "https://www.techmeme.com/261027/p13#a261027p13",
    "d": "2026-10-27T12:30:19.000Z",
    "first": "2026-10-27T14:42:55.473Z"
@@ -82,16 +242,6 @@
    "first": "2026-10-27T14:42:55.473Z"
   },
   {
-   "id": "09e35602177ee197",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
-   "u": "https://www.techmeme.com/261027/p10#a261027p10",
-   "d": "2026-10-27T11:10:03.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
    "id": "76e9d0fc29dfeaf6",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -99,36 +249,6 @@
    "t": "AI promised less work. I've never worked more",
    "u": "https://oioannou.com/blog/ai-promised-less-work/",
    "d": "2026-10-27T11:08:14.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
-   "id": "26b8a4565037b154",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis: AI political groups have spent $78.5M on US federal candidates during the 2026 cycle; AI accelerationists spent $34M and safeguard-focused groups $39M (Luke Fountain/CNBC)",
-   "u": "https://www.techmeme.com/261027/p9#a261027p9",
-   "d": "2026-10-27T10:50:01.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
-   "id": "af4d88fcae93fe55",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's S-1 excludes Labs co-lead Ben Mann from its \"Continuing Founders\" and Founder LLC; Anthropic says \"it's still fair to refer to him as a co-founder\" (Zara Stone/The San Francisco Standard)",
-   "u": "https://www.techmeme.com/261027/p8#a261027p8",
-   "d": "2026-10-27T10:35:01.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
-   "id": "5c305ac4103467ce",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: UK stealth AI startup 22one, which is building law enforcement tools, hit a nearly $400M valuation after raising funds from Sequoia, Lux, and others (Financial Times)",
-   "u": "https://www.techmeme.com/261027/p7#a261027p7",
-   "d": "2026-10-27T10:20:00.000Z",
    "first": "2026-10-27T14:42:55.473Z"
   },
   {
@@ -140,6 +260,16 @@
    "u": "https://latent.space/p/ainews-anthropic-s1/",
    "d": "2026-10-27T07:24:59.000Z",
    "first": "2026-10-27T08:04:28.492Z"
+  },
+  {
+   "id": "79219d62c4042fd8",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "u": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "d": "2026-10-27T07:00:00.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
   },
   {
    "id": "d3bdfc835bf83076",
@@ -156,7 +286,7 @@
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "It's happening...",
+   "t": "This is much more concerning than you think...",
    "u": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
    "d": "2026-10-27T01:58:24.000Z",
    "first": "2026-10-27T08:04:28.492Z"
@@ -170,6 +300,16 @@
    "u": "https://tldr.tech/ai/2026-10-27",
    "d": "2026-10-27T00:00:00.000Z",
    "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "67e53123745a34a0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Check Point accelerates vulnerability research with Daybreak",
+   "u": "https://openai.com/index/check-point-daybreak",
+   "d": "2026-10-27T00:00:00.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
   },
   {
    "id": "56421988aa97d193",
@@ -366,7 +506,7 @@
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
    "cat": "YouTube",
-   "t": "Sphere Intersection Puzzle Corrected",
+   "t": "The Sphere Intersection Puzzle",
    "u": "https://www.youtube.com/shorts/V_uq3v6xK-4",
    "d": "2026-10-25T14:30:46.000Z",
    "first": "2026-10-25T15:08:29.703Z"
@@ -552,16 +692,6 @@
    "first": "2026-10-23T20:43:19.635Z"
   },
   {
-   "id": "d59c7c69a9f5f6fb",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Sam Altman on Why Your Most Important Advice Should Come From People",
-   "u": "https://www.youtube.com/shorts/f8uIINtoJCM",
-   "d": "2026-10-23T17:03:19.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
    "id": "c2d09de97428132f",
    "f": "openai-news",
    "src": "OpenAI",
@@ -569,16 +699,6 @@
    "t": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
    "u": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
    "d": "2026-10-23T17:00:00.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "1088e21b2d23a947",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Who is local AI really for?",
-   "u": "https://www.youtube.com/watch?v=fHY0sjAejcA",
-   "d": "2026-10-23T16:36:20.000Z",
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
@@ -630,6 +750,16 @@
    "u": "https://tldr.tech/ai/2026-10-23",
    "d": "2026-10-23T00:00:00.000Z",
    "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "9ee51af33c9132d7",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+   "u": "https://openai.com/index/anima",
+   "d": "2026-10-23T00:00:00.000Z",
+   "first": "2026-10-27T19:43:53.913Z"
   },
   {
    "id": "3acbad74f2a06fc2",
@@ -812,16 +942,6 @@
    "first": "2026-10-22T17:23:04.195Z"
   },
   {
-   "id": "5ca0690c2f5e1196",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "u": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "d": "2026-10-22T00:00:00.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
    "id": "3cbda20863b82ce9",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -840,16 +960,6 @@
    "u": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
    "d": "2026-10-22T00:00:00.000Z",
    "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
-   "id": "214bc15c062a969d",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Broad access through consistent standards",
-   "u": "https://openai.com/index/broad-access-through-consistent-standards",
-   "d": "2026-10-21T21:00:00.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
   },
   {
    "id": "5ef08555cd8313cd",
@@ -872,16 +982,6 @@
    "first": "2026-10-21T19:25:43.093Z"
   },
   {
-   "id": "767ef3f9b88229b3",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "11 AI Breakthroughs You Didn’t Know Existed",
-   "u": "https://www.youtube.com/watch?v=umGZrkyTRtw",
-   "d": "2026-10-21T17:45:26.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
    "id": "334aa381d3c24d71",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -889,16 +989,6 @@
    "t": "The Huawei-DeepSeek Symbiosis",
    "u": "https://newsletter.semianalysis.com/p/huawei-deepseek",
    "d": "2026-10-21T17:34:38.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
-   "id": "9da3695a40c0ed10",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How AT&T is rethinking in-house legal work with OpenAI",
-   "u": "https://openai.com/index/att-legal",
-   "d": "2026-10-21T17:00:00.000Z",
    "first": "2026-10-21T19:25:43.093Z"
   },
   {
@@ -1192,16 +1282,6 @@
    "first": "2026-10-17T14:17:55.934Z"
   },
   {
-   "id": "45c549b67894ccfe",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] High Taste Testers Ep. 1",
-   "u": "https://latent.space/p/ainews-high-taste-testers-ep-1/",
-   "d": "2026-10-17T07:47:38.000Z",
-   "first": "2026-10-17T11:00:27.083Z"
-  },
-  {
    "id": "e893d24dd7c8c167",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1230,16 +1310,6 @@
    "u": "https://www.transformernews.ai/p/leading-the-future-struggles-ai-safety-pacs-gain-ground",
    "d": "2026-10-16T15:13:20.000Z",
    "first": "2026-10-16T18:15:41.908Z"
-  },
-  {
-   "id": "51fc6b24ce00f859",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-   "u": "https://latent.space/p/ainews-agents-disprove-polysemanticity/",
-   "d": "2026-10-16T04:16:45.000Z",
-   "first": "2026-10-16T05:13:34.270Z"
   },
   {
    "id": "7fed59e729a8d339",
@@ -1290,16 +1360,6 @@
    "u": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
    "d": "2026-10-15T13:01:39.000Z",
    "first": "2026-10-15T15:27:27.208Z"
-  },
-  {
-   "id": "08f7a88d25cabfc1",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-   "u": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d/",
-   "d": "2026-10-15T10:08:08.000Z",
-   "first": "2026-10-15T10:57:33.507Z"
   },
   {
    "id": "d1c6cb5f7bd2177e",
@@ -1862,26 +1922,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "30e23a186263f7c1",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "The most natural voice agent was a French voice speaking English",
-   "u": "https://www.youtube.com/shorts/MVRb03jb6Wg",
-   "d": "2026-10-01T20:09:15.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "859efd6f40ba1ff1",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
-   "u": "https://www.youtube.com/watch?v=VoAPg8Fj6-c",
-   "d": "2026-10-01T20:00:18.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "eb9af7714c8e004a",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -2079,16 +2119,6 @@
    "t": "Back to Claude",
    "u": "https://www.bensbites.com/p/back-to-claude",
    "d": "2026-09-24T13:04:08.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "e61cf638f9143d2c",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Hacking is the least worrying part of OpenAI’s Australia incident",
-   "u": "https://www.transformernews.ai/p/openai-australia-hack-least-worrying-part",
-   "d": "2026-09-24T12:59:14.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2399,16 +2429,6 @@
    "t": "GPT 6 Astra, so good even OpenAI are worried",
    "u": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
    "d": "2026-09-04T11:37:27.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "94f91d1f34cd9328",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-   "u": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-   "d": "2026-09-03T15:02:08.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3105,7 +3125,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1003 > 1000"
+   "error": "Entity expansion limit exceeded: 1032 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3133,7 +3153,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3150,7 +3171,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1237 > 1000"
+   "error": "Entity expansion limit exceeded: 1134 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
