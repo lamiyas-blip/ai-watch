@@ -1,6 +1,136 @@
 {
- "generated": "2026-10-27T08:04:28.492Z",
+ "generated": "2026-10-27T14:42:55.473Z",
  "items": [
+  {
+   "id": "c9a2bac7618d3fcf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)",
+   "u": "https://www.techmeme.com/261027/p21#a261027p21",
+   "d": "2026-10-27T14:35:01.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "ded191a65c16e657",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The Trojan Horse in AI-Written Mathematics",
+   "u": "https://www.youtube.com/shorts/unwUjyA52tM",
+   "d": "2026-10-27T14:30:06.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "33a1dffeb946ed5a",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Is Anthropic the best business in the world?",
+   "u": "https://www.bensbites.com/p/is-anthropic-the-best-business-in",
+   "d": "2026-10-27T14:19:32.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "4e91ef20877fc5fa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple adds a beta AI assistant built on Apple and OpenAI models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)",
+   "u": "https://www.techmeme.com/261027/p20#a261027p20",
+   "d": "2026-10-27T14:10:01.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "b82c70f079f4be80",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Dallas-based Disruptive raised $10B to invest in AI, defense, and software, doubling its AUM, and pivots from single-deal SPVs to a discretionary fund structure (Natasha Mascarenhas/Bloomberg)",
+   "u": "https://www.techmeme.com/261027/p19#a261027p19",
+   "d": "2026-10-27T13:40:00.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "0d8f6895385bd6cc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Study: non-English languages can consume far more AI tokens, with the most expensive using 1.5x-5x more than the cheapest, resulting in a \"tokenizer tax\" (Ananya Bhattacharya/Rest of World)",
+   "u": "https://www.techmeme.com/261027/p13#a261027p13",
+   "d": "2026-10-27T12:30:19.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "91ea0aa7ed1e3f57",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "OpenAI just broke physics...",
+   "u": "https://www.youtube.com/watch?v=lskEzJ7ixw0",
+   "d": "2026-10-27T12:10:55.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "695a7e36f6814d4a",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Industrial Intelligence: The next growth opportunity for manufacturing",
+   "u": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+   "d": "2026-10-27T11:19:18.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "09e35602177ee197",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+   "u": "https://www.techmeme.com/261027/p10#a261027p10",
+   "d": "2026-10-27T11:10:03.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "76e9d0fc29dfeaf6",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI promised less work. I've never worked more",
+   "u": "https://oioannou.com/blog/ai-promised-less-work/",
+   "d": "2026-10-27T11:08:14.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "26b8a4565037b154",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: AI political groups have spent $78.5M on US federal candidates during the 2026 cycle; AI accelerationists spent $34M and safeguard-focused groups $39M (Luke Fountain/CNBC)",
+   "u": "https://www.techmeme.com/261027/p9#a261027p9",
+   "d": "2026-10-27T10:50:01.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "af4d88fcae93fe55",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's S-1 excludes Labs co-lead Ben Mann from its \"Continuing Founders\" and Founder LLC; Anthropic says \"it's still fair to refer to him as a co-founder\" (Zara Stone/The San Francisco Standard)",
+   "u": "https://www.techmeme.com/261027/p8#a261027p8",
+   "d": "2026-10-27T10:35:01.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "5c305ac4103467ce",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: UK stealth AI startup 22one, which is building law enforcement tools, hit a nearly $400M valuation after raising funds from Sequoia, Lux, and others (Financial Times)",
+   "u": "https://www.techmeme.com/261027/p7#a261027p7",
+   "d": "2026-10-27T10:20:00.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
+  },
   {
    "id": "a5f8e09505564cf3",
    "f": "latent-space",
@@ -10,6 +140,16 @@
    "u": "https://latent.space/p/ainews-anthropic-s1/",
    "d": "2026-10-27T07:24:59.000Z",
    "first": "2026-10-27T08:04:28.492Z"
+  },
+  {
+   "id": "d3bdfc835bf83076",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "The Mythical Man-Month in the Age of AI",
+   "u": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "d": "2026-10-27T06:25:37.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
   },
   {
    "id": "1df6ec3fa3dfda99",
@@ -22,14 +162,14 @@
    "first": "2026-10-27T08:04:28.492Z"
   },
   {
-   "id": "21a5771324292586",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
-   "u": "https://www.techmeme.com/261026/p51#a261026p51",
-   "d": "2026-10-27T01:55:02.000Z",
-   "first": "2026-10-27T02:11:31.856Z"
+   "id": "bc93f65561465f1e",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "GPT-6.1 Terra ⚡, Anthropic IPO filing 📈, agent native git 👨‍💻",
+   "u": "https://tldr.tech/ai/2026-10-27",
+   "d": "2026-10-27T00:00:00.000Z",
+   "first": "2026-10-27T14:42:55.473Z"
   },
   {
    "id": "56421988aa97d193",
@@ -39,36 +179,6 @@
    "t": "Greptile takes bug detection beyond code review with GPT-6 Astra",
    "u": "https://openai.com/index/greptile-code-review-codex-astra",
    "d": "2026-10-26T22:00:00.000Z",
-   "first": "2026-10-26T23:25:09.019Z"
-  },
-  {
-   "id": "c3c807831d6e8900",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)",
-   "u": "https://www.techmeme.com/261026/p48#a261026p48",
-   "d": "2026-10-26T21:55:02.000Z",
-   "first": "2026-10-26T23:25:09.019Z"
-  },
-  {
-   "id": "0d9f3693563f1977",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle (Lynn Doan/Bloomberg)",
-   "u": "https://www.techmeme.com/261026/p47#a261026p47",
-   "d": "2026-10-26T21:35:01.000Z",
-   "first": "2026-10-26T23:25:09.019Z"
-  },
-  {
-   "id": "ee4255bf5396be19",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders (Anna Tong/Forbes)",
-   "u": "https://www.techmeme.com/261026/p45#a261026p45",
-   "d": "2026-10-26T20:25:00.000Z",
    "first": "2026-10-26T23:25:09.019Z"
   },
   {
@@ -82,36 +192,6 @@
    "first": "2026-10-27T08:04:28.492Z"
   },
   {
-   "id": "3f7893dafb1dbb4e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple debuts iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five more languages, and more (Juli Clover/MacRumors)",
-   "u": "https://www.techmeme.com/261026/p42#a261026p42",
-   "d": "2026-10-26T19:30:01.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
-   "id": "e4c9d29da4bee40d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's S-1 shows a governance structure that suits a fun quirky little mission-driven worker cooperative that needs to raise billions as a public company (Matt Levine/Bloomberg)",
-   "u": "https://www.techmeme.com/261026/p41#a261026p41",
-   "d": "2026-10-26T19:25:01.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
-   "id": "18eed26f70ab58dc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI releases GPT-6.1 Terra, touting \"fast and capable computer use at scale\" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens (OpenAI)",
-   "u": "https://www.techmeme.com/261026/p40#a261026p40",
-   "d": "2026-10-26T18:20:02.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
    "id": "77ec9a11536dd600",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -119,16 +199,6 @@
    "t": "Will the real Anthropic please stand up",
    "u": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "d": "2026-10-26T17:45:43.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
-   "id": "ad6c43fcfc7a7584",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic S-1: it spent just $482M on capex in H1 2026, leasing most of its compute, and its capex is almost entirely outsourced via $782B in lease obligations (Tim Culpan/Culpium)",
-   "u": "https://www.techmeme.com/261026/p39#a261026p39",
-   "d": "2026-10-26T17:45:01.000Z",
    "first": "2026-10-26T19:37:12.165Z"
   },
   {
@@ -1042,16 +1112,6 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
-   "id": "0484dc0190313f91",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Making the internet better for AI agents might make it worse for everyone else",
-   "u": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-   "d": "2026-10-19T18:22:47.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
    "id": "a2b4e5bfd95fcf7c",
    "f": "transformer",
    "src": "Transformer",
@@ -1162,16 +1222,6 @@
    "first": "2026-10-16T18:15:41.908Z"
   },
   {
-   "id": "353e4c7e3bb9d50c",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-   "u": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-   "d": "2026-10-16T15:55:40.000Z",
-   "first": "2026-10-17T17:22:05.179Z"
-  },
-  {
    "id": "b05a7c150b4f4a35",
    "f": "transformer",
    "src": "Transformer",
@@ -1209,16 +1259,6 @@
    "t": "ASML Is Building a Hybrid Bonding Tool!",
    "u": "https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding",
    "d": "2026-10-15T19:27:20.000Z",
-   "first": "2026-10-15T22:30:57.761Z"
-  },
-  {
-   "id": "6225e233c579450c",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Why We're Banning AI",
-   "u": "https://www.currentaffairs.org/news/why-were-banning-ai",
-   "d": "2026-10-15T18:32:29.000Z",
    "first": "2026-10-15T22:30:57.761Z"
   },
   {
@@ -1732,16 +1772,6 @@
    "first": "2026-10-06T13:43:10.181Z"
   },
   {
-   "id": "c7765728fd911c27",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Instinct group chats 💬, Reflection’s 501B model 🧠, OpenAI text watermarks 🏷️",
-   "u": "https://tldr.tech/ai/2026-10-06",
-   "d": "2026-10-06T00:00:00.000Z",
-   "first": "2026-10-06T13:43:10.181Z"
-  },
-  {
    "id": "8532c0ccd7a6bbb1",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -1780,16 +1810,6 @@
    "u": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
    "d": "2026-10-05T02:56:58.000Z",
    "first": "2026-10-05T09:16:28.496Z"
-  },
-  {
-   "id": "9cf7ba359d01b775",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "OpenAI's employee's WARNING",
-   "u": "https://www.youtube.com/watch?v=9CGsq3A590Q",
-   "d": "2026-10-04T14:11:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
   },
   {
    "id": "5df8791ab1940530",
@@ -1919,16 +1939,6 @@
    "t": "Introducing SynthID Bio",
    "u": "https://deepmind.google/blog/introducing-synthid-bio/",
    "d": "2026-09-30T15:03:07.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "d7c46355309974cd",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "The Programming Language That Referees Mathematics — Leo de Moura",
-   "u": "https://www.youtube.com/watch?v=ZpQFebTK75A",
-   "d": "2026-09-29T22:38:34.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2349,16 +2359,6 @@
    "t": "One resignation turned the embers of AI fear into a wildfire",
    "u": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
    "d": "2026-09-10T15:28:52.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "69c4062f9e283139",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "Everyone needs a Muse",
-   "u": "https://www.bensbites.com/p/everyone-needs-a-muse",
-   "d": "2026-09-10T13:03:34.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3133,8 +3133,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3151,7 +3150,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1054 > 1000"
+   "error": "Entity expansion limit exceeded: 1237 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

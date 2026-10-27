@@ -177,6 +177,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "bc93f65561465f1e",
     "57f59158d2e339f1",
     "2e575241118c4c80",
     "b6afbe3662ba21db",
@@ -213,6 +214,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "33a1dffeb946ed5a",
     "4cddaad32ea71f6a",
     "9142439fbfb8b949",
     "03dc4200d7e27134",
@@ -376,6 +378,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "c9a2bac7618d3fcf",
+    "4e91ef20877fc5fa",
+    "b82c70f079f4be80",
+    "0d8f6895385bd6cc",
+    "09e35602177ee197",
+    "26b8a4565037b154",
+    "af4d88fcae93fe55",
+    "5c305ac4103467ce",
     "21a5771324292586",
     "c3c807831d6e8900",
     "0d9f3693563f1977",
@@ -807,6 +817,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "695a7e36f6814d4a",
     "77ec9a11536dd600",
     "0da9ddf33125a284",
     "a434cb84c509fd33",
@@ -929,6 +940,7 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "ded191a65c16e657",
     "9edc48c964997800",
     "089abce35ee3b621",
     "9db1fcc86cac9f51",
@@ -1097,6 +1109,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "91ea0aa7ed1e3f57",
     "a22a031998ca235e",
     "5ef08555cd8313cd",
     "d1c6cb5f7bd2177e",
@@ -1117,6 +1130,8 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "76e9d0fc29dfeaf6",
+    "d3bdfc835bf83076",
     "9b61ff0cce02efe4",
     "8fee9af5e3adb979",
     "70a18674f9b6a46f",
