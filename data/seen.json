@@ -245,6 +245,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "cc796df9934b6884",
     "79219d62c4042fd8",
     "67e53123745a34a0",
     "56421988aa97d193",
@@ -349,6 +350,8 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "97d2605547a5eac9",
+    "a7e0659ce966832e",
     "d37d60eea82fab52",
     "3cbda20863b82ce9",
     "3e8dddbf5046eaf5",
@@ -386,6 +389,9 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "7ef32e17f063d23c",
+    "c02a40236cf3579c",
+    "7742ef0c32bc6784",
     "0d5cc4a0e95d1e92",
     "c696a5f373fd5efd",
     "6fbf410a24b46c9c",
@@ -1149,6 +1155,9 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "8012a37a93efef40",
+    "5834dda59be98501",
+    "dd74b93d1345fc5f",
     "76e9d0fc29dfeaf6",
     "d3bdfc835bf83076",
     "9b61ff0cce02efe4",

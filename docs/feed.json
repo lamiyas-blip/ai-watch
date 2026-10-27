@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-27T19:43:53.913Z",
+ "generated": "2026-10-27T23:17:48.381Z",
  "items": [
+  {
+   "id": "7ef32e17f063d23c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic details early drug development work with six partners and says it has acquired Mithril, a one-person company working on muscular dystrophy (Anthropic)",
+   "u": "https://www.techmeme.com/261027/p31#a261027p31",
+   "d": "2026-10-27T21:45:39.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
+  },
+  {
+   "id": "c02a40236cf3579c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 (Bloomberg)",
+   "u": "https://www.techmeme.com/261027/p29#a261027p29",
+   "d": "2026-10-27T20:20:04.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
+  },
+  {
+   "id": "7742ef0c32bc6784",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares (Anthony Hughes/Bloomberg)",
+   "u": "https://www.techmeme.com/261027/p28#a261027p28",
+   "d": "2026-10-27T20:02:31.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
+  },
   {
    "id": "0d5cc4a0e95d1e92",
    "f": "techmeme",
@@ -82,6 +112,16 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
+   "id": "8012a37a93efef40",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "u": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "d": "2026-10-27T16:40:15.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
+  },
+  {
    "id": "8312c08e27f852a9",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
@@ -90,6 +130,16 @@
    "u": "https://www.techmeme.com/261027/p24#a261027p24",
    "d": "2026-10-27T16:30:29.000Z",
    "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "5834dda59be98501",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "u": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "d": "2026-10-27T16:25:30.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
   },
   {
    "id": "7f2d3eb64c6c8a9e",
@@ -152,6 +202,16 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
+   "id": "cc796df9934b6884",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Retell uses OpenAI models to help power 100M monthly calls",
+   "u": "https://openai.com/index/retell-ai",
+   "d": "2026-10-27T15:00:00.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
+  },
+  {
    "id": "fde4ec2ff4059936",
    "f": "latent-space",
    "src": "Latent Space",
@@ -202,26 +262,6 @@
    "first": "2026-10-27T14:42:55.473Z"
   },
   {
-   "id": "b82c70f079f4be80",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Dallas-based Disruptive raised $10B to invest in AI, defense, and software, doubling its AUM, and pivots from single-deal SPVs to a discretionary fund structure (Natasha Mascarenhas/Bloomberg)",
-   "u": "https://www.techmeme.com/261027/p19#a261027p19",
-   "d": "2026-10-27T13:40:00.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
-   "id": "0d8f6895385bd6cc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Study: non-English languages can consume far more AI tokens, with the most expensive language using 1.5x to 5x more than the cheapest, causing a \"tokenizer tax\" (Ananya Bhattacharya/Rest of World)",
-   "u": "https://www.techmeme.com/261027/p13#a261027p13",
-   "d": "2026-10-27T12:30:19.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
    "id": "91ea0aa7ed1e3f57",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -240,6 +280,16 @@
    "u": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
    "d": "2026-10-27T11:19:18.000Z",
    "first": "2026-10-27T14:42:55.473Z"
+  },
+  {
+   "id": "dd74b93d1345fc5f",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Wikipedia's Cleanup of AI-Generated Content",
+   "u": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "d": "2026-10-27T11:08:15.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
   },
   {
    "id": "76e9d0fc29dfeaf6",
@@ -310,6 +360,26 @@
    "u": "https://openai.com/index/check-point-daybreak",
    "d": "2026-10-27T00:00:00.000Z",
    "first": "2026-10-27T19:43:53.913Z"
+  },
+  {
+   "id": "97d2605547a5eac9",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Early progress on accelerating drug development with Claude",
+   "u": "https://www.anthropic.com/research/early-progress-drug-development",
+   "d": "2026-10-27T00:00:00.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
+  },
+  {
+   "id": "a7e0659ce966832e",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "u": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "d": "2026-10-27T00:00:00.000Z",
+   "first": "2026-10-27T23:17:48.381Z"
   },
   {
    "id": "56421988aa97d193",
@@ -912,16 +982,6 @@
    "first": "2026-10-22T12:09:00.762Z"
   },
   {
-   "id": "9416d51c854a75a0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "What FDE means at OpenAI",
-   "u": "https://openai.com/index/forward-deployed-engineering-means",
-   "d": "2026-10-22T06:00:00.000Z",
-   "first": "2026-10-23T02:14:17.041Z"
-  },
-  {
    "id": "9acf06e9ba341581",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -1212,16 +1272,6 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
-   "id": "37f9d2330f2279c0",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "u": "https://news.ycombinator.com/item?id=50151036",
-   "d": "2026-10-19T11:24:34.000Z",
-   "first": "2026-10-20T03:46:55.447Z"
-  },
-  {
    "id": "d8b331098725868c",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1252,16 +1302,6 @@
    "first": "2026-10-19T15:10:12.575Z"
   },
   {
-   "id": "ad502c6ad580d6a2",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-   "u": "https://sphinx-six-theta.vercel.app/",
-   "d": "2026-10-18T04:33:49.000Z",
-   "first": "2026-10-18T17:47:26.878Z"
-  },
-  {
    "id": "54271ffa73c5c138",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -1280,16 +1320,6 @@
    "u": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
    "d": "2026-10-17T14:06:54.000Z",
    "first": "2026-10-17T14:17:55.934Z"
-  },
-  {
-   "id": "e893d24dd7c8c167",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-   "u": "https://www.mercor.com/research/labor-index/benchmark-map/",
-   "d": "2026-10-16T17:08:38.000Z",
-   "first": "2026-10-16T23:43:56.253Z"
   },
   {
    "id": "2a965856ca7614cb",
@@ -1832,16 +1862,6 @@
    "first": "2026-10-06T13:43:10.181Z"
   },
   {
-   "id": "8532c0ccd7a6bbb1",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Expanding the Cyber Verification Program",
-   "u": "https://www.anthropic.com/news/cyber-verification-program",
-   "d": "2026-10-06T00:00:00.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
-  },
-  {
    "id": "49efa0345fefe3ba",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -1899,16 +1919,6 @@
    "t": "Senate Testimony Sept 2026",
    "u": "https://blog.aifutures.org/p/senate-testimony-sept-2026",
    "d": "2026-10-02T07:37:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "52b8f17e9342ddb2",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-   "u": "https://www.anthropic.com/news/claude-frontier-academy",
-   "d": "2026-10-02T00:00:00.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3153,8 +3163,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3171,12 +3180,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1134 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3189,11 +3198,13 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3221,7 +3232,8 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
