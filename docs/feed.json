@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-27T02:11:31.856Z",
+ "generated": "2026-10-27T08:04:28.492Z",
  "items": [
+  {
+   "id": "a5f8e09505564cf3",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+   "u": "https://latent.space/p/ainews-anthropic-s1/",
+   "d": "2026-10-27T07:24:59.000Z",
+   "first": "2026-10-27T08:04:28.492Z"
+  },
+  {
+   "id": "1df6ec3fa3dfda99",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "It's happening...",
+   "u": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
+   "d": "2026-10-27T01:58:24.000Z",
+   "first": "2026-10-27T08:04:28.492Z"
+  },
   {
    "id": "21a5771324292586",
    "f": "techmeme",
@@ -50,6 +70,16 @@
    "u": "https://www.techmeme.com/261026/p45#a261026p45",
    "d": "2026-10-26T20:25:00.000Z",
    "first": "2026-10-26T23:25:09.019Z"
+  },
+  {
+   "id": "e783a3e35583cb86",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "ANOTHER Flying Car? (Not Tesla / Not AI)",
+   "u": "https://www.youtube.com/shorts/gC18kqOcCEI",
+   "d": "2026-10-26T20:19:13.000Z",
+   "first": "2026-10-27T08:04:28.492Z"
   },
   {
    "id": "3f7893dafb1dbb4e",
@@ -562,16 +592,6 @@
    "first": "2026-10-22T23:44:06.621Z"
   },
   {
-   "id": "87373cd91dabe815",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Sam Altman on AI’s Discovery Era",
-   "u": "https://www.youtube.com/shorts/9WZpou1faFU",
-   "d": "2026-10-22T20:47:14.000Z",
-   "first": "2026-10-23T07:44:59.278Z"
-  },
-  {
    "id": "e2d8a412456e749d",
    "f": "openai-news",
    "src": "OpenAI",
@@ -849,16 +869,6 @@
    "t": "Claude Mods: Flipping the Harness Inside Out",
    "u": "https://latent.space/p/claude-mods/",
    "d": "2026-10-21T13:04:19.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "a0bf7a7e5baa0ea2",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "5 Prompts With Google's ULTRA Powerful New Model",
-   "u": "https://www.youtube.com/shorts/S2srfNCa50A",
-   "d": "2026-10-21T12:53:28.000Z",
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
@@ -1290,16 +1300,6 @@
    "u": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
    "d": "2026-10-15T00:00:00.000Z",
    "first": "2026-10-15T19:17:47.223Z"
-  },
-  {
-   "id": "e34147cb50209de7",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-   "u": "https://latent.space/p/crossing-the-threshold/",
-   "d": "2026-10-14T21:40:52.000Z",
-   "first": "2026-10-14T22:46:09.874Z"
   },
   {
    "id": "07565479b52e0aba",
@@ -3133,7 +3133,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3150,7 +3151,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1255 > 1000"
+   "error": "Entity expansion limit exceeded: 1054 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3164,13 +3165,11 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3178,13 +3177,11 @@
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3192,28 +3189,23 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
