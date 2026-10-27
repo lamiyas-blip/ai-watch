@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-26T23:25:09.019Z",
+ "generated": "2026-10-27T02:11:31.856Z",
  "items": [
+  {
+   "id": "21a5771324292586",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
+   "u": "https://www.techmeme.com/261026/p51#a261026p51",
+   "d": "2026-10-27T01:55:02.000Z",
+   "first": "2026-10-27T02:11:31.856Z"
+  },
   {
    "id": "56421988aa97d193",
    "f": "openai-news",
@@ -89,16 +99,6 @@
    "t": "Anthropic S-1: it spent just $482M on capex in H1 2026, leasing most of its compute, and its capex is almost entirely outsourced via $782B in lease obligations (Tim Culpan/Culpium)",
    "u": "https://www.techmeme.com/261026/p39#a261026p39",
    "d": "2026-10-26T17:45:01.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
-   "id": "f2cd05fc21edce80",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+ (Rebecca Bellan/TechCrunch)",
-   "u": "https://www.techmeme.com/261026/p36#a261026p36",
-   "d": "2026-10-26T17:00:50.000Z",
    "first": "2026-10-26T19:37:12.165Z"
   },
   {
@@ -3105,7 +3105,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1587 > 1000"
+   "error": "Entity expansion limit exceeded: 1003 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3174,8 +3174,7 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3189,8 +3188,7 @@
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3200,7 +3198,7 @@
   "yt-two-minute": {
    "name": "Two Minute Papers",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3209,7 +3207,8 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
