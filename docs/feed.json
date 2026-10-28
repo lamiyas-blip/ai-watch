@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-27T23:17:48.381Z",
+ "generated": "2026-10-28T02:26:58.414Z",
  "items": [
+  {
+   "id": "c4bc8b923f5d13e5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent (Kai Nicol-Schwarz/CNBC)",
+   "u": "https://www.techmeme.com/261027/p41#a261027p41",
+   "d": "2026-10-28T01:45:42.000Z",
+   "first": "2026-10-28T02:26:58.414Z"
+  },
+  {
+   "id": "7d648d0ab9d621e0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs (Ryan Barwick/The Information)",
+   "u": "https://www.techmeme.com/261027/p39#a261027p39",
+   "d": "2026-10-28T00:15:41.000Z",
+   "first": "2026-10-28T02:26:58.414Z"
+  },
+  {
+   "id": "ce0e122611cc4ebb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that \"hunger beats tenure\" (Felix Rieseberg)",
+   "u": "https://www.techmeme.com/261027/p38#a261027p38",
+   "d": "2026-10-28T00:01:32.000Z",
+   "first": "2026-10-28T02:26:58.414Z"
+  },
+  {
+   "id": "f6e7ca7a5baac1ae",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic expands its US GSA partnership to give federal, state, local, tribal, and territorial governments a 40% discount on Claude, estimated to save $1B (Anthropic)",
+   "u": "https://www.techmeme.com/261027/p36#a261027p36",
+   "d": "2026-10-27T23:35:01.000Z",
+   "first": "2026-10-28T02:26:58.414Z"
+  },
+  {
+   "id": "448ef766cfdb7286",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation (Rashi Shrivastava/Forbes)",
+   "u": "https://www.techmeme.com/261027/p35#a261027p35",
+   "d": "2026-10-27T23:20:01.000Z",
+   "first": "2026-10-28T02:26:58.414Z"
+  },
   {
    "id": "7ef32e17f063d23c",
    "f": "techmeme",
@@ -72,16 +122,6 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
-   "id": "c696a5f373fd5efd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle (Financial Times)",
-   "u": "https://www.techmeme.com/261027/p26#a261027p26",
-   "d": "2026-10-27T18:10:03.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
    "id": "ca10e2aea6d0c679",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -89,16 +129,6 @@
    "t": "Colour Theory Has Politics - Paul Lessard",
    "u": "https://www.youtube.com/shorts/m7jelL7qRWo",
    "d": "2026-10-27T17:51:10.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "6fbf410a24b46c9c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Avante, which builds an AI platform to help companies manage employee healthcare and other benefits, raised a $30M Series A, following a $10M seed in 2024 (Kurt Schlosser/GeekWire)",
-   "u": "https://www.techmeme.com/261027/p25#a261027p25",
-   "d": "2026-10-27T17:02:17.000Z",
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
@@ -122,16 +152,6 @@
    "first": "2026-10-27T23:17:48.381Z"
   },
   {
-   "id": "8312c08e27f852a9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)",
-   "u": "https://www.techmeme.com/261027/p24#a261027p24",
-   "d": "2026-10-27T16:30:29.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
    "id": "5834dda59be98501",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -149,16 +169,6 @@
    "t": "Correct Isn't Enough. I Want the Reason. - Paul Lessard #podcast #science",
    "u": "https://www.youtube.com/shorts/5pi9dSGYAgM",
    "d": "2026-10-27T16:24:35.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "97c199f7d1ec4ce2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)",
-   "u": "https://www.techmeme.com/261027/p23#a261027p23",
-   "d": "2026-10-27T16:10:01.000Z",
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
@@ -192,16 +202,6 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
-   "id": "4e5716c001b8625a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn't be profitable (Stephanie Palazzolo/The Information)",
-   "u": "https://www.techmeme.com/261027/p22#a261027p22",
-   "d": "2026-10-27T15:20:00.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
    "id": "cc796df9934b6884",
    "f": "openai-news",
    "src": "OpenAI",
@@ -222,16 +222,6 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
-   "id": "c9a2bac7618d3fcf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "London-based Machenta, which is building an AI model that can teach robots new physical tasks after seeing them performed just once, raised a $40M seed (Rya Jetha/Business Insider)",
-   "u": "https://www.techmeme.com/261027/p21#a261027p21",
-   "d": "2026-10-27T14:35:01.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
    "id": "ded191a65c16e657",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -249,16 +239,6 @@
    "t": "Is Anthropic the best business in the world?",
    "u": "https://www.bensbites.com/p/is-anthropic-the-best-business-in",
    "d": "2026-10-27T14:19:32.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
-   "id": "4e91ef20877fc5fa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)",
-   "u": "https://www.techmeme.com/261027/p20#a261027p20",
-   "d": "2026-10-27T14:10:01.000Z",
    "first": "2026-10-27T14:42:55.473Z"
   },
   {
@@ -3163,7 +3143,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3180,17 +3161,17 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1126 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1011 > 1000"
   },
   "yt-ai-explained": {
    "name": "AI Explained",
@@ -3208,27 +3189,33 @@
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
@@ -3237,7 +3224,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
