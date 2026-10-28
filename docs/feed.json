@@ -1,25 +1,95 @@
 {
- "generated": "2026-10-28T15:33:34.833Z",
+ "generated": "2026-10-28T20:38:29.079Z",
  "items": [
   {
-   "id": "3d6ed1d20c747421",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia debuts Nemotron 3.5 Transcribe, an open-weight model for multilingual audio transcription and translation, and Granary v2, its open-source speech dataset (Kyt Dotson/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261028/p33#a261028p33",
-   "d": "2026-10-28T15:20:02.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
+   "id": "4c93c0a063d8f224",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Why Agents Love Supabase",
+   "u": "https://latent.space/p/supabase/",
+   "d": "2026-10-28T19:48:05.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
   },
   {
-   "id": "3265f3ac15807d6e",
+   "id": "a68676865c1bbe5f",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "He Put Hormozi, Bezos & Buffett Inside Claude",
+   "u": "https://www.youtube.com/watch?v=AtjFk9f44HE",
+   "d": "2026-10-28T19:25:38.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "3c0067f5a4ae2fba",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
-   "u": "https://www.techmeme.com/261028/p32#a261028p32",
-   "d": "2026-10-28T14:40:01.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
+   "t": "NY Gov. Kathy Hochul signs bills banning AI chatbots from using \"unsafe features\" for minors and requiring security features in internet-connected baby monitors (Raga Justin/Bloomberg Government)",
+   "u": "https://www.techmeme.com/261028/p46#a261028p46",
+   "d": "2026-10-28T19:10:00.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "2ae80c8d295226cb",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Insane Interactive World Creator (Genie 4)",
+   "u": "https://www.youtube.com/shorts/DZbCL56oz3M",
+   "d": "2026-10-28T18:25:36.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "97aa9361e57c37c7",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Deepseek's New AI Has A Secret",
+   "u": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+   "d": "2026-10-28T17:32:40.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "85a0c293a5ce11f8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google unveils Gemini 4 Carbon, its \"strongest model with state-of-the-art cybersecurity\" capabilities, ranked #1 on Artificial Analysis' new Intelligence Index (Koray Kavukcuoglu/Google)",
+   "u": "https://www.techmeme.com/261028/p38#a261028p38",
+   "d": "2026-10-28T17:09:07.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "9caa982344aceed0",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini 4 Carbon: Our next frontier model",
+   "u": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "d": "2026-10-28T17:00:58.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "b7ffb158e32d43bb",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Kentucky man becomes the first humanist granted religious exemption from AI",
+   "u": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+   "d": "2026-10-28T13:41:30.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "af1457fe0e356b06",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "u": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "d": "2026-10-28T13:15:00.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
   },
   {
    "id": "3557db7aa5ffe0cb",
@@ -29,36 +99,6 @@
    "t": "Artificial Analysis v5 and the benchmarker's dilemma",
    "u": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
    "d": "2026-10-28T12:58:39.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
-  },
-  {
-   "id": "5903a77bac011933",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 (@artificialanlys)",
-   "u": "https://www.techmeme.com/261028/p27#a261028p27",
-   "d": "2026-10-28T12:55:02.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
-  },
-  {
-   "id": "24099e7b764a80ae",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Samsung unveils the $229 Galaxy Buds On, its first open-fit, C-shaped cuff earbuds to compete with Sony and Bose, designed with AI's help, shipping November 6 (Chris Welch/Bloomberg)",
-   "u": "https://www.techmeme.com/261028/p25#a261028p25",
-   "d": "2026-10-28T12:25:01.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
-  },
-  {
-   "id": "d11722c1fb917b10",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a \"daily journal disguised as a pet\" (Mariella Moon/Engadget)",
-   "u": "https://www.techmeme.com/261028/p22#a261028p22",
-   "d": "2026-10-28T12:05:01.000Z",
    "first": "2026-10-28T15:33:34.833Z"
   },
   {
@@ -72,44 +112,24 @@
    "first": "2026-10-28T15:33:34.833Z"
   },
   {
-   "id": "ffcff8ac3ba2a365",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Chinese AI chipmaker Moore Threads reports Q3 revenue up 1,774% YoY to ~$240M and a ~$7.4M net profit; Moore is building a domestic 100K-GPU cluster with JD.com (Rachel Yeo/Bloomberg)",
-   "u": "https://www.techmeme.com/261028/p21#a261028p21",
-   "d": "2026-10-28T11:55:01.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
+   "id": "bd1b77889fb7e5c6",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "The future of the firm",
+   "u": "https://openai.com/index/the-future-of-the-firm",
+   "d": "2026-10-28T10:00:00.000Z",
+   "first": "2026-10-28T20:38:29.079Z"
   },
   {
-   "id": "438eedf06e8c57fe",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic's seven cofounders remain extremely influential and personally tight; Daniela Amodei, who runs operations, is seen as a good balance to Dario (Financial Times)",
-   "u": "https://www.techmeme.com/261028/p20#a261028p20",
-   "d": "2026-10-28T11:45:01.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
-  },
-  {
-   "id": "ff9e927a93d66d2c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A US federal grand jury indicts OpenAI engineer and Saudi national Abdulrahman \"Abdul\" Alfozan on a felony charge of interception of oral communications (Sarah Brager/San Francisco Chronicle)",
-   "u": "https://www.techmeme.com/261028/p19#a261028p19",
-   "d": "2026-10-28T11:35:02.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
-  },
-  {
-   "id": "b78bcde88cc6aafa",
+   "id": "1a3387a29340e094",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Legora is building the agentic operating system for legal work",
-   "u": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "u": "https://openai.com/index/legora",
    "d": "2026-10-28T09:30:00.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
+   "first": "2026-10-28T20:38:29.079Z"
   },
   {
    "id": "f0eb0bb9fce82d84",
@@ -842,16 +862,6 @@
    "first": "2026-10-23T20:43:19.635Z"
   },
   {
-   "id": "c94afd51e445841a",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "AI News: 24 Things You Need To Know This Week",
-   "u": "https://www.youtube.com/watch?v=TVRCcMlvR10",
-   "d": "2026-10-23T17:40:19.000Z",
-   "first": "2026-10-23T20:43:19.635Z"
-  },
-  {
    "id": "c2d09de97428132f",
    "f": "openai-news",
    "src": "OpenAI",
@@ -910,26 +920,6 @@
    "u": "https://tldr.tech/ai/2026-10-23",
    "d": "2026-10-23T00:00:00.000Z",
    "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "9ee51af33c9132d7",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-   "u": "https://openai.com/index/anima",
-   "d": "2026-10-23T00:00:00.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "3acbad74f2a06fc2",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-   "u": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-   "d": "2026-10-23T00:00:00.000Z",
-   "first": "2026-10-23T07:44:59.278Z"
   },
   {
    "id": "52e17f61abcf6cc5",
@@ -1062,16 +1052,6 @@
    "first": "2026-10-22T12:09:00.762Z"
   },
   {
-   "id": "9acf06e9ba341581",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Personal Body Guard Robot - What could go wrong?",
-   "u": "https://www.youtube.com/shorts/dyrNQV0F3Zs",
-   "d": "2026-10-22T03:06:41.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
-  },
-  {
    "id": "b6afbe3662ba21db",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1152,16 +1132,6 @@
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
-   "id": "8cb263f7c7fd064c",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "PHP2Shell: AI uncovers critical RCE in PHP",
-   "u": "https://www.wiz.io/blog/php2shell-php-rce",
-   "d": "2026-10-21T13:43:19.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
    "id": "f89a456551daa6c7",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1219,16 +1189,6 @@
    "t": "GLM-5.3 Sometimes Considers How Train-Time Actions Shape Future Behavior",
    "u": "https://www.lesswrong.com/posts/R5g8YT25G9DXJJ48n/glm-5-3-sometimes-considers-how-train-time-actions-shape",
    "d": "2026-10-20T20:26:31.000Z",
-   "first": "2026-10-20T21:58:15.418Z"
-  },
-  {
-   "id": "bc8b71eb9bdd0354",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "The Programmable Data Center — Evan Conrad, SF Compute",
-   "u": "https://latent.space/p/sfcompute2/",
-   "d": "2026-10-20T19:31:57.000Z",
    "first": "2026-10-20T21:58:15.418Z"
   },
   {
@@ -2252,16 +2212,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "36563458dbd48463",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "DeepSeek’s Insane New Architecture",
-   "u": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-   "d": "2026-09-18T07:03:46.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "478728626106c750",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -2399,16 +2349,6 @@
    "t": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
    "u": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
    "d": "2026-09-08T14:15:25.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "0b5ff386f4c4f0f1",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-   "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-   "d": "2026-09-08T14:00:15.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3105,7 +3045,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1030 > 1000"
+   "error": "Entity expansion limit exceeded: 1062 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3133,8 +3073,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",

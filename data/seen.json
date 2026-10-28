@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "4c93c0a063d8f224",
     "f0eb0bb9fce82d84",
     "0a70f166a0301951",
     "ff5a9f8ff65f2921",
@@ -248,7 +249,9 @@
   "openai-news": {
    "init": true,
    "ids": [
-    "b78bcde88cc6aafa",
+    "af1457fe0e356b06",
+    "bd1b77889fb7e5c6",
+    "1a3387a29340e094",
     "cc796df9934b6884",
     "79219d62c4042fd8",
     "67e53123745a34a0",
@@ -261,6 +264,7 @@
     "e1504bf39cfe9843",
     "c2d09de97428132f",
     "3a434fef28c21f63",
+    "b78bcde88cc6aafa",
     "9ee51af33c9132d7",
     "3acbad74f2a06fc2",
     "e2d8a412456e749d",
@@ -326,6 +330,7 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "9caa982344aceed0",
     "759335d759474e6e",
     "8405823ba9037fd0",
     "066f5a7939361f0d",
@@ -393,6 +398,8 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "3c0067f5a4ae2fba",
+    "85a0c293a5ce11f8",
     "3d6ed1d20c747421",
     "3265f3ac15807d6e",
     "5903a77bac011933",
@@ -1061,6 +1068,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "97aa9361e57c37c7",
     "d8b331098725868c",
     "ee2c770df23691b7",
     "37db21f3e190886f",
@@ -1079,6 +1087,8 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "a68676865c1bbe5f",
+    "2ae80c8d295226cb",
     "007398929fdb0cde",
     "e783a3e35583cb86",
     "12e53e5906da9ebc",
@@ -1183,6 +1193,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "b7ffb158e32d43bb",
     "4eba8f2ff5899964",
     "8012a37a93efef40",
     "5834dda59be98501",
