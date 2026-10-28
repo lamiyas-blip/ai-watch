@@ -1,6 +1,126 @@
 {
- "generated": "2026-10-28T08:47:45.290Z",
+ "generated": "2026-10-28T15:33:34.833Z",
  "items": [
+  {
+   "id": "3d6ed1d20c747421",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia debuts Nemotron 3.5 Transcribe, an open-weight model for multilingual audio transcription and translation, and Granary v2, its open-source speech dataset (Kyt Dotson/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261028/p33#a261028p33",
+   "d": "2026-10-28T15:20:02.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "3265f3ac15807d6e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
+   "u": "https://www.techmeme.com/261028/p32#a261028p32",
+   "d": "2026-10-28T14:40:01.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "3557db7aa5ffe0cb",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Artificial Analysis v5 and the benchmarker's dilemma",
+   "u": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "d": "2026-10-28T12:58:39.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "5903a77bac011933",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 (@artificialanlys)",
+   "u": "https://www.techmeme.com/261028/p27#a261028p27",
+   "d": "2026-10-28T12:55:02.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "24099e7b764a80ae",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Samsung unveils the $229 Galaxy Buds On, its first open-fit, C-shaped cuff earbuds to compete with Sony and Bose, designed with AI's help, shipping November 6 (Chris Welch/Bloomberg)",
+   "u": "https://www.techmeme.com/261028/p25#a261028p25",
+   "d": "2026-10-28T12:25:01.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "d11722c1fb917b10",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a \"daily journal disguised as a pet\" (Mariella Moon/Engadget)",
+   "u": "https://www.techmeme.com/261028/p22#a261028p22",
+   "d": "2026-10-28T12:05:01.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "64ecbd7d38377d3a",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Pairing industrial AI autonomy and human control",
+   "u": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+   "d": "2026-10-28T12:00:00.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "ffcff8ac3ba2a365",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chinese AI chipmaker Moore Threads reports Q3 revenue up 1,774% YoY to ~$240M and a ~$7.4M net profit; Moore is building a domestic 100K-GPU cluster with JD.com (Rachel Yeo/Bloomberg)",
+   "u": "https://www.techmeme.com/261028/p21#a261028p21",
+   "d": "2026-10-28T11:55:01.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "438eedf06e8c57fe",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic's seven cofounders remain extremely influential and personally tight; Daniela Amodei, who runs operations, is seen as a good balance to Dario (Financial Times)",
+   "u": "https://www.techmeme.com/261028/p20#a261028p20",
+   "d": "2026-10-28T11:45:01.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "ff9e927a93d66d2c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A US federal grand jury indicts OpenAI engineer and Saudi national Abdulrahman \"Abdul\" Alfozan on a felony charge of interception of oral communications (Sarah Brager/San Francisco Chronicle)",
+   "u": "https://www.techmeme.com/261028/p19#a261028p19",
+   "d": "2026-10-28T11:35:02.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "b78bcde88cc6aafa",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Legora is building the agentic operating system for legal work",
+   "u": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "d": "2026-10-28T09:30:00.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "f0eb0bb9fce82d84",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+   "u": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+   "d": "2026-10-28T08:50:30.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
+  },
   {
    "id": "cfc0e901d1f52052",
    "f": "yt-mlst",
@@ -32,16 +152,6 @@
    "first": "2026-10-28T08:47:45.290Z"
   },
   {
-   "id": "59b04a6d8450657b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity (Nikkei Asia)",
-   "u": "https://www.techmeme.com/261028/p6#a261028p6",
-   "d": "2026-10-28T05:40:01.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
    "id": "3286061ffaa16882",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -49,26 +159,6 @@
    "t": "Nobody Had Actually Read It (Kevin Buzzard)",
    "u": "https://www.youtube.com/shorts/eeVmSP9fL0c",
    "d": "2026-10-28T05:27:08.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
-   "id": "33f18efb6efb0fcc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years (Nikkei Asia)",
-   "u": "https://www.techmeme.com/261028/p3#a261028p3",
-   "d": "2026-10-28T04:40:01.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
-   "id": "6368db2796903462",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261028/p2#a261028p2",
-   "d": "2026-10-28T04:15:47.000Z",
    "first": "2026-10-28T08:47:45.290Z"
   },
   {
@@ -80,16 +170,6 @@
    "u": "https://www.youtube.com/watch?v=DDZ-a6bAn3Y",
    "d": "2026-10-28T03:47:38.000Z",
    "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
-   "id": "c4bc8b923f5d13e5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AMD says it will invest $1B in Meta's equity offering, its first Helios rackscale systems are installed at Meta, and its EPYC CPUs power Meta's Muse AI agent (Kai Nicol-Schwarz/CNBC)",
-   "u": "https://www.techmeme.com/261027/p41#a261027p41",
-   "d": "2026-10-28T01:45:42.000Z",
-   "first": "2026-10-28T02:26:58.414Z"
   },
   {
    "id": "4ef2224ab827e921",
@@ -110,6 +190,16 @@
    "u": "https://www.youtube.com/shorts/uXRcpSXIunA",
    "d": "2026-10-28T00:36:59.000Z",
    "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "89245e54ab3b033c",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Genie 4 worlds 🌍, Frontier Code 2 👨‍💻, AI drug discovery 🧬",
+   "u": "https://tldr.tech/ai/2026-10-28",
+   "d": "2026-10-28T00:00:00.000Z",
+   "first": "2026-10-28T15:33:34.833Z"
   },
   {
    "id": "4eba8f2ff5899964",
@@ -862,16 +952,6 @@
    "first": "2026-10-22T23:44:06.621Z"
   },
   {
-   "id": "e2d8a412456e749d",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Build more responsive apps with the Decisions API",
-   "u": "https://openai.com/index/decisions-api",
-   "d": "2026-10-22T19:00:00.000Z",
-   "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
    "id": "89e982d8a0d83128",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1200,26 +1280,6 @@
    "u": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
    "d": "2026-10-20T12:00:00.000Z",
    "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "d6af183469a2ed1a",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "A visit to Samsung’s massive new semiconductor hub",
-   "u": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-   "d": "2026-10-20T09:00:00.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
-   "id": "f2d96203090039a2",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] not much happened today",
-   "u": "https://latent.space/p/ainews-not-much-happened-today-f09/",
-   "d": "2026-10-20T05:21:52.000Z",
-   "first": "2026-10-20T08:57:12.649Z"
   },
   {
    "id": "ea5ab5760446c0c7",
@@ -1729,16 +1789,6 @@
    "t": "DeepMind's New AI Just Cracked The Code Of Life",
    "u": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "d": "2026-10-07T13:29:33.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "22dce8d3a94d544e",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌",
-   "u": "https://tldr.tech/ai/2026-10-07",
-   "d": "2026-10-07T00:00:00.000Z",
    "first": "2026-10-07T16:44:22.968Z"
   },
   {
@@ -2442,16 +2492,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "26953376bb31606d",
-   "f": "interconnects",
-   "src": "Interconnects",
-   "cat": "Newsletter",
-   "t": "I wrote an AI textbook — how long until AI can do it better?",
-   "u": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-   "d": "2026-08-12T13:01:16.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "c1822be39d92331a",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -3035,8 +3075,7 @@
   },
   "latent-space": {
    "name": "Latent Space",
-   "ok": false,
-   "error": "The operation was aborted due to timeout"
+   "ok": true
   },
   "interconnects": {
    "name": "Interconnects",
@@ -3066,7 +3105,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1032 > 1000"
+   "error": "Entity expansion limit exceeded: 1030 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3094,7 +3133,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3111,7 +3151,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1143 > 1000"
+   "error": "Entity expansion limit exceeded: 1101 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
