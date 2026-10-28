@@ -1,6 +1,86 @@
 {
- "generated": "2026-10-28T02:26:58.414Z",
+ "generated": "2026-10-28T08:47:45.290Z",
  "items": [
+  {
+   "id": "cfc0e901d1f52052",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "We're the Ones Having the Debate (Jeremy Avigad)",
+   "u": "https://www.youtube.com/shorts/IcXN7ysaqrc",
+   "d": "2026-10-28T08:26:23.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "6b957d13cfb0fabd",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "When It Doesn't Matter That It's Slop (Paul Lessard)",
+   "u": "https://www.youtube.com/shorts/_9axenbT-1I",
+   "d": "2026-10-28T07:51:47.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "0630364f37a4cc96",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "AI builds EVERYTHING...",
+   "u": "https://www.youtube.com/watch?v=6-sMVePCKS4",
+   "d": "2026-10-28T07:36:56.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "59b04a6d8450657b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity (Nikkei Asia)",
+   "u": "https://www.techmeme.com/261028/p6#a261028p6",
+   "d": "2026-10-28T05:40:01.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "3286061ffaa16882",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Nobody Had Actually Read It (Kevin Buzzard)",
+   "u": "https://www.youtube.com/shorts/eeVmSP9fL0c",
+   "d": "2026-10-28T05:27:08.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "33f18efb6efb0fcc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years (Nikkei Asia)",
+   "u": "https://www.techmeme.com/261028/p3#a261028p3",
+   "d": "2026-10-28T04:40:01.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "6368db2796903462",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's S-1 implies a $40T+ annual TAM based on knowledge work's economic value in 2025, topping SpaceX's $28.5T estimate, without explicitly naming TAM (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261028/p2#a261028p2",
+   "d": "2026-10-28T04:15:47.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
+  {
+   "id": "552dc73251d29b91",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Deepseek crushed everyone",
+   "u": "https://www.youtube.com/watch?v=DDZ-a6bAn3Y",
+   "d": "2026-10-28T03:47:38.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
+  },
   {
    "id": "c4bc8b923f5d13e5",
    "f": "techmeme",
@@ -12,84 +92,34 @@
    "first": "2026-10-28T02:26:58.414Z"
   },
   {
-   "id": "7d648d0ab9d621e0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs (Ryan Barwick/The Information)",
-   "u": "https://www.techmeme.com/261027/p39#a261027p39",
-   "d": "2026-10-28T00:15:41.000Z",
-   "first": "2026-10-28T02:26:58.414Z"
+   "id": "4ef2224ab827e921",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The Annals Published It. It Wasn't True. - Kevin Buzzard",
+   "u": "https://www.youtube.com/shorts/Melgii34x-c",
+   "d": "2026-10-28T00:47:40.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
   },
   {
-   "id": "ce0e122611cc4ebb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that \"hunger beats tenure\" (Felix Rieseberg)",
-   "u": "https://www.techmeme.com/261027/p38#a261027p38",
-   "d": "2026-10-28T00:01:32.000Z",
-   "first": "2026-10-28T02:26:58.414Z"
+   "id": "25da597253e6cad8",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The Scientific Revolution Happened in a Filthy City - Kyle Harper",
+   "u": "https://www.youtube.com/shorts/uXRcpSXIunA",
+   "d": "2026-10-28T00:36:59.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
   },
   {
-   "id": "f6e7ca7a5baac1ae",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "4eba8f2ff5899964",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Anthropic expands its US GSA partnership to give federal, state, local, tribal, and territorial governments a 40% discount on Claude, estimated to save $1B (Anthropic)",
-   "u": "https://www.techmeme.com/261027/p36#a261027p36",
-   "d": "2026-10-27T23:35:01.000Z",
-   "first": "2026-10-28T02:26:58.414Z"
-  },
-  {
-   "id": "448ef766cfdb7286",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation (Rashi Shrivastava/Forbes)",
-   "u": "https://www.techmeme.com/261027/p35#a261027p35",
-   "d": "2026-10-27T23:20:01.000Z",
-   "first": "2026-10-28T02:26:58.414Z"
-  },
-  {
-   "id": "7ef32e17f063d23c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic details early drug development work with six partners and says it has acquired Mithril, a one-person company working on muscular dystrophy (Anthropic)",
-   "u": "https://www.techmeme.com/261027/p31#a261027p31",
-   "d": "2026-10-27T21:45:39.000Z",
-   "first": "2026-10-27T23:17:48.381Z"
-  },
-  {
-   "id": "c02a40236cf3579c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 (Bloomberg)",
-   "u": "https://www.techmeme.com/261027/p29#a261027p29",
-   "d": "2026-10-27T20:20:04.000Z",
-   "first": "2026-10-27T23:17:48.381Z"
-  },
-  {
-   "id": "7742ef0c32bc6784",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares (Anthony Hughes/Bloomberg)",
-   "u": "https://www.techmeme.com/261027/p28#a261027p28",
-   "d": "2026-10-27T20:02:31.000Z",
-   "first": "2026-10-27T23:17:48.381Z"
-  },
-  {
-   "id": "0d5cc4a0e95d1e92",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing (Annie Palmer/CNBC)",
-   "u": "https://www.techmeme.com/261027/p27#a261027p27",
-   "d": "2026-10-27T19:15:34.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
+   "t": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "u": "https://www.brangus.io/survival-llm",
+   "d": "2026-10-27T19:55:06.000Z",
+   "first": "2026-10-28T08:47:45.290Z"
   },
   {
    "id": "0a70f166a0301951",
@@ -722,16 +752,6 @@
    "first": "2026-10-23T20:43:19.635Z"
   },
   {
-   "id": "346fc9679393504b",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Team AMA (and Kimi K3.1 Testing!!)",
-   "u": "https://www.youtube.com/watch?v=7fZ1rFcm1nA",
-   "d": "2026-10-23T18:07:47.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
    "id": "c94afd51e445841a",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -1112,16 +1132,6 @@
    "first": "2026-10-21T19:25:43.093Z"
   },
   {
-   "id": "3fbf62b6ee182545",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "What if the Vikings had colonized America? - Si Sheppard",
-   "u": "https://www.youtube.com/shorts/ykyt-M6s3PA",
-   "d": "2026-10-20T21:25:20.000Z",
-   "first": "2026-10-20T21:58:15.418Z"
-  },
-  {
    "id": "adee386d1f22f970",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1140,16 +1150,6 @@
    "u": "https://latent.space/p/sfcompute2/",
    "d": "2026-10-20T19:31:57.000Z",
    "first": "2026-10-20T21:58:15.418Z"
-  },
-  {
-   "id": "6123d9880f597cfa",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "A practical guide to AI image generation, from diffusion to agents",
-   "u": "https://danielball.com/notes/ai_image_generation.html",
-   "d": "2026-10-20T19:22:39.000Z",
-   "first": "2026-10-24T18:52:32.742Z"
   },
   {
    "id": "2273a448d96d0760",
@@ -1602,26 +1602,6 @@
    "first": "2026-10-11T19:02:37.957Z"
   },
   {
-   "id": "089abce35ee3b621",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "AI Coding Is a Slot Machine: Loss Disguised as a Win | Jeremy Howard",
-   "u": "https://www.youtube.com/shorts/DVRMDoYhVBI",
-   "d": "2026-10-11T09:19:59.000Z",
-   "first": "2026-10-11T14:14:01.943Z"
-  },
-  {
-   "id": "9db1fcc86cac9f51",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "What Most People Get Wrong About Evolution | Akarsh Kumar",
-   "u": "https://www.youtube.com/watch?v=615B5nyMFPk",
-   "d": "2026-10-10T04:31:57.000Z",
-   "first": "2026-10-10T08:46:16.299Z"
-  },
-  {
    "id": "493d90e5f5216717",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1692,26 +1672,6 @@
    "first": "2026-10-08T15:00:11.845Z"
   },
   {
-   "id": "87ff2c156e976a29",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Life as it could be | Akarsh Kumar on Artificial Life",
-   "u": "https://www.youtube.com/shorts/pniLY0I9VJQ",
-   "d": "2026-10-08T11:34:31.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "7e4033a56dcdb463",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Game of Thrones: Turing Edition | Akarsh Kumar on Core War",
-   "u": "https://www.youtube.com/shorts/LfUgsSUdaX8",
-   "d": "2026-10-08T10:30:08.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
    "id": "5d2d4d08df53558d",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1770,16 +1730,6 @@
    "u": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "d": "2026-10-07T13:29:33.000Z",
    "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "249d85846c741099",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "OpenAI's secret model just BROKE math...",
-   "u": "https://www.youtube.com/watch?v=fTGIV3e8dTU",
-   "d": "2026-10-07T04:02:49.000Z",
-   "first": "2026-10-07T09:26:59.764Z"
   },
   {
    "id": "22dce8d3a94d544e",
@@ -3085,7 +3035,8 @@
   },
   "latent-space": {
    "name": "Latent Space",
-   "ok": true
+   "ok": false,
+   "error": "The operation was aborted due to timeout"
   },
   "interconnects": {
    "name": "Interconnects",
@@ -3143,8 +3094,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3161,7 +3111,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1126 > 1000"
+   "error": "Entity expansion limit exceeded: 1143 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3171,7 +3121,7 @@
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1011 > 1000"
+   "error": "HTTP 429"
   },
   "yt-ai-explained": {
    "name": "AI Explained",
@@ -3179,53 +3129,43 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }

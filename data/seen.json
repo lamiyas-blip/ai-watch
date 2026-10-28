@@ -389,6 +389,9 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "59b04a6d8450657b",
+    "33f18efb6efb0fcc",
+    "6368db2796903462",
     "c4bc8b923f5d13e5",
     "7d648d0ab9d621e0",
     "ce0e122611cc4ebb",
@@ -930,6 +933,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "25da597253e6cad8",
     "f758eac6f34769d0",
     "16abd7c77ab03a46",
     "33f14f456fb1026f",
@@ -965,6 +969,10 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "cfc0e901d1f52052",
+    "6b957d13cfb0fabd",
+    "3286061ffaa16882",
+    "4ef2224ab827e921",
     "ca10e2aea6d0c679",
     "7f2d3eb64c6c8a9e",
     "ded191a65c16e657",
@@ -1090,6 +1098,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "552dc73251d29b91",
     "e4e173c5658f44bd",
     "558d83aee2b5b3ff",
     "1df6ec3fa3dfda99",
@@ -1139,6 +1148,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "0630364f37a4cc96",
     "91ea0aa7ed1e3f57",
     "a22a031998ca235e",
     "5ef08555cd8313cd",
@@ -1160,6 +1170,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "4eba8f2ff5899964",
     "8012a37a93efef40",
     "5834dda59be98501",
     "dd74b93d1345fc5f",
