@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "d1643c8e4030cd5d",
     "64137a87bbc9c1f5",
     "4c93c0a063d8f224",
     "f0eb0bb9fce82d84",
@@ -185,6 +186,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "453c62983210cd9d",
     "89245e54ab3b033c",
     "bc93f65561465f1e",
     "57f59158d2e339f1",
@@ -223,6 +225,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "dd87af6b56b4d61e",
     "33a1dffeb946ed5a",
     "4cddaad32ea71f6a",
     "9142439fbfb8b949",
@@ -250,6 +253,9 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "de41832cf72f3388",
+    "cfa130f3ef2beecf",
+    "34c82fec96a10cda",
     "af1457fe0e356b06",
     "bd1b77889fb7e5c6",
     "1a3387a29340e094",
@@ -400,6 +406,12 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "3e3f3c0b602aff2d",
+    "a48c6c4ea92ea551",
+    "94645e9b84d4a95f",
+    "2daef905ac5b9cbc",
+    "bdf47ca94e43ea48",
+    "0f85d6a3b2d97aff",
     "4913cf9e4b8a0ae5",
     "7d3d408dcc4d22e8",
     "c4aeacd512d61075",
@@ -972,6 +984,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "2c88569a02fd1020",
     "ade4dd2f9ab7b4ba",
     "25da597253e6cad8",
     "f758eac6f34769d0",
@@ -1107,6 +1120,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "9d299a9140702d6a",
     "a68676865c1bbe5f",
     "2ae80c8d295226cb",
     "007398929fdb0cde",

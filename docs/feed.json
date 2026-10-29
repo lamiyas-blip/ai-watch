@@ -1,45 +1,115 @@
 {
- "generated": "2026-10-29T13:24:13.130Z",
+ "generated": "2026-10-29T19:03:02.080Z",
  "items": [
   {
-   "id": "4913cf9e4b8a0ae5",
+   "id": "3e3f3c0b602aff2d",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Q&A with Palantir CTO Shyam Sankar on diffusing intelligence, safety, AI lessons, forward-deployed engineering, Anthropic vs. the US, AI religion, and more (Ben Thompson/Stratechery)",
-   "u": "https://www.techmeme.com/261029/p25#a261029p25",
-   "d": "2026-10-29T12:31:03.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
+   "t": "OpenAI updates Model Spec to reorganize it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care (OpenAI)",
+   "u": "https://www.techmeme.com/261029/p42#a261029p42",
+   "d": "2026-10-29T18:00:01.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
   },
   {
-   "id": "7d3d408dcc4d22e8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Circuit Mind, which uses AI to automate electronics and circuit design, raised $25M, including an $18.5M Series A led by Norwest, and plans a US relocation (Natalie Breymeyer/Axios)",
-   "u": "https://www.techmeme.com/261029/p24#a261029p24",
-   "d": "2026-10-29T12:16:14.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
+   "id": "de41832cf72f3388",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "An updated Model Spec for more capable and beneficial AI",
+   "u": "https://openai.com/index/updated-model-spec",
+   "d": "2026-10-29T17:00:00.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
   },
   {
-   "id": "c4aeacd512d61075",
+   "id": "a48c6c4ea92ea551",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown (The Information)",
-   "u": "https://www.techmeme.com/261029/p19#a261029p19",
-   "d": "2026-10-29T10:46:03.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
+   "t": "SuperMe, which generates AI-powered chats with simulated profiles of prominent industry experts to let users ask questions, raised $20M (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261029/p41#a261029p41",
+   "d": "2026-10-29T16:55:02.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
   },
   {
-   "id": "29cafa17fe079a9f",
+   "id": "2c88569a02fd1020",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How an unelected man ruled New York for 30 years",
+   "u": "https://www.youtube.com/watch?v=kX_WmQK_tt0",
+   "d": "2026-10-29T16:51:24.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "94645e9b84d4a95f",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Epic Games says it is using AI tools to \"develop code and features\" for Unreal Engine, including core engine components like the D3D12 rendering layer (Jamie Hore/This Week in Videogames)",
-   "u": "https://www.techmeme.com/261029/p18#a261029p18",
-   "d": "2026-10-29T10:35:01.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
+   "t": "Alphabet's stock falls 12%+, wiping a record $500B from its market cap, after reporting negative cash flow amid its AI spending; the Nasdaq falls 1.4%+ (Stephen Morris/Financial Times)",
+   "u": "https://www.techmeme.com/261029/p38#a261029p38",
+   "d": "2026-10-29T16:25:01.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "d1643c8e4030cd5d",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+   "u": "https://latent.space/p/elorian/",
+   "d": "2026-10-29T16:00:00.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "9d299a9140702d6a",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "3 Critical Tasks AI Can Automate For You",
+   "u": "https://www.youtube.com/shorts/evXFML_Rnc0",
+   "d": "2026-10-29T15:28:47.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "2daef905ac5b9cbc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Collective, which uses AI to automate bookkeeping for solo business owners, raised a $40M Series B and $60M in nondilutive capital from GC's Customer Value Fund (Natalie Breymeyer/Axios)",
+   "u": "https://www.techmeme.com/261029/p33#a261029p33",
+   "d": "2026-10-29T15:15:02.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "bdf47ca94e43ea48",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Ottawa-based Solink, which uses AI to pull data from already-installed security cameras, raised $100M+ led by Vertu Capital, bringing its total raised to $198M+ (Duncan Riley/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261029/p32#a261029p32",
+   "d": "2026-10-29T15:05:00.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "dd87af6b56b4d61e",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "AI is overwhelming and I’m doing it wrong",
+   "u": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
+   "d": "2026-10-29T14:03:54.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "0f85d6a3b2d97aff",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025 (Harshita Mary Varghese/Reuters)",
+   "u": "https://www.techmeme.com/261029/p29#a261029p29",
+   "d": "2026-10-29T13:55:01.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
   },
   {
    "id": "e61223677bf4d10a",
@@ -50,6 +120,26 @@
    "u": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
    "d": "2026-10-29T10:11:12.000Z",
    "first": "2026-10-29T13:24:13.130Z"
+  },
+  {
+   "id": "cfa130f3ef2beecf",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How we detect frontier model misalignment",
+   "u": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "d": "2026-10-29T09:00:00.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "34c82fec96a10cda",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Ropes & Gray is developing AI for transactional diligence",
+   "u": "https://openai.com/index/ropes-gray-ai-diligence",
+   "d": "2026-10-29T07:00:00.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
   },
   {
    "id": "64137a87bbc9c1f5",
@@ -80,6 +170,16 @@
    "u": "https://www.youtube.com/watch?v=zhnJo7s91ls",
    "d": "2026-10-29T00:29:20.000Z",
    "first": "2026-10-29T13:24:13.130Z"
+  },
+  {
+   "id": "453c62983210cd9d",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Gemini 4 Carbon 🌱, Nemotron Transcribe 📝, benchmarker’s dilemma ❓",
+   "u": "https://tldr.tech/ai/2026-10-29",
+   "d": "2026-10-29T00:00:00.000Z",
+   "first": "2026-10-29T19:03:02.080Z"
   },
   {
    "id": "ade4dd2f9ab7b4ba",
@@ -126,7 +226,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "His AI Made 20 Reels Before Breakfast",
+   "t": "Nate Herk Breaks Down His 3 Most Insane AI Automations",
    "u": "https://www.youtube.com/watch?v=AtjFk9f44HE",
    "d": "2026-10-28T19:25:38.000Z",
    "first": "2026-10-28T20:38:29.079Z"
@@ -752,16 +852,6 @@
    "first": "2026-10-26T13:39:53.734Z"
   },
   {
-   "id": "e1504bf39cfe9843",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing GPT-6.1 Terra",
-   "u": "https://openai.com/index/introducing-gpt-6-1-terra",
-   "d": "2026-10-26T00:00:00.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
    "id": "d37d60eea82fab52",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -932,16 +1022,6 @@
    "first": "2026-10-23T23:36:45.227Z"
   },
   {
-   "id": "09b2c507be61d422",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "These ChatGPT Prompts Are Game-Changers!",
-   "u": "https://www.youtube.com/shorts/WSHEBdmahHY",
-   "d": "2026-10-23T21:15:47.000Z",
-   "first": "2026-10-23T23:36:45.227Z"
-  },
-  {
    "id": "ee226666af0238d8",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -950,16 +1030,6 @@
    "u": "https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at",
    "d": "2026-10-23T19:06:44.000Z",
    "first": "2026-10-23T20:43:19.635Z"
-  },
-  {
-   "id": "c2d09de97428132f",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "u": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "d": "2026-10-23T17:00:00.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
   },
   {
    "id": "57fe00989e18d01e",
@@ -990,16 +1060,6 @@
    "u": "https://latent.space/p/ainews-black-october/",
    "d": "2026-10-23T10:09:29.000Z",
    "first": "2026-10-23T12:54:53.458Z"
-  },
-  {
-   "id": "3a434fef28c21f63",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Securing our frontier model training environment",
-   "u": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "d": "2026-10-23T10:00:00.000Z",
-   "first": "2026-10-23T20:43:19.635Z"
   },
   {
    "id": "2e575241118c4c80",
@@ -1172,16 +1232,6 @@
    "first": "2026-10-21T22:32:23.894Z"
   },
   {
-   "id": "8753350a65f1f187",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why Britain Gave Up America - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/Hph1Bwzdk_4",
-   "d": "2026-10-21T18:15:24.000Z",
-   "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
    "id": "334aa381d3c24d71",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -1210,16 +1260,6 @@
    "u": "https://latent.space/p/claude-mods/",
    "d": "2026-10-21T13:04:19.000Z",
    "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "7af02910cd018293",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-   "u": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
-   "d": "2026-10-21T06:54:09.000Z",
-   "first": "2026-10-21T10:22:20.903Z"
   },
   {
    "id": "69f691302f7266b6",
@@ -1740,16 +1780,6 @@
    "u": "https://www.lesswrong.com/posts/vzKWsEskYBEWTwpBP/what-s-the-date",
    "d": "2026-10-08T02:49:10.000Z",
    "first": "2026-10-08T07:36:20.931Z"
-  },
-  {
-   "id": "75d25a2b192a2be5",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
-   "u": "https://tldr.tech/ai/2026-10-08",
-   "d": "2026-10-08T00:00:00.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
   },
   {
    "id": "55db05e650cd10b0",
@@ -2319,16 +2349,6 @@
    "t": "The AI-as-Normal-Technology view of loss-of-control incidents",
    "u": "https://www.normaltech.ai/p/the-ai-as-normal-technology-view",
    "d": "2026-09-14T10:30:14.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "11568838b9aeba66",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "Telling AI to design is hard",
-   "u": "https://www.bensbites.com/p/telling-ai-to-design-is-hard",
-   "d": "2026-09-11T13:07:26.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3065,7 +3085,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1056 > 1000"
+   "error": "Entity expansion limit exceeded: 1038 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3110,7 +3130,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1131 > 1000"
+   "error": "Entity expansion limit exceeded: 1203 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
