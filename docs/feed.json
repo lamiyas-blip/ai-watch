@@ -1,6 +1,86 @@
 {
- "generated": "2026-10-29T00:29:38.175Z",
+ "generated": "2026-10-29T06:14:06.343Z",
  "items": [
+  {
+   "id": "1cd75855ffb2d7f9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)",
+   "u": "https://www.techmeme.com/261029/p7#a261029p7",
+   "d": "2026-10-29T06:02:01.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
+  {
+   "id": "64137a87bbc9c1f5",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+   "u": "https://latent.space/p/ainews-gemini-4-carbon/",
+   "d": "2026-10-29T05:55:19.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
+  {
+   "id": "9e745884ce395fac",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows (Lauren Forristal/TechCrunch)",
+   "u": "https://www.techmeme.com/261029/p6#a261029p6",
+   "d": "2026-10-29T05:30:11.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
+  {
+   "id": "fe9b0c4caec3b428",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to \"lower monetization\" in AI Mode (Simon Sharwood/The Register)",
+   "u": "https://www.techmeme.com/261029/p3#a261029p3",
+   "d": "2026-10-29T05:10:01.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
+  {
+   "id": "6f9a35f0eebfbdac",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others (Chris Metinko/Axios)",
+   "u": "https://www.techmeme.com/261029/p1#a261029p1",
+   "d": "2026-10-29T04:05:01.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
+  {
+   "id": "07556edd44fa05d1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia (Rolfe Winkler/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261028/p65#a261028p65",
+   "d": "2026-10-29T03:55:00.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
+  {
+   "id": "68123fbf06c5a0d2",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Plan R: AI Safety by ASICs",
+   "u": "https://www.lesswrong.com/posts/n8u3BfqFoGh4jnzpo/plan-r-ai-safety-by-asics",
+   "d": "2026-10-29T02:08:07.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
+  {
+   "id": "07af3068e31afd87",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Carl Franzen/VentureBeat)",
+   "u": "https://www.techmeme.com/261028/p63#a261028p63",
+   "d": "2026-10-29T02:00:02.000Z",
+   "first": "2026-10-29T06:14:06.343Z"
+  },
   {
    "id": "72d63e0eca60a025",
    "f": "techmeme",
@@ -9,36 +89,6 @@
    "t": "Sources: AI coding startup Cognition weighs a new funding round before year's end after receiving offers valuing it at $70B-$80B, up from $48B in September (Katie Roof/Business Insider)",
    "u": "https://www.techmeme.com/261028/p59#a261028p59",
    "d": "2026-10-29T00:20:23.000Z",
-   "first": "2026-10-29T00:29:38.175Z"
-  },
-  {
-   "id": "fc4021c4c5f13418",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea's National Growth Fund contributed $280M (Yoolim Lee/Bloomberg)",
-   "u": "https://www.techmeme.com/261028/p58#a261028p58",
-   "d": "2026-10-28T23:45:01.000Z",
-   "first": "2026-10-29T00:29:38.175Z"
-  },
-  {
-   "id": "479dfda2f2fb5518",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct (Reuters)",
-   "u": "https://www.techmeme.com/261028/p57#a261028p57",
-   "d": "2026-10-28T23:00:49.000Z",
-   "first": "2026-10-29T00:29:38.175Z"
-  },
-  {
-   "id": "b69c3fc8ec9badee",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI (Rebecca Bellan/TechCrunch)",
-   "u": "https://www.techmeme.com/261028/p53#a261028p53",
-   "d": "2026-10-28T22:10:05.000Z",
    "first": "2026-10-29T00:29:38.175Z"
   },
   {
@@ -69,16 +119,6 @@
    "t": "His AI Made 20 Reels Before Breakfast",
    "u": "https://www.youtube.com/watch?v=AtjFk9f44HE",
    "d": "2026-10-28T19:25:38.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
-   "id": "3c0067f5a4ae2fba",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "NY Gov. Kathy Hochul signs bills banning AI chatbots from using \"unsafe features\" for minors and requiring security features in internet-connected baby monitors (Raga Justin/Bloomberg Government)",
-   "u": "https://www.techmeme.com/261028/p46#a261028p46",
-   "d": "2026-10-28T19:10:00.000Z",
    "first": "2026-10-28T20:38:29.079Z"
   },
   {
@@ -1202,16 +1242,6 @@
    "first": "2026-10-21T10:22:20.903Z"
   },
   {
-   "id": "8f56c28d768ded87",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-   "u": "https://latent.space/p/tenex/",
-   "d": "2026-10-21T05:01:26.000Z",
-   "first": "2026-10-21T05:03:41.409Z"
-  },
-  {
    "id": "69f691302f7266b6",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -2252,16 +2282,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "406d91863781c387",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "The Talker Does Not Control The Doer (in Current AIs)",
-   "u": "https://www.lesswrong.com/posts/cJX2ssssGoYqnijwi/the-talker-does-not-control-the-doer-in-current-ais",
-   "d": "2026-09-17T02:05:40.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "8af83e5314a42c35",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -3103,7 +3123,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3120,7 +3141,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1101 > 1000"
+   "error": "Entity expansion limit exceeded: 1252 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3140,7 +3161,7 @@
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3173,7 +3194,8 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
