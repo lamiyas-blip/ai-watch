@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-28T20:38:29.079Z",
+ "generated": "2026-10-29T00:29:38.175Z",
  "items": [
+  {
+   "id": "72d63e0eca60a025",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: AI coding startup Cognition weighs a new funding round before year's end after receiving offers valuing it at $70B-$80B, up from $48B in September (Katie Roof/Business Insider)",
+   "u": "https://www.techmeme.com/261028/p59#a261028p59",
+   "d": "2026-10-29T00:20:23.000Z",
+   "first": "2026-10-29T00:29:38.175Z"
+  },
+  {
+   "id": "fc4021c4c5f13418",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea's National Growth Fund contributed $280M (Yoolim Lee/Bloomberg)",
+   "u": "https://www.techmeme.com/261028/p58#a261028p58",
+   "d": "2026-10-28T23:45:01.000Z",
+   "first": "2026-10-29T00:29:38.175Z"
+  },
+  {
+   "id": "479dfda2f2fb5518",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: the US DOJ has inquired about the impact of Nvidia's Hugging Face deal on AI competition, as antitrust enforcers continue to probe Nvidia's conduct (Reuters)",
+   "u": "https://www.techmeme.com/261028/p57#a261028p57",
+   "d": "2026-10-28T23:00:49.000Z",
+   "first": "2026-10-29T00:29:38.175Z"
+  },
+  {
+   "id": "b69c3fc8ec9badee",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Microsoft recorded $10B in revenue from OpenAI in Q1, nearly 11% of its total quarterly revenue, and has $7.2B in outstanding receivables from OpenAI (Rebecca Bellan/TechCrunch)",
+   "u": "https://www.techmeme.com/261028/p53#a261028p53",
+   "d": "2026-10-28T22:10:05.000Z",
+   "first": "2026-10-29T00:29:38.175Z"
+  },
+  {
+   "id": "a3dad553b0a6c852",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Creating AI value with enterprise context",
+   "u": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+   "d": "2026-10-28T20:32:02.000Z",
+   "first": "2026-10-29T00:29:38.175Z"
+  },
   {
    "id": "4c93c0a063d8f224",
    "f": "latent-space",
@@ -16,7 +66,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "He Put Hormozi, Bezos & Buffett Inside Claude",
+   "t": "His AI Made 20 Reels Before Breakfast",
    "u": "https://www.youtube.com/watch?v=AtjFk9f44HE",
    "d": "2026-10-28T19:25:38.000Z",
    "first": "2026-10-28T20:38:29.079Z"
@@ -49,16 +99,6 @@
    "t": "Deepseek's New AI Has A Secret",
    "u": "https://www.youtube.com/watch?v=pryCaGv8wuo",
    "d": "2026-10-28T17:32:40.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
-   "id": "85a0c293a5ce11f8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google unveils Gemini 4 Carbon, its \"strongest model with state-of-the-art cybersecurity\" capabilities, ranked #1 on Artificial Analysis' new Intelligence Index (Koray Kavukcuoglu/Google)",
-   "u": "https://www.techmeme.com/261028/p38#a261028p38",
-   "d": "2026-10-28T17:09:07.000Z",
    "first": "2026-10-28T20:38:29.079Z"
   },
   {
@@ -220,6 +260,16 @@
    "u": "https://tldr.tech/ai/2026-10-28",
    "d": "2026-10-28T00:00:00.000Z",
    "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "f64c35abba15b399",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "AI for Science expands to foundations and research institutions",
+   "u": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "d": "2026-10-28T00:00:00.000Z",
+   "first": "2026-10-29T00:29:38.175Z"
   },
   {
    "id": "4eba8f2ff5899964",
@@ -1232,16 +1282,6 @@
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
-   "id": "6f69eb9264e1843a",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "AI adoption by industry shows what other sectors can learn",
-   "u": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-   "d": "2026-10-20T12:00:00.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
    "id": "ea5ab5760446c0c7",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1750,16 +1790,6 @@
    "u": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "d": "2026-10-07T13:29:33.000Z",
    "first": "2026-10-07T16:44:22.968Z"
-  },
-  {
-   "id": "7271064254bd3a2d",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Introducing Claude Haiku 5.5",
-   "u": "https://www.anthropic.com/claude-haiku-5-5",
-   "d": "2026-10-07T00:00:00.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
   },
   {
    "id": "d5f20e84815040d4",
@@ -3045,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1062 > 1000"
+   "error": "Entity expansion limit exceeded: 1056 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3104,23 +3134,28 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3128,11 +3163,13 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3140,11 +3177,13 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }

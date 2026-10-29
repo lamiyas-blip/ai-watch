@@ -359,6 +359,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "f64c35abba15b399",
     "97d2605547a5eac9",
     "a7e0659ce966832e",
     "d37d60eea82fab52",
@@ -398,6 +399,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "72d63e0eca60a025",
+    "fc4021c4c5f13418",
+    "479dfda2f2fb5518",
+    "b69c3fc8ec9badee",
     "3c0067f5a4ae2fba",
     "85a0c293a5ce11f8",
     "3d6ed1d20c747421",
@@ -864,6 +869,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "a3dad553b0a6c852",
     "64ecbd7d38377d3a",
     "695a7e36f6814d4a",
     "77ec9a11536dd600",
