@@ -1,15 +1,25 @@
 {
- "generated": "2026-10-29T19:03:02.080Z",
+ "generated": "2026-10-29T23:25:29.082Z",
  "items": [
   {
-   "id": "3e3f3c0b602aff2d",
+   "id": "a5f8f32c24bdf52f",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI updates Model Spec to reorganize it around five values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care (OpenAI)",
-   "u": "https://www.techmeme.com/261029/p42#a261029p42",
-   "d": "2026-10-29T18:00:01.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
+   "t": "Sources: Nvidia is in talks to provide Nscale with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use (Phoebe Liu/The Information)",
+   "u": "https://www.techmeme.com/261029/p59#a261029p59",
+   "d": "2026-10-29T22:55:00.000Z",
+   "first": "2026-10-29T23:25:29.082Z"
+  },
+  {
+   "id": "1d58a9aab8b0807a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Reddit plans to require users to log in to fully access the site in response to AI scraping and will test it in select markets outside the US this quarter (Sara Fischer/Axios)",
+   "u": "https://www.techmeme.com/261029/p48#a261029p48",
+   "d": "2026-10-29T20:21:24.000Z",
+   "first": "2026-10-29T23:25:29.082Z"
   },
   {
    "id": "de41832cf72f3388",
@@ -22,16 +32,6 @@
    "first": "2026-10-29T19:03:02.080Z"
   },
   {
-   "id": "a48c6c4ea92ea551",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "SuperMe, which generates AI-powered chats with simulated profiles of prominent industry experts to let users ask questions, raised $20M (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261029/p41#a261029p41",
-   "d": "2026-10-29T16:55:02.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
    "id": "2c88569a02fd1020",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -39,16 +39,6 @@
    "t": "How an unelected man ruled New York for 30 years",
    "u": "https://www.youtube.com/watch?v=kX_WmQK_tt0",
    "d": "2026-10-29T16:51:24.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "94645e9b84d4a95f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Alphabet's stock falls 12%+, wiping a record $500B from its market cap, after reporting negative cash flow amid its AI spending; the Nasdaq falls 1.4%+ (Stephen Morris/Financial Times)",
-   "u": "https://www.techmeme.com/261029/p38#a261029p38",
-   "d": "2026-10-29T16:25:01.000Z",
    "first": "2026-10-29T19:03:02.080Z"
   },
   {
@@ -72,26 +62,6 @@
    "first": "2026-10-29T19:03:02.080Z"
   },
   {
-   "id": "2daef905ac5b9cbc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Collective, which uses AI to automate bookkeeping for solo business owners, raised a $40M Series B and $60M in nondilutive capital from GC's Customer Value Fund (Natalie Breymeyer/Axios)",
-   "u": "https://www.techmeme.com/261029/p33#a261029p33",
-   "d": "2026-10-29T15:15:02.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "bdf47ca94e43ea48",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Ottawa-based Solink, which uses AI to pull data from already-installed security cameras, raised $100M+ led by Vertu Capital, bringing its total raised to $198M+ (Duncan Riley/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261029/p32#a261029p32",
-   "d": "2026-10-29T15:05:00.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
    "id": "dd87af6b56b4d61e",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -99,16 +69,6 @@
    "t": "AI is overwhelming and I’m doing it wrong",
    "u": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
    "d": "2026-10-29T14:03:54.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "0f85d6a3b2d97aff",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025 (Harshita Mary Varghese/Reuters)",
-   "u": "https://www.techmeme.com/261029/p29#a261029p29",
-   "d": "2026-10-29T13:55:01.000Z",
    "first": "2026-10-29T19:03:02.080Z"
   },
   {
@@ -3085,7 +3045,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1038 > 1000"
+   "error": "Entity expansion limit exceeded: 1090 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3130,7 +3090,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1203 > 1000"
+   "error": "Entity expansion limit exceeded: 1006 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3144,47 +3104,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
