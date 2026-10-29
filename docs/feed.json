@@ -1,15 +1,55 @@
 {
- "generated": "2026-10-29T06:14:06.343Z",
+ "generated": "2026-10-29T13:24:13.130Z",
  "items": [
   {
-   "id": "1cd75855ffb2d7f9",
+   "id": "4913cf9e4b8a0ae5",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)",
-   "u": "https://www.techmeme.com/261029/p7#a261029p7",
-   "d": "2026-10-29T06:02:01.000Z",
-   "first": "2026-10-29T06:14:06.343Z"
+   "t": "Q&A with Palantir CTO Shyam Sankar on diffusing intelligence, safety, AI lessons, forward-deployed engineering, Anthropic vs. the US, AI religion, and more (Ben Thompson/Stratechery)",
+   "u": "https://www.techmeme.com/261029/p25#a261029p25",
+   "d": "2026-10-29T12:31:03.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
+  },
+  {
+   "id": "7d3d408dcc4d22e8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Circuit Mind, which uses AI to automate electronics and circuit design, raised $25M, including an $18.5M Series A led by Norwest, and plans a US relocation (Natalie Breymeyer/Axios)",
+   "u": "https://www.techmeme.com/261029/p24#a261029p24",
+   "d": "2026-10-29T12:16:14.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
+  },
+  {
+   "id": "c4aeacd512d61075",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: DeepSeek and Moonshot AI heavily relied on GPT-6 Astra distillation to train models like Kimi K3.1 Pro and V4.1-Flash 1017, after Anthropic's crackdown (The Information)",
+   "u": "https://www.techmeme.com/261029/p19#a261029p19",
+   "d": "2026-10-29T10:46:03.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
+  },
+  {
+   "id": "29cafa17fe079a9f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Epic Games says it is using AI tools to \"develop code and features\" for Unreal Engine, including core engine components like the D3D12 rendering layer (Jamie Hore/This Week in Videogames)",
+   "u": "https://www.techmeme.com/261029/p18#a261029p18",
+   "d": "2026-10-29T10:35:01.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
+  },
+  {
+   "id": "e61223677bf4d10a",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "We urgently need to monitor AI agents’ actions in real time",
+   "u": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+   "d": "2026-10-29T10:11:12.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
   },
   {
    "id": "64137a87bbc9c1f5",
@@ -19,46 +59,6 @@
    "t": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
    "u": "https://latent.space/p/ainews-gemini-4-carbon/",
    "d": "2026-10-29T05:55:19.000Z",
-   "first": "2026-10-29T06:14:06.343Z"
-  },
-  {
-   "id": "9e745884ce395fac",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google announces the expansion of ads in AI Mode into international markets, as growth in its core search advertising business slows (Lauren Forristal/TechCrunch)",
-   "u": "https://www.techmeme.com/261029/p6#a261029p6",
-   "d": "2026-10-29T05:30:11.000Z",
-   "first": "2026-10-29T06:14:06.343Z"
-  },
-  {
-   "id": "fe9b0c4caec3b428",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google's search revenue rose 12% YoY to $63.25B in Q3 2026, down from 14.5% in Q3 2025, with Google attributing the slowdown to \"lower monetization\" in AI Mode (Simon Sharwood/The Register)",
-   "u": "https://www.techmeme.com/261029/p3#a261029p3",
-   "d": "2026-10-29T05:10:01.000Z",
-   "first": "2026-10-29T06:14:06.343Z"
-  },
-  {
-   "id": "6f9a35f0eebfbdac",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Fragment, which uses AI to resolve purchasing and payment issues across manufacturing datasets, emerges from stealth with $56M from 8VC and others (Chris Metinko/Axios)",
-   "u": "https://www.techmeme.com/261029/p1#a261029p1",
-   "d": "2026-10-29T04:05:01.000Z",
-   "first": "2026-10-29T06:14:06.343Z"
-  },
-  {
-   "id": "07556edd44fa05d1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How surging demand from AI hyperscalers has quintupled flash memory prices and shifted market and negotiating power from Apple to suppliers like Kioxia (Rolfe Winkler/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261028/p65#a261028p65",
-   "d": "2026-10-29T03:55:00.000Z",
    "first": "2026-10-29T06:14:06.343Z"
   },
   {
@@ -72,24 +72,34 @@
    "first": "2026-10-29T06:14:06.343Z"
   },
   {
-   "id": "07af3068e31afd87",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google is rolling out Gemini 4 Carbon to selected cybersecurity defenders through Fairwind at $2/1M input and $10/1M output tokens, rising to $4 and $20 later (Carl Franzen/VentureBeat)",
-   "u": "https://www.techmeme.com/261028/p63#a261028p63",
-   "d": "2026-10-29T02:00:02.000Z",
-   "first": "2026-10-29T06:14:06.343Z"
+   "id": "0ff7695cb8cff8ac",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Google \"Carbon\" just won everything...",
+   "u": "https://www.youtube.com/watch?v=zhnJo7s91ls",
+   "d": "2026-10-29T00:29:20.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
   },
   {
-   "id": "72d63e0eca60a025",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: AI coding startup Cognition weighs a new funding round before year's end after receiving offers valuing it at $70B-$80B, up from $48B in September (Katie Roof/Business Insider)",
-   "u": "https://www.techmeme.com/261028/p59#a261028p59",
-   "d": "2026-10-29T00:20:23.000Z",
-   "first": "2026-10-29T00:29:38.175Z"
+   "id": "ade4dd2f9ab7b4ba",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why COVID Was Impossible to Contain - Kyle Harper",
+   "u": "https://www.youtube.com/shorts/Xtkj1FMqRj8",
+   "d": "2026-10-28T22:35:04.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
+  },
+  {
+   "id": "ea2af34959a5c011",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Google announces Gemini 4 Carbon",
+   "u": "https://www.youtube.com/shorts/3yZb9rGt-rk",
+   "d": "2026-10-28T22:20:44.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
   },
   {
    "id": "a3dad553b0a6c852",
@@ -136,7 +146,7 @@
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
    "cat": "YouTube",
-   "t": "Deepseek's New AI Has A Secret",
+   "t": "DeepSeek's New AI Is An Absolute Monster",
    "u": "https://www.youtube.com/watch?v=pryCaGv8wuo",
    "d": "2026-10-28T17:32:40.000Z",
    "first": "2026-10-28T20:38:29.079Z"
@@ -150,6 +160,16 @@
    "u": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
    "d": "2026-10-28T17:00:58.000Z",
    "first": "2026-10-28T20:38:29.079Z"
+  },
+  {
+   "id": "4a1a6b4f463da0f5",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "u": "https://surgehq.ai/blog/dayjob-tax",
+   "d": "2026-10-28T15:46:30.000Z",
+   "first": "2026-10-29T13:24:13.130Z"
   },
   {
    "id": "b7ffb158e32d43bb",
@@ -822,16 +842,6 @@
    "first": "2026-10-26T01:23:47.543Z"
   },
   {
-   "id": "72d0b05e94d64aef",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Kimi K3.1 Invented the Benchmark Scores",
-   "u": "https://www.youtube.com/shorts/bBqP-w6DHFw",
-   "d": "2026-10-24T23:22:44.000Z",
-   "first": "2026-10-25T01:22:15.117Z"
-  },
-  {
    "id": "3da68275d0ba872c",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -899,16 +909,6 @@
    "t": "it's WORSE than we thought...",
    "u": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
    "d": "2026-10-24T06:17:07.000Z",
-   "first": "2026-10-24T07:27:21.939Z"
-  },
-  {
-   "id": "f9fdbcd58212a392",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "They actually did it... (Kimi K3.1)",
-   "u": "https://www.youtube.com/watch?v=5sEVvu4mQ8g",
-   "d": "2026-10-24T02:34:15.000Z",
    "first": "2026-10-24T07:27:21.939Z"
   },
   {
@@ -1062,16 +1062,6 @@
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
-   "id": "dbedc8dd25a283aa",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Every AI model has the same \"controversial\" take on humans",
-   "u": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-   "d": "2026-10-22T16:08:00.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
    "id": "7424dbfb4d88597e",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1212,16 +1202,6 @@
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
-   "id": "f4127ff28065459b",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why nobody could stop World War I - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/2FaEkewECHs",
-   "d": "2026-10-21T15:00:09.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
    "id": "f89a456551daa6c7",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1289,16 +1269,6 @@
    "t": "Is a new job in Rep. Moran’s office a sign Congress is staffing up on AI?",
    "u": "https://www.transformernews.ai/p/nathaniel-moran-to-hire-ai-staffer",
    "d": "2026-10-20T17:00:32.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
-   "id": "fc0f40097a39c317",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "The new economics of enterprise AI",
-   "u": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-   "d": "2026-10-20T15:20:25.000Z",
    "first": "2026-10-20T18:33:34.710Z"
   },
   {
@@ -3123,8 +3093,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3141,7 +3110,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1252 > 1000"
+   "error": "Entity expansion limit exceeded: 1131 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3155,28 +3124,23 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3184,28 +3148,23 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
