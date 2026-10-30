@@ -1,6 +1,66 @@
 {
- "generated": "2026-10-30T02:43:47.234Z",
+ "generated": "2026-10-30T09:10:25.213Z",
  "items": [
+  {
+   "id": "cd1279ceccd3309b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)",
+   "u": "https://www.techmeme.com/261030/p5#a261030p5",
+   "d": "2026-10-30T08:45:02.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
+  {
+   "id": "6f0dcb54cb86132f",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+   "u": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+   "d": "2026-10-30T08:24:29.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
+  {
+   "id": "4c409ed1bb6a3196",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed (Paresh Dave/Wired)",
+   "u": "https://www.techmeme.com/261030/p4#a261030p4",
+   "d": "2026-10-30T06:30:03.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
+  {
+   "id": "581d04a6cd3cce2f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)",
+   "u": "https://www.techmeme.com/261030/p1#a261030p1",
+   "d": "2026-10-30T04:01:16.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
+  {
+   "id": "e255ed09861a0e59",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)",
+   "u": "https://www.techmeme.com/261029/p71#a261029p71",
+   "d": "2026-10-30T03:35:00.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
+  {
+   "id": "3d5da9dca9ac4eae",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from \"potential disruption\" amid geopolitical tensions with China (Joseph C. Sternberg/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261029/p70#a261029p70",
+   "d": "2026-10-30T03:10:00.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
   {
    "id": "7b933f99e66ffc28",
    "f": "techmeme",
@@ -32,14 +92,34 @@
    "first": "2026-10-30T02:43:47.234Z"
   },
   {
-   "id": "a5f8f32c24bdf52f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "2562d8e650512b70",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How did tiny Japan beat Russia? - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/O0JgGEAwAqA",
+   "d": "2026-10-29T23:41:37.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
+  {
+   "id": "59d782bb2aca54b7",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Sources: Nvidia is in talks to provide Nscale with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use (Phoebe Liu/The Information)",
-   "u": "https://www.techmeme.com/261029/p59#a261029p59",
-   "d": "2026-10-29T22:55:00.000Z",
-   "first": "2026-10-29T23:25:29.082Z"
+   "t": "We ran AI agent swarms in Minecraft and Mindustry",
+   "u": "https://labs.ycombinator.com/projects/games/index.html",
+   "d": "2026-10-29T21:40:28.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
+  },
+  {
+   "id": "98a3c7c74a013b25",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Two AI bots for spam calls and data privacy",
+   "u": "https://www.youtube.com/shorts/IrgQdsxzRa4",
+   "d": "2026-10-29T19:05:33.000Z",
+   "first": "2026-10-30T09:10:25.213Z"
   },
   {
    "id": "de41832cf72f3388",
@@ -206,7 +286,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "Nate Herk Breaks Down His 3 Most Insane AI Automations",
+   "t": "Nate Herk Breaks Down His 3 Most Powerful AI Automations",
    "u": "https://www.youtube.com/watch?v=AtjFk9f44HE",
    "d": "2026-10-28T19:25:38.000Z",
    "first": "2026-10-28T20:38:29.079Z"
@@ -346,7 +426,7 @@
    "f": "yt-wes-roth",
    "src": "Wes Roth",
    "cat": "YouTube",
-   "t": "AI builds EVERYTHING...",
+   "t": "Here's how to build ANYTHING with AI...",
    "u": "https://www.youtube.com/watch?v=6-sMVePCKS4",
    "d": "2026-10-28T07:36:56.000Z",
    "first": "2026-10-28T08:47:45.290Z"
@@ -892,16 +972,6 @@
    "first": "2026-10-25T15:08:29.703Z"
   },
   {
-   "id": "bbc811c611c37a41",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Sam Altman on What People Still Bring to an AI World",
-   "u": "https://www.youtube.com/shorts/eQTOJZ6_NVU",
-   "d": "2026-10-25T05:59:23.000Z",
-   "first": "2026-10-25T11:50:14.950Z"
-  },
-  {
    "id": "70a18674f9b6a46f",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1082,16 +1152,6 @@
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
-   "id": "99e494e7f75a4466",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-   "u": "https://github.com/NVIDIA/OpenShell",
-   "d": "2026-10-22T17:44:06.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
    "id": "6773605cc020de47",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1100,16 +1160,6 @@
    "u": "https://latent.space/p/modal-d/",
    "d": "2026-10-22T17:40:57.000Z",
    "first": "2026-10-22T20:38:45.378Z"
-  },
-  {
-   "id": "7424dbfb4d88597e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "What will computer chips look like in 2045?",
-   "u": "https://www.youtube.com/watch?v=frYSOKvNiiE",
-   "d": "2026-10-22T16:00:07.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
   },
   {
    "id": "8405823ba9037fd0",
@@ -1229,16 +1279,6 @@
    "t": "Claude will tell you how to manipulate an election",
    "u": "https://www.transformernews.ai/p/claude-jailbreak-election-manipulation",
    "d": "2026-10-21T15:12:14.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
-   "id": "f89a456551daa6c7",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Claude Mods: Flipping the Harness Inside Out",
-   "u": "https://latent.space/p/claude-mods/",
-   "d": "2026-10-21T13:04:19.000Z",
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
@@ -3110,7 +3150,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1004 > 1000"
+   "error": "Entity expansion limit exceeded: 1022 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3124,28 +3164,23 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3153,28 +3188,23 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
