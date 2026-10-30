@@ -1,6 +1,136 @@
 {
- "generated": "2026-10-30T16:03:52.904Z",
+ "generated": "2026-10-30T20:55:30.425Z",
  "items": [
+  {
+   "id": "8d5086f9458758f0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet's $1T and Meta's $800B (Brody Ford/Bloomberg)",
+   "u": "https://www.techmeme.com/261030/p22#a261030p22",
+   "d": "2026-10-30T20:00:58.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "ff1be9ad5f89c374",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Microsoft, Alphabet, Amazon, Meta, and Oracle returned just 9.3% of cash to shareholders in the first three quarters of 2026, a 15-year low amid AI spending (Patturaja Murugaboopathy/Reuters)",
+   "u": "https://www.techmeme.com/261030/p20#a261030p20",
+   "d": "2026-10-30T19:25:32.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "f8a74ebfbf1e2bcb",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "When a humanoid and a drone become besties",
+   "u": "https://www.youtube.com/shorts/4sGplZdBy6A",
+   "d": "2026-10-30T19:21:44.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "52ee7d5ee186b4e7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic renames its $100 per month Max 5x plan as Max and the $200 per month Max 20x plan as Ultra, and removes the 5-hour limit for verified Ultra accounts (Claude/@claudeai)",
+   "u": "https://www.techmeme.com/261030/p19#a261030p19",
+   "d": "2026-10-30T19:15:00.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "104f3daa621c29a3",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "my bots just BROKE Wall St...",
+   "u": "https://www.youtube.com/watch?v=rY8FuDONHxw",
+   "d": "2026-10-30T18:39:37.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "7487c06e76ec4b9f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)",
+   "u": "https://www.techmeme.com/261030/p17#a261030p17",
+   "d": "2026-10-30T18:20:05.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "491d934c7cffe470",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Why Old Buildings Are More Beautiful Than New Ones - Robert Caro",
+   "u": "https://www.youtube.com/shorts/2bMhtD2MuwM",
+   "d": "2026-10-30T18:17:34.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "d5baa3051e0b0922",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Was I wrong about open models & cyber risks?",
+   "u": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "d": "2026-10-30T17:36:56.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "4b50270479ee95cb",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "u": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "d": "2026-10-30T17:24:45.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "b21e148d4a2d08c1",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "What Robert Caro learned about power after studying it for 50 years",
+   "u": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
+   "d": "2026-10-30T17:18:35.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "d6028f8be753cf67",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "US tech stocks see sharp falls over AI cost fears",
+   "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+   "d": "2026-10-30T16:13:02.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "de5918bc88ad4383",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "OpenAI Claims It Just Did The Impossible",
+   "u": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+   "d": "2026-10-30T15:57:16.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
+  {
+   "id": "f9649ee9be110844",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI isn't replacing SREs, it's deskilling them",
+   "u": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "d": "2026-10-30T15:52:18.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
+  },
   {
    "id": "5b1044444836a679",
    "f": "transformer",
@@ -42,34 +172,24 @@
    "first": "2026-10-30T16:03:52.904Z"
   },
   {
-   "id": "9877c89366cf617d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Dream, which is training AI world models on US building data to automate construction design and engineering, emerges from stealth with a $17M seed led by a16z (Marina Temkin/TechCrunch)",
-   "u": "https://www.techmeme.com/261030/p8#a261030p8",
-   "d": "2026-10-30T10:15:00.000Z",
-   "first": "2026-10-30T16:03:52.904Z"
+   "id": "db9328f34b5cc704",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Making it easier for websites to express AI training preferences",
+   "u": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "d": "2026-10-30T09:30:00.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
   },
   {
-   "id": "2b4c80d1af419f51",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Ravical, whose AI-powered platform helps accounting and tax firms manage their operations, raised a $17M seed led by MMC, bringing its total funding to $25M (Tamara Djurickovic/Tech.eu)",
-   "u": "https://www.techmeme.com/261030/p7#a261030p7",
-   "d": "2026-10-30T10:10:01.000Z",
-   "first": "2026-10-30T16:03:52.904Z"
-  },
-  {
-   "id": "cd1279ceccd3309b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals (Anna Nicolaou/Financial Times)",
-   "u": "https://www.techmeme.com/261030/p5#a261030p5",
-   "d": "2026-10-30T08:45:02.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
+   "id": "0c56a29eafbea2e8",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Community safety report and new protections for teens",
+   "u": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "d": "2026-10-30T09:00:00.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
   },
   {
    "id": "6f0dcb54cb86132f",
@@ -79,36 +199,6 @@
    "t": "[AINews] Building AIE CODE: The top Coding Agent Conference",
    "u": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
    "d": "2026-10-30T08:24:29.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
-  },
-  {
-   "id": "4c409ed1bb6a3196",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed (Paresh Dave/Wired)",
-   "u": "https://www.techmeme.com/261030/p4#a261030p4",
-   "d": "2026-10-30T06:30:03.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
-  },
-  {
-   "id": "581d04a6cd3cce2f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)",
-   "u": "https://www.techmeme.com/261030/p1#a261030p1",
-   "d": "2026-10-30T04:01:16.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
-  },
-  {
-   "id": "e255ed09861a0e59",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)",
-   "u": "https://www.techmeme.com/261029/p71#a261029p71",
-   "d": "2026-10-30T03:35:00.000Z",
    "first": "2026-10-30T09:10:25.213Z"
   },
   {
@@ -166,7 +256,7 @@
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
    "cat": "YouTube",
-   "t": "How an unelected man ruled New York for 30 years",
+   "t": "What Robert Caro’s books taught me about power",
    "u": "https://www.youtube.com/watch?v=kX_WmQK_tt0",
    "d": "2026-10-29T16:51:24.000Z",
    "first": "2026-10-29T19:03:02.080Z"
@@ -190,6 +280,16 @@
    "u": "https://www.youtube.com/shorts/evXFML_Rnc0",
    "d": "2026-10-29T15:28:47.000Z",
    "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "1545ec09cf32ceea",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+   "u": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+   "d": "2026-10-29T14:29:06.000Z",
+   "first": "2026-10-30T20:55:30.425Z"
   },
   {
    "id": "dd87af6b56b4d61e",
@@ -892,16 +992,6 @@
    "first": "2026-10-26T23:25:09.019Z"
   },
   {
-   "id": "eef76e6950623cae",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "ChatGPT’s expanding world of work",
-   "u": "https://openai.com/index/chatgpt-expanding-world-of-work",
-   "d": "2026-10-26T10:00:00.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
    "id": "0da9ddf33125a284",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -910,16 +1000,6 @@
    "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
    "d": "2026-10-26T09:01:00.000Z",
    "first": "2026-10-26T13:39:53.734Z"
-  },
-  {
-   "id": "822bb7f050972ee4",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Fanatics and OpenAI streamline the fan experience",
-   "u": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "d": "2026-10-26T07:00:00.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
   },
   {
    "id": "12e53e5906da9ebc",
@@ -1002,36 +1082,6 @@
    "first": "2026-10-25T15:08:29.703Z"
   },
   {
-   "id": "70a18674f9b6a46f",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Cerebras Deploys Trillion-Parameter AI Models",
-   "u": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "d": "2026-10-25T01:33:49.000Z",
-   "first": "2026-10-26T01:23:47.543Z"
-  },
-  {
-   "id": "3da68275d0ba872c",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-   "u": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-   "d": "2026-10-24T23:11:54.000Z",
-   "first": "2026-10-25T06:21:07.170Z"
-  },
-  {
-   "id": "6887372f664b9a3a",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "No signs of AI payoff outside the tech sector",
-   "u": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-   "d": "2026-10-24T19:47:19.000Z",
-   "first": "2026-10-24T23:26:39.429Z"
-  },
-  {
    "id": "16abd7c77ab03a46",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1052,16 +1102,6 @@
    "first": "2026-10-24T18:52:32.742Z"
   },
   {
-   "id": "28eb3ca33baaa4ce",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Why is AI generated language so hard to understand?",
-   "u": "https://arxiv.org/abs/2610.29162",
-   "d": "2026-10-24T18:04:57.000Z",
-   "first": "2026-10-25T11:50:14.950Z"
-  },
-  {
    "id": "9c3bfb309d13375b",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1080,26 +1120,6 @@
    "u": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
    "d": "2026-10-24T06:17:07.000Z",
    "first": "2026-10-24T07:27:21.939Z"
-  },
-  {
-   "id": "b5deca99c3913e07",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Old Phones Are Becoming Robots?!?",
-   "u": "https://www.youtube.com/shorts/FiyUagHO37Y",
-   "d": "2026-10-24T00:23:07.000Z",
-   "first": "2026-10-24T02:12:32.715Z"
-  },
-  {
-   "id": "33f14f456fb1026f",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why transistors stopped being flat",
-   "u": "https://www.youtube.com/shorts/cy1yoHVX2IQ",
-   "d": "2026-10-23T22:40:10.000Z",
-   "first": "2026-10-23T23:36:45.227Z"
   },
   {
    "id": "ee226666af0238d8",
@@ -1150,16 +1170,6 @@
    "u": "https://tldr.tech/ai/2026-10-23",
    "d": "2026-10-23T00:00:00.000Z",
    "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "52e17f61abcf6cc5",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "AI’s bottleneck isn’t compute. It’s geometry.",
-   "u": "https://www.youtube.com/shorts/o5UZtZuPAeY",
-   "d": "2026-10-22T23:21:44.000Z",
-   "first": "2026-10-23T07:44:59.278Z"
   },
   {
    "id": "a434cb84c509fd33",
@@ -1772,16 +1782,6 @@
    "first": "2026-10-09T19:08:51.363Z"
   },
   {
-   "id": "c72e19dbb41e805d",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "OpenAI’s “Alien Math” Is Freaking People Out",
-   "u": "https://www.youtube.com/watch?v=rxpV3QLV-pg",
-   "d": "2026-10-09T04:28:24.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
    "id": "2f0ed1d996b06fdf",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2222,16 +2222,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "88182b0a1243afb8",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "Yes, Jev Is Insane, But There's A Catch",
-   "u": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-   "d": "2026-09-22T09:32:13.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "b58b35bb4f4ae959",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -2489,16 +2479,6 @@
    "t": "Four LLM loss functions → four flavors of LLM misalignment",
    "u": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment",
    "d": "2026-08-14T22:31:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "aea5b6f926796491",
-   "f": "interconnects",
-   "src": "Interconnects",
-   "cat": "Newsletter",
-   "t": "GLM-5.3: How Chinese labs keep stride with the frontier",
-   "u": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
-   "d": "2026-08-14T21:23:35.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3143,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3161,7 +3140,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1219 > 1000"
+   "error": "Entity expansion limit exceeded: 1026 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

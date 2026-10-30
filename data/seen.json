@@ -62,6 +62,7 @@
   "interconnects": {
    "init": true,
    "ids": [
+    "d5baa3051e0b0922",
     "3557db7aa5ffe0cb",
     "96755bbf3ce04b96",
     "2273a448d96d0760",
@@ -256,6 +257,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "db9328f34b5cc704",
+    "0c56a29eafbea2e8",
     "de41832cf72f3388",
     "cfa130f3ef2beecf",
     "34c82fec96a10cda",
@@ -410,6 +413,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "8d5086f9458758f0",
+    "ff1be9ad5f89c374",
+    "52ee7d5ee186b4e7",
+    "7487c06e76ec4b9f",
     "ab518bf281112222",
     "86f92aa4ae73fdee",
     "88d1d106baf4e992",
@@ -1003,6 +1010,8 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "491d934c7cffe470",
+    "b21e148d4a2d08c1",
     "2562d8e650512b70",
     "2c88569a02fd1020",
     "ade4dd2f9ab7b4ba",
@@ -1121,6 +1130,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "de5918bc88ad4383",
     "97aa9361e57c37c7",
     "d8b331098725868c",
     "ee2c770df23691b7",
@@ -1140,6 +1150,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "f8a74ebfbf1e2bcb",
     "9d299a9140702d6a",
     "a68676865c1bbe5f",
     "2ae80c8d295226cb",
@@ -1228,6 +1239,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "104f3daa621c29a3",
     "0630364f37a4cc96",
     "91ea0aa7ed1e3f57",
     "a22a031998ca235e",
@@ -1250,7 +1262,11 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "4b50270479ee95cb",
+    "d6028f8be753cf67",
+    "f9649ee9be110844",
     "59d782bb2aca54b7",
+    "1545ec09cf32ceea",
     "4a1a6b4f463da0f5",
     "b7ffb158e32d43bb",
     "4eba8f2ff5899964",
