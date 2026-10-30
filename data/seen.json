@@ -130,6 +130,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "5b1044444836a679",
     "69d1efd08f3eafd2",
     "e74013967ddbff44",
     "86f90c887d771ecc",
@@ -187,6 +188,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "9ca270470fc27810",
     "453c62983210cd9d",
     "89245e54ab3b033c",
     "bc93f65561465f1e",
@@ -257,6 +259,7 @@
     "de41832cf72f3388",
     "cfa130f3ef2beecf",
     "34c82fec96a10cda",
+    "72cbe3140ecaeb10",
     "af1457fe0e356b06",
     "bd1b77889fb7e5c6",
     "1a3387a29340e094",
@@ -407,6 +410,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "ab518bf281112222",
+    "86f92aa4ae73fdee",
+    "88d1d106baf4e992",
+    "9877c89366cf617d",
+    "2b4c80d1af419f51",
     "cd1279ceccd3309b",
     "4c409ed1bb6a3196",
     "581d04a6cd3cce2f",

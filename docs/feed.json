@@ -1,6 +1,66 @@
 {
- "generated": "2026-10-30T09:10:25.213Z",
+ "generated": "2026-10-30T16:03:52.904Z",
  "items": [
+  {
+   "id": "5b1044444836a679",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Was this the AI election?",
+   "u": "https://www.transformernews.ai/p/was-this-the-ai-election",
+   "d": "2026-10-30T14:32:31.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
+  },
+  {
+   "id": "ab518bf281112222",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network (Ian Krietzberg/Puck)",
+   "u": "https://www.techmeme.com/261030/p13#a261030p13",
+   "d": "2026-10-30T13:10:01.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
+  },
+  {
+   "id": "86f92aa4ae73fdee",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices (Reuters)",
+   "u": "https://www.techmeme.com/261030/p12#a261030p12",
+   "d": "2026-10-30T12:20:02.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
+  },
+  {
+   "id": "88d1d106baf4e992",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services (Reuters)",
+   "u": "https://www.techmeme.com/261030/p10#a261030p10",
+   "d": "2026-10-30T11:40:12.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
+  },
+  {
+   "id": "9877c89366cf617d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Dream, which is training AI world models on US building data to automate construction design and engineering, emerges from stealth with a $17M seed led by a16z (Marina Temkin/TechCrunch)",
+   "u": "https://www.techmeme.com/261030/p8#a261030p8",
+   "d": "2026-10-30T10:15:00.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
+  },
+  {
+   "id": "2b4c80d1af419f51",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Ravical, whose AI-powered platform helps accounting and tax firms manage their operations, raised a $17M seed led by MMC, bringing its total funding to $25M (Tamara Djurickovic/Tech.eu)",
+   "u": "https://www.techmeme.com/261030/p7#a261030p7",
+   "d": "2026-10-30T10:10:01.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
+  },
   {
    "id": "cd1279ceccd3309b",
    "f": "techmeme",
@@ -52,44 +112,14 @@
    "first": "2026-10-30T09:10:25.213Z"
   },
   {
-   "id": "3d5da9dca9ac4eae",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "S-1: Anthropic says it heavily depends on TSMC chips made in Taiwan and warns of risks from \"potential disruption\" amid geopolitical tensions with China (Joseph C. Sternberg/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261029/p70#a261029p70",
-   "d": "2026-10-30T03:10:00.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
-  },
-  {
-   "id": "7b933f99e66ffc28",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems (Bloomberg)",
-   "u": "https://www.techmeme.com/261029/p69#a261029p69",
-   "d": "2026-10-30T02:40:01.000Z",
-   "first": "2026-10-30T02:43:47.234Z"
-  },
-  {
-   "id": "0c8cf8365ffc4306",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta quietly launches Style Sketch, an AI fashion app that helps users put together outfit ideas using clothes they own, in Indonesia, Singapore, and Thailand (Aisha Malik/TechCrunch)",
-   "u": "https://www.techmeme.com/261029/p64#a261029p64",
-   "d": "2026-10-30T00:40:02.000Z",
-   "first": "2026-10-30T02:43:47.234Z"
-  },
-  {
-   "id": "ce1edb5acc3157c5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "On Amazon's earnings call, Andy Jassy says outside AI shopping agents are \"still not great, nor more convenient than coming to a retailer directly\" (Sebastian Herrera/Fortune)",
-   "u": "https://www.techmeme.com/261029/p63#a261029p63",
-   "d": "2026-10-30T00:20:02.000Z",
-   "first": "2026-10-30T02:43:47.234Z"
+   "id": "9ca270470fc27810",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Mistral Large 4 OSS 🧠, agent swarm behavior 🤖, Sam Altman interview 🍺f",
+   "u": "https://tldr.tech/ai/2026-10-30",
+   "d": "2026-10-30T00:00:00.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
   },
   {
    "id": "2562d8e650512b70",
@@ -240,6 +270,16 @@
    "u": "https://tldr.tech/ai/2026-10-29",
    "d": "2026-10-29T00:00:00.000Z",
    "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "72cbe3140ecaeb10",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+   "u": "https://openai.com/index/credit-saison",
+   "d": "2026-10-29T00:00:00.000Z",
+   "first": "2026-10-30T16:03:52.904Z"
   },
   {
    "id": "ade4dd2f9ab7b4ba",
@@ -878,16 +918,6 @@
    "cat": "Lab",
    "t": "How Fanatics and OpenAI streamline the fan experience",
    "u": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "d": "2026-10-26T07:00:00.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
-   "id": "8e3465a930908ada",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "u": "https://openai.com/index/openai-cut-incident-investigation",
    "d": "2026-10-26T07:00:00.000Z",
    "first": "2026-10-26T19:37:12.165Z"
   },
@@ -1752,16 +1782,6 @@
    "first": "2026-10-09T13:56:06.459Z"
   },
   {
-   "id": "d2ea09f5a80c83dd",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "GPT-6.1 Ultrafast ⚡, Gemini universal agent 🤖, speculative decoding 🧠",
-   "u": "https://tldr.tech/ai/2026-10-09",
-   "d": "2026-10-09T00:00:00.000Z",
-   "first": "2026-10-09T13:56:06.459Z"
-  },
-  {
    "id": "2f0ed1d996b06fdf",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2079,16 +2099,6 @@
    "t": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
    "u": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
    "d": "2026-09-25T15:58:22.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "e4feb5c171d2d316",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "AI governance is coming, with or without Trump",
-   "u": "https://www.transformernews.ai/p/trump-cant-stop-ai-governance",
-   "d": "2026-09-25T14:34:09.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3133,7 +3143,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3150,7 +3161,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1022 > 1000"
+   "error": "Entity expansion limit exceeded: 1219 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
