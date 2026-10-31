@@ -1,6 +1,56 @@
 {
- "generated": "2026-10-31T00:13:24.418Z",
+ "generated": "2026-10-31T05:59:32.623Z",
  "items": [
+  {
+   "id": "6a25cd2d0b5d046b",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+   "u": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+   "d": "2026-10-31T05:00:48.000Z",
+   "first": "2026-10-31T05:59:32.623Z"
+  },
+  {
+   "id": "91d76d93c1d394a5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic says a malicious actor used access to Cursor's marketplace to publish a \"tampered\" copy of the Claude Code extension, which it didn't build or publish (Felix Rieseberg/@felixrieseberg)",
+   "u": "https://www.techmeme.com/261031/p2#a261031p2",
+   "d": "2026-10-31T05:00:15.000Z",
+   "first": "2026-10-31T05:59:32.623Z"
+  },
+  {
+   "id": "76f55402632be7d2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)",
+   "u": "https://www.techmeme.com/261031/p1#a261031p1",
+   "d": "2026-10-31T04:30:01.000Z",
+   "first": "2026-10-31T05:59:32.623Z"
+  },
+  {
+   "id": "295066d3120b873e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks (Berber Jin/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261030/p31#a261030p31",
+   "d": "2026-10-31T02:30:02.000Z",
+   "first": "2026-10-31T05:59:32.623Z"
+  },
+  {
+   "id": "7cafe1224ef86732",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff (Financial Times)",
+   "u": "https://www.techmeme.com/261030/p30#a261030p30",
+   "d": "2026-10-31T01:00:53.000Z",
+   "first": "2026-10-31T05:59:32.623Z"
+  },
   {
    "id": "9b4d3ec2c350b9ad",
    "f": "techmeme",
@@ -42,16 +92,6 @@
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
-   "id": "ff1be9ad5f89c374",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Microsoft, Alphabet, Amazon, Meta, and Oracle returned just 9.3% of cash to shareholders in the first three quarters of 2026, a 15-year low amid AI spending (Patturaja Murugaboopathy/Reuters)",
-   "u": "https://www.techmeme.com/261030/p20#a261030p20",
-   "d": "2026-10-30T19:25:32.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
    "id": "f8a74ebfbf1e2bcb",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -62,16 +102,6 @@
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
-   "id": "52ee7d5ee186b4e7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic renames its $100 per month Max 5x plan as Max and the $200 per month Max 20x plan as Ultra, and removes the 5-hour limit for verified Ultra accounts (Claude/@claudeai)",
-   "u": "https://www.techmeme.com/261030/p19#a261030p19",
-   "d": "2026-10-30T19:15:00.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
    "id": "104f3daa621c29a3",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -79,16 +109,6 @@
    "t": "my bots just BROKE Wall St...",
    "u": "https://www.youtube.com/watch?v=rY8FuDONHxw",
    "d": "2026-10-30T18:39:37.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
-   "id": "7487c06e76ec4b9f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)",
-   "u": "https://www.techmeme.com/261030/p17#a261030p17",
-   "d": "2026-10-30T18:20:05.000Z",
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
@@ -1249,16 +1269,6 @@
    "t": "AI&#8217;s hidden storage bill: What inference leaves behind",
    "u": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
    "d": "2026-10-22T08:41:18.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
-  },
-  {
-   "id": "6c8a08517e6c544c",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-   "u": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
-   "d": "2026-10-22T07:42:44.000Z",
    "first": "2026-10-22T12:09:00.762Z"
   },
   {
@@ -3154,36 +3164,43 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3192,7 +3209,8 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
