@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-31T11:44:40.138Z",
+ "generated": "2026-10-31T16:24:51.628Z",
  "items": [
+  {
+   "id": "2b84ab40d0f2e0fd",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+   "u": "https://latent.space/p/arca/",
+   "d": "2026-10-31T16:05:00.000Z",
+   "first": "2026-10-31T16:24:51.628Z"
+  },
+  {
+   "id": "b3bac59c84b30bd2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How AI detectors like Pangram are changing human writing: authors drop em dashes, \"not X, but Y\" phrasing, and words like \"delve\", or add typos, to look human (Morgan Meaker/Bloomberg)",
+   "u": "https://www.techmeme.com/261031/p8#a261031p8",
+   "d": "2026-10-31T13:40:53.000Z",
+   "first": "2026-10-31T16:24:51.628Z"
+  },
   {
    "id": "ec61ac80791e30b0",
    "f": "techmeme",
@@ -90,26 +110,6 @@
    "u": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
    "d": "2026-10-30T21:15:04.000Z",
    "first": "2026-10-31T11:44:40.138Z"
-  },
-  {
-   "id": "4dd0ee04485fc8de",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers (Emma Roth/The Verge)",
-   "u": "https://www.techmeme.com/261030/p26#a261030p26",
-   "d": "2026-10-30T21:05:00.000Z",
-   "first": "2026-10-31T00:13:24.418Z"
-  },
-  {
-   "id": "c99fb7e636ed959b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards (Reuters)",
-   "u": "https://www.techmeme.com/261030/p25#a261030p25",
-   "d": "2026-10-30T20:55:37.000Z",
-   "first": "2026-10-31T00:13:24.418Z"
   },
   {
    "id": "f8a74ebfbf1e2bcb",
@@ -1239,16 +1239,6 @@
    "t": "Beyond tree cover: mapping the world’s forest types",
    "u": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
    "d": "2026-10-22T14:30:24.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
-   "id": "d55b272f10a8fc9c",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "You are the Team — Anekha Sokhal, Moshi",
-   "u": "https://latent.space/p/moshi/",
-   "d": "2026-10-22T14:03:40.000Z",
    "first": "2026-10-22T17:23:04.195Z"
   },
   {
@@ -3143,7 +3133,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
