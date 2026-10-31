@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T20:08:05.786Z",
+ "generated": "2026-10-31T23:29:46.953Z",
  "items": [
   {
    "id": "e70a13b22291770b",
@@ -3105,7 +3105,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1196 > 1000"
+   "error": "Entity expansion limit exceeded: 1314 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3134,7 +3134,7 @@
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
    "ok": false,
-   "error": "HTTP 502"
+   "error": "fetch failed"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3165,7 +3165,8 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3173,15 +3174,18 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3189,7 +3193,8 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
