@@ -1,6 +1,36 @@
 {
- "generated": "2026-10-30T20:55:30.425Z",
+ "generated": "2026-10-31T00:13:24.418Z",
  "items": [
+  {
+   "id": "9b4d3ec2c350b9ad",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Vancouver, WA-based Powerlattice, which makes a power delivery chiplet to reduce AI compute power needs by 50%+, raised $86M, after raising $31M in 2025 (Kurt Schlosser/GeekWire)",
+   "u": "https://www.techmeme.com/261030/p27#a261030p27",
+   "d": "2026-10-30T22:05:00.000Z",
+   "first": "2026-10-31T00:13:24.418Z"
+  },
+  {
+   "id": "4dd0ee04485fc8de",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers (Emma Roth/The Verge)",
+   "u": "https://www.techmeme.com/261030/p26#a261030p26",
+   "d": "2026-10-30T21:05:00.000Z",
+   "first": "2026-10-31T00:13:24.418Z"
+  },
+  {
+   "id": "c99fb7e636ed959b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards (Reuters)",
+   "u": "https://www.techmeme.com/261030/p25#a261030p25",
+   "d": "2026-10-30T20:55:37.000Z",
+   "first": "2026-10-31T00:13:24.418Z"
+  },
   {
    "id": "8d5086f9458758f0",
    "f": "techmeme",
@@ -142,36 +172,6 @@
    "first": "2026-10-30T16:03:52.904Z"
   },
   {
-   "id": "ab518bf281112222",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network (Ian Krietzberg/Puck)",
-   "u": "https://www.techmeme.com/261030/p13#a261030p13",
-   "d": "2026-10-30T13:10:01.000Z",
-   "first": "2026-10-30T16:03:52.904Z"
-  },
-  {
-   "id": "86f92aa4ae73fdee",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices (Reuters)",
-   "u": "https://www.techmeme.com/261030/p12#a261030p12",
-   "d": "2026-10-30T12:20:02.000Z",
-   "first": "2026-10-30T16:03:52.904Z"
-  },
-  {
-   "id": "88d1d106baf4e992",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services (Reuters)",
-   "u": "https://www.techmeme.com/261030/p10#a261030p10",
-   "d": "2026-10-30T11:40:12.000Z",
-   "first": "2026-10-30T16:03:52.904Z"
-  },
-  {
    "id": "db9328f34b5cc704",
    "f": "openai-news",
    "src": "OpenAI",
@@ -210,6 +210,16 @@
    "u": "https://tldr.tech/ai/2026-10-30",
    "d": "2026-10-30T00:00:00.000Z",
    "first": "2026-10-30T16:03:52.904Z"
+  },
+  {
+   "id": "1d55260508f932ad",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Fair use benefits everyone",
+   "u": "https://openai.com/index/fair-use-benefits-everyone",
+   "d": "2026-10-30T00:00:00.000Z",
+   "first": "2026-10-31T00:13:24.418Z"
   },
   {
    "id": "2562d8e650512b70",
@@ -980,16 +990,6 @@
    "u": "https://www.youtube.com/watch?v=IRJDwtAreB4",
    "d": "2026-10-26T14:23:14.000Z",
    "first": "2026-10-26T19:37:12.165Z"
-  },
-  {
-   "id": "f54c4cbbe839d23b",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-   "u": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-   "d": "2026-10-26T13:45:00.000Z",
-   "first": "2026-10-26T23:25:09.019Z"
   },
   {
    "id": "0da9ddf33125a284",
@@ -3095,7 +3095,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1090 > 1000"
+   "error": "Entity expansion limit exceeded: 1196 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3162,7 +3162,8 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3186,7 +3187,8 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
@@ -3194,7 +3196,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
