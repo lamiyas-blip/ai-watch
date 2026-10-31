@@ -1,6 +1,26 @@
 {
- "generated": "2026-10-31T16:24:51.628Z",
+ "generated": "2026-10-31T20:08:05.786Z",
  "items": [
+  {
+   "id": "e70a13b22291770b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
+   "u": "https://www.techmeme.com/261031/p11#a261031p11",
+   "d": "2026-10-31T19:01:11.000Z",
+   "first": "2026-10-31T20:08:05.786Z"
+  },
+  {
+   "id": "807e29f2a06d1d08",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Glasses That Make You Telepathic",
+   "u": "https://www.youtube.com/shorts/_9R7QOhJh-o",
+   "d": "2026-10-31T18:16:57.000Z",
+   "first": "2026-10-31T20:08:05.786Z"
+  },
   {
    "id": "2b84ab40d0f2e0fd",
    "f": "latent-space",
@@ -92,21 +112,11 @@
    "first": "2026-10-31T05:59:32.623Z"
   },
   {
-   "id": "9b4d3ec2c350b9ad",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: Vancouver, WA-based Powerlattice, which makes a power delivery chiplet to reduce AI compute power needs by 50%+, raised $86M, after raising $31M in 2025 (Kurt Schlosser/GeekWire)",
-   "u": "https://www.techmeme.com/261030/p27#a261030p27",
-   "d": "2026-10-30T22:05:00.000Z",
-   "first": "2026-10-31T00:13:24.418Z"
-  },
-  {
    "id": "3904c078f2636940",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "6 AI Updates Worth Knowing & A Bubble-Bursting IPO",
+   "t": "AI News: The Only 6 Stories Worth Knowing This Week",
    "u": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
    "d": "2026-10-30T21:15:04.000Z",
    "first": "2026-10-31T11:44:40.138Z"
@@ -1050,16 +1060,6 @@
    "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
    "d": "2026-10-26T09:01:00.000Z",
    "first": "2026-10-26T13:39:53.734Z"
-  },
-  {
-   "id": "12e53e5906da9ebc",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "The Robot Butler Will Clean Up After You",
-   "u": "https://www.youtube.com/shorts/B8YFkYY20OY",
-   "d": "2026-10-26T05:18:59.000Z",
-   "first": "2026-10-26T06:30:21.959Z"
   },
   {
    "id": "57f59158d2e339f1",
