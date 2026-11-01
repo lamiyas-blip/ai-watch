@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-01T20:38:45.544Z",
+ "generated": "2026-11-01T23:59:31.470Z",
  "items": [
+  {
+   "id": "d352b6f701e36b00",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51% (Dean Takahashi/GamesBeat)",
+   "u": "https://www.techmeme.com/261101/p17#a261101p17",
+   "d": "2026-11-01T22:15:02.000Z",
+   "first": "2026-11-01T23:59:31.470Z"
+  },
+  {
+   "id": "12ae77a317c5294d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)",
+   "u": "https://www.techmeme.com/261101/p16#a261101p16",
+   "d": "2026-11-01T21:30:01.000Z",
+   "first": "2026-11-01T23:59:31.470Z"
+  },
   {
    "id": "a7e591728385da4f",
    "f": "semianalysis",
@@ -42,16 +62,6 @@
    "first": "2026-11-01T09:28:01.327Z"
   },
   {
-   "id": "1dbe9c0615ad6de3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and develops open-source voice AI framework Pipecat, for an undisclosed sum (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261101/p3#a261101p3",
-   "d": "2026-11-01T06:15:00.000Z",
-   "first": "2026-11-01T09:28:01.327Z"
-  },
-  {
    "id": "7d3355fcd88f2bf3",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -60,26 +70,6 @@
    "u": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
    "d": "2026-11-01T06:06:19.000Z",
    "first": "2026-11-01T20:38:45.544Z"
-  },
-  {
-   "id": "fbbfeccfdbb9e935",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "DeepSeek open sources Super-Agent, a coding agent research prototype it says proactively monitors developer group chats for coding issues and suggests solutions (Debby Wu/Bloomberg)",
-   "u": "https://www.techmeme.com/261101/p2#a261101p2",
-   "d": "2026-11-01T06:00:13.000Z",
-   "first": "2026-11-01T09:28:01.327Z"
-  },
-  {
-   "id": "ad5066d4121e4302",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B+ in cash (Anzar Mehraj/Reuters)",
-   "u": "https://www.techmeme.com/261101/p1#a261101p1",
-   "d": "2026-11-01T05:50:00.000Z",
-   "first": "2026-11-01T09:28:01.327Z"
   },
   {
    "id": "807e29f2a06d1d08",
@@ -3075,7 +3065,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1062 > 1000"
+   "error": "Entity expansion limit exceeded: 1138 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3120,7 +3110,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1227 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3138,7 +3128,8 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3146,7 +3137,8 @@
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
@@ -3166,7 +3158,8 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
