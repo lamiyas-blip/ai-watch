@@ -1,6 +1,56 @@
 {
- "generated": "2026-11-01T02:26:47.855Z",
+ "generated": "2026-11-01T09:28:01.327Z",
  "items": [
+  {
+   "id": "cb34f49e7e502c24",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "the BIGGEST HACK of all time just started...",
+   "u": "https://www.youtube.com/watch?v=WhA2iNfzytY",
+   "d": "2026-11-01T07:54:54.000Z",
+   "first": "2026-11-01T09:28:01.327Z"
+  },
+  {
+   "id": "080086ee38e6e34f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation (Sarah Klearman/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261101/p6#a261101p6",
+   "d": "2026-11-01T06:35:00.000Z",
+   "first": "2026-11-01T09:28:01.327Z"
+  },
+  {
+   "id": "1dbe9c0615ad6de3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and develops open-source voice AI framework Pipecat, for an undisclosed sum (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261101/p3#a261101p3",
+   "d": "2026-11-01T06:15:00.000Z",
+   "first": "2026-11-01T09:28:01.327Z"
+  },
+  {
+   "id": "fbbfeccfdbb9e935",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions (Debby Wu/Bloomberg)",
+   "u": "https://www.techmeme.com/261101/p2#a261101p2",
+   "d": "2026-11-01T06:00:13.000Z",
+   "first": "2026-11-01T09:28:01.327Z"
+  },
+  {
+   "id": "ad5066d4121e4302",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B in cash (Anzar Mehraj/Reuters)",
+   "u": "https://www.techmeme.com/261101/p1#a261101p1",
+   "d": "2026-11-01T05:50:00.000Z",
+   "first": "2026-11-01T09:28:01.327Z"
+  },
   {
    "id": "0b3e205dd13d5096",
    "f": "techmeme",
@@ -8,7 +58,7 @@
    "cat": "News",
    "t": "Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% (Washington Post)",
    "u": "https://www.techmeme.com/261031/p12#a261031p12",
-   "d": "2026-11-01T00:00:14.000Z",
+   "d": "2026-11-01T01:00:14.000Z",
    "first": "2026-11-01T02:26:47.855Z"
   },
   {
@@ -18,7 +68,7 @@
    "cat": "News",
    "t": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
    "u": "https://www.techmeme.com/261031/p11#a261031p11",
-   "d": "2026-10-31T19:01:11.000Z",
+   "d": "2026-10-31T20:01:11.000Z",
    "first": "2026-10-31T20:08:05.786Z"
   },
   {
@@ -48,7 +98,7 @@
    "cat": "News",
    "t": "How AI detectors like Pangram are changing human writing: authors drop em dashes, \"not X, but Y\" phrasing, and words like \"delve\", or add typos, to look human (Morgan Meaker/Bloomberg)",
    "u": "https://www.techmeme.com/261031/p8#a261031p8",
-   "d": "2026-10-31T13:40:53.000Z",
+   "d": "2026-10-31T14:40:53.000Z",
    "first": "2026-10-31T16:24:51.628Z"
   },
   {
@@ -58,7 +108,7 @@
    "cat": "News",
    "t": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash (Gaby Del Valle/The Verge)",
    "u": "https://www.techmeme.com/261031/p7#a261031p7",
-   "d": "2026-10-31T09:25:55.000Z",
+   "d": "2026-10-31T10:25:55.000Z",
    "first": "2026-10-31T11:44:40.138Z"
   },
   {
@@ -68,7 +118,7 @@
    "cat": "News",
    "t": "As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs (The Commanding Heights)",
    "u": "https://www.techmeme.com/261031/p6#a261031p6",
-   "d": "2026-10-31T06:30:01.000Z",
+   "d": "2026-10-31T07:30:01.000Z",
    "first": "2026-10-31T11:44:40.138Z"
   },
   {
@@ -79,46 +129,6 @@
    "t": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
    "u": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
    "d": "2026-10-31T05:00:48.000Z",
-   "first": "2026-10-31T05:59:32.623Z"
-  },
-  {
-   "id": "91d76d93c1d394a5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says a malicious actor used access to Cursor's marketplace to publish a \"tampered\" copy of the Claude Code extension, which it didn't build or publish (Felix Rieseberg/@felixrieseberg)",
-   "u": "https://www.techmeme.com/261031/p2#a261031p2",
-   "d": "2026-10-31T05:00:15.000Z",
-   "first": "2026-10-31T05:59:32.623Z"
-  },
-  {
-   "id": "76f55402632be7d2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)",
-   "u": "https://www.techmeme.com/261031/p1#a261031p1",
-   "d": "2026-10-31T04:30:01.000Z",
-   "first": "2026-10-31T05:59:32.623Z"
-  },
-  {
-   "id": "295066d3120b873e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks (Berber Jin/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261030/p31#a261030p31",
-   "d": "2026-10-31T02:30:02.000Z",
-   "first": "2026-10-31T05:59:32.623Z"
-  },
-  {
-   "id": "7cafe1224ef86732",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff (Financial Times)",
-   "u": "https://www.techmeme.com/261030/p30#a261030p30",
-   "d": "2026-10-31T01:00:53.000Z",
    "first": "2026-10-31T05:59:32.623Z"
   },
   {
@@ -350,6 +360,16 @@
    "u": "https://latent.space/p/elorian/",
    "d": "2026-10-29T16:00:00.000Z",
    "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "344e5dab2fb902b4",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "u": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "d": "2026-10-29T15:29:48.000Z",
+   "first": "2026-11-01T09:28:01.327Z"
   },
   {
    "id": "9d299a9140702d6a",
@@ -1032,16 +1052,6 @@
    "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "9b61ff0cce02efe4",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Concerning behavior from a popular open-weight AI model",
-   "u": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-   "d": "2026-10-26T16:35:44.000Z",
-   "first": "2026-10-26T23:25:09.019Z"
-  },
-  {
    "id": "96441a76e11cbfb6",
    "f": "openai-news",
    "src": "OpenAI",
@@ -1710,16 +1720,6 @@
    "u": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "d": "2026-10-13T08:56:12.000Z",
    "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "1625db3c510720cf",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "Vibe Coding 2.0 is here...",
-   "u": "https://www.youtube.com/watch?v=S0JwWcLVzQA",
-   "d": "2026-10-13T04:16:47.000Z",
-   "first": "2026-10-13T08:36:55.972Z"
   },
   {
    "id": "e767168ef0e9bad0",
@@ -3143,8 +3143,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3161,7 +3160,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1227 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3179,53 +3178,43 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
