@@ -1,6 +1,16 @@
 {
- "generated": "2026-11-01T09:28:01.327Z",
+ "generated": "2026-11-01T16:12:53.869Z",
  "items": [
+  {
+   "id": "1745409697787dac",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy (Harry Lambert/Colossus)",
+   "u": "https://www.techmeme.com/261101/p9#a261101p9",
+   "d": "2026-11-01T15:30:00.000Z",
+   "first": "2026-11-01T16:12:53.869Z"
+  },
   {
    "id": "cb34f49e7e502c24",
    "f": "yt-wes-roth",
@@ -36,7 +46,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions (Debby Wu/Bloomberg)",
+   "t": "DeepSeek open sources Super-Agent, a coding agent research prototype it says proactively monitors developer group chats for coding issues and suggests solutions (Debby Wu/Bloomberg)",
    "u": "https://www.techmeme.com/261101/p2#a261101p2",
    "d": "2026-11-01T06:00:13.000Z",
    "first": "2026-11-01T09:28:01.327Z"
@@ -46,7 +56,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B in cash (Anzar Mehraj/Reuters)",
+   "t": "Insurance software maker Guidewire agrees to acquire Hyperexponential, which makes AI-powered insurance underwriting and pricing software, for $1.7B+ in cash (Anzar Mehraj/Reuters)",
    "u": "https://www.techmeme.com/261101/p1#a261101p1",
    "d": "2026-11-01T05:50:00.000Z",
    "first": "2026-11-01T09:28:01.327Z"
@@ -100,26 +110,6 @@
    "u": "https://www.techmeme.com/261031/p8#a261031p8",
    "d": "2026-10-31T14:40:53.000Z",
    "first": "2026-10-31T16:24:51.628Z"
-  },
-  {
-   "id": "ec61ac80791e30b0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A look at growing bipartisan opposition to AI data centers in drought-stricken Arizona, where TSMC's chip fabs were welcomed but newer projects face backlash (Gaby Del Valle/The Verge)",
-   "u": "https://www.techmeme.com/261031/p7#a261031p7",
-   "d": "2026-10-31T10:25:55.000Z",
-   "first": "2026-10-31T11:44:40.138Z"
-  },
-  {
-   "id": "72ba7ff919e6c595",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs (The Commanding Heights)",
-   "u": "https://www.techmeme.com/261031/p6#a261031p6",
-   "d": "2026-10-31T07:30:01.000Z",
-   "first": "2026-10-31T11:44:40.138Z"
   },
   {
    "id": "6a25cd2d0b5d046b",
