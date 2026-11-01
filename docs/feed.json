@@ -1,6 +1,16 @@
 {
- "generated": "2026-10-31T23:29:46.953Z",
+ "generated": "2026-11-01T02:26:47.855Z",
  "items": [
+  {
+   "id": "0b3e205dd13d5096",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% (Washington Post)",
+   "u": "https://www.techmeme.com/261031/p12#a261031p12",
+   "d": "2026-11-01T00:00:14.000Z",
+   "first": "2026-11-01T02:26:47.855Z"
+  },
   {
    "id": "e70a13b22291770b",
    "f": "techmeme",
@@ -3105,7 +3115,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1314 > 1000"
+   "error": "Entity expansion limit exceeded: 1018 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3134,7 +3144,7 @@
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
    "ok": false,
-   "error": "fetch failed"
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3165,17 +3175,17 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3189,7 +3199,8 @@
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3198,19 +3209,23 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
