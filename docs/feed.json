@@ -1,6 +1,16 @@
 {
- "generated": "2026-11-01T16:12:53.869Z",
+ "generated": "2026-11-01T20:38:45.544Z",
  "items": [
+  {
+   "id": "a7e591728385da4f",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout",
+   "u": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+   "d": "2026-11-01T18:40:45.000Z",
+   "first": "2026-11-01T20:38:45.544Z"
+  },
   {
    "id": "1745409697787dac",
    "f": "techmeme",
@@ -42,6 +52,16 @@
    "first": "2026-11-01T09:28:01.327Z"
   },
   {
+   "id": "7d3355fcd88f2bf3",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "The AI cost of JavaScript frameworks",
+   "u": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "d": "2026-11-01T06:06:19.000Z",
+   "first": "2026-11-01T20:38:45.544Z"
+  },
+  {
    "id": "fbbfeccfdbb9e935",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
@@ -62,26 +82,6 @@
    "first": "2026-11-01T09:28:01.327Z"
   },
   {
-   "id": "0b3e205dd13d5096",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% (Washington Post)",
-   "u": "https://www.techmeme.com/261031/p12#a261031p12",
-   "d": "2026-11-01T01:00:14.000Z",
-   "first": "2026-11-01T02:26:47.855Z"
-  },
-  {
-   "id": "e70a13b22291770b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker's ChatGPT share link (Swati Khandelwal/The Hacker News)",
-   "u": "https://www.techmeme.com/261031/p11#a261031p11",
-   "d": "2026-10-31T20:01:11.000Z",
-   "first": "2026-10-31T20:08:05.786Z"
-  },
-  {
    "id": "807e29f2a06d1d08",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -99,16 +99,6 @@
    "t": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
    "u": "https://latent.space/p/arca/",
    "d": "2026-10-31T16:05:00.000Z",
-   "first": "2026-10-31T16:24:51.628Z"
-  },
-  {
-   "id": "b3bac59c84b30bd2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How AI detectors like Pangram are changing human writing: authors drop em dashes, \"not X, but Y\" phrasing, and words like \"delve\", or add typos, to look human (Morgan Meaker/Bloomberg)",
-   "u": "https://www.techmeme.com/261031/p8#a261031p8",
-   "d": "2026-10-31T14:40:53.000Z",
    "first": "2026-10-31T16:24:51.628Z"
   },
   {
@@ -940,16 +930,6 @@
    "u": "https://openai.com/index/oracle-apps-in-chatgpt",
    "d": "2026-10-27T07:00:00.000Z",
    "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "d3bdfc835bf83076",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "The Mythical Man-Month in the Age of AI",
-   "u": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "d": "2026-10-27T06:25:37.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
   },
   {
    "id": "1df6ec3fa3dfda99",
@@ -2362,16 +2342,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "e3f7b1a378b09426",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "A Brain Too Big to Carry — On-Device vs Datacenter Inference",
-   "u": "https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device",
-   "d": "2026-09-14T16:37:25.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "f3df47f4c00a576f",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -3105,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1018 > 1000"
+   "error": "Entity expansion limit exceeded: 1062 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
