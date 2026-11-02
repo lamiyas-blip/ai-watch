@@ -1,15 +1,75 @@
 {
- "generated": "2026-11-02T04:39:09.860Z",
+ "generated": "2026-11-02T12:55:38.961Z",
  "items": [
   {
-   "id": "88e0b99bb4f0f8c7",
+   "id": "c624d81448762109",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Casap, whose AI tools automate dispute and anti-fraud operations for banks, raised a $56M Series B led by Base10 Partners, bringing its total funding to $90M (Jeff John Roberts/Fortune)",
-   "u": "https://www.techmeme.com/261101/p27#a261101p27",
-   "d": "2026-11-02T04:35:01.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
+   "t": "Marvell agrees to buy optical components maker Lumentum in a $115B all-stock deal, as it seeks to rival Broadcom; Nvidia invested $2B in each company in 2026 (Anhata Rooprai/Reuters)",
+   "u": "https://www.techmeme.com/261102/p14#a261102p14",
+   "d": "2026-11-02T12:20:01.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
+  },
+  {
+   "id": "4b9e5b5702d279b5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Anthropic plans to raise up to $3.5B from Japanese investors as part of its IPO, joining Australia, Canada, and parts of Europe in having direct access (Yasutaka Tamura/Bloomberg)",
+   "u": "https://www.techmeme.com/261102/p9#a261102p9",
+   "d": "2026-11-02T10:40:01.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
+  },
+  {
+   "id": "26b6a0d6e8db86e1",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "The agentic web is here",
+   "u": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+   "d": "2026-11-02T09:35:19.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
+  },
+  {
+   "id": "c50c90d3fcc6e723",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of UCLA professor Terence Tao, who was once enthusiastic about AI's role in math but now warns of AI destroying the field's deliberative process (Rivka Galchen/New Yorker)",
+   "u": "https://www.techmeme.com/261102/p7#a261102p7",
+   "d": "2026-11-02T09:20:00.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
+  },
+  {
+   "id": "ffecc986ad20cf39",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How SF's AI boom is reshaping dating: founders treat first dates as interviews, use tech terms like \"conversion rate\" to track dates, and pay coaches $5K/month (Emmy Martin/New York Times)",
+   "u": "https://www.techmeme.com/261102/p5#a261102p5",
+   "d": "2026-11-02T08:45:02.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
+  },
+  {
+   "id": "6962cb96555225fc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "NAND maker Kioxia's shares fell up to 15% on Monday after its cautious Q3 outlook disappointed investors, raising concerns that AI-driven growth may be slowing (Bloomberg)",
+   "u": "https://www.techmeme.com/261102/p6#a261102p6",
+   "d": "2026-11-02T08:45:02.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
+  },
+  {
+   "id": "7607c197748d93ea",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Japan Accidentally Helped Kill the Tsar - Sarah Paine",
+   "u": "https://www.youtube.com/shorts/n8uMYGFhg3U",
+   "d": "2026-11-02T08:11:03.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
   },
   {
    "id": "69ec2c021a43341c",
@@ -22,63 +82,13 @@
    "first": "2026-11-02T04:39:09.860Z"
   },
   {
-   "id": "4cade0dca25bba7e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
-   "u": "https://www.techmeme.com/261101/p26#a261101p26",
-   "d": "2026-11-02T04:05:02.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "a26bd752834a9bcc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI-powered medical search engine Vera Health, which says it is used by 800,000+ clinicians in 190 countries, raised a $28.5M Series A led by Threshold Ventures (Cailey Gleeson/Fierce Healthcare)",
-   "u": "https://www.techmeme.com/261101/p25#a261101p25",
-   "d": "2026-11-02T03:35:01.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
    "id": "21159757ab10c73d",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
    "cat": "YouTube",
-   "t": "Why Leibniz Couldn't Find the Mind Inside the Mill (Joscha Bach)",
+   "t": "Why Consciousness Might Not Be Hard At All (Joscha Bach)",
    "u": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
    "d": "2026-11-02T03:04:11.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "63f34dc1fc17a4a6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Midstream Health, whose AI tools help 250 hospitals recover revenue from rebates and vendor and payer underpayments, raised a $20M Series A led by Valtrius (Will Maddox/Axios)",
-   "u": "https://www.techmeme.com/261101/p24#a261101p24",
-   "d": "2026-11-02T03:01:17.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "ea5766f7c7766ee7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Data analytics provider Hex Technologies, which says it has rebuilt its platform for AI agents, raised a $100M Series D led by Peak XV at a $1.2B valuation (Tim Keary/Forbes)",
-   "u": "https://www.techmeme.com/261101/p23#a261101p23",
-   "d": "2026-11-02T02:40:01.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "739c9a48a5e5a9a8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Broccoli AI, which sells AI agents to plumbing, HVAC, and electrical companies, raised a $22M Series A and a $30M Series B; a source says it is valued at $300M (Nick Lichtenberg/Fortune)",
-   "u": "https://www.techmeme.com/261101/p22#a261101p22",
-   "d": "2026-11-02T02:15:00.000Z",
    "first": "2026-11-02T04:39:09.860Z"
   },
   {
@@ -92,36 +102,6 @@
    "first": "2026-11-02T04:39:09.860Z"
   },
   {
-   "id": "287514d6ae8e8816",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Letter: the White House argues it doesn't have to share the full draft of its voluntary AI testing framework, citing national security and commercial exemptions (Leo Schwartz/The Information)",
-   "u": "https://www.techmeme.com/261101/p21#a261101p21",
-   "d": "2026-11-02T01:45:02.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "de19571e1de9cfd6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Hyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan's Walden Catalyst; it has raised $50M to date (Geoff Weiss/Business Insider)",
-   "u": "https://www.techmeme.com/261101/p20#a261101p20",
-   "d": "2026-11-02T01:15:00.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "d352b6f701e36b00",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51% (Dean Takahashi/GamesBeat)",
-   "u": "https://www.techmeme.com/261101/p17#a261101p17",
-   "d": "2026-11-01T22:15:02.000Z",
-   "first": "2026-11-01T23:59:31.470Z"
-  },
-  {
    "id": "f583bb486f488765",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -130,16 +110,6 @@
    "u": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "d": "2026-11-01T22:10:45.000Z",
    "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "12ae77a317c5294d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)",
-   "u": "https://www.techmeme.com/261101/p16#a261101p16",
-   "d": "2026-11-01T21:30:01.000Z",
-   "first": "2026-11-01T23:59:31.470Z"
   },
   {
    "id": "a7e591728385da4f",
@@ -310,6 +280,16 @@
    "u": "https://www.transformernews.ai/p/was-this-the-ai-election",
    "d": "2026-10-30T14:32:31.000Z",
    "first": "2026-10-30T16:03:52.904Z"
+  },
+  {
+   "id": "afbc629fab805c5d",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Speeding up planning decisions with AI",
+   "u": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "d": "2026-10-30T14:18:30.000Z",
+   "first": "2026-11-02T12:55:38.961Z"
   },
   {
    "id": "a847f79c06300c94",
@@ -1172,16 +1152,6 @@
    "first": "2026-10-25T15:08:29.703Z"
   },
   {
-   "id": "16abd7c77ab03a46",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why Hunter-Gatherers Lost to Farmers - Kyle Harper",
-   "u": "https://www.youtube.com/shorts/Uo297BJeNvQ",
-   "d": "2026-10-24T19:43:51.000Z",
-   "first": "2026-10-24T21:17:07.148Z"
-  },
-  {
    "id": "9c3bfb309d13375b",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1309,16 +1279,6 @@
    "t": "Making the case for context-aware AI",
    "u": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
    "d": "2026-10-22T10:00:00.000Z",
-   "first": "2026-10-22T12:09:00.762Z"
-  },
-  {
-   "id": "532edde8b1bd8d5e",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "AI&#8217;s hidden storage bill: What inference leaves behind",
-   "u": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-   "d": "2026-10-22T08:41:18.000Z",
    "first": "2026-10-22T12:09:00.762Z"
   },
   {
@@ -2372,16 +2332,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "9ec96e4fb0766ae3",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-   "d": "2026-09-15T17:05:57.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "98935efb25497982",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -3153,7 +3103,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",

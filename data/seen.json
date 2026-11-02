@@ -349,6 +349,7 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "afbc629fab805c5d",
     "9caa982344aceed0",
     "759335d759474e6e",
     "8405823ba9037fd0",
@@ -418,6 +419,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "c624d81448762109",
+    "4b9e5b5702d279b5",
+    "c50c90d3fcc6e723",
+    "ffecc986ad20cf39",
+    "6962cb96555225fc",
     "88e0b99bb4f0f8c7",
     "4cade0dca25bba7e",
     "a26bd752834a9bcc",
@@ -950,6 +956,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "26b6a0d6e8db86e1",
     "e61223677bf4d10a",
     "a3dad553b0a6c852",
     "64ecbd7d38377d3a",
@@ -1042,6 +1049,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "7607c197748d93ea",
     "491d934c7cffe470",
     "b21e148d4a2d08c1",
     "2562d8e650512b70",
