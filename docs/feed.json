@@ -1,25 +1,95 @@
 {
- "generated": "2026-11-03T18:30:09.110Z",
+ "generated": "2026-11-03T23:34:59.002Z",
  "items": [
   {
-   "id": "6515108971ee9ba9",
+   "id": "73725a88caa8abed",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)",
-   "u": "https://www.techmeme.com/261103/p24#a261103p24",
-   "d": "2026-11-03T18:10:04.000Z",
-   "first": "2026-11-03T18:30:09.110Z"
+   "t": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)",
+   "u": "https://www.techmeme.com/261103/p39#a261103p39",
+   "d": "2026-11-03T23:05:01.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
   },
   {
-   "id": "fdcc83135033ea94",
+   "id": "4771428119c3e062",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company (Gerrit De Vynck/Washington Post)",
-   "u": "https://www.techmeme.com/261103/p23#a261103p23",
-   "d": "2026-11-03T18:00:38.000Z",
-   "first": "2026-11-03T18:30:09.110Z"
+   "t": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
+   "u": "https://www.techmeme.com/261103/p36#a261103p36",
+   "d": "2026-11-03T21:50:01.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "e2aa44a400ad7870",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in (Anthropic)",
+   "u": "https://www.techmeme.com/261103/p32#a261103p32",
+   "d": "2026-11-03T21:10:03.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "b1953ab8169347de",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)",
+   "u": "https://www.techmeme.com/261103/p31#a261103p31",
+   "d": "2026-11-03T21:00:53.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "e905d2fc36c25bf2",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud",
+   "u": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
+   "d": "2026-11-03T20:44:53.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "0d83a8682b8a39dd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
+   "u": "https://www.techmeme.com/261103/p28#a261103p28",
+   "d": "2026-11-03T20:30:02.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "4af61addaa60e940",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents (Apple Developer)",
+   "u": "https://www.techmeme.com/261103/p27#a261103p27",
+   "d": "2026-11-03T20:15:00.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "0bbd2ce92375178a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How OpenAI, Anthropic, and others are trying to prevent anyone from using their AI tools to disrupt the US midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
+   "u": "https://www.techmeme.com/261103/p26#a261103p26",
+   "d": "2026-11-03T19:45:03.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "f0946027db6f81b0",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "u": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "d": "2026-11-03T17:22:37.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "9c7bdf8b4e5b3a0d",
@@ -42,34 +112,14 @@
    "first": "2026-11-03T18:30:09.110Z"
   },
   {
-   "id": "68b24e5b5466b264",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "31a7ffef996d7dbd",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search (New York Times)",
-   "u": "https://www.techmeme.com/261103/p18#a261103p18",
-   "d": "2026-11-03T15:45:01.000Z",
-   "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
-   "id": "c70d0c31459e7d05",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261103/p17#a261103p17",
-   "d": "2026-11-03T14:50:01.000Z",
-   "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
-   "id": "b416c3c650e4ef25",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic has told investors in recent meetings that its 15-person chip design team is using Claude for engineering and design work on its custom chips (The Information)",
-   "u": "https://www.techmeme.com/261103/p16#a261103p16",
-   "d": "2026-11-03T14:20:04.000Z",
-   "first": "2026-11-03T18:30:09.110Z"
+   "t": "Google will turn off search for schools that reject AI",
+   "u": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "d": "2026-11-03T15:25:47.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "30327fcea24806de",
@@ -82,6 +132,16 @@
    "first": "2026-11-03T18:30:09.110Z"
   },
   {
+   "id": "20f89fa0a9ecc137",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Accelerating engineering for the physical world",
+   "u": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "d": "2026-11-03T12:00:00.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
    "id": "49b3b65c588dd33f",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -90,6 +150,16 @@
    "u": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
    "d": "2026-11-03T10:43:41.000Z",
    "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "ac042d61065fde46",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Cisco defends at machine speed with OpenAI",
+   "u": "https://openai.com/index/cisco-cyber",
+   "d": "2026-11-03T08:00:00.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "bd3ec197e42d33ce",
@@ -140,6 +210,16 @@
    "u": "https://tldr.tech/ai/2026-11-03",
    "d": "2026-11-03T00:00:00.000Z",
    "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "74ad3ec9dabd93e9",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+   "u": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "d": "2026-11-03T00:00:00.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "ed1a8a4aa9a6136e",
@@ -250,6 +330,16 @@
    "u": "https://openai.com/index/grid-protectors-program",
    "d": "2026-11-02T15:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
+  },
+  {
+   "id": "528310e8be950d02",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "u": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "d": "2026-11-02T14:02:42.000Z",
+   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "aad9889125320c9f",
@@ -722,26 +812,6 @@
    "first": "2026-10-29T13:24:13.130Z"
   },
   {
-   "id": "cfa130f3ef2beecf",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How we detect frontier model misalignment",
-   "u": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "d": "2026-10-29T09:00:00.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "34c82fec96a10cda",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Ropes & Gray is developing AI for transactional diligence",
-   "u": "https://openai.com/index/ropes-gray-ai-diligence",
-   "d": "2026-10-29T07:00:00.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
    "id": "64137a87bbc9c1f5",
    "f": "latent-space",
    "src": "Latent Space",
@@ -780,16 +850,6 @@
    "u": "https://tldr.tech/ai/2026-10-29",
    "d": "2026-10-29T00:00:00.000Z",
    "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "72cbe3140ecaeb10",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-   "u": "https://openai.com/index/credit-saison",
-   "d": "2026-10-29T00:00:00.000Z",
-   "first": "2026-10-30T16:03:52.904Z"
   },
   {
    "id": "ade4dd2f9ab7b4ba",
@@ -1012,16 +1072,6 @@
    "first": "2026-10-29T00:29:38.175Z"
   },
   {
-   "id": "4eba8f2ff5899964",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "u": "https://www.brangus.io/survival-llm",
-   "d": "2026-10-27T19:55:06.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
    "id": "0a70f166a0301951",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1060,26 +1110,6 @@
    "u": "https://www.youtube.com/shorts/m7jelL7qRWo",
    "d": "2026-10-27T17:51:10.000Z",
    "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "8012a37a93efef40",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Police are using AI to pull over drivers for 'suspicious' behavior",
-   "u": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-   "d": "2026-10-27T16:40:15.000Z",
-   "first": "2026-10-27T23:17:48.381Z"
-  },
-  {
-   "id": "5834dda59be98501",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "u": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-   "d": "2026-10-27T16:25:30.000Z",
-   "first": "2026-10-27T23:17:48.381Z"
   },
   {
    "id": "7f2d3eb64c6c8a9e",
@@ -2342,16 +2372,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "151142516e4dc723",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree",
-   "u": "https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums",
-   "d": "2026-09-15T20:54:41.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "f3df47f4c00a576f",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -3103,8 +3123,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "The operation was aborted due to timeout"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3135,27 +3154,33 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3163,19 +3188,23 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
