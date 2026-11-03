@@ -1,6 +1,126 @@
 {
- "generated": "2026-11-03T03:18:47.788Z",
+ "generated": "2026-11-03T11:07:09.880Z",
  "items": [
+  {
+   "id": "74525f883f991dcf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The UK NCSC says AI is \"transforming cyber operations\" and expects China and Russia to \"routinely use AI cyber to achieve their geopolitical goals\" by 2028 (Tom Wilson/Financial Times)",
+   "u": "https://www.techmeme.com/261103/p7#a261103p7",
+   "d": "2026-11-03T11:05:01.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "49b3b65c588dd33f",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "How “reverse game theory” could keep AI agents in check",
+   "u": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "d": "2026-11-03T10:43:41.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "2219e0e08ef1c61e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
+   "u": "https://www.techmeme.com/261103/p4#a261103p4",
+   "d": "2026-11-03T10:10:07.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "4686d64696065127",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence (David Freedlander/New York Magazine)",
+   "u": "https://www.techmeme.com/261103/p3#a261103p3",
+   "d": "2026-11-03T08:40:02.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "bd3ec197e42d33ce",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Heimstaden is changing residential real estate management with AI",
+   "u": "https://openai.com/index/heimstaden",
+   "d": "2026-11-03T08:00:00.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "fff35d0b774c3e09",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings (OpenAI)",
+   "u": "https://www.techmeme.com/261103/p2#a261103p2",
+   "d": "2026-11-03T07:20:00.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "5ce58f134b45d102",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
+   "u": "https://www.techmeme.com/261103/p1#a261103p1",
+   "d": "2026-11-03T06:00:40.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "789931437fef05a2",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+   "u": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+   "d": "2026-11-03T05:35:00.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "4139d809d5129cc4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)",
+   "u": "https://www.techmeme.com/261102/p51#a261102p51",
+   "d": "2026-11-03T04:35:00.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "40607cdf83cad3c0",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "u": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "d": "2026-11-03T04:18:47.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "cfc53712f0b799ab",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Quantity vs quality in pottery is a lie",
+   "u": "https://www.lesswrong.com/posts/LrAqM4bGmAoA79rP3/quantity-vs-quality-in-pottery-is-a-lie",
+   "d": "2026-11-03T03:29:41.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
+  {
+   "id": "cf44364a480d4381",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
+   "u": "https://www.techmeme.com/261102/p50#a261102p50",
+   "d": "2026-11-03T03:25:00.000Z",
+   "first": "2026-11-03T11:07:09.880Z"
+  },
   {
    "id": "7edf7cbe28d6d0bd",
    "f": "techmeme",
@@ -16,7 +136,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+   "t": "Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta (The Information)",
    "u": "https://www.techmeme.com/261102/p48#a261102p48",
    "d": "2026-11-03T01:20:01.000Z",
    "first": "2026-11-03T03:18:47.788Z"
@@ -36,7 +156,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "A world model like Genie 4 (But Free and Open-Soure)",
+   "t": "Generate Worlds in Real-Time (Free & Open Source)",
    "u": "https://www.youtube.com/shorts/lZes3U_WIug",
    "d": "2026-11-02T23:12:03.000Z",
    "first": "2026-11-03T03:18:47.788Z"
@@ -46,7 +166,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
+   "t": "S-1: Anthropic says it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
    "u": "https://www.techmeme.com/261102/p44#a261102p44",
    "d": "2026-11-02T23:05:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
@@ -72,16 +192,6 @@
    "first": "2026-11-03T03:18:47.788Z"
   },
   {
-   "id": "f933b57ac5f401aa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261102/p42#a261102p42",
-   "d": "2026-11-02T22:10:01.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "091edd9d78a75dff",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -89,16 +199,6 @@
    "t": "Why Senators Couldn’t Say No to LBJ – Robert Caro",
    "u": "https://www.youtube.com/shorts/7l6IEPzt68I",
    "d": "2026-11-02T21:42:00.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "02b1ea6129974b38",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
-   "u": "https://www.techmeme.com/261102/p35#a261102p35",
-   "d": "2026-11-02T19:15:01.000Z",
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
@@ -812,16 +912,6 @@
    "first": "2026-10-28T20:38:29.079Z"
   },
   {
-   "id": "af1457fe0e356b06",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "u": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "d": "2026-10-28T13:15:00.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
    "id": "3557db7aa5ffe0cb",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1162,16 +1252,6 @@
    "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "0da9ddf33125a284",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "The focus on AI safety disasters ignores everyday harms",
-   "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-   "d": "2026-10-26T09:01:00.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
-  },
-  {
    "id": "57f59158d2e339f1",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1262,16 +1342,6 @@
    "first": "2026-10-23T20:43:19.635Z"
   },
   {
-   "id": "57fe00989e18d01e",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "AI Is Getting Good at Math. Here’s Why.",
-   "u": "https://latent.space/p/ai-is-getting-good-at-math/",
-   "d": "2026-10-23T15:19:48.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
    "id": "e74013967ddbff44",
    "f": "transformer",
    "src": "Transformer",
@@ -1290,16 +1360,6 @@
    "u": "https://tldr.tech/ai/2026-10-23",
    "d": "2026-10-23T00:00:00.000Z",
    "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "a434cb84c509fd33",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Designing an AI serving harness built to last",
-   "u": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-   "d": "2026-10-22T21:17:29.000Z",
-   "first": "2026-10-22T23:44:06.621Z"
   },
   {
    "id": "8405823ba9037fd0",
@@ -2252,16 +2312,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "b58b35bb4f4ae959",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "We've saved the world before: what the ozone hole teaches us about AI",
-   "u": "https://www.lesswrong.com/posts/zxXPEtSSSEdwpjopb/we-ve-saved-the-world-before-what-the-ozone-hole-teaches-us",
-   "d": "2026-09-22T01:13:30.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "bd9f0253176145b0",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -3085,7 +3135,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1007 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3130,7 +3180,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1060 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3144,18 +3194,15 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3163,18 +3210,15 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3186,13 +3230,11 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }

@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "789931437fef05a2",
     "3343515469e2c296",
     "cdb3c2724fc29c00",
     "2b84ab40d0f2e0fd",
@@ -265,6 +266,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "bd3ec197e42d33ce",
     "6f94c5ac2cc43392",
     "033b0bdae9d3ac72",
     "d0fddeb40c0bee84",
@@ -430,6 +432,13 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "74525f883f991dcf",
+    "2219e0e08ef1c61e",
+    "4686d64696065127",
+    "fff35d0b774c3e09",
+    "5ce58f134b45d102",
+    "4139d809d5129cc4",
+    "cf44364a480d4381",
     "7edf7cbe28d6d0bd",
     "0ef022d22a64afa2",
     "66c485ec52b07488",
@@ -980,6 +989,8 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "49b3b65c588dd33f",
+    "40607cdf83cad3c0",
     "5cda0ef8f2e860c8",
     "20b620ec9a089980",
     "26b6a0d6e8db86e1",
@@ -1024,6 +1035,7 @@
   "lesswrong": {
    "init": true,
    "ids": [
+    "cfc53712f0b799ab",
     "68123fbf06c5a0d2",
     "9d7e936e6f6d6e92",
     "adee386d1f22f970",
