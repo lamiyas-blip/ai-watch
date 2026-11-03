@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-02T21:59:23.006Z",
+ "generated": "2026-11-03T03:18:47.788Z",
  "items": [
+  {
+   "id": "7edf7cbe28d6d0bd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
+   "u": "https://www.techmeme.com/261102/p49#a261102p49",
+   "d": "2026-11-03T03:10:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "0ef022d22a64afa2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+   "u": "https://www.techmeme.com/261102/p48#a261102p48",
+   "d": "2026-11-03T01:20:01.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "66c485ec52b07488",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
+   "u": "https://www.techmeme.com/261102/p45#a261102p45",
+   "d": "2026-11-03T00:05:01.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "ed1a8a4aa9a6136e",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "A world model like Genie 4 (But Free and Open-Soure)",
+   "u": "https://www.youtube.com/shorts/lZes3U_WIug",
+   "d": "2026-11-02T23:12:03.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "b6fadbb0ccdce29c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
+   "u": "https://www.techmeme.com/261102/p44#a261102p44",
+   "d": "2026-11-02T23:05:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "3343515469e2c296",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+   "u": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+   "d": "2026-11-02T23:01:02.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "cdb3c2724fc29c00",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+   "u": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+   "d": "2026-11-02T22:54:03.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "f933b57ac5f401aa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261102/p42#a261102p42",
+   "d": "2026-11-02T22:10:01.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
   {
    "id": "091edd9d78a75dff",
    "f": "yt-dwarkesh",
@@ -22,44 +102,24 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "8f297cfb3ecd8da1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses meant \"to reduce electricity demand when the grid is under strain\" (OpenAI)",
-   "u": "https://www.techmeme.com/261102/p34#a261102p34",
-   "d": "2026-11-02T18:20:04.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
+   "id": "6f94c5ac2cc43392",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Rewarding defenders with bigger bug bounties",
+   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
   },
   {
-   "id": "834113562744f185",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tutor Intelligence, which trains robot foundation models and builds AI warehouse robots, raised a $75M Series B led by a16z, taking its total funding to $117M (John Werner/Forbes)",
-   "u": "https://www.techmeme.com/261102/p33#a261102p33",
-   "d": "2026-11-02T17:50:01.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "e52100dc5664619d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "DeepSeek releases a \"creator mode\" that allows users of DeepSeek Harness to create custom plugins, like a 3D model renderer and a video editing workbench (Debby Wu/Bloomberg)",
-   "u": "https://www.techmeme.com/261102/p32#a261102p32",
-   "d": "2026-11-02T17:40:03.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "14656da44be9ae95",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement is against its usage policy (Bruno Ferreira/Tom's Hardware)",
-   "u": "https://www.techmeme.com/261102/p31#a261102p31",
-   "d": "2026-11-02T17:05:05.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
+   "id": "033b0bdae9d3ac72",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Preparing our next security sprint to harden OpenAI",
+   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "ad0b0e3719117967",
@@ -92,34 +152,14 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "9f928eb4131c8dca",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\" (Ashley Capoot/CNBC)",
-   "u": "https://www.techmeme.com/261102/p29#a261102p29",
-   "d": "2026-11-02T16:35:00.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "fa7434863d5a32ff",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A profile of OpenAI VP Charles Porch, an ex-Instagram executive who is rehabilitating AI's image across Hollywood and the media, including via celebrity dinners (Charlotte Klein/New York Magazine)",
-   "u": "https://www.techmeme.com/261102/p27#a261102p27",
-   "d": "2026-11-02T15:50:01.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "da18515ebbf9b3c8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources detail Anthropic's compute deal spree: 3.5GW+ of expected capacity in 2026, diversifying beyond Nvidia's AI chips to Amazon, Google, and AMD, and more (New York Times)",
-   "u": "https://www.techmeme.com/261102/p26#a261102p26",
-   "d": "2026-11-02T15:20:25.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
+   "id": "d0fddeb40c0bee84",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Scaling Git at OpenAI",
+   "u": "https://openai.com/index/scaling-git-at-openai",
+   "d": "2026-11-02T15:30:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "0b2deea62c0f4cb8",
@@ -230,6 +270,16 @@
    "u": "https://openai.com/index/qodo-codex-plugin",
    "d": "2026-11-02T00:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
+  },
+  {
+   "id": "5e25df232bf0c41b",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "u": "https://openai.com/index/dan-driscoll-joins-openai",
+   "d": "2026-11-02T00:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "f583bb486f488765",
@@ -792,26 +842,6 @@
    "first": "2026-10-28T15:33:34.833Z"
   },
   {
-   "id": "bd1b77889fb7e5c6",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "The future of the firm",
-   "u": "https://openai.com/index/the-future-of-the-firm",
-   "d": "2026-10-28T10:00:00.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
-   "id": "1a3387a29340e094",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Legora is building the agentic operating system for legal work",
-   "u": "https://openai.com/index/legora",
-   "d": "2026-10-28T09:30:00.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
    "id": "f0eb0bb9fce82d84",
    "f": "latent-space",
    "src": "Latent Space",
@@ -962,16 +992,6 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
-   "id": "007398929fdb0cde",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Crazy Spy Tech You Can Use For Free!",
-   "u": "https://www.youtube.com/shorts/EUjd_UBApoA",
-   "d": "2026-10-27T16:43:52.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
    "id": "8012a37a93efef40",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1032,16 +1052,6 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
-   "id": "cc796df9934b6884",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Retell uses OpenAI models to help power 100M monthly calls",
-   "u": "https://openai.com/index/retell-ai",
-   "d": "2026-10-27T15:00:00.000Z",
-   "first": "2026-10-27T23:17:48.381Z"
-  },
-  {
    "id": "fde4ec2ff4059936",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1100,16 +1110,6 @@
    "u": "https://latent.space/p/ainews-anthropic-s1/",
    "d": "2026-10-27T07:24:59.000Z",
    "first": "2026-10-27T08:04:28.492Z"
-  },
-  {
-   "id": "79219d62c4042fd8",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-   "u": "https://openai.com/index/oracle-apps-in-chatgpt",
-   "d": "2026-10-27T07:00:00.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
   },
   {
    "id": "1df6ec3fa3dfda99",
@@ -1282,16 +1282,6 @@
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
-   "id": "e01c14bc59f971bb",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Black October",
-   "u": "https://latent.space/p/ainews-black-october/",
-   "d": "2026-10-23T10:09:29.000Z",
-   "first": "2026-10-23T12:54:53.458Z"
-  },
-  {
    "id": "2e575241118c4c80",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1310,16 +1300,6 @@
    "u": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
    "d": "2026-10-22T21:17:29.000Z",
    "first": "2026-10-22T23:44:06.621Z"
-  },
-  {
-   "id": "6773605cc020de47",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-   "u": "https://latent.space/p/modal-d/",
-   "d": "2026-10-22T17:40:57.000Z",
-   "first": "2026-10-22T20:38:45.378Z"
   },
   {
    "id": "8405823ba9037fd0",
@@ -3105,7 +3085,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1358 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3164,15 +3144,18 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3180,15 +3163,18 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3200,11 +3186,13 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
