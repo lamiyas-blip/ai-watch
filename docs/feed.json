@@ -1,15 +1,85 @@
 {
- "generated": "2026-11-03T11:07:09.880Z",
+ "generated": "2026-11-03T18:30:09.110Z",
  "items": [
   {
-   "id": "74525f883f991dcf",
+   "id": "6515108971ee9ba9",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "The UK NCSC says AI is \"transforming cyber operations\" and expects China and Russia to \"routinely use AI cyber to achieve their geopolitical goals\" by 2028 (Tom Wilson/Financial Times)",
-   "u": "https://www.techmeme.com/261103/p7#a261103p7",
-   "d": "2026-11-03T11:05:01.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
+   "t": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)",
+   "u": "https://www.techmeme.com/261103/p24#a261103p24",
+   "d": "2026-11-03T18:10:04.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "fdcc83135033ea94",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company (Gerrit De Vynck/Washington Post)",
+   "u": "https://www.techmeme.com/261103/p23#a261103p23",
+   "d": "2026-11-03T18:00:38.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "9c7bdf8b4e5b3a0d",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Agentic cheminformatics with Google Antigravity",
+   "u": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "d": "2026-11-03T17:01:49.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "3c6fed3a60eee7be",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "They did it...",
+   "u": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
+   "d": "2026-11-03T16:51:59.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "68b24e5b5466b264",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search (New York Times)",
+   "u": "https://www.techmeme.com/261103/p18#a261103p18",
+   "d": "2026-11-03T15:45:01.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "c70d0c31459e7d05",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261103/p17#a261103p17",
+   "d": "2026-11-03T14:50:01.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "b416c3c650e4ef25",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic has told investors in recent meetings that its 15-person chip design team is using Claude for engineering and design work on its custom chips (The Information)",
+   "u": "https://www.techmeme.com/261103/p16#a261103p16",
+   "d": "2026-11-03T14:20:04.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "30327fcea24806de",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Finding my thing",
+   "u": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
+   "d": "2026-11-03T14:03:32.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
   },
   {
    "id": "49b3b65c588dd33f",
@@ -19,26 +89,6 @@
    "t": "How “reverse game theory” could keep AI agents in check",
    "u": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
    "d": "2026-11-03T10:43:41.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
-   "id": "2219e0e08ef1c61e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
-   "u": "https://www.techmeme.com/261103/p4#a261103p4",
-   "d": "2026-11-03T10:10:07.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
-   "id": "4686d64696065127",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence (David Freedlander/New York Magazine)",
-   "u": "https://www.techmeme.com/261103/p3#a261103p3",
-   "d": "2026-11-03T08:40:02.000Z",
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
@@ -52,26 +102,6 @@
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
-   "id": "fff35d0b774c3e09",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings (OpenAI)",
-   "u": "https://www.techmeme.com/261103/p2#a261103p2",
-   "d": "2026-11-03T07:20:00.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
-   "id": "5ce58f134b45d102",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
-   "u": "https://www.techmeme.com/261103/p1#a261103p1",
-   "d": "2026-11-03T06:00:40.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
    "id": "789931437fef05a2",
    "f": "latent-space",
    "src": "Latent Space",
@@ -79,16 +109,6 @@
    "t": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
    "u": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
    "d": "2026-11-03T05:35:00.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
-   "id": "4139d809d5129cc4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)",
-   "u": "https://www.techmeme.com/261102/p51#a261102p51",
-   "d": "2026-11-03T04:35:00.000Z",
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
@@ -112,44 +132,14 @@
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
-   "id": "cf44364a480d4381",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
-   "u": "https://www.techmeme.com/261102/p50#a261102p50",
-   "d": "2026-11-03T03:25:00.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
-   "id": "7edf7cbe28d6d0bd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
-   "u": "https://www.techmeme.com/261102/p49#a261102p49",
-   "d": "2026-11-03T03:10:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
-   "id": "0ef022d22a64afa2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta (The Information)",
-   "u": "https://www.techmeme.com/261102/p48#a261102p48",
-   "d": "2026-11-03T01:20:01.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
-   "id": "66c485ec52b07488",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
-   "u": "https://www.techmeme.com/261102/p45#a261102p45",
-   "d": "2026-11-03T00:05:01.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
+   "id": "5b643b94d1259021",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Claude Message Threads 🧵, Astra 6.2 spotted 👀, Anthropic nears RSI 🔄",
+   "u": "https://tldr.tech/ai/2026-11-03",
+   "d": "2026-11-03T00:00:00.000Z",
+   "first": "2026-11-03T18:30:09.110Z"
   },
   {
    "id": "ed1a8a4aa9a6136e",
@@ -159,16 +149,6 @@
    "t": "Generate Worlds in Real-Time (Free & Open Source)",
    "u": "https://www.youtube.com/shorts/lZes3U_WIug",
    "d": "2026-11-02T23:12:03.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
-   "id": "b6fadbb0ccdce29c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "S-1: Anthropic says it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
-   "u": "https://www.techmeme.com/261102/p44#a261102p44",
-   "d": "2026-11-02T23:05:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
   {
@@ -202,22 +182,22 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "6f94c5ac2cc43392",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Rewarding defenders with bigger bug bounties",
-   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "033b0bdae9d3ac72",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Preparing our next security sprint to harden OpenAI",
    "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "6f94c5ac2cc43392",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Rewarding defenders with bigger bug bounties",
+   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "d": "2026-11-02T18:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
@@ -362,16 +342,6 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "4c9d02e4e4d636df",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Qodo builds context into AI code review with Codex",
-   "u": "https://openai.com/index/qodo-codex-plugin",
-   "d": "2026-11-02T00:00:00.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
    "id": "5e25df232bf0c41b",
    "f": "openai-news",
    "src": "OpenAI",
@@ -380,6 +350,16 @@
    "u": "https://openai.com/index/dan-driscoll-joins-openai",
    "d": "2026-11-02T00:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "4c9d02e4e4d636df",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Qodo builds context into AI code review with Codex",
+   "u": "https://openai.com/index/qodo-codex-plugin",
+   "d": "2026-11-02T00:00:00.000Z",
+   "first": "2026-11-02T21:59:23.006Z"
   },
   {
    "id": "f583bb486f488765",
@@ -1272,16 +1252,6 @@
    "first": "2026-10-26T19:37:12.165Z"
   },
   {
-   "id": "94f0cd9a46db2502",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Kimi K3.1 Passes the Rubik's Cube Test",
-   "u": "https://www.youtube.com/shorts/L18lkQs4PeM",
-   "d": "2026-10-25T22:29:29.000Z",
-   "first": "2026-10-25T23:22:47.784Z"
-  },
-  {
    "id": "9d7e936e6f6d6e92",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1812,16 +1782,6 @@
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "e767168ef0e9bad0",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Muse Wonder ✨, Maia 300 ⚡, AI self-replication 🧬",
-   "u": "https://tldr.tech/ai/2026-10-13",
-   "d": "2026-10-13T00:00:00.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
    "id": "fbff78550db0bc09",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -2282,16 +2242,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "09f07f29d9dea6a9",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Gemini 3.8 text-to-speech says hello",
-   "u": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-   "d": "2026-09-23T15:25:14.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "70cba92deb0be88a",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2399,16 +2349,6 @@
    "t": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree",
    "u": "https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums",
    "d": "2026-09-15T20:54:41.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "98935efb25497982",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "Good luck slowing this down",
-   "u": "https://www.bensbites.com/p/good-luck-slowing-this-down",
-   "d": "2026-09-15T13:02:52.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3135,7 +3075,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1007 > 1000"
+   "error": "Entity expansion limit exceeded: 1057 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3163,7 +3103,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "The operation was aborted due to timeout"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3180,7 +3121,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1028 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
