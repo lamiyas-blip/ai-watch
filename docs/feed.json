@@ -1,75 +1,115 @@
 {
- "generated": "2026-11-04T03:35:59.122Z",
+ "generated": "2026-11-04T11:40:06.831Z",
  "items": [
   {
-   "id": "58e6aa946a727749",
+   "id": "b39dc6ff8af21466",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Q&A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more (Katie Drummond/Wired)",
-   "u": "https://www.techmeme.com/261103/p45#a261103p45",
-   "d": "2026-11-04T01:45:01.000Z",
-   "first": "2026-11-04T03:35:59.122Z"
+   "t": "Google says it expanded voluntary exit buyouts in June to employees across Canada, France, Germany, Japan, and Switzerland to manage costs amid huge AI spending (Reuters)",
+   "u": "https://www.techmeme.com/261104/p16#a261104p16",
+   "d": "2026-11-04T11:05:00.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "0b84a90e2a60a60d",
+   "id": "bb06395724a8b856",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O'Brien/CNBC)",
-   "u": "https://www.techmeme.com/261103/p44#a261103p44",
-   "d": "2026-11-04T01:10:05.000Z",
-   "first": "2026-11-04T03:35:59.122Z"
+   "t": "Texas elects Democrats for governor and the US Senate for the first time in decades, creating uncertainty for its booming AI data center sector and Elon Musk (Nick Wingfield/The Information)",
+   "u": "https://www.techmeme.com/261104/p15#a261104p15",
+   "d": "2026-11-04T11:01:35.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "6e81f064ed5f79e4",
+   "id": "ef1c84c29792cbfa",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
-   "u": "https://www.techmeme.com/261103/p43#a261103p43",
-   "d": "2026-11-04T00:40:00.000Z",
-   "first": "2026-11-04T03:35:59.122Z"
+   "t": "Tencent releases its Hy4 open-weight foundation model, which it says joins the top tier of Chinese open-weight AI for the first time, and plans a Flash version (Bloomberg)",
+   "u": "https://www.techmeme.com/261104/p14#a261104p14",
+   "d": "2026-11-04T10:55:00.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "098c0a8b06ed720e",
+   "id": "367235e6edce66ab",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
-   "u": "https://www.techmeme.com/261103/p42#a261103p42",
-   "d": "2026-11-04T00:20:01.000Z",
-   "first": "2026-11-04T03:35:59.122Z"
+   "t": "NBC exit poll: 56% said AI and data centers had been a \"crucial or a major factor\" in casting their votes for Congress, as candidates pledge to halt development (Financial Times)",
+   "u": "https://www.techmeme.com/261104/p13#a261104p13",
+   "d": "2026-11-04T10:45:17.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "e01117dcb346234e",
+   "id": "f49f25f4786bcd5f",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)",
-   "u": "https://www.techmeme.com/261103/p41#a261103p41",
-   "d": "2026-11-04T00:00:50.000Z",
-   "first": "2026-11-04T03:35:59.122Z"
+   "t": "A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup Tano eight months ago (Neil Kakkar/The Pragmatic Engineer)",
+   "u": "https://www.techmeme.com/261104/p11#a261104p11",
+   "d": "2026-11-04T09:45:17.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "73725a88caa8abed",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)",
-   "u": "https://www.techmeme.com/261103/p39#a261103p39",
-   "d": "2026-11-03T23:05:01.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
+   "id": "5dd364e34992f931",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The Dream Chocolate That Stopped Being Real (Joscha Bach)",
+   "u": "https://www.youtube.com/shorts/BwE9HfB5Rtw",
+   "d": "2026-11-04T08:27:06.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "4771428119c3e062",
+   "id": "030f128f834663f8",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
-   "u": "https://www.techmeme.com/261103/p36#a261103p36",
-   "d": "2026-11-03T21:50:01.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
+   "t": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)",
+   "u": "https://www.techmeme.com/261104/p8#a261104p8",
+   "d": "2026-11-04T07:30:05.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
+  },
+  {
+   "id": "6ddedce09486af3c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
+   "u": "https://www.techmeme.com/261104/p7#a261104p7",
+   "d": "2026-11-04T07:20:02.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
+  },
+  {
+   "id": "70dd80c1abd6a8e8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback (Bloomberg)",
+   "u": "https://www.techmeme.com/261104/p6#a261104p6",
+   "d": "2026-11-04T06:55:07.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
+  },
+  {
+   "id": "bbaca1868b7d81f6",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Simulated Water Can't Make You Wet (Joscha Bach)",
+   "u": "https://www.youtube.com/shorts/TA9-RgnLZrs",
+   "d": "2026-11-04T04:39:59.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
+  },
+  {
+   "id": "9a282a6304e71cda",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Minecraft Doesn't Know What It's Running On (Joscha Bach)",
+   "u": "https://www.youtube.com/shorts/ZhftAOXJACM",
+   "d": "2026-11-04T02:53:57.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
    "id": "7f9a805057d135f3",
@@ -92,14 +132,14 @@
    "first": "2026-11-04T03:35:59.122Z"
   },
   {
-   "id": "e2aa44a400ad7870",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in (Anthropic)",
-   "u": "https://www.techmeme.com/261103/p32#a261103p32",
-   "d": "2026-11-03T21:10:03.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
+   "id": "2ca3d6cd36a5e145",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "A real-life speeder bike from Return of the Jedi (Not AI)",
+   "u": "https://www.youtube.com/shorts/PRAY_SewRxI",
+   "d": "2026-11-03T20:51:24.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
    "id": "e905d2fc36c25bf2",
@@ -110,6 +150,16 @@
    "u": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
    "d": "2026-11-03T20:44:53.000Z",
    "first": "2026-11-03T23:34:59.002Z"
+  },
+  {
+   "id": "208f873ba6e03c9a",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Robert Moses Destroyed His Enemies - Robert Caro",
+   "u": "https://www.youtube.com/shorts/paOOAJS5Omk",
+   "d": "2026-11-03T20:25:36.000Z",
+   "first": "2026-11-04T11:40:06.831Z"
   },
   {
    "id": "f0946027db6f81b0",
@@ -292,22 +342,22 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "6f94c5ac2cc43392",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Rewarding defenders with bigger bug bounties",
-   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "033b0bdae9d3ac72",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Preparing our next security sprint to harden OpenAI",
    "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "6f94c5ac2cc43392",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Rewarding defenders with bigger bug bounties",
+   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "d": "2026-11-02T18:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
@@ -462,16 +512,6 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "5e25df232bf0c41b",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "u": "https://openai.com/index/dan-driscoll-joins-openai",
-   "d": "2026-11-02T00:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "4c9d02e4e4d636df",
    "f": "openai-news",
    "src": "OpenAI",
@@ -480,6 +520,16 @@
    "u": "https://openai.com/index/qodo-codex-plugin",
    "d": "2026-11-02T00:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
+  },
+  {
+   "id": "5e25df232bf0c41b",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "u": "https://openai.com/index/dan-driscoll-joins-openai",
+   "d": "2026-11-02T00:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "f583bb486f488765",
@@ -932,16 +982,6 @@
    "first": "2026-10-28T20:38:29.079Z"
   },
   {
-   "id": "2ae80c8d295226cb",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Insane Interactive World Creator (Genie 4)",
-   "u": "https://www.youtube.com/shorts/DZbCL56oz3M",
-   "d": "2026-10-28T18:25:36.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
    "id": "97aa9361e57c37c7",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1052,16 +1092,6 @@
    "first": "2026-10-28T08:47:45.290Z"
   },
   {
-   "id": "25da597253e6cad8",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "The Scientific Revolution Happened in a Filthy City - Kyle Harper",
-   "u": "https://www.youtube.com/shorts/uXRcpSXIunA",
-   "d": "2026-10-28T00:36:59.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
    "id": "89245e54ab3b033c",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1112,26 +1142,6 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
-   "id": "ca10e2aea6d0c679",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Colour Theory Has Politics - Paul Lessard",
-   "u": "https://www.youtube.com/shorts/m7jelL7qRWo",
-   "d": "2026-10-27T17:51:10.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "7f2d3eb64c6c8a9e",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Correct Isn't Enough. I Want the Reason. - Paul Lessard #podcast #science",
-   "u": "https://www.youtube.com/shorts/5pi9dSGYAgM",
-   "d": "2026-10-27T16:24:35.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
    "id": "69d1efd08f3eafd2",
    "f": "transformer",
    "src": "Transformer",
@@ -1170,16 +1180,6 @@
    "u": "https://latent.space/p/offline-coding/",
    "d": "2026-10-27T14:41:25.000Z",
    "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "ded191a65c16e657",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "The Trojan Horse in AI-Written Mathematics",
-   "u": "https://www.youtube.com/shorts/unwUjyA52tM",
-   "d": "2026-10-27T14:30:06.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
   },
   {
    "id": "33a1dffeb946ed5a",
@@ -3150,7 +3150,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1028 > 1000"
+   "error": "Entity expansion limit exceeded: 1032 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3164,58 +3164,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }

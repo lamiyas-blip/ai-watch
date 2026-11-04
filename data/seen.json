@@ -273,13 +273,13 @@
     "ac042d61065fde46",
     "bd3ec197e42d33ce",
     "74ad3ec9dabd93e9",
-    "6f94c5ac2cc43392",
     "033b0bdae9d3ac72",
+    "6f94c5ac2cc43392",
     "d0fddeb40c0bee84",
     "0b2deea62c0f4cb8",
     "cdc70312005c1318",
-    "5e25df232bf0c41b",
     "4c9d02e4e4d636df",
+    "5e25df232bf0c41b",
     "db9328f34b5cc704",
     "0c56a29eafbea2e8",
     "1d55260508f932ad",
@@ -439,6 +439,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "b39dc6ff8af21466",
+    "bb06395724a8b856",
+    "ef1c84c29792cbfa",
+    "367235e6edce66ab",
+    "f49f25f4786bcd5f",
+    "030f128f834663f8",
+    "6ddedce09486af3c",
+    "70dd80c1abd6a8e8",
     "58e6aa946a727749",
     "0b84a90e2a60a60d",
     "6e81f064ed5f79e4",
@@ -1112,6 +1120,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "208f873ba6e03c9a",
     "091edd9d78a75dff",
     "7607c197748d93ea",
     "491d934c7cffe470",
@@ -1155,6 +1164,9 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "5dd364e34992f931",
+    "bbaca1868b7d81f6",
+    "9a282a6304e71cda",
     "21159757ab10c73d",
     "cfc0e901d1f52052",
     "6b957d13cfb0fabd",
@@ -1255,6 +1267,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "2ca3d6cd36a5e145",
     "ed1a8a4aa9a6136e",
     "69ec2c021a43341c",
     "807e29f2a06d1d08",
