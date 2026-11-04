@@ -273,8 +273,8 @@
     "ac042d61065fde46",
     "bd3ec197e42d33ce",
     "74ad3ec9dabd93e9",
-    "033b0bdae9d3ac72",
     "6f94c5ac2cc43392",
+    "033b0bdae9d3ac72",
     "d0fddeb40c0bee84",
     "0b2deea62c0f4cb8",
     "cdc70312005c1318",
@@ -439,6 +439,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "58e6aa946a727749",
+    "0b84a90e2a60a60d",
+    "6e81f064ed5f79e4",
+    "098c0a8b06ed720e",
+    "e01117dcb346234e",
     "73725a88caa8abed",
     "4771428119c3e062",
     "e2aa44a400ad7870",
@@ -1368,6 +1373,8 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "7f9a805057d135f3",
+    "9513fb11e7ecbf6d",
     "f0946027db6f81b0",
     "31a7ffef996d7dbd",
     "64c54614f205d3ed",

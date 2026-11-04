@@ -1,6 +1,56 @@
 {
- "generated": "2026-11-03T23:34:59.002Z",
+ "generated": "2026-11-04T03:35:59.122Z",
  "items": [
+  {
+   "id": "58e6aa946a727749",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with NYC Mayor Zohran Mamdani on new municipal AI policy measures, like an AI ban for some students, support for a one-year data center pause, and more (Katie Drummond/Wired)",
+   "u": "https://www.techmeme.com/261103/p45#a261103p45",
+   "d": "2026-11-04T01:45:01.000Z",
+   "first": "2026-11-04T03:35:59.122Z"
+  },
+  {
+   "id": "0b84a90e2a60a60d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O'Brien/CNBC)",
+   "u": "https://www.techmeme.com/261103/p44#a261103p44",
+   "d": "2026-11-04T01:10:05.000Z",
+   "first": "2026-11-04T03:35:59.122Z"
+  },
+  {
+   "id": "6e81f064ed5f79e4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
+   "u": "https://www.techmeme.com/261103/p43#a261103p43",
+   "d": "2026-11-04T00:40:00.000Z",
+   "first": "2026-11-04T03:35:59.122Z"
+  },
+  {
+   "id": "098c0a8b06ed720e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
+   "u": "https://www.techmeme.com/261103/p42#a261103p42",
+   "d": "2026-11-04T00:20:01.000Z",
+   "first": "2026-11-04T03:35:59.122Z"
+  },
+  {
+   "id": "e01117dcb346234e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF 🔴 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)",
+   "u": "https://www.techmeme.com/261103/p41#a261103p41",
+   "d": "2026-11-04T00:00:50.000Z",
+   "first": "2026-11-04T03:35:59.122Z"
+  },
   {
    "id": "73725a88caa8abed",
    "f": "techmeme",
@@ -22,6 +72,26 @@
    "first": "2026-11-03T23:34:59.002Z"
   },
   {
+   "id": "7f9a805057d135f3",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "u": "https://arxiv.org/abs/2605.29713",
+   "d": "2026-11-03T21:40:53.000Z",
+   "first": "2026-11-04T03:35:59.122Z"
+  },
+  {
+   "id": "9513fb11e7ecbf6d",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "u": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "d": "2026-11-03T21:26:44.000Z",
+   "first": "2026-11-04T03:35:59.122Z"
+  },
+  {
    "id": "e2aa44a400ad7870",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
@@ -32,16 +102,6 @@
    "first": "2026-11-03T23:34:59.002Z"
   },
   {
-   "id": "b1953ab8169347de",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)",
-   "u": "https://www.techmeme.com/261103/p31#a261103p31",
-   "d": "2026-11-03T21:00:53.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
    "id": "e905d2fc36c25bf2",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -49,36 +109,6 @@
    "t": "Elon Is Doing It Again: SpaceX Will Be The World’s Biggest AI Cloud",
    "u": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
    "d": "2026-11-03T20:44:53.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
-   "id": "0d83a8682b8a39dd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "CrowdStrike debuts an AI kill switch in Falcon Guardian to stop internal AI agents that go rogue, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
-   "u": "https://www.techmeme.com/261103/p28#a261103p28",
-   "d": "2026-11-03T20:30:02.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
-   "id": "4af61addaa60e940",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents (Apple Developer)",
-   "u": "https://www.techmeme.com/261103/p27#a261103p27",
-   "d": "2026-11-03T20:15:00.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
-   "id": "0bbd2ce92375178a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How OpenAI, Anthropic, and others are trying to prevent anyone from using their AI tools to disrupt the US midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
-   "u": "https://www.techmeme.com/261103/p26#a261103p26",
-   "d": "2026-11-03T19:45:03.000Z",
    "first": "2026-11-03T23:34:59.002Z"
   },
   {
@@ -262,22 +292,22 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "033b0bdae9d3ac72",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Preparing our next security sprint to harden OpenAI",
-   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "6f94c5ac2cc43392",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Rewarding defenders with bigger bug bounties",
    "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "033b0bdae9d3ac72",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Preparing our next security sprint to harden OpenAI",
+   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "d": "2026-11-02T18:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
@@ -929,26 +959,6 @@
    "t": "Gemini 4 Carbon: Our next frontier model",
    "u": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
    "d": "2026-10-28T17:00:58.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
-   "id": "4a1a6b4f463da0f5",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-   "u": "https://surgehq.ai/blog/dayjob-tax",
-   "d": "2026-10-28T15:46:30.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
-  },
-  {
-   "id": "b7ffb158e32d43bb",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Kentucky man becomes the first humanist granted religious exemption from AI",
-   "u": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-   "d": "2026-10-28T13:41:30.000Z",
    "first": "2026-10-28T20:38:29.079Z"
   },
   {
@@ -3165,7 +3175,7 @@
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 500"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3180,16 +3190,17 @@
   "yt-3b1b": {
    "name": "3Blue1Brown",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 500"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 500"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3199,7 +3210,7 @@
   "yt-matthew-berman": {
    "name": "Matthew Berman",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
