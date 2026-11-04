@@ -1,55 +1,135 @@
 {
- "generated": "2026-11-04T11:40:06.831Z",
+ "generated": "2026-11-04T18:57:06.724Z",
  "items": [
   {
-   "id": "b39dc6ff8af21466",
+   "id": "9b3817b13d9953f8",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Google says it expanded voluntary exit buyouts in June to employees across Canada, France, Germany, Japan, and Switzerland to manage costs amid huge AI spending (Reuters)",
-   "u": "https://www.techmeme.com/261104/p16#a261104p16",
-   "d": "2026-11-04T11:05:00.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
+   "t": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
+   "u": "https://www.techmeme.com/261104/p46#a261104p46",
+   "d": "2026-11-04T18:50:00.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "bb06395724a8b856",
+   "id": "641cccdeb04714a2",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Texas elects Democrats for governor and the US Senate for the first time in decades, creating uncertainty for its booming AI data center sector and Elon Musk (Nick Wingfield/The Information)",
-   "u": "https://www.techmeme.com/261104/p15#a261104p15",
-   "d": "2026-11-04T11:01:35.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
+   "t": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)",
+   "u": "https://www.techmeme.com/261104/p45#a261104p45",
+   "d": "2026-11-04T18:02:18.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "ef1c84c29792cbfa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tencent releases its Hy4 open-weight foundation model, which it says joins the top tier of Chinese open-weight AI for the first time, and plans a Flash version (Bloomberg)",
-   "u": "https://www.techmeme.com/261104/p14#a261104p14",
-   "d": "2026-11-04T10:55:00.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
+   "id": "a503eb4ef43de171",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "MIT Researchers Discover AI Can Rewrite Its Own Weights",
+   "u": "https://www.youtube.com/watch?v=j09uV1oAuIo",
+   "d": "2026-11-04T17:09:34.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "367235e6edce66ab",
+   "id": "c55ef45f45114ec0",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "NBC exit poll: 56% said AI and data centers had been a \"crucial or a major factor\" in casting their votes for Congress, as candidates pledge to halt development (Financial Times)",
-   "u": "https://www.techmeme.com/261104/p13#a261104p13",
-   "d": "2026-11-04T10:45:17.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
+   "t": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection (Isaac Kasahara/Pangram)",
+   "u": "https://www.techmeme.com/261104/p43#a261104p43",
+   "d": "2026-11-04T17:02:08.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "f49f25f4786bcd5f",
+   "id": "804351599892af8f",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "How I Get Claude To Edit My Videos (No Code Needed)",
+   "u": "https://www.youtube.com/watch?v=ep4psgAFOqc",
+   "d": "2026-11-04T16:40:16.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "d765d362e2d028eb",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "How big is the open model economy today?",
+   "u": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "d": "2026-11-04T16:35:44.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "225cff23db148a99",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup Tano eight months ago (Neil Kakkar/The Pragmatic Engineer)",
-   "u": "https://www.techmeme.com/261104/p11#a261104p11",
-   "d": "2026-11-04T09:45:17.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
+   "t": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
+   "u": "https://www.techmeme.com/261104/p40#a261104p40",
+   "d": "2026-11-04T16:15:35.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "6189fb1c64772633",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "What the blue tsunami means for AI policy",
+   "u": "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation",
+   "d": "2026-11-04T15:48:33.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "6a127652ff441d48",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)",
+   "u": "https://www.techmeme.com/261104/p36#a261104p36",
+   "d": "2026-11-04T15:45:29.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "a7147685675deb0b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)",
+   "u": "https://www.techmeme.com/261104/p35#a261104p35",
+   "d": "2026-11-04T15:15:31.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "14c1354d7d264bcf",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "u": "https://openai.com/index/openai-to-acquire-pierre",
+   "d": "2026-11-04T14:30:00.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "0a414407a8332849",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials (Ben Gartside/Wired)",
+   "u": "https://www.techmeme.com/261104/p32#a261104p32",
+   "d": "2026-11-04T14:20:04.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "2be127e84390bfb7",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Securing the agentic enterprise with data lineage",
+   "u": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+   "d": "2026-11-04T13:00:00.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "5dd364e34992f931",
@@ -62,34 +142,14 @@
    "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "030f128f834663f8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)",
-   "u": "https://www.techmeme.com/261104/p8#a261104p8",
-   "d": "2026-11-04T07:30:05.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
-  },
-  {
-   "id": "6ddedce09486af3c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
-   "u": "https://www.techmeme.com/261104/p7#a261104p7",
-   "d": "2026-11-04T07:20:02.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
-  },
-  {
-   "id": "70dd80c1abd6a8e8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback (Bloomberg)",
-   "u": "https://www.techmeme.com/261104/p6#a261104p6",
-   "d": "2026-11-04T06:55:07.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
+   "id": "4e96f1207657de0e",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "u": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "d": "2026-11-04T07:00:00.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "bbaca1868b7d81f6",
@@ -110,6 +170,16 @@
    "u": "https://www.youtube.com/shorts/ZhftAOXJACM",
    "d": "2026-11-04T02:53:57.000Z",
    "first": "2026-11-04T11:40:06.831Z"
+  },
+  {
+   "id": "4c7f1ed0d32cc87f",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡",
+   "u": "https://tldr.tech/ai/2026-11-04",
+   "d": "2026-11-04T00:00:00.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "7f9a805057d135f3",
@@ -190,6 +260,16 @@
    "u": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
    "d": "2026-11-03T16:51:59.000Z",
    "first": "2026-11-03T18:30:09.110Z"
+  },
+  {
+   "id": "581b9c8914dfd795",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "OpenAI Updates Its Model Spec",
+   "u": "https://thezvi.substack.com/p/openai-updates-its-model-spec",
+   "d": "2026-11-03T16:48:28.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "31a7ffef996d7dbd",
@@ -342,14 +422,14 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "033b0bdae9d3ac72",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Preparing our next security sprint to harden OpenAI",
-   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
+   "id": "dd16ee33e3f97d51",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Scott Alexander’s Against SURA Seems Deeply Confused",
+   "u": "https://thezvi.substack.com/p/scott-alexanders-against-sura-seems",
+   "d": "2026-11-02T21:33:03.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "6f94c5ac2cc43392",
@@ -358,6 +438,16 @@
    "cat": "Lab",
    "t": "Rewarding defenders with bigger bug bounties",
    "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "033b0bdae9d3ac72",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Preparing our next security sprint to harden OpenAI",
+   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "d": "2026-11-02T18:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
@@ -410,6 +500,16 @@
    "u": "https://openai.com/index/grid-protectors-program",
    "d": "2026-11-02T15:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
+  },
+  {
+   "id": "38821d25ab6117d0",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+   "u": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+   "d": "2026-11-02T14:30:54.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "528310e8be950d02",
@@ -512,16 +612,6 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "4c9d02e4e4d636df",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Qodo builds context into AI code review with Codex",
-   "u": "https://openai.com/index/qodo-codex-plugin",
-   "d": "2026-11-02T00:00:00.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
    "id": "5e25df232bf0c41b",
    "f": "openai-news",
    "src": "OpenAI",
@@ -530,6 +620,16 @@
    "u": "https://openai.com/index/dan-driscoll-joins-openai",
    "d": "2026-11-02T00:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "4c9d02e4e4d636df",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Qodo builds context into AI code review with Codex",
+   "u": "https://openai.com/index/qodo-codex-plugin",
+   "d": "2026-11-02T00:00:00.000Z",
+   "first": "2026-11-02T21:59:23.006Z"
   },
   {
    "id": "f583bb486f488765",
@@ -610,6 +710,16 @@
    "u": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
    "d": "2026-10-30T21:15:04.000Z",
    "first": "2026-10-31T11:44:40.138Z"
+  },
+  {
+   "id": "8caba023e03f551b",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Childhood and Education #22: Voice Without Exit",
+   "u": "https://thezvi.substack.com/p/childhood-and-education-22-voice",
+   "d": "2026-10-30T20:25:47.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "f8a74ebfbf1e2bcb",
@@ -772,16 +882,6 @@
    "first": "2026-10-30T16:03:52.904Z"
   },
   {
-   "id": "1d55260508f932ad",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Fair use benefits everyone",
-   "u": "https://openai.com/index/fair-use-benefits-everyone",
-   "d": "2026-10-30T00:00:00.000Z",
-   "first": "2026-10-31T00:13:24.418Z"
-  },
-  {
    "id": "2562d8e650512b70",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -810,16 +910,6 @@
    "u": "https://www.youtube.com/shorts/IrgQdsxzRa4",
    "d": "2026-10-29T19:05:33.000Z",
    "first": "2026-10-30T09:10:25.213Z"
-  },
-  {
-   "id": "de41832cf72f3388",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "An updated Model Spec for more capable and beneficial AI",
-   "u": "https://openai.com/index/updated-model-spec",
-   "d": "2026-10-29T17:00:00.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
   },
   {
    "id": "2c88569a02fd1020",
@@ -880,6 +970,16 @@
    "u": "https://www.bensbites.com/p/ai-is-overwhelming-and-im-doing-it",
    "d": "2026-10-29T14:03:54.000Z",
    "first": "2026-10-29T19:03:02.080Z"
+  },
+  {
+   "id": "41c79210cc95f8b3",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "AI #192: Anthropic Is Going Public",
+   "u": "https://thezvi.substack.com/p/ai-192-anthropic-is-going-public",
+   "d": "2026-10-29T13:49:48.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "e61223677bf4d10a",
@@ -972,16 +1072,6 @@
    "first": "2026-10-28T20:38:29.079Z"
   },
   {
-   "id": "a68676865c1bbe5f",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "He Breaks Down His 3 Most Powerful AI Automations",
-   "u": "https://www.youtube.com/watch?v=AtjFk9f44HE",
-   "d": "2026-10-28T19:25:38.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
    "id": "97aa9361e57c37c7",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1010,6 +1100,16 @@
    "u": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
    "d": "2026-10-28T12:58:39.000Z",
    "first": "2026-10-28T15:33:34.833Z"
+  },
+  {
+   "id": "20865da8d23a6d85",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Anthropic Files Its S-1",
+   "u": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
+   "d": "2026-10-28T12:10:55.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "64ecbd7d38377d3a",
@@ -1192,6 +1292,16 @@
    "first": "2026-10-27T14:42:55.473Z"
   },
   {
+   "id": "9aaa063cda6bb526",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Anthropic Versus Anthropic",
+   "u": "https://thezvi.substack.com/p/anthropic-versus-anthropic",
+   "d": "2026-10-27T12:49:20.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "91ea0aa7ed1e3f57",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1219,16 +1329,6 @@
    "t": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
    "u": "https://latent.space/p/ainews-anthropic-s1/",
    "d": "2026-10-27T07:24:59.000Z",
-   "first": "2026-10-27T08:04:28.492Z"
-  },
-  {
-   "id": "1df6ec3fa3dfda99",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "This is much more concerning than you think...",
-   "u": "https://www.youtube.com/watch?v=JI3bbZNdyeA",
-   "d": "2026-10-27T01:58:24.000Z",
    "first": "2026-10-27T08:04:28.492Z"
   },
   {
@@ -1262,14 +1362,24 @@
    "first": "2026-10-27T23:17:48.381Z"
   },
   {
-   "id": "77ec9a11536dd600",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Will the real Anthropic please stand up",
-   "u": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-   "d": "2026-10-26T17:45:43.000Z",
-   "first": "2026-10-26T19:37:12.165Z"
+   "id": "6fc7dd4637729b6a",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Gemini 4 Argon: The Model and Safety Cards",
+   "u": "https://thezvi.substack.com/p/gemini-4-argon-the-model-and-safety",
+   "d": "2026-10-26T12:58:47.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "da46bb7049428a6c",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means",
+   "u": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+   "d": "2026-10-26T12:31:52.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "57f59158d2e339f1",
@@ -1342,6 +1452,16 @@
    "first": "2026-10-24T07:27:21.939Z"
   },
   {
+   "id": "0ff8f17bcaf721b7",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "The Hackening",
+   "u": "https://thezvi.substack.com/p/the-hackening",
+   "d": "2026-10-23T21:13:08.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "ee226666af0238d8",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -1370,6 +1490,16 @@
    "u": "https://tldr.tech/ai/2026-10-23",
    "d": "2026-10-23T00:00:00.000Z",
    "first": "2026-10-23T17:33:03.730Z"
+  },
+  {
+   "id": "e6cffff73f9a26af",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "AI #191: The Hackening Begins",
+   "u": "https://thezvi.substack.com/p/ai-191-the-hackening-begins",
+   "d": "2026-10-22T15:13:06.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "8405823ba9037fd0",
@@ -1422,6 +1552,16 @@
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
+   "id": "21d0f90e039c6d78",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Misaligned!",
+   "u": "https://thezvi.substack.com/p/misaligned",
+   "d": "2026-10-21T22:24:38.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "5ef08555cd8313cd",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1470,6 +1610,16 @@
    "u": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
    "d": "2026-10-21T00:00:00.000Z",
    "first": "2026-10-21T19:25:43.093Z"
+  },
+  {
+   "id": "26e332ac661bc371",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+   "u": "https://thezvi.substack.com/p/anthropic-does-not-understand-why",
+   "d": "2026-10-20T23:03:05.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "adee386d1f22f970",
@@ -1542,6 +1692,26 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
+   "id": "9f28b4b3731c70b5",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "I Can See Everything",
+   "u": "https://thezvi.substack.com/p/i-can-see-everything",
+   "d": "2026-10-19T13:44:21.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "9699698011cea3b2",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 477: In which I tell the IMF the Singularity has begun",
+   "u": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+   "d": "2026-10-19T12:31:37.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "d8b331098725868c",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1582,6 +1752,16 @@
    "first": "2026-10-18T19:46:31.840Z"
   },
   {
+   "id": "b724fd4b3a6b50ed",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+   "u": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
+   "d": "2026-10-17T14:42:39.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "62145b1bf93c285a",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1610,6 +1790,16 @@
    "u": "https://www.transformernews.ai/p/leading-the-future-struggles-ai-safety-pacs-gain-ground",
    "d": "2026-10-16T15:13:20.000Z",
    "first": "2026-10-16T18:15:41.908Z"
+  },
+  {
+   "id": "84375ca0a24e993f",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Monthly Roundup #47: October 2026",
+   "u": "https://thezvi.substack.com/p/monthly-roundup-47-october-2026",
+   "d": "2026-10-16T13:54:21.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "7fed59e729a8d339",
@@ -1660,6 +1850,16 @@
    "u": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
    "d": "2026-10-15T13:01:39.000Z",
    "first": "2026-10-15T15:27:27.208Z"
+  },
+  {
+   "id": "fa69eaba2836d09d",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "AI #190: Scion of the Times",
+   "u": "https://thezvi.substack.com/p/ai-190-scion-of-the-times",
+   "d": "2026-10-15T12:03:51.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "d1c6cb5f7bd2177e",
@@ -1730,16 +1930,6 @@
    "u": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
    "d": "2026-10-14T02:00:14.000Z",
    "first": "2026-10-14T05:34:29.529Z"
-  },
-  {
-   "id": "713ec6283da015b3",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "OpenAI dev arrested 🚨, Pi API 🤖, OpenCode 2.0 🧑‍💻",
-   "u": "https://tldr.tech/ai/2026-10-14",
-   "d": "2026-10-14T00:00:00.000Z",
-   "first": "2026-10-14T15:35:52.509Z"
   },
   {
    "id": "3873710e669257dd",
@@ -1830,6 +2020,16 @@
    "u": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
    "d": "2026-10-12T22:52:31.000Z",
    "first": "2026-10-13T08:36:55.972Z"
+  },
+  {
+   "id": "43c2b84962e461aa",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+   "u": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+   "d": "2026-10-12T12:30:39.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "24dcd2eb49edb467",
@@ -2012,6 +2212,16 @@
    "first": "2026-10-06T00:25:45.121Z"
   },
   {
+   "id": "638807d3553af8c5",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+   "u": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+   "d": "2026-10-05T12:32:30.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "858951482ca05277",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -2079,16 +2289,6 @@
    "t": "A big-tent or small-tent AI safety movement?",
    "u": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
    "d": "2026-10-01T16:34:51.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "760cd3b1525a5fd4",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Democrats want to lead on AI – but can’t agree how",
-   "u": "https://www.transformernews.ai/p/democrats-cant-agree-on-ai-midterms",
-   "d": "2026-10-01T15:00:26.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2160,6 +2360,16 @@
    "u": "https://newsletter.semianalysis.com/p/sparse-savings-persistent-demand-inside-glm53",
    "d": "2026-09-28T19:26:41.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "4b111ec3db31039f",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+   "u": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+   "d": "2026-09-28T12:32:03.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "7f2a50fec861c655",
@@ -2312,6 +2522,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "9ea194f31e747bfc",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+   "u": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+   "d": "2026-09-21T12:31:04.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "9e0b64ff81ec13e1",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2432,6 +2652,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "d9cef48d6aa210d7",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+   "u": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+   "d": "2026-09-07T12:26:31.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "78ada465946df7b5",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -2440,6 +2670,16 @@
    "u": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
    "d": "2026-09-04T11:37:27.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "b0c039a0071efe68",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+   "u": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+   "d": "2026-08-31T13:31:06.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "c1dfdd966d97c7e0",
@@ -2462,6 +2702,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "4bd23e242bb70d5d",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+   "u": "https://importai.substack.com/p/import-ai-470-no-rights-for-machines",
+   "d": "2026-08-24T13:12:40.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "bb48be090a6b6b1a",
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
@@ -2472,14 +2722,14 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "7a44eeac7faaaa49",
-   "f": "interconnects",
-   "src": "Interconnects",
+   "id": "9f00c3f44d990fdd",
+   "f": "import-ai",
+   "src": "Import AI",
    "cat": "Newsletter",
-   "t": "Teaching Everyone to Fish for Tokens",
-   "u": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
-   "d": "2026-08-17T15:07:49.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
+   "t": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+   "u": "https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator",
+   "d": "2026-08-17T13:05:36.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "63d0dfd136a7a938",
@@ -2500,6 +2750,16 @@
    "u": "https://www.alignmentforum.org/posts/GRmvZsHXH4vaijPMv/four-llm-loss-functions-four-flavors-of-llm-misalignment",
    "d": "2026-08-14T22:31:55.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "926c2055f7344011",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+   "u": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+   "d": "2026-08-10T12:32:20.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "c1822be39d92331a",
@@ -2540,6 +2800,16 @@
    "u": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
    "d": "2026-08-05T13:49:19.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "182e87c510fa35a5",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+   "u": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+   "d": "2026-08-03T13:31:22.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "415c37eb8c072703",
@@ -2592,6 +2862,16 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
+   "id": "c8771c66db924d39",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
+   "u": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+   "d": "2026-07-27T13:30:53.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
    "id": "ecf0126068275501",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -2610,6 +2890,16 @@
    "u": "https://www.youtube.com/shorts/6XPlmCDNLNc",
    "d": "2026-07-24T15:05:39.000Z",
    "first": "2026-10-04T17:36:01.298Z"
+  },
+  {
+   "id": "07d5e2249ddb7454",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+   "u": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+   "d": "2026-07-20T12:31:45.000Z",
+   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "a9a711181e5573d2",
@@ -3065,13 +3355,11 @@
  "health": {
   "import-ai": {
    "name": "Import AI",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "zvi": {
    "name": "Don't Worry About the Vase",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "latent-space": {
    "name": "Latent Space",
@@ -3105,7 +3393,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1057 > 1000"
+   "error": "Entity expansion limit exceeded: 1030 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3133,7 +3421,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3150,7 +3439,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1032 > 1000"
+   "error": "Entity expansion limit exceeded: 1018 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

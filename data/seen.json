@@ -67,6 +67,7 @@
   "interconnects": {
    "init": true,
    "ids": [
+    "d765d362e2d028eb",
     "d5baa3051e0b0922",
     "3557db7aa5ffe0cb",
     "96755bbf3ce04b96",
@@ -136,6 +137,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "6189fb1c64772633",
     "aad9889125320c9f",
     "5b1044444836a679",
     "69d1efd08f3eafd2",
@@ -198,6 +200,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "4c7f1ed0d32cc87f",
     "5b643b94d1259021",
     "3fb0951f453db90f",
     "9ca270470fc27810",
@@ -269,17 +272,19 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "14c1354d7d264bcf",
+    "4e96f1207657de0e",
     "20f89fa0a9ecc137",
     "ac042d61065fde46",
     "bd3ec197e42d33ce",
     "74ad3ec9dabd93e9",
-    "033b0bdae9d3ac72",
     "6f94c5ac2cc43392",
+    "033b0bdae9d3ac72",
     "d0fddeb40c0bee84",
     "0b2deea62c0f4cb8",
     "cdc70312005c1318",
-    "4c9d02e4e4d636df",
     "5e25df232bf0c41b",
+    "4c9d02e4e4d636df",
     "db9328f34b5cc704",
     "0c56a29eafbea2e8",
     "1d55260508f932ad",
@@ -439,6 +444,13 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "9b3817b13d9953f8",
+    "641cccdeb04714a2",
+    "c55ef45f45114ec0",
+    "225cff23db148a99",
+    "6a127652ff441d48",
+    "a7147685675deb0b",
+    "0a414407a8332849",
     "b39dc6ff8af21466",
     "bb06395724a8b856",
     "ef1c84c29792cbfa",
@@ -1021,6 +1033,7 @@
   "mit-tr": {
    "init": true,
    "ids": [
+    "2be127e84390bfb7",
     "49b3b65c588dd33f",
     "40607cdf83cad3c0",
     "5cda0ef8f2e860c8",
@@ -1267,6 +1280,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "804351599892af8f",
     "2ca3d6cd36a5e145",
     "ed1a8a4aa9a6136e",
     "69ec2c021a43341c",
@@ -1308,6 +1322,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "a503eb4ef43de171",
     "3c6fed3a60eee7be",
     "98a3c7c74a013b25",
     "0ff7695cb8cff8ac",
@@ -1464,6 +1479,46 @@
     "78019dd543b3bae1",
     "9a01d6a91e1f9601",
     "f296bc46e490ba98"
+   ]
+  },
+  "import-ai": {
+   "init": true,
+   "ids": [
+    "38821d25ab6117d0",
+    "da46bb7049428a6c",
+    "9699698011cea3b2",
+    "43c2b84962e461aa",
+    "638807d3553af8c5",
+    "4b111ec3db31039f",
+    "9ea194f31e747bfc",
+    "d9cef48d6aa210d7",
+    "b0c039a0071efe68",
+    "4bd23e242bb70d5d",
+    "9f00c3f44d990fdd",
+    "926c2055f7344011",
+    "182e87c510fa35a5",
+    "c8771c66db924d39",
+    "07d5e2249ddb7454"
+   ]
+  },
+  "zvi": {
+   "init": true,
+   "ids": [
+    "581b9c8914dfd795",
+    "dd16ee33e3f97d51",
+    "8caba023e03f551b",
+    "41c79210cc95f8b3",
+    "20865da8d23a6d85",
+    "9aaa063cda6bb526",
+    "6fc7dd4637729b6a",
+    "0ff8f17bcaf721b7",
+    "e6cffff73f9a26af",
+    "21d0f90e039c6d78",
+    "26e332ac661bc371",
+    "9f28b4b3731c70b5",
+    "b724fd4b3a6b50ed",
+    "84375ca0a24e993f",
+    "fa69eaba2836d09d"
    ]
   }
  },
