@@ -1,15 +1,155 @@
 {
- "generated": "2026-11-05T15:39:10.563Z",
+ "generated": "2026-11-05T21:37:57.374Z",
  "items": [
   {
-   "id": "cfb4475aa5c55f71",
+   "id": "faecb1206876b2a8",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "ElevenLabs says users can now publish AI-generated music made with ElevenMusic directly on SoundCloud and that users have created 25M+ tracks using its models (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261105/p30#a261105p30",
-   "d": "2026-11-05T15:30:02.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
+   "t": "California State Senator Scott Wiener, author of AI safety law SB 53, won Tuesday's election to succeed Pelosi in the US House, campaigning on AI regulation (Rocket Drew/The Information)",
+   "u": "https://www.techmeme.com/261105/p53#a261105p53",
+   "d": "2026-11-05T21:35:01.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "2323e6a7add338dd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "METR: Anthropic redacted much of the \"most informative\" evidence from METR's 100-page report, so readers \"must rely on our judgment more than we consider ideal\" (@metr_evals)",
+   "u": "https://www.techmeme.com/261105/p52#a261105p52",
+   "d": "2026-11-05T21:30:03.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "30f49388d98061ab",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Which AI is the best liar?",
+   "u": "https://www.youtube.com/watch?v=1NQwfImTseU",
+   "d": "2026-11-05T21:00:50.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "d87a7d06de9b99b5",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "A 4B AI model that creates 3D game assets",
+   "u": "https://www.youtube.com/shorts/hu1YDJZYGTc",
+   "d": "2026-11-05T20:32:08.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "df613f1cda1f12a7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
+   "u": "https://www.techmeme.com/261105/p50#a261105p50",
+   "d": "2026-11-05T20:15:00.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "cb1470772279bd37",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)",
+   "u": "https://www.techmeme.com/261105/p47#a261105p47",
+   "d": "2026-11-05T19:20:02.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "8028035ced7f9680",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "What will people REALLY use these for?",
+   "u": "https://www.youtube.com/shorts/hniPlxcQ7X4",
+   "d": "2026-11-05T19:07:54.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "5daef2902dd7f4af",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "The Iron(wood) Throne: Google's TPU Stakes Its Claim on Inference",
+   "u": "https://newsletter.semianalysis.com/p/tpu-strikes-the-king",
+   "d": "2026-11-05T19:03:45.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "dbf5de6143530550",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration (Tiffany Li/The Information)",
+   "u": "https://www.techmeme.com/261105/p46#a261105p46",
+   "d": "2026-11-05T19:01:21.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "47c190947a071493",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)",
+   "u": "https://www.techmeme.com/261105/p44#a261105p44",
+   "d": "2026-11-05T18:15:04.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "966ec9009e8b0a11",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ \"novel\" vulnerabilities in Firefox (Djohnson/CyberScoop)",
+   "u": "https://www.techmeme.com/261105/p42#a261105p42",
+   "d": "2026-11-05T17:15:02.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "353b5cbaa82469b1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue (Emma Roth/The Verge)",
+   "u": "https://www.techmeme.com/261105/p40#a261105p40",
+   "d": "2026-11-05T17:06:54.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "ff684e536c215fa1",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "u": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "d": "2026-11-05T17:05:16.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "f531600c608aed53",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)",
+   "u": "https://www.techmeme.com/261105/p39#a261105p39",
+   "d": "2026-11-05T17:01:37.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "81f10925f162eab9",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
+   "u": "https://www.youtube.com/watch?v=-M62vWrZh54",
+   "d": "2026-11-05T16:51:09.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
   },
   {
    "id": "956d71ef42ef3fe8",
@@ -19,16 +159,6 @@
    "t": "Craft and taste",
    "u": "https://www.bensbites.com/p/craft-and-taste",
    "d": "2026-11-05T14:02:12.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "842f793e2ad8c4ab",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources detail Dario Amodei's AI beliefs, shaped by forums like GiveWell and based on EA and \"rationalism\", and his disputes with Sam Altman and Greg Brockman (New York Times)",
-   "u": "https://www.techmeme.com/261105/p22#a261105p22",
-   "d": "2026-11-05T12:25:00.000Z",
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
@@ -42,24 +172,14 @@
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "3f2211f1fc98cb68",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Study: UK consumer AI spending passes £1B annually, with 5.1% of adults paying for subscriptions as of July 2026; Claude is rapidly catching up to ChatGPT (Bloomberg)",
-   "u": "https://www.techmeme.com/261105/p18#a261105p18",
-   "d": "2026-11-05T11:40:08.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "1c09c6cf302640af",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: at Jensen Huang's midterms event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261105/p16#a261105p16",
-   "d": "2026-11-05T11:25:05.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
+   "id": "167e755fe52bac22",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "u": "https://openai.com/index/introducing-gpt-6-cyber",
+   "d": "2026-11-05T09:00:00.000Z",
+   "first": "2026-11-05T21:37:57.374Z"
   },
   {
    "id": "088f297c11a649ef",
@@ -146,7 +266,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "How I Get Claude To Edit My Videos (No Code Needed)",
+   "t": "How I Get Claude To Edit My Videos (Step-By-Step)",
    "u": "https://www.youtube.com/watch?v=ep4psgAFOqc",
    "d": "2026-11-04T16:40:16.000Z",
    "first": "2026-11-04T18:57:06.724Z"
@@ -682,16 +802,6 @@
    "first": "2026-11-02T12:55:38.961Z"
   },
   {
-   "id": "cdc70312005c1318",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "LifeVal",
-   "u": "https://openai.com/index/lifeval",
-   "d": "2026-11-02T09:00:00.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
    "id": "7607c197748d93ea",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -982,16 +1092,6 @@
    "first": "2026-10-30T09:10:25.213Z"
   },
   {
-   "id": "2c88569a02fd1020",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "What Robert Caro’s books taught me about power",
-   "u": "https://www.youtube.com/watch?v=kX_WmQK_tt0",
-   "d": "2026-10-29T16:51:24.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
    "id": "d1643c8e4030cd5d",
    "f": "latent-space",
    "src": "Latent Space",
@@ -999,16 +1099,6 @@
    "t": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
    "u": "https://latent.space/p/elorian/",
    "d": "2026-10-29T16:00:00.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "9d299a9140702d6a",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "3 Critical Tasks AI Can Automate For You",
-   "u": "https://www.youtube.com/shorts/evXFML_Rnc0",
-   "d": "2026-10-29T15:28:47.000Z",
    "first": "2026-10-29T19:03:02.080Z"
   },
   {
@@ -1212,16 +1302,6 @@
    "first": "2026-10-28T08:47:45.290Z"
   },
   {
-   "id": "552dc73251d29b91",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Deepseek crushed everyone",
-   "u": "https://www.youtube.com/watch?v=DDZ-a6bAn3Y",
-   "d": "2026-10-28T03:47:38.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
    "id": "4ef2224ab827e921",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -1259,16 +1339,6 @@
    "t": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
    "u": "https://latent.space/p/opus55/",
    "d": "2026-10-27T18:53:10.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "e4e173c5658f44bd",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "I Ranked 5 Ways to Wake Up",
-   "u": "https://www.youtube.com/shorts/mMzaL15KFVY",
-   "d": "2026-10-27T18:47:13.000Z",
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
@@ -2462,16 +2532,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "cebba381884233b8",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Advancing Private AI Compute with secure, server-side memory",
-   "u": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-   "d": "2026-09-23T16:00:57.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "70cba92deb0be88a",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2549,16 +2609,6 @@
    "t": "The last IMO problem AI could not solve",
    "u": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
    "d": "2026-09-18T17:12:53.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "b25aa0b4d1a066b7",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading",
-   "u": "https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign",
-   "d": "2026-09-18T14:34:20.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3365,7 +3415,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1104 > 1000"
+   "error": "Entity expansion limit exceeded: 1026 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3393,7 +3443,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3410,12 +3461,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
