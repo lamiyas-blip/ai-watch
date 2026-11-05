@@ -1,15 +1,65 @@
 {
- "generated": "2026-11-05T07:04:27.302Z",
+ "generated": "2026-11-05T15:39:10.563Z",
  "items": [
   {
-   "id": "d8a8c0608595ca00",
+   "id": "cfb4475aa5c55f71",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat (Tess Owen/Wired)",
-   "u": "https://www.techmeme.com/261105/p6#a261105p6",
-   "d": "2026-11-05T06:45:00.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
+   "t": "ElevenLabs says users can now publish AI-generated music made with ElevenMusic directly on SoundCloud and that users have created 25M+ tracks using its models (Ivan Mehta/TechCrunch)",
+   "u": "https://www.techmeme.com/261105/p30#a261105p30",
+   "d": "2026-11-05T15:30:02.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
+   "id": "956d71ef42ef3fe8",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Craft and taste",
+   "u": "https://www.bensbites.com/p/craft-and-taste",
+   "d": "2026-11-05T14:02:12.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
+   "id": "842f793e2ad8c4ab",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources detail Dario Amodei's AI beliefs, shaped by forums like GiveWell and based on EA and \"rationalism\", and his disputes with Sam Altman and Greg Brockman (New York Times)",
+   "u": "https://www.techmeme.com/261105/p22#a261105p22",
+   "d": "2026-11-05T12:25:00.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
+   "id": "ca4022d35cdc0a9d",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "this might be HUGE...",
+   "u": "https://www.youtube.com/watch?v=DJjK6LAIouM",
+   "d": "2026-11-05T12:07:51.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
+   "id": "3f2211f1fc98cb68",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Study: UK consumer AI spending passes £1B annually, with 5.1% of adults paying for subscriptions as of July 2026; Claude is rapidly catching up to ChatGPT (Bloomberg)",
+   "u": "https://www.techmeme.com/261105/p18#a261105p18",
+   "d": "2026-11-05T11:40:08.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
+   "id": "1c09c6cf302640af",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: at Jensen Huang's midterms event, tech executives expressed concern over anti-data center results; OpenAI discussed resetting its 2027 capacity plans (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261105/p16#a261105p16",
+   "d": "2026-11-05T11:25:05.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "088f297c11a649ef",
@@ -22,64 +72,44 @@
    "first": "2026-11-05T07:04:27.302Z"
   },
   {
-   "id": "39c526c60ea97257",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Meta has decided to stop using fruit for its AI model codenames, as they didn't suit its lofty AI ambitions; its latest model was named \"Watermelon\" (Charles Rollet/Business Insider)",
-   "u": "https://www.techmeme.com/261104/p66#a261104p66",
-   "d": "2026-11-05T04:35:00.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
+   "id": "665f885e6c6486c7",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Setting a new standard for responsible AI infrastructure",
+   "u": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "d": "2026-11-05T02:00:00.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "95bc9a675662e458",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Palo Alto Networks is in talks to acquire Israeli startup Clutch Security, which develops software for tracking passwords used by AI agents, for ~$500M (Valida Pau/The Information)",
-   "u": "https://www.techmeme.com/261104/p64#a261104p64",
-   "d": "2026-11-05T04:10:03.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
+   "id": "135cafe6b353e68c",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "I built my own PDF reader to replace Adobe Acrobat",
+   "u": "https://www.youtube.com/shorts/t8-RG3ju_Ao",
+   "d": "2026-11-05T01:33:35.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "515e21f90c3af464",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Berlin-based Pliant raised an $80M Series C led by Seaya Nova and Speedinvest, as it opens its B2B payments infrastructure to AI agents (Cristian Dina/The Next Web)",
-   "u": "https://www.techmeme.com/261104/p63#a261104p63",
-   "d": "2026-11-05T03:25:01.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
+   "id": "6572c938c173b6f7",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡",
+   "u": "https://tldr.tech/ai/2026-11-05",
+   "d": "2026-11-05T00:00:00.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "4752c1d1c510e3e6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI details a pipeline that used an upcoming cyber model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2M in API costs (OpenAI)",
-   "u": "https://www.techmeme.com/261104/p62#a261104p62",
-   "d": "2026-11-05T02:50:01.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
-  },
-  {
-   "id": "2fa8a9fbd1ce2577",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code (Stephen Council/Business Insider)",
-   "u": "https://www.techmeme.com/261104/p60#a261104p60",
-   "d": "2026-11-05T01:20:01.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
-  },
-  {
-   "id": "db6e72742f3f1492",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
-   "u": "https://www.techmeme.com/261104/p58#a261104p58",
-   "d": "2026-11-05T00:55:01.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
+   "id": "32409ecdd1881680",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The man who handed out LBJ’s money - Robert Caro",
+   "u": "https://www.youtube.com/shorts/CGPQ2-pJ6As",
+   "d": "2026-11-04T23:17:12.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "9d6514ea672c2095",
@@ -106,7 +136,7 @@
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "MIT Researchers Discover AI Can Rewrite Its Own Weights",
+   "t": "The most important paper in AI right now",
    "u": "https://www.youtube.com/watch?v=j09uV1oAuIo",
    "d": "2026-11-04T17:09:34.000Z",
    "first": "2026-11-04T18:57:06.724Z"
@@ -142,6 +172,16 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
+   "id": "e237f42b1f69fc89",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Ask HN: What's your current AI agentic setup?",
+   "u": "https://news.ycombinator.com/item?id=50366117",
+   "d": "2026-11-04T14:37:22.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
    "id": "14c1354d7d264bcf",
    "f": "openai-news",
    "src": "OpenAI",
@@ -160,6 +200,26 @@
    "u": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
    "d": "2026-11-04T13:00:00.000Z",
    "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "f082d2f1d69b7ae2",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI is forcing us to pay off 40 years of technical debt",
+   "u": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "d": "2026-11-04T11:52:17.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
+   "id": "9784641e273273f6",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "u": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "d": "2026-11-04T10:23:34.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "5dd364e34992f931",
@@ -290,6 +350,16 @@
    "u": "https://www.youtube.com/shorts/paOOAJS5Omk",
    "d": "2026-11-03T20:25:36.000Z",
    "first": "2026-11-04T11:40:06.831Z"
+  },
+  {
+   "id": "09bfa9028ea27928",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "How I use AI (Oct 2026)",
+   "u": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+   "d": "2026-11-03T18:11:11.000Z",
+   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "f0946027db6f81b0",
@@ -492,22 +562,22 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "033b0bdae9d3ac72",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Preparing our next security sprint to harden OpenAI",
-   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "6f94c5ac2cc43392",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Rewarding defenders with bigger bug bounties",
    "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "033b0bdae9d3ac72",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Preparing our next security sprint to harden OpenAI",
+   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
    "d": "2026-11-02T18:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
@@ -670,16 +740,6 @@
    "u": "https://tldr.tech/ai/2026-11-02",
    "d": "2026-11-02T00:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "5e25df232bf0c41b",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "u": "https://openai.com/index/dan-driscoll-joins-openai",
-   "d": "2026-11-02T00:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "f583bb486f488765",
@@ -882,16 +942,6 @@
    "first": "2026-11-02T12:55:38.961Z"
   },
   {
-   "id": "a847f79c06300c94",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "u": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-   "d": "2026-10-30T14:08:20.000Z",
-   "first": "2026-10-31T11:44:40.138Z"
-  },
-  {
    "id": "6f0dcb54cb86132f",
    "f": "latent-space",
    "src": "Latent Space",
@@ -919,16 +969,6 @@
    "t": "How did tiny Japan beat Russia? - Sarah Paine",
    "u": "https://www.youtube.com/shorts/O0JgGEAwAqA",
    "d": "2026-10-29T23:41:37.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
-  },
-  {
-   "id": "59d782bb2aca54b7",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "We ran AI agent swarms in Minecraft and Mindustry",
-   "u": "https://labs.ycombinator.com/projects/games/index.html",
-   "d": "2026-10-29T21:40:28.000Z",
    "first": "2026-10-30T09:10:25.213Z"
   },
   {
@@ -962,16 +1002,6 @@
    "first": "2026-10-29T19:03:02.080Z"
   },
   {
-   "id": "344e5dab2fb902b4",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-   "u": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-   "d": "2026-10-29T15:29:48.000Z",
-   "first": "2026-11-01T09:28:01.327Z"
-  },
-  {
    "id": "9d299a9140702d6a",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -980,16 +1010,6 @@
    "u": "https://www.youtube.com/shorts/evXFML_Rnc0",
    "d": "2026-10-29T15:28:47.000Z",
    "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "1545ec09cf32ceea",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
-   "u": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-   "d": "2026-10-29T14:29:06.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
   },
   {
    "id": "dd87af6b56b4d61e",
@@ -1060,16 +1080,6 @@
    "u": "https://tldr.tech/ai/2026-10-29",
    "d": "2026-10-29T00:00:00.000Z",
    "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "ade4dd2f9ab7b4ba",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why COVID Was Impossible to Contain - Kyle Harper",
-   "u": "https://www.youtube.com/shorts/Xtkj1FMqRj8",
-   "d": "2026-10-28T22:35:04.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
   },
   {
    "id": "ea2af34959a5c011",
@@ -1289,16 +1299,6 @@
    "t": "Genie 4: A new generation of world simulation",
    "u": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
    "d": "2026-10-27T16:01:38.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "558d83aee2b5b3ff",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Anthropic’s IPO: Who Gets the Voting Power?",
-   "u": "https://www.youtube.com/shorts/jeUgtyvvkfs",
-   "d": "2026-10-27T15:47:35.000Z",
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
@@ -1882,16 +1882,6 @@
    "first": "2026-10-15T05:59:46.965Z"
   },
   {
-   "id": "a7429129bdfb0c2a",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Jev 1.14 ⚡, Grok Voice 3 🎙️, RSI 🔁",
-   "u": "https://tldr.tech/ai/2026-10-15",
-   "d": "2026-10-15T00:00:00.000Z",
-   "first": "2026-10-15T15:27:27.208Z"
-  },
-  {
    "id": "7544b4309b81d94b",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -1910,16 +1900,6 @@
    "u": "https://www.normaltech.ai/p/steering-ai-beyond-automation",
    "d": "2026-10-14T19:56:44.000Z",
    "first": "2026-10-14T22:46:09.874Z"
-  },
-  {
-   "id": "10636127416c2c72",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "GEMINI 4 ARGON IS WEIRD...",
-   "u": "https://www.youtube.com/watch?v=NL0yDYXAQ0E",
-   "d": "2026-10-14T03:28:07.000Z",
-   "first": "2026-10-14T10:44:28.796Z"
   },
   {
    "id": "0b1394e407839b3b",
@@ -2579,16 +2559,6 @@
    "t": "Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading",
    "u": "https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign",
    "d": "2026-09-18T14:34:20.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "478728626106c750",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "New home for Cowork",
-   "u": "https://www.bensbites.com/p/new-home-for-cowork",
-   "d": "2026-09-17T13:02:21.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3423,8 +3393,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3441,7 +3410,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3455,58 +3424,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
