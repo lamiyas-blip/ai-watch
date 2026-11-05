@@ -1,6 +1,56 @@
 {
- "generated": "2026-11-04T18:57:06.724Z",
+ "generated": "2026-11-05T00:04:19.224Z",
  "items": [
+  {
+   "id": "eaba7b265f33810f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Data center shares fall as investors expect slower AI buildout after Democrats win Congress; Hut 8 drops 23%, IREN 11%, Core Scientific 10%, Applied Digital 7% (Reuters)",
+   "u": "https://www.techmeme.com/261104/p55#a261104p55",
+   "d": "2026-11-04T23:30:01.000Z",
+   "first": "2026-11-05T00:04:19.224Z"
+  },
+  {
+   "id": "3cb1af8e8aa0e240",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs (Mark Gurman/Bloomberg)",
+   "u": "https://www.techmeme.com/261104/p49#a261104p49",
+   "d": "2026-11-04T20:10:01.000Z",
+   "first": "2026-11-05T00:04:19.224Z"
+  },
+  {
+   "id": "4e701b9aa72a1acc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)",
+   "u": "https://www.techmeme.com/261104/p48#a261104p48",
+   "d": "2026-11-04T19:45:48.000Z",
+   "first": "2026-11-05T00:04:19.224Z"
+  },
+  {
+   "id": "9d6514ea672c2095",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+   "u": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+   "d": "2026-11-04T19:17:30.000Z",
+   "first": "2026-11-05T00:04:19.224Z"
+  },
+  {
+   "id": "d9155f40638a6f86",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "u": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+   "d": "2026-11-04T18:50:55.000Z",
+   "first": "2026-11-05T00:04:19.224Z"
+  },
   {
    "id": "9b3817b13d9953f8",
    "f": "techmeme",
@@ -66,7 +116,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
+   "t": "What the blue tsunami means for AI policy (Shakeel Hashim/Transformer)",
    "u": "https://www.techmeme.com/261104/p40#a261104p40",
    "d": "2026-11-04T16:15:35.000Z",
    "first": "2026-11-04T18:57:06.724Z"
@@ -82,26 +132,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "6a127652ff441d48",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)",
-   "u": "https://www.techmeme.com/261104/p36#a261104p36",
-   "d": "2026-11-04T15:45:29.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "a7147685675deb0b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)",
-   "u": "https://www.techmeme.com/261104/p35#a261104p35",
-   "d": "2026-11-04T15:15:31.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "14c1354d7d264bcf",
    "f": "openai-news",
    "src": "OpenAI",
@@ -109,16 +139,6 @@
    "t": "OpenAI to acquire Pierre Computer Company, Inc.",
    "u": "https://openai.com/index/openai-to-acquire-pierre",
    "d": "2026-11-04T14:30:00.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "0a414407a8332849",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials (Ben Gartside/Wired)",
-   "u": "https://www.techmeme.com/261104/p32#a261104p32",
-   "d": "2026-11-04T14:20:04.000Z",
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
@@ -140,6 +160,16 @@
    "u": "https://www.youtube.com/shorts/BwE9HfB5Rtw",
    "d": "2026-11-04T08:27:06.000Z",
    "first": "2026-11-04T11:40:06.831Z"
+  },
+  {
+   "id": "fbc672c4c3fb4250",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "A thousand fewer paths to root",
+   "u": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "d": "2026-11-04T08:00:00.000Z",
+   "first": "2026-11-05T00:04:19.224Z"
   },
   {
    "id": "4e96f1207657de0e",
@@ -180,6 +210,16 @@
    "u": "https://tldr.tech/ai/2026-11-04",
    "d": "2026-11-04T00:00:00.000Z",
    "first": "2026-11-04T18:57:06.724Z"
+  },
+  {
+   "id": "b7cda7222b2cd8e1",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "u": "https://openai.com/index/devrev-enterprise-self-service",
+   "d": "2026-11-04T00:00:00.000Z",
+   "first": "2026-11-05T00:04:19.224Z"
   },
   {
    "id": "7f9a805057d135f3",
@@ -432,22 +472,22 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "6f94c5ac2cc43392",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Rewarding defenders with bigger bug bounties",
-   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "033b0bdae9d3ac72",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Preparing our next security sprint to harden OpenAI",
    "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "d": "2026-11-02T18:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
+  },
+  {
+   "id": "6f94c5ac2cc43392",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Rewarding defenders with bigger bug bounties",
+   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
    "d": "2026-11-02T18:00:00.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
@@ -612,16 +652,6 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "5e25df232bf0c41b",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-   "u": "https://openai.com/index/dan-driscoll-joins-openai",
-   "d": "2026-11-02T00:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "4c9d02e4e4d636df",
    "f": "openai-news",
    "src": "OpenAI",
@@ -630,6 +660,16 @@
    "u": "https://openai.com/index/qodo-codex-plugin",
    "d": "2026-11-02T00:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
+  },
+  {
+   "id": "5e25df232bf0c41b",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+   "u": "https://openai.com/index/dan-driscoll-joins-openai",
+   "d": "2026-11-02T00:00:00.000Z",
+   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "f583bb486f488765",
@@ -840,26 +880,6 @@
    "u": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
    "d": "2026-10-30T14:08:20.000Z",
    "first": "2026-10-31T11:44:40.138Z"
-  },
-  {
-   "id": "db9328f34b5cc704",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Making it easier for websites to express AI training preferences",
-   "u": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "d": "2026-10-30T09:30:00.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
-   "id": "0c56a29eafbea2e8",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Community safety report and new protections for teens",
-   "u": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "d": "2026-10-30T09:00:00.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
   },
   {
    "id": "6f0dcb54cb86132f",
@@ -1312,16 +1332,6 @@
    "first": "2026-10-27T14:42:55.473Z"
   },
   {
-   "id": "695a7e36f6814d4a",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Industrial Intelligence: The next growth opportunity for manufacturing",
-   "u": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-   "d": "2026-10-27T11:19:18.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
    "id": "a5f8e09505564cf3",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1430,16 +1440,6 @@
    "u": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
    "d": "2026-10-25T11:49:00.000Z",
    "first": "2026-10-25T15:08:29.703Z"
-  },
-  {
-   "id": "9c3bfb309d13375b",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-   "u": "https://latent.space/p/ainews-kimi-31/",
-   "d": "2026-10-24T07:18:29.000Z",
-   "first": "2026-10-24T07:27:21.939Z"
   },
   {
    "id": "a22a031998ca235e",
@@ -3355,11 +3355,13 @@
  "health": {
   "import-ai": {
    "name": "Import AI",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 403"
   },
   "zvi": {
    "name": "Don't Worry About the Vase",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 403"
   },
   "latent-space": {
    "name": "Latent Space",
@@ -3393,7 +3395,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1030 > 1000"
+   "error": "Entity expansion limit exceeded: 1104 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3439,7 +3441,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1018 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3457,23 +3459,28 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3481,7 +3488,8 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3489,11 +3497,13 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
