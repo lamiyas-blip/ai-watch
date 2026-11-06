@@ -282,6 +282,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "64f8e1c9d35451ae",
+    "4edff2f9b5f24ee3",
     "509c9a680acaf8b0",
     "651338d0d1b8c4a4",
     "167e755fe52bac22",
@@ -465,6 +467,12 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "50613e010a271b91",
+    "7a37a4bf2c610bb4",
+    "6d5498e527f63cdf",
+    "d4663c02ff71df68",
+    "ffa9c0b076b0d2f7",
+    "b879d9035b84a549",
     "b646fbe8d4e14de6",
     "aa3e3b81bfa304fa",
     "82c74b3d1c39c9ae",
@@ -1058,13 +1066,7 @@
     "ffd5bde887bba057",
     "c596b76fb68276ed",
     "9f11468d3b35e6ec",
-    "2b6d1b794242df14",
-    "a1f6e33314e4ff4a",
-    "6c8f2bf47d41d046",
-    "d857bca551e66ece",
-    "c3019bc445d7adfa",
-    "18874a73a5de91b3",
-    "440e9153a1fb484e"
+    "2b6d1b794242df14"
    ]
   },
   "mit-tr": {
@@ -1324,6 +1326,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "e17c211faa71052e",
     "8028035ced7f9680",
     "804351599892af8f",
     "2ca3d6cd36a5e145",

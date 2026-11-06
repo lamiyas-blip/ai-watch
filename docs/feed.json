@@ -1,6 +1,76 @@
 {
- "generated": "2026-11-06T16:24:39.174Z",
+ "generated": "2026-11-06T21:39:53.240Z",
  "items": [
+  {
+   "id": "50613e010a271b91",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market (Ryan Barwick/The Information)",
+   "u": "https://www.techmeme.com/261106/p23#a261106p23",
+   "d": "2026-11-06T21:35:00.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
+  {
+   "id": "7a37a4bf2c610bb4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
+   "u": "https://www.techmeme.com/261106/p22#a261106p22",
+   "d": "2026-11-06T21:15:00.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
+  {
+   "id": "6d5498e527f63cdf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)",
+   "u": "https://www.techmeme.com/261106/p21#a261106p21",
+   "d": "2026-11-06T21:12:51.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
+  {
+   "id": "d4663c02ff71df68",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)",
+   "u": "https://www.techmeme.com/261106/p20#a261106p20",
+   "d": "2026-11-06T19:35:01.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
+  {
+   "id": "e17c211faa71052e",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)",
+   "u": "https://www.youtube.com/watch?v=IrAHINf0M6E",
+   "d": "2026-11-06T18:20:31.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
+  {
+   "id": "ffa9c0b076b0d2f7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips (Brody Ford/Bloomberg)",
+   "u": "https://www.techmeme.com/261106/p18#a261106p18",
+   "d": "2026-11-06T18:05:03.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
+  {
+   "id": "b879d9035b84a549",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)",
+   "u": "https://www.techmeme.com/261106/p17#a261106p17",
+   "d": "2026-11-06T17:35:00.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
   {
    "id": "b646fbe8d4e14de6",
    "f": "techmeme",
@@ -82,16 +152,6 @@
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
-   "id": "bf9370a811f31ce8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
-   "u": "https://www.techmeme.com/261106/p8#a261106p8",
-   "d": "2026-11-06T11:30:01.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
    "id": "7657e2af2c22e06e",
    "f": "latent-space",
    "src": "Latent Space",
@@ -112,6 +172,16 @@
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
+   "id": "64f8e1c9d35451ae",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "u": "https://openai.com/index/partnering-with-hacktron",
+   "d": "2026-11-06T08:00:00.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
+  },
+  {
    "id": "7831b26d27dc3041",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -129,26 +199,6 @@
    "t": "Pika turns images and sound into an editable video",
    "u": "https://www.youtube.com/shorts/_CQ2QEI63o8",
    "d": "2026-11-06T07:12:53.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
-   "id": "a8dfcad0129d6bcf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "NYC-based Kalepa, whose AI service supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)",
-   "u": "https://www.techmeme.com/261106/p4#a261106p4",
-   "d": "2026-11-06T06:50:13.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
-   "id": "eafdabb3667f083f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
-   "u": "https://www.techmeme.com/261106/p1#a261106p1",
-   "d": "2026-11-06T05:00:13.000Z",
    "first": "2026-11-06T08:39:12.558Z"
   },
   {
@@ -190,6 +240,16 @@
    "u": "https://tldr.tech/ai/2026-11-06",
    "d": "2026-11-06T00:00:00.000Z",
    "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "4edff2f9b5f24ee3",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Measuring how AI agents handle everyday wet-lab science",
+   "u": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "d": "2026-11-06T00:00:00.000Z",
+   "first": "2026-11-06T21:39:53.240Z"
   },
   {
    "id": "a2eb11b3e84d4585",
@@ -722,26 +782,6 @@
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
-   "id": "ac042d61065fde46",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Cisco defends at machine speed with OpenAI",
-   "u": "https://openai.com/index/cisco-cyber",
-   "d": "2026-11-03T08:00:00.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
-   "id": "bd3ec197e42d33ce",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Heimstaden is changing residential real estate management with AI",
-   "u": "https://openai.com/index/heimstaden",
-   "d": "2026-11-03T08:00:00.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
    "id": "789931437fef05a2",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1050,16 +1090,6 @@
    "u": "https://thezvi.substack.com/p/childhood-and-education-22-voice",
    "d": "2026-10-30T20:25:47.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "f8a74ebfbf1e2bcb",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "When a humanoid and a drone become besties",
-   "u": "https://www.youtube.com/shorts/4sGplZdBy6A",
-   "d": "2026-10-30T19:21:44.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
   },
   {
    "id": "104f3daa621c29a3",
@@ -3395,7 +3425,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1026 > 1000"
+   "error": "Entity expansion limit exceeded: 1086 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3440,7 +3470,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1036 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
