@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-06T01:51:25.929Z",
+ "generated": "2026-11-06T08:39:12.558Z",
  "items": [
+  {
+   "id": "7831b26d27dc3041",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "This Is The Future of AI - With Spencer Huang",
+   "u": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+   "d": "2026-11-06T07:27:02.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "a9c209129497b9db",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Pika turns images and sound into an editable video",
+   "u": "https://www.youtube.com/shorts/_CQ2QEI63o8",
+   "d": "2026-11-06T07:12:53.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "a8dfcad0129d6bcf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)",
+   "u": "https://www.techmeme.com/261106/p4#a261106p4",
+   "d": "2026-11-06T06:50:13.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "eafdabb3667f083f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
+   "u": "https://www.techmeme.com/261106/p1#a261106p1",
+   "d": "2026-11-06T05:00:13.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "bff50d92d95a6fb9",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The Man Who Built New York Without Winning a Single Vote - Robert Caro",
+   "u": "https://www.youtube.com/shorts/JyB3mExvn_w",
+   "d": "2026-11-06T04:34:08.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "b554a1125e976fdf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)",
+   "u": "https://www.techmeme.com/261105/p70#a261105p70",
+   "d": "2026-11-06T04:05:09.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "10b0ae22371a3a18",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Towards understanding score-seeking in LLMs",
+   "u": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
+   "d": "2026-11-06T03:19:36.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "e86d322da7b4e06c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously (Emma Roth/The Verge)",
+   "u": "https://www.techmeme.com/261105/p69#a261105p69",
+   "d": "2026-11-06T03:15:00.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
+  },
   {
    "id": "ae17644685fe464d",
    "f": "techmeme",
@@ -22,34 +102,14 @@
    "first": "2026-11-06T01:51:25.929Z"
   },
   {
-   "id": "0d362c1edb851740",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: major investors are increasingly skeptical Anthropic's IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261105/p60#a261105p60",
-   "d": "2026-11-06T00:10:00.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
-   "id": "8cc7ebb77a43e146",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress (Natalia Kniazhevich/Bloomberg)",
-   "u": "https://www.techmeme.com/261105/p55#a261105p55",
-   "d": "2026-11-05T22:15:01.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
-   "id": "faecb1206876b2a8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "California State Senator Scott Wiener, an author of AI safety law SB 53, won Tuesday's election to succeed Pelosi in the US House, campaigning on AI regulation (Rocket Drew/The Information)",
-   "u": "https://www.techmeme.com/261105/p53#a261105p53",
-   "d": "2026-11-05T21:35:01.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
+   "id": "a919bcf6cfc71ef6",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "AI identified Breakout from 17,253 numbers",
+   "u": "https://www.youtube.com/shorts/F4i_-wbmhC8",
+   "d": "2026-11-06T00:32:37.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
   },
   {
    "id": "30f49388d98061ab",
@@ -110,6 +170,16 @@
    "u": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
    "d": "2026-11-05T17:05:16.000Z",
    "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "651338d0d1b8c4a4",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Australian universities are creating AI-native graduates",
+   "u": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "d": "2026-11-05T17:00:00.000Z",
+   "first": "2026-11-06T08:39:12.558Z"
   },
   {
    "id": "81f10925f162eab9",
@@ -622,16 +692,6 @@
    "first": "2026-11-03T18:30:09.110Z"
   },
   {
-   "id": "74ad3ec9dabd93e9",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-   "u": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "d": "2026-11-03T00:00:00.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
    "id": "ed1a8a4aa9a6136e",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -1032,16 +1092,6 @@
    "first": "2026-10-30T16:03:52.904Z"
   },
   {
-   "id": "2562d8e650512b70",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How did tiny Japan beat Russia? - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/O0JgGEAwAqA",
-   "d": "2026-10-29T23:41:37.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
-  },
-  {
    "id": "98a3c7c74a013b25",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -1112,16 +1162,6 @@
    "first": "2026-10-29T06:14:06.343Z"
   },
   {
-   "id": "0ff7695cb8cff8ac",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Google \"Carbon\" just won everything...",
-   "u": "https://www.youtube.com/watch?v=zhnJo7s91ls",
-   "d": "2026-10-29T00:29:20.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
-  },
-  {
    "id": "453c62983210cd9d",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1130,16 +1170,6 @@
    "u": "https://tldr.tech/ai/2026-10-29",
    "d": "2026-10-29T00:00:00.000Z",
    "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "ea2af34959a5c011",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Google announces Gemini 4 Carbon",
-   "u": "https://www.youtube.com/shorts/3yZb9rGt-rk",
-   "d": "2026-10-28T22:20:44.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
   },
   {
    "id": "a3dad553b0a6c852",
@@ -2432,16 +2462,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "6297f21dd700e20d",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "Swarm Scaling",
-   "u": "https://www.lesswrong.com/posts/6cb7qd3RSkgnviCpf/swarm-scaling",
-   "d": "2026-09-25T02:32:30.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "a33877c65d4eb613",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -2469,16 +2489,6 @@
    "t": "Back to Claude",
    "u": "https://www.bensbites.com/p/back-to-claude",
    "d": "2026-09-24T13:04:08.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "1498df0c985efa86",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-   "u": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-   "d": "2026-09-24T08:40:55.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3403,7 +3413,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3420,7 +3431,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1030 > 1000"
+   "error": "Entity expansion limit exceeded: 1036 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3434,58 +3445,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }

@@ -278,6 +278,7 @@
    "init": true,
    "ids": [
     "509c9a680acaf8b0",
+    "651338d0d1b8c4a4",
     "167e755fe52bac22",
     "c9b9c3d9f122dc06",
     "665f885e6c6486c7",
@@ -459,6 +460,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "a8dfcad0129d6bcf",
+    "eafdabb3667f083f",
+    "b554a1125e976fdf",
+    "e86d322da7b4e06c",
     "ae17644685fe464d",
     "38df6211e411bdb2",
     "0d362c1edb851740",
@@ -1054,11 +1059,7 @@
     "c347a7804cdf34bd",
     "ae7d564fb74569b4",
     "7a78dc1dd971c13e",
-    "13a6e13b6900757b",
-    "c285a238088fe525",
-    "bdbcb1e80175e1fc",
-    "b2c9ba1a3c363526",
-    "4122b90850c48d24"
+    "13a6e13b6900757b"
    ]
   },
   "mit-tr": {
@@ -1112,6 +1113,7 @@
   "lesswrong": {
    "init": true,
    "ids": [
+    "10b0ae22371a3a18",
     "cfc53712f0b799ab",
     "68123fbf06c5a0d2",
     "9d7e936e6f6d6e92",
@@ -1165,6 +1167,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "bff50d92d95a6fb9",
     "30f49388d98061ab",
     "32409ecdd1881680",
     "208f873ba6e03c9a",
@@ -1294,6 +1297,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "7831b26d27dc3041",
     "de5918bc88ad4383",
     "97aa9361e57c37c7",
     "d8b331098725868c",
@@ -1357,6 +1361,8 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "a9c209129497b9db",
+    "a919bcf6cfc71ef6",
     "d87a7d06de9b99b5",
     "81f10925f162eab9",
     "135cafe6b353e68c",
