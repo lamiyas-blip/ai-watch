@@ -1,24 +1,54 @@
 {
- "generated": "2026-11-05T21:37:57.374Z",
+ "generated": "2026-11-06T01:51:25.929Z",
  "items": [
+  {
+   "id": "ae17644685fe464d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky's stealth AI lab; source: Chesky has self-funded it so far (The Information)",
+   "u": "https://www.techmeme.com/261105/p67#a261105p67",
+   "d": "2026-11-06T01:50:07.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
+  },
+  {
+   "id": "38df6211e411bdb2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out (Artificial Analysis)",
+   "u": "https://www.techmeme.com/261105/p65#a261105p65",
+   "d": "2026-11-06T00:55:00.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
+  },
+  {
+   "id": "0d362c1edb851740",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: major investors are increasingly skeptical Anthropic's IPO can achieve a $1.5T valuation after a market selloff; one says it could be closer to $1T (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261105/p60#a261105p60",
+   "d": "2026-11-06T00:10:00.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
+  },
+  {
+   "id": "8cc7ebb77a43e146",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress (Natalia Kniazhevich/Bloomberg)",
+   "u": "https://www.techmeme.com/261105/p55#a261105p55",
+   "d": "2026-11-05T22:15:01.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
+  },
   {
    "id": "faecb1206876b2a8",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "California State Senator Scott Wiener, author of AI safety law SB 53, won Tuesday's election to succeed Pelosi in the US House, campaigning on AI regulation (Rocket Drew/The Information)",
+   "t": "California State Senator Scott Wiener, an author of AI safety law SB 53, won Tuesday's election to succeed Pelosi in the US House, campaigning on AI regulation (Rocket Drew/The Information)",
    "u": "https://www.techmeme.com/261105/p53#a261105p53",
    "d": "2026-11-05T21:35:01.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "2323e6a7add338dd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "METR: Anthropic redacted much of the \"most informative\" evidence from METR's 100-page report, so readers \"must rely on our judgment more than we consider ideal\" (@metr_evals)",
-   "u": "https://www.techmeme.com/261105/p52#a261105p52",
-   "d": "2026-11-05T21:30:03.000Z",
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
@@ -42,24 +72,14 @@
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
-   "id": "df613f1cda1f12a7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
-   "u": "https://www.techmeme.com/261105/p50#a261105p50",
-   "d": "2026-11-05T20:15:00.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "cb1470772279bd37",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)",
-   "u": "https://www.techmeme.com/261105/p47#a261105p47",
-   "d": "2026-11-05T19:20:02.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
+   "id": "509c9a680acaf8b0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Cult.fit builds operational muscle with Codex",
+   "u": "https://openai.com/index/cultfit-builds-with-codex",
+   "d": "2026-11-05T20:00:00.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
   },
   {
    "id": "8028035ced7f9680",
@@ -82,46 +102,6 @@
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
-   "id": "dbf5de6143530550",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration (Tiffany Li/The Information)",
-   "u": "https://www.techmeme.com/261105/p46#a261105p46",
-   "d": "2026-11-05T19:01:21.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "47c190947a071493",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)",
-   "u": "https://www.techmeme.com/261105/p44#a261105p44",
-   "d": "2026-11-05T18:15:04.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "966ec9009e8b0a11",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ \"novel\" vulnerabilities in Firefox (Djohnson/CyberScoop)",
-   "u": "https://www.techmeme.com/261105/p42#a261105p42",
-   "d": "2026-11-05T17:15:02.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "353b5cbaa82469b1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue (Emma Roth/The Verge)",
-   "u": "https://www.techmeme.com/261105/p40#a261105p40",
-   "d": "2026-11-05T17:06:54.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
    "id": "ff684e536c215fa1",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -129,16 +109,6 @@
    "t": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
    "u": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
    "d": "2026-11-05T17:05:16.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "f531600c608aed53",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)",
-   "u": "https://www.techmeme.com/261105/p39#a261105p39",
-   "d": "2026-11-05T17:01:37.000Z",
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
@@ -182,6 +152,16 @@
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
+   "id": "c9b9c3d9f122dc06",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Merge builds product and business tools with OpenAI technology",
+   "u": "https://openai.com/index/merge-builds-with-openai",
+   "d": "2026-11-05T08:00:00.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
+  },
+  {
    "id": "088f297c11a649ef",
    "f": "latent-space",
    "src": "Latent Space",
@@ -212,6 +192,16 @@
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
+   "id": "51135d73c986a6bc",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Flipsnack grows product signups with conversion optimization",
+   "u": "https://openai.com/ads/customers/flipsnack",
+   "d": "2026-11-05T00:45:15.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
+  },
+  {
    "id": "6572c938c173b6f7",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -220,6 +210,16 @@
    "u": "https://tldr.tech/ai/2026-11-05",
    "d": "2026-11-05T00:00:00.000Z",
    "first": "2026-11-05T15:39:10.563Z"
+  },
+  {
+   "id": "626efda79851a424",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Franklin Templeton uses OpenAI to support investment research",
+   "u": "https://openai.com/index/franklin-templeton",
+   "d": "2026-11-05T00:00:00.000Z",
+   "first": "2026-11-06T01:51:25.929Z"
   },
   {
    "id": "32409ecdd1881680",
@@ -682,26 +682,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "6f94c5ac2cc43392",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Rewarding defenders with bigger bug bounties",
-   "u": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
-   "id": "033b0bdae9d3ac72",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Preparing our next security sprint to harden OpenAI",
-   "u": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "d": "2026-11-02T18:00:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
    "id": "ad0b0e3719117967",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -729,26 +709,6 @@
    "t": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
    "u": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "d": "2026-11-02T16:40:29.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "d0fddeb40c0bee84",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Scaling Git at OpenAI",
-   "u": "https://openai.com/index/scaling-git-at-openai",
-   "d": "2026-11-02T15:30:00.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
-   "id": "0b2deea62c0f4cb8",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing the Grid Protectors Program",
-   "u": "https://openai.com/index/grid-protectors-program",
-   "d": "2026-11-02T15:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
@@ -3443,8 +3403,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3461,12 +3420,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1030 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3475,47 +3434,58 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
