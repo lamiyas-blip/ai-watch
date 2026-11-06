@@ -1,12 +1,122 @@
 {
- "generated": "2026-11-06T08:39:12.558Z",
+ "generated": "2026-11-06T16:24:39.174Z",
  "items": [
+  {
+   "id": "b646fbe8d4e14de6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)",
+   "u": "https://www.techmeme.com/261106/p15#a261106p15",
+   "d": "2026-11-06T15:51:06.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "85a382b3e7dc527e",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Will Democrats splinter on AI?",
+   "u": "https://www.transformernews.ai/p/will-democrats-splinter-on-ai",
+   "d": "2026-11-06T15:39:50.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "7d9f8bbc846f8573",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+   "u": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+   "d": "2026-11-06T15:10:53.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "aa3e3b81bfa304fa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages due to the AI boom (Qianer Liu/The Information)",
+   "u": "https://www.techmeme.com/261106/p13#a261106p13",
+   "d": "2026-11-06T15:05:48.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "cd846410c5fc87e5",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Anthropic just built it...",
+   "u": "https://www.youtube.com/watch?v=2lt4P_xGFL8",
+   "d": "2026-11-06T14:35:24.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "c8877f849b0cc83c",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Innovation Council’s directors include execs at David Sacks’ VC firm",
+   "u": "https://www.transformernews.ai/p/innovation-council-david-sacks-jd-vance",
+   "d": "2026-11-06T14:34:18.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "82c74b3d1c39c9ae",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI (Emmy Martin/New York Times)",
+   "u": "https://www.techmeme.com/261106/p12#a261106p12",
+   "d": "2026-11-06T14:25:00.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "64b64bf843f195b3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)",
+   "u": "https://www.techmeme.com/261106/p11#a261106p11",
+   "d": "2026-11-06T13:20:44.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "bf9370a811f31ce8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
+   "u": "https://www.techmeme.com/261106/p8#a261106p8",
+   "d": "2026-11-06T11:30:01.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "7657e2af2c22e06e",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+   "u": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+   "d": "2026-11-06T10:35:21.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "57d2139dd42a5d7b",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "u": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "d": "2026-11-06T10:00:00.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
   {
    "id": "7831b26d27dc3041",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
    "cat": "YouTube",
-   "t": "This Is The Future of AI - With Spencer Huang",
+   "t": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
    "u": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
    "d": "2026-11-06T07:27:02.000Z",
    "first": "2026-11-06T08:39:12.558Z"
@@ -26,7 +136,7 @@
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)",
+   "t": "NYC-based Kalepa, whose AI service supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)",
    "u": "https://www.techmeme.com/261106/p4#a261106p4",
    "d": "2026-11-06T06:50:13.000Z",
    "first": "2026-11-06T08:39:12.558Z"
@@ -52,16 +162,6 @@
    "first": "2026-11-06T08:39:12.558Z"
   },
   {
-   "id": "b554a1125e976fdf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)",
-   "u": "https://www.techmeme.com/261105/p70#a261105p70",
-   "d": "2026-11-06T04:05:09.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
    "id": "10b0ae22371a3a18",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -72,36 +172,6 @@
    "first": "2026-11-06T08:39:12.558Z"
   },
   {
-   "id": "e86d322da7b4e06c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously (Emma Roth/The Verge)",
-   "u": "https://www.techmeme.com/261105/p69#a261105p69",
-   "d": "2026-11-06T03:15:00.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
-   "id": "ae17644685fe464d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky's stealth AI lab; source: Chesky has self-funded it so far (The Information)",
-   "u": "https://www.techmeme.com/261105/p67#a261105p67",
-   "d": "2026-11-06T01:50:07.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
-   "id": "38df6211e411bdb2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out (Artificial Analysis)",
-   "u": "https://www.techmeme.com/261105/p65#a261105p65",
-   "d": "2026-11-06T00:55:00.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
    "id": "a919bcf6cfc71ef6",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -110,6 +180,26 @@
    "u": "https://www.youtube.com/shorts/F4i_-wbmhC8",
    "d": "2026-11-06T00:32:37.000Z",
    "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "514cbb35bb43a9a5",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Anthropic R&D accelerates 📈, GPT-6 Cyber 🔐, Inkling 2 Small 🧠",
+   "u": "https://tldr.tech/ai/2026-11-06",
+   "d": "2026-11-06T00:00:00.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
+  },
+  {
+   "id": "a2eb11b3e84d4585",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "u": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "d": "2026-11-05T23:09:57.000Z",
+   "first": "2026-11-06T16:24:39.174Z"
   },
   {
    "id": "30f49388d98061ab",
@@ -1042,16 +1132,6 @@
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
-   "id": "f9649ee9be110844",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI isn't replacing SREs, it's deskilling them",
-   "u": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-   "d": "2026-10-30T15:52:18.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
    "id": "5b1044444836a679",
    "f": "transformer",
    "src": "Transformer",
@@ -1232,16 +1312,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "64ecbd7d38377d3a",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Pairing industrial AI autonomy and human control",
-   "u": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-   "d": "2026-10-28T12:00:00.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
-  },
-  {
    "id": "f0eb0bb9fce82d84",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1332,16 +1402,6 @@
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
-   "id": "ff5a9f8ff65f2921",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
-   "u": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
-   "d": "2026-10-27T18:40:19.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
    "id": "69d1efd08f3eafd2",
    "f": "transformer",
    "src": "Transformer",
@@ -1359,16 +1419,6 @@
    "t": "Genie 4: A new generation of world simulation",
    "u": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
    "d": "2026-10-27T16:01:38.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
-  },
-  {
-   "id": "fde4ec2ff4059936",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Coding From the Himalayas With an Offline AI Agent",
-   "u": "https://latent.space/p/offline-coding/",
-   "d": "2026-10-27T14:41:25.000Z",
    "first": "2026-10-27T19:43:53.913Z"
   },
   {
@@ -1862,16 +1912,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "7fed59e729a8d339",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
-   "u": "https://tldr.tech/ai/2026-10-16",
-   "d": "2026-10-16T00:00:00.000Z",
-   "first": "2026-10-16T14:28:45.766Z"
-  },
-  {
    "id": "c7201d7caeea9334",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -1920,16 +1960,6 @@
    "u": "https://thezvi.substack.com/p/ai-190-scion-of-the-times",
    "d": "2026-10-15T12:03:51.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "d1c6cb5f7bd2177e",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "AI just BROKE all of the software industry...",
-   "u": "https://www.youtube.com/watch?v=EmaXeEdlJkI",
-   "d": "2026-10-15T03:46:29.000Z",
-   "first": "2026-10-15T10:57:33.507Z"
   },
   {
    "id": "fc9b7e23ab2b73f4",
@@ -2212,16 +2242,6 @@
    "first": "2026-10-06T23:07:58.959Z"
   },
   {
-   "id": "7aa08665b0e473b0",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "AI is going to run out of power",
-   "u": "https://www.transformernews.ai/p/ai-will-run-out-of-power",
-   "d": "2026-10-06T15:02:11.000Z",
-   "first": "2026-10-06T19:10:01.406Z"
-  },
-  {
    "id": "dea9ad28e543d6ef",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2289,16 +2309,6 @@
    "t": "Welcome to #TeamHuman",
    "u": "https://www.youtube.com/shorts/uqiH3R4TEgk",
    "d": "2026-10-04T03:17:06.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "ce77d8b00fdf286e",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Human oversight won’t solve AI warfare’s risks",
-   "u": "https://www.transformernews.ai/p/human-oversight-wont-solve-ai-warfare-risks",
-   "d": "2026-10-02T15:04:04.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3413,8 +3423,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
