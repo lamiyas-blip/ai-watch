@@ -1,6 +1,46 @@
 {
- "generated": "2026-11-07T01:22:51.687Z",
+ "generated": "2026-11-07T07:24:09.845Z",
  "items": [
+  {
+   "id": "95e8b31bef399e0f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July (Zack Whittaker/TechCrunch)",
+   "u": "https://www.techmeme.com/261107/p5#a261107p5",
+   "d": "2026-11-07T07:01:02.000Z",
+   "first": "2026-11-07T07:24:09.845Z"
+  },
+  {
+   "id": "e6b16bf50fd8487b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M (Eudora Wang/DealStreetAsia)",
+   "u": "https://www.techmeme.com/261107/p1#a261107p1",
+   "d": "2026-11-07T05:45:02.000Z",
+   "first": "2026-11-07T07:24:09.845Z"
+  },
+  {
+   "id": "0761c08a044e8cd4",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Anthropic IPO: Whither Now?",
+   "u": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+   "d": "2026-11-07T03:04:53.000Z",
+   "first": "2026-11-07T07:24:09.845Z"
+  },
+  {
+   "id": "cd4aa777bcdabe34",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+   "u": "https://www.techmeme.com/261106/p28#a261106p28",
+   "d": "2026-11-07T01:50:00.000Z",
+   "first": "2026-11-07T07:24:09.845Z"
+  },
   {
    "id": "50613e010a271b91",
    "f": "techmeme",
@@ -32,6 +72,16 @@
    "first": "2026-11-06T21:39:53.240Z"
   },
   {
+   "id": "9d2d42780526dc3e",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI is dramatically accelerating AI research",
+   "u": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "d": "2026-11-06T20:27:23.000Z",
+   "first": "2026-11-07T07:24:09.845Z"
+  },
+  {
    "id": "d4663c02ff71df68",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
@@ -52,36 +102,6 @@
    "first": "2026-11-06T21:39:53.240Z"
   },
   {
-   "id": "ffa9c0b076b0d2f7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips (Brody Ford/Bloomberg)",
-   "u": "https://www.techmeme.com/261106/p18#a261106p18",
-   "d": "2026-11-06T18:05:03.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
-  },
-  {
-   "id": "b879d9035b84a549",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)",
-   "u": "https://www.techmeme.com/261106/p17#a261106p17",
-   "d": "2026-11-06T17:35:00.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
-  },
-  {
-   "id": "b646fbe8d4e14de6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)",
-   "u": "https://www.techmeme.com/261106/p15#a261106p15",
-   "d": "2026-11-06T15:51:06.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
    "id": "85a382b3e7dc527e",
    "f": "transformer",
    "src": "Transformer",
@@ -99,16 +119,6 @@
    "t": "Controlling Biology - Fabian Theis, Helmholtz Munich",
    "u": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
    "d": "2026-11-06T15:10:53.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "aa3e3b81bfa304fa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages due to the AI boom (Qianer Liu/The Information)",
-   "u": "https://www.techmeme.com/261106/p13#a261106p13",
-   "d": "2026-11-06T15:05:48.000Z",
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
@@ -1112,16 +1122,6 @@
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
-   "id": "4b50270479ee95cb",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Proton's CEO Cancels AI 'Re-Interviews'",
-   "u": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-   "d": "2026-10-30T17:24:45.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
    "id": "b21e148d4a2d08c1",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1400,16 +1400,6 @@
    "u": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
    "d": "2026-10-28T00:00:00.000Z",
    "first": "2026-10-29T00:29:38.175Z"
-  },
-  {
-   "id": "0a70f166a0301951",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-   "u": "https://latent.space/p/opus55/",
-   "d": "2026-10-27T18:53:10.000Z",
-   "first": "2026-10-27T19:43:53.913Z"
   },
   {
    "id": "69d1efd08f3eafd2",
@@ -3450,7 +3440,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1022 > 1000"
+   "error": "Entity expansion limit exceeded: 1024 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3489,7 +3479,8 @@
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3498,8 +3489,7 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
