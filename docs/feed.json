@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T21:39:53.240Z",
+ "generated": "2026-11-07T01:22:51.687Z",
  "items": [
   {
    "id": "50613e010a271b91",
@@ -129,26 +129,6 @@
    "t": "Innovation Council’s directors include execs at David Sacks’ VC firm",
    "u": "https://www.transformernews.ai/p/innovation-council-david-sacks-jd-vance",
    "d": "2026-11-06T14:34:18.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "82c74b3d1c39c9ae",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI (Emmy Martin/New York Times)",
-   "u": "https://www.techmeme.com/261106/p12#a261106p12",
-   "d": "2026-11-06T14:25:00.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "64b64bf843f195b3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)",
-   "u": "https://www.techmeme.com/261106/p11#a261106p11",
-   "d": "2026-11-06T13:20:44.000Z",
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
@@ -872,6 +852,16 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
+   "id": "b96c1469b0d73809",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "u": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+   "d": "2026-11-02T19:27:37.000Z",
+   "first": "2026-11-07T01:22:51.687Z"
+  },
+  {
    "id": "ad0b0e3719117967",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -1139,16 +1129,6 @@
    "t": "What Robert Caro learned about power after studying it for 50 years",
    "u": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
    "d": "2026-10-30T17:18:35.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
-   "id": "d6028f8be753cf67",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "US tech stocks see sharp falls over AI cost fears",
-   "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-   "d": "2026-10-30T16:13:02.000Z",
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
@@ -3470,7 +3450,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1022 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3484,23 +3464,28 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3508,23 +3493,28 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   }
  }
 }
