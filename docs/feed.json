@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-07T07:24:09.845Z",
+ "generated": "2026-11-07T14:14:07.977Z",
  "items": [
+  {
+   "id": "3166efe7e4cc7c3b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curriculum overhaul (Sayan Chakraborty/Nikkei Asia)",
+   "u": "https://www.techmeme.com/261107/p8#a261107p8",
+   "d": "2026-11-07T11:40:01.000Z",
+   "first": "2026-11-07T14:14:07.977Z"
+  },
+  {
+   "id": "894a23d39a135ffa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies (Gillian Tett/Financial Times)",
+   "u": "https://www.techmeme.com/261107/p7#a261107p7",
+   "d": "2026-11-07T07:40:01.000Z",
+   "first": "2026-11-07T14:14:07.977Z"
+  },
+  {
+   "id": "e38a8d0ecf06a2cc",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "That is Some Crazy Fabric",
+   "u": "https://www.youtube.com/shorts/w3z3Fa7ACt8",
+   "d": "2026-11-07T07:36:33.000Z",
+   "first": "2026-11-07T14:14:07.977Z"
+  },
   {
    "id": "95e8b31bef399e0f",
    "f": "techmeme",
@@ -52,26 +82,6 @@
    "first": "2026-11-06T21:39:53.240Z"
   },
   {
-   "id": "7a37a4bf2c610bb4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
-   "u": "https://www.techmeme.com/261106/p22#a261106p22",
-   "d": "2026-11-06T21:15:00.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
-  },
-  {
-   "id": "6d5498e527f63cdf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)",
-   "u": "https://www.techmeme.com/261106/p21#a261106p21",
-   "d": "2026-11-06T21:12:51.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
-  },
-  {
    "id": "9d2d42780526dc3e",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -80,16 +90,6 @@
    "u": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "d": "2026-11-06T20:27:23.000Z",
    "first": "2026-11-07T07:24:09.845Z"
-  },
-  {
-   "id": "d4663c02ff71df68",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)",
-   "u": "https://www.techmeme.com/261106/p20#a261106p20",
-   "d": "2026-11-06T19:35:01.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
   },
   {
    "id": "e17c211faa71052e",
@@ -190,6 +190,16 @@
    "u": "https://www.youtube.com/shorts/_CQ2QEI63o8",
    "d": "2026-11-06T07:12:53.000Z",
    "first": "2026-11-06T08:39:12.558Z"
+  },
+  {
+   "id": "826fdfc5f580923e",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "I struggle to believe that AI R&D is ingenious",
+   "u": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+   "d": "2026-11-06T05:19:04.000Z",
+   "first": "2026-11-07T14:14:07.977Z"
   },
   {
    "id": "bff50d92d95a6fb9",
@@ -1032,16 +1042,6 @@
    "first": "2026-11-01T09:28:01.327Z"
   },
   {
-   "id": "7d3355fcd88f2bf3",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "The AI cost of JavaScript frameworks",
-   "u": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-   "d": "2026-11-01T06:06:19.000Z",
-   "first": "2026-11-01T20:38:45.544Z"
-  },
-  {
    "id": "807e29f2a06d1d08",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -1070,16 +1070,6 @@
    "u": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
    "d": "2026-10-31T05:00:48.000Z",
    "first": "2026-10-31T05:59:32.623Z"
-  },
-  {
-   "id": "3904c078f2636940",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "AI News: The Only 6 Stories Worth Knowing This Week",
-   "u": "https://www.youtube.com/watch?v=eDiQNFa-zYg",
-   "d": "2026-10-30T21:15:04.000Z",
-   "first": "2026-10-31T11:44:40.138Z"
   },
   {
    "id": "8caba023e03f551b",
@@ -3440,7 +3430,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1024 > 1000"
+   "error": "Entity expansion limit exceeded: 1004 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3454,38 +3444,31 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
@@ -3493,18 +3476,15 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   }
  }
 }
