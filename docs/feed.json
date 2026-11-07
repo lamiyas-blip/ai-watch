@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-07T18:55:25.507Z",
+ "generated": "2026-11-07T22:24:40.413Z",
  "items": [
+  {
+   "id": "ee53d53e3e5435a2",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "We Visited China’s Stargate in Inner Mongolia",
+   "u": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
+   "d": "2026-11-07T19:01:39.000Z",
+   "first": "2026-11-07T22:24:40.413Z"
+  },
+  {
+   "id": "e34f011bfd81313f",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "The end of Microsoft Research's AI Frontiers group",
+   "u": "https://hunch.net/?p=13764006",
+   "d": "2026-11-07T18:02:17.000Z",
+   "first": "2026-11-07T22:24:40.413Z"
+  },
   {
    "id": "23c00c36a6eb7eef",
    "f": "yt-matthew-berman",
@@ -129,16 +149,6 @@
    "t": "[AINews] Anthropic IPO: Whither Now?",
    "u": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
    "d": "2026-11-07T03:04:53.000Z",
-   "first": "2026-11-07T07:24:09.845Z"
-  },
-  {
-   "id": "cd4aa777bcdabe34",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
-   "u": "https://www.techmeme.com/261106/p28#a261106p28",
-   "d": "2026-11-07T01:50:00.000Z",
    "first": "2026-11-07T07:24:09.845Z"
   },
   {
@@ -1070,16 +1080,6 @@
    "u": "https://tldr.tech/ai/2026-11-02",
    "d": "2026-11-02T00:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "f583bb486f488765",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "u": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "d": "2026-11-01T22:10:45.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
   },
   {
    "id": "a7e591728385da4f",
@@ -2552,16 +2552,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "bd9f0253176145b0",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Computation and Data Movement for Inference",
-   "u": "https://newsletter.semianalysis.com/p/computation-and-data-movement-for",
-   "d": "2026-09-21T18:14:15.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "9ea194f31e747bfc",
    "f": "import-ai",
    "src": "Import AI",
@@ -3443,8 +3433,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "The operation was aborted due to timeout"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3479,7 +3468,8 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3491,7 +3481,8 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3503,19 +3494,23 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
