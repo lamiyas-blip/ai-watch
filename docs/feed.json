@@ -1,6 +1,76 @@
 {
- "generated": "2026-11-07T14:14:07.977Z",
+ "generated": "2026-11-07T18:55:25.507Z",
  "items": [
+  {
+   "id": "23c00c36a6eb7eef",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "The most important report in AI right now",
+   "u": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
+   "d": "2026-11-07T17:28:06.000Z",
+   "first": "2026-11-07T18:55:25.507Z"
+  },
+  {
+   "id": "eb3f887a963748ea",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)",
+   "u": "https://www.techmeme.com/261107/p12#a261107p12",
+   "d": "2026-11-07T17:15:01.000Z",
+   "first": "2026-11-07T18:55:25.507Z"
+  },
+  {
+   "id": "2247dd5fa4010f42",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Claude Code Just Called My Phone",
+   "u": "https://www.youtube.com/shorts/A5SfzBD6M3o",
+   "d": "2026-11-07T17:00:37.000Z",
+   "first": "2026-11-07T18:55:25.507Z"
+  },
+  {
+   "id": "581049a083dc9290",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
+   "u": "https://www.techmeme.com/261107/p11#a261107p11",
+   "d": "2026-11-07T16:35:01.000Z",
+   "first": "2026-11-07T18:55:25.507Z"
+  },
+  {
+   "id": "5768805057b018b0",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "OpenAI's Astra Just Opened The Black Box Of AI",
+   "u": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+   "d": "2026-11-07T16:24:47.000Z",
+   "first": "2026-11-07T18:55:25.507Z"
+  },
+  {
+   "id": "b3a88539287d3e70",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business (Paul Gillin/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261107/p10#a261107p10",
+   "d": "2026-11-07T15:30:01.000Z",
+   "first": "2026-11-07T18:55:25.507Z"
+  },
+  {
+   "id": "910e54307b9efac3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Investigation: some Chinese companies approved by the US Commerce Department to handle Nvidia's H200 chips have empty offices and ties to firms under sanctions (New York Times)",
+   "u": "https://www.techmeme.com/261107/p9#a261107p9",
+   "d": "2026-11-07T14:30:04.000Z",
+   "first": "2026-11-07T18:55:25.507Z"
+  },
   {
    "id": "3166efe7e4cc7c3b",
    "f": "techmeme",
@@ -70,16 +140,6 @@
    "u": "https://www.techmeme.com/261106/p28#a261106p28",
    "d": "2026-11-07T01:50:00.000Z",
    "first": "2026-11-07T07:24:09.845Z"
-  },
-  {
-   "id": "50613e010a271b91",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market (Ryan Barwick/The Information)",
-   "u": "https://www.techmeme.com/261106/p23#a261106p23",
-   "d": "2026-11-06T21:35:00.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
   },
   {
    "id": "9d2d42780526dc3e",
@@ -1042,16 +1102,6 @@
    "first": "2026-11-01T09:28:01.327Z"
   },
   {
-   "id": "807e29f2a06d1d08",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Glasses That Make You Telepathic",
-   "u": "https://www.youtube.com/shorts/_9R7QOhJh-o",
-   "d": "2026-10-31T18:16:57.000Z",
-   "first": "2026-10-31T20:08:05.786Z"
-  },
-  {
    "id": "2b84ab40d0f2e0fd",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1170,16 +1220,6 @@
    "u": "https://tldr.tech/ai/2026-10-30",
    "d": "2026-10-30T00:00:00.000Z",
    "first": "2026-10-30T16:03:52.904Z"
-  },
-  {
-   "id": "98a3c7c74a013b25",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Two AI bots for spam calls and data privacy",
-   "u": "https://www.youtube.com/shorts/IrgQdsxzRa4",
-   "d": "2026-10-29T19:05:33.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
   },
   {
    "id": "d1643c8e4030cd5d",
@@ -2270,16 +2310,6 @@
    "u": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
    "d": "2026-10-05T12:32:30.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "858951482ca05277",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "The Billion Dollar AI Advantage Is Disappearing",
-   "u": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-   "d": "2026-10-05T09:53:12.000Z",
-   "first": "2026-10-05T18:36:54.915Z"
   },
   {
    "id": "e155b3608b6d0d50",
@@ -3413,7 +3443,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "The operation was aborted due to timeout"
   },
   "mit-tr": {
    "name": "MIT Technology Review",

@@ -468,6 +468,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "eb3f887a963748ea",
+    "581049a083dc9290",
+    "b3a88539287d3e70",
+    "910e54307b9efac3",
     "3166efe7e4cc7c3b",
     "894a23d39a135ffa",
     "95e8b31bef399e0f",
@@ -1063,11 +1067,7 @@
     "d74db898610cfaf6",
     "4f80b703c5da1b39",
     "363e184472eb73d6",
-    "e6ac9c0c035aac8d",
-    "9fa40b2c233d3f00",
-    "307ca8045ce9be54",
-    "1ba607d3f24de487",
-    "75012045aa524e52"
+    "e6ac9c0c035aac8d"
    ]
   },
   "mit-tr": {
@@ -1306,6 +1306,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "5768805057b018b0",
     "7831b26d27dc3041",
     "de5918bc88ad4383",
     "97aa9361e57c37c7",
@@ -1327,6 +1328,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "2247dd5fa4010f42",
     "e38a8d0ecf06a2cc",
     "e17c211faa71052e",
     "8028035ced7f9680",
@@ -1372,6 +1374,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "23c00c36a6eb7eef",
     "a9c209129497b9db",
     "a919bcf6cfc71ef6",
     "d87a7d06de9b99b5",
