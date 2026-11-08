@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-07T22:24:40.413Z",
+ "generated": "2026-11-08T01:35:46.914Z",
  "items": [
+  {
+   "id": "6724a2f771cb1b6a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
+   "u": "https://www.techmeme.com/261107/p17#a261107p17",
+   "d": "2026-11-08T00:45:01.000Z",
+   "first": "2026-11-08T01:35:46.914Z"
+  },
+  {
+   "id": "e10a44c286cf2093",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How LBJ Fooled the Segregationists - Robert Caro",
+   "u": "https://www.youtube.com/shorts/S4NYamZuts4",
+   "d": "2026-11-07T21:53:54.000Z",
+   "first": "2026-11-08T01:35:46.914Z"
+  },
   {
    "id": "ee53d53e3e5435a2",
    "f": "semianalysis",
@@ -129,16 +149,6 @@
    "t": "Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July (Zack Whittaker/TechCrunch)",
    "u": "https://www.techmeme.com/261107/p5#a261107p5",
    "d": "2026-11-07T07:01:02.000Z",
-   "first": "2026-11-07T07:24:09.845Z"
-  },
-  {
-   "id": "e6b16bf50fd8487b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M (Eudora Wang/DealStreetAsia)",
-   "u": "https://www.techmeme.com/261107/p1#a261107p1",
-   "d": "2026-11-07T05:45:02.000Z",
    "first": "2026-11-07T07:24:09.845Z"
   },
   {
@@ -1159,16 +1169,6 @@
    "t": "Was I wrong about open models & cyber risks?",
    "u": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
    "d": "2026-10-30T17:36:56.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
-   "id": "b21e148d4a2d08c1",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "What Robert Caro learned about power after studying it for 50 years",
-   "u": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
-   "d": "2026-10-30T17:18:35.000Z",
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
@@ -3405,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1086 > 1000"
+   "error": "Entity expansion limit exceeded: 1044 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,7 +3433,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3468,21 +3469,22 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
    "ok": false,
-   "error": "HTTP 404"
+   "error": "HTTP 500"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3494,8 +3496,7 @@
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3505,7 +3506,7 @@
   "yt-matthew-berman": {
    "name": "Matthew Berman",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
