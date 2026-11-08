@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-08T01:35:46.914Z",
+ "generated": "2026-11-08T08:11:44.447Z",
  "items": [
+  {
+   "id": "501db8d8b6538e18",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
+   "u": "https://www.techmeme.com/261108/p6#a261108p6",
+   "d": "2026-11-08T07:01:10.000Z",
+   "first": "2026-11-08T08:11:44.447Z"
+  },
+  {
+   "id": "21112be4461a8650",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)",
+   "u": "https://www.techmeme.com/261108/p2#a261108p2",
+   "d": "2026-11-08T06:05:01.000Z",
+   "first": "2026-11-08T08:11:44.447Z"
+  },
+  {
+   "id": "139d885f30c99967",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
+   "u": "https://www.techmeme.com/261107/p18#a261107p18",
+   "d": "2026-11-08T02:45:02.000Z",
+   "first": "2026-11-08T08:11:44.447Z"
+  },
   {
    "id": "6724a2f771cb1b6a",
    "f": "techmeme",
@@ -46,7 +76,7 @@
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "The most important report in AI right now",
+   "t": "12 months to the singularity",
    "u": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
    "d": "2026-11-07T17:28:06.000Z",
    "first": "2026-11-07T18:55:25.507Z"
@@ -102,36 +132,6 @@
    "first": "2026-11-07T18:55:25.507Z"
   },
   {
-   "id": "910e54307b9efac3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Investigation: some Chinese companies approved by the US Commerce Department to handle Nvidia's H200 chips have empty offices and ties to firms under sanctions (New York Times)",
-   "u": "https://www.techmeme.com/261107/p9#a261107p9",
-   "d": "2026-11-07T14:30:04.000Z",
-   "first": "2026-11-07T18:55:25.507Z"
-  },
-  {
-   "id": "3166efe7e4cc7c3b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curriculum overhaul (Sayan Chakraborty/Nikkei Asia)",
-   "u": "https://www.techmeme.com/261107/p8#a261107p8",
-   "d": "2026-11-07T11:40:01.000Z",
-   "first": "2026-11-07T14:14:07.977Z"
-  },
-  {
-   "id": "894a23d39a135ffa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies (Gillian Tett/Financial Times)",
-   "u": "https://www.techmeme.com/261107/p7#a261107p7",
-   "d": "2026-11-07T07:40:01.000Z",
-   "first": "2026-11-07T14:14:07.977Z"
-  },
-  {
    "id": "e38a8d0ecf06a2cc",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -140,16 +140,6 @@
    "u": "https://www.youtube.com/shorts/w3z3Fa7ACt8",
    "d": "2026-11-07T07:36:33.000Z",
    "first": "2026-11-07T14:14:07.977Z"
-  },
-  {
-   "id": "95e8b31bef399e0f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July (Zack Whittaker/TechCrunch)",
-   "u": "https://www.techmeme.com/261107/p5#a261107p5",
-   "d": "2026-11-07T07:01:02.000Z",
-   "first": "2026-11-07T07:24:09.845Z"
   },
   {
    "id": "0761c08a044e8cd4",
@@ -3433,8 +3423,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3451,12 +3440,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1004 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3473,18 +3462,15 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3500,18 +3486,15 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
