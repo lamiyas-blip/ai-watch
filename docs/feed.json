@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-08T15:25:02.551Z",
+ "generated": "2026-11-08T19:48:32.773Z",
  "items": [
+  {
+   "id": "018813981e7c04d0",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "This controls games characters AND robots",
+   "u": "https://www.youtube.com/shorts/jKjir4-HmQI",
+   "d": "2026-11-08T18:30:51.000Z",
+   "first": "2026-11-08T19:48:32.773Z"
+  },
+  {
+   "id": "0da7ddf7a1ffeb86",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb (Alex Eichenstein/The Information)",
+   "u": "https://www.techmeme.com/261108/p10#a261108p10",
+   "d": "2026-11-08T17:45:00.000Z",
+   "first": "2026-11-08T19:48:32.773Z"
+  },
+  {
+   "id": "671bbe766810ef51",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
+   "u": "https://www.techmeme.com/261108/p9#a261108p9",
+   "d": "2026-11-08T16:20:06.000Z",
+   "first": "2026-11-08T19:48:32.773Z"
+  },
   {
    "id": "6963634d83304cfa",
    "f": "techmeme",
@@ -99,16 +129,6 @@
    "t": "12 months to the singularity",
    "u": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
    "d": "2026-11-07T17:28:06.000Z",
-   "first": "2026-11-07T18:55:25.507Z"
-  },
-  {
-   "id": "eb3f887a963748ea",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)",
-   "u": "https://www.techmeme.com/261107/p12#a261107p12",
-   "d": "2026-11-07T17:15:01.000Z",
    "first": "2026-11-07T18:55:25.507Z"
   },
   {
@@ -1040,16 +1060,6 @@
    "u": "https://www.youtube.com/shorts/n8uMYGFhg3U",
    "d": "2026-11-02T08:11:03.000Z",
    "first": "2026-11-02T12:55:38.961Z"
-  },
-  {
-   "id": "69ec2c021a43341c",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Would you be excited to see this at Disneyland?",
-   "u": "https://www.youtube.com/shorts/h5SNFLIZl_U",
-   "d": "2026-11-02T04:16:43.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
   },
   {
    "id": "21159757ab10c73d",
@@ -3423,8 +3433,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
