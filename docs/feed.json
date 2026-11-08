@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-08T19:48:32.773Z",
+ "generated": "2026-11-08T23:14:30.112Z",
  "items": [
+  {
+   "id": "cda777faf1685f59",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
+   "u": "https://www.techmeme.com/261108/p16#a261108p16",
+   "d": "2026-11-08T22:55:01.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "f0b6afa993bc56d7",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Some Memories of Early Anthropic",
+   "u": "https://www.lesswrong.com/posts/9PiLfo6iQbbDWFHv7/some-memories-of-early-anthropic",
+   "d": "2026-11-08T21:51:27.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "265dac0f38cdafee",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261108/p15#a261108p15",
+   "d": "2026-11-08T21:45:03.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "efa20a107ecdbba5",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "u": "https://latent.space/p/cs146s/",
+   "d": "2026-11-08T21:41:44.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "a66d0dcbf429af13",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+   "u": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+   "d": "2026-11-08T21:23:29.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "90d436bf56c3442e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
+   "u": "https://www.techmeme.com/261108/p14#a261108p14",
+   "d": "2026-11-08T20:35:00.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "57d818e938b0318c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+   "u": "https://www.techmeme.com/261108/p13#a261108p13",
+   "d": "2026-11-08T20:25:00.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "d916680a933f1cac",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
+   "u": "https://www.techmeme.com/261108/p12#a261108p12",
+   "d": "2026-11-08T20:10:00.000Z",
+   "first": "2026-11-08T23:14:30.112Z"
+  },
   {
    "id": "018813981e7c04d0",
    "f": "yt-matt-wolfe",
@@ -70,26 +150,6 @@
    "u": "https://www.techmeme.com/261108/p2#a261108p2",
    "d": "2026-11-08T06:05:01.000Z",
    "first": "2026-11-08T08:11:44.447Z"
-  },
-  {
-   "id": "139d885f30c99967",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
-   "u": "https://www.techmeme.com/261107/p18#a261107p18",
-   "d": "2026-11-08T02:45:02.000Z",
-   "first": "2026-11-08T08:11:44.447Z"
-  },
-  {
-   "id": "6724a2f771cb1b6a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
-   "u": "https://www.techmeme.com/261107/p17#a261107p17",
-   "d": "2026-11-08T00:45:01.000Z",
-   "first": "2026-11-08T01:35:46.914Z"
   },
   {
    "id": "e10a44c286cf2093",
@@ -1302,16 +1362,6 @@
    "first": "2026-10-29T00:29:38.175Z"
   },
   {
-   "id": "4c93c0a063d8f224",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Why Agents Love Supabase",
-   "u": "https://latent.space/p/supabase/",
-   "d": "2026-10-28T19:48:05.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
-  },
-  {
    "id": "97aa9361e57c37c7",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1350,16 +1400,6 @@
    "u": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
    "d": "2026-10-28T12:10:55.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "f0eb0bb9fce82d84",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-   "u": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-   "d": "2026-10-28T08:50:30.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
   },
   {
    "id": "cfc0e901d1f52052",
@@ -2382,16 +2422,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "dc66b461c37278ae",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "Frog and Toad and the Increasingly Capable Machines",
-   "u": "https://www.lesswrong.com/posts/7NZ6ZWjenzzCbCJ5b/frog-and-toad-and-the-increasingly-capable-machines",
-   "d": "2026-09-30T18:27:42.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "542656b950fd6a6e",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -3405,7 +3435,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1044 > 1000"
+   "error": "Entity expansion limit exceeded: 1066 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,7 +3463,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
