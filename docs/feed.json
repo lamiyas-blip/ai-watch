@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-08T08:11:44.447Z",
+ "generated": "2026-11-08T15:25:02.551Z",
  "items": [
+  {
+   "id": "6963634d83304cfa",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
+   "u": "https://www.techmeme.com/261108/p8#a261108p8",
+   "d": "2026-11-08T15:05:01.000Z",
+   "first": "2026-11-08T15:25:02.551Z"
+  },
+  {
+   "id": "b7a5a6f25e2321b9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
+   "u": "https://www.techmeme.com/261108/p7#a261108p7",
+   "d": "2026-11-08T11:00:01.000Z",
+   "first": "2026-11-08T15:25:02.551Z"
+  },
   {
    "id": "501db8d8b6538e18",
    "f": "techmeme",
@@ -102,16 +122,6 @@
    "first": "2026-11-07T18:55:25.507Z"
   },
   {
-   "id": "581049a083dc9290",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
-   "u": "https://www.techmeme.com/261107/p11#a261107p11",
-   "d": "2026-11-07T16:35:01.000Z",
-   "first": "2026-11-07T18:55:25.507Z"
-  },
-  {
    "id": "5768805057b018b0",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -119,16 +129,6 @@
    "t": "OpenAI's Astra Just Opened The Black Box Of AI",
    "u": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
    "d": "2026-11-07T16:24:47.000Z",
-   "first": "2026-11-07T18:55:25.507Z"
-  },
-  {
-   "id": "b3a88539287d3e70",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business (Paul Gillin/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261107/p10#a261107p10",
-   "d": "2026-11-07T15:30:01.000Z",
    "first": "2026-11-07T18:55:25.507Z"
   },
   {
@@ -3423,7 +3423,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3440,12 +3441,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1026 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
