@@ -1,25 +1,105 @@
 {
- "generated": "2026-11-09T02:47:23.924Z",
+ "generated": "2026-11-09T10:30:11.908Z",
  "items": [
+  {
+   "id": "9c6e89429af89b66",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)",
+   "u": "https://www.techmeme.com/261109/p9#a261109p9",
+   "d": "2026-11-09T09:50:00.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "77b429ee141af285",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage (Pilita Clark/Financial Times)",
+   "u": "https://www.techmeme.com/261109/p6#a261109p6",
+   "d": "2026-11-09T09:00:13.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "1ba979febabc90f1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M (Globe and Mail)",
+   "u": "https://www.techmeme.com/261109/p5#a261109p5",
+   "d": "2026-11-09T08:46:41.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "db729668547c2e38",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
+   "u": "https://www.techmeme.com/261109/p4#a261109p4",
+   "d": "2026-11-09T06:35:00.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "6264b8444aeb1947",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
+   "u": "https://www.techmeme.com/261109/p2#a261109p2",
+   "d": "2026-11-09T05:15:01.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "e66992bfd5a49c25",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261109/p1#a261109p1",
+   "d": "2026-11-09T05:10:00.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "c16bae872006bc41",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
+   "u": "https://www.techmeme.com/261108/p23#a261108p23",
+   "d": "2026-11-09T04:25:00.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "fc72a59acca7183b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
+   "u": "https://www.techmeme.com/261108/p22#a261108p22",
+   "d": "2026-11-09T04:05:00.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
+  {
+   "id": "82aefc9339308cd9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Tencent Chief AI Scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
+   "u": "https://www.techmeme.com/261108/p21#a261108p21",
+   "d": "2026-11-09T03:15:01.000Z",
+   "first": "2026-11-09T10:30:11.908Z"
+  },
   {
    "id": "72c8d5b7c38ca036",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a \"fine person\" and \"I haven't heard he's done anything wrong\" (Kate Sullivan/Bloomberg)",
+   "t": "President Trump says Jensen Huang should stay on as Nvidia CEO after his affair admission: he is a \"fine person\" and \"I haven't heard he's done anything wrong\" (Kate Sullivan/Bloomberg)",
    "u": "https://www.techmeme.com/261108/p19#a261108p19",
    "d": "2026-11-09T01:40:00.000Z",
    "first": "2026-11-09T02:47:23.924Z"
-  },
-  {
-   "id": "cda777faf1685f59",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
-   "u": "https://www.techmeme.com/261108/p16#a261108p16",
-   "d": "2026-11-08T22:55:01.000Z",
-   "first": "2026-11-08T23:14:30.112Z"
   },
   {
    "id": "f0b6afa993bc56d7",
@@ -29,16 +109,6 @@
    "t": "Some Memories of Early Anthropic",
    "u": "https://www.lesswrong.com/posts/9PiLfo6iQbbDWFHv7/some-memories-of-early-anthropic",
    "d": "2026-11-08T21:51:27.000Z",
-   "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
-   "id": "265dac0f38cdafee",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261108/p15#a261108p15",
-   "d": "2026-11-08T21:45:03.000Z",
    "first": "2026-11-08T23:14:30.112Z"
   },
   {
@@ -62,36 +132,6 @@
    "first": "2026-11-08T23:14:30.112Z"
   },
   {
-   "id": "90d436bf56c3442e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
-   "u": "https://www.techmeme.com/261108/p14#a261108p14",
-   "d": "2026-11-08T20:35:00.000Z",
-   "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
-   "id": "57d818e938b0318c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
-   "u": "https://www.techmeme.com/261108/p13#a261108p13",
-   "d": "2026-11-08T20:25:00.000Z",
-   "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
-   "id": "d916680a933f1cac",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
-   "u": "https://www.techmeme.com/261108/p12#a261108p12",
-   "d": "2026-11-08T20:10:00.000Z",
-   "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
    "id": "018813981e7c04d0",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -100,56 +140,6 @@
    "u": "https://www.youtube.com/shorts/jKjir4-HmQI",
    "d": "2026-11-08T18:30:51.000Z",
    "first": "2026-11-08T19:48:32.773Z"
-  },
-  {
-   "id": "0da7ddf7a1ffeb86",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb (Alex Eichenstein/The Information)",
-   "u": "https://www.techmeme.com/261108/p10#a261108p10",
-   "d": "2026-11-08T17:45:00.000Z",
-   "first": "2026-11-08T19:48:32.773Z"
-  },
-  {
-   "id": "671bbe766810ef51",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
-   "u": "https://www.techmeme.com/261108/p9#a261108p9",
-   "d": "2026-11-08T16:20:06.000Z",
-   "first": "2026-11-08T19:48:32.773Z"
-  },
-  {
-   "id": "6963634d83304cfa",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
-   "u": "https://www.techmeme.com/261108/p8#a261108p8",
-   "d": "2026-11-08T15:05:01.000Z",
-   "first": "2026-11-08T15:25:02.551Z"
-  },
-  {
-   "id": "b7a5a6f25e2321b9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
-   "u": "https://www.techmeme.com/261108/p7#a261108p7",
-   "d": "2026-11-08T11:00:01.000Z",
-   "first": "2026-11-08T15:25:02.551Z"
-  },
-  {
-   "id": "501db8d8b6538e18",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
-   "u": "https://www.techmeme.com/261108/p6#a261108p6",
-   "d": "2026-11-08T07:01:10.000Z",
-   "first": "2026-11-08T08:11:44.447Z"
   },
   {
    "id": "e10a44c286cf2093",
@@ -3435,7 +3425,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1066 > 1000"
+   "error": "Entity expansion limit exceeded: 1020 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3481,7 +3471,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1026 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3499,53 +3489,43 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
