@@ -1,105 +1,205 @@
 {
- "generated": "2026-11-09T10:30:11.908Z",
+ "generated": "2026-11-09T20:57:42.655Z",
  "items": [
   {
-   "id": "9c6e89429af89b66",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)",
-   "u": "https://www.techmeme.com/261109/p9#a261109p9",
-   "d": "2026-11-09T09:50:00.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "id": "f2e607315e456d42",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Robert Moses Ruled New York Without Being Elected - Robert Caro",
+   "u": "https://www.youtube.com/shorts/bkzWrrsRyqA",
+   "d": "2026-11-09T20:37:38.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "77b429ee141af285",
+   "id": "820c5d7c57f40f97",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage (Pilita Clark/Financial Times)",
-   "u": "https://www.techmeme.com/261109/p6#a261109p6",
-   "d": "2026-11-09T09:00:13.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "t": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
+   "u": "https://www.techmeme.com/261109/p40#a261109p40",
+   "d": "2026-11-09T20:00:51.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "1ba979febabc90f1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "8f268cb057f0b61d",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M (Globe and Mail)",
-   "u": "https://www.techmeme.com/261109/p5#a261109p5",
-   "d": "2026-11-09T08:46:41.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "t": "The backlash about data centers might really just be about electricity",
+   "u": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "d": "2026-11-09T19:35:33.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "db729668547c2e38",
+   "id": "f2f68d7f7404ba50",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
-   "u": "https://www.techmeme.com/261109/p4#a261109p4",
-   "d": "2026-11-09T06:35:00.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "t": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
+   "u": "https://www.techmeme.com/261109/p39#a261109p39",
+   "d": "2026-11-09T19:15:01.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "6264b8444aeb1947",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
-   "u": "https://www.techmeme.com/261109/p2#a261109p2",
-   "d": "2026-11-09T05:15:01.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "id": "7df1536587667c86",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Anthropic just dropped the best model ever... (Fable 5.2)",
+   "u": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+   "d": "2026-11-09T19:02:56.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "e66992bfd5a49c25",
+   "id": "ba719061344f7f88",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261109/p1#a261109p1",
-   "d": "2026-11-09T05:10:00.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "t": "Anthropic releases Mythos 5.2 and Fable 5.2, saying they are \"best for the most ambitious, open-ended technical work\", with outputs up to 30% faster than 5.1 (Anthropic)",
+   "u": "https://www.techmeme.com/261109/p38#a261109p38",
+   "d": "2026-11-09T19:02:08.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "c16bae872006bc41",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
-   "u": "https://www.techmeme.com/261108/p23#a261108p23",
-   "d": "2026-11-09T04:25:00.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "id": "628069c68754a919",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "ChatGPT Enterprise now available in AWS Marketplace",
+   "u": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "d": "2026-11-09T19:00:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "fc72a59acca7183b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
-   "u": "https://www.techmeme.com/261108/p22#a261108p22",
-   "d": "2026-11-09T04:05:00.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "id": "f813be69f328d8cb",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Jensen Huang should resign",
+   "u": "https://www.transformernews.ai/p/jensen-huang-should-resign-nvidia-affair-megaspeed",
+   "d": "2026-11-09T18:59:21.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "82aefc9339308cd9",
+   "id": "90bc87fdc5422ad8",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Tencent Chief AI Scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
-   "u": "https://www.techmeme.com/261108/p21#a261108p21",
-   "d": "2026-11-09T03:15:01.000Z",
-   "first": "2026-11-09T10:30:11.908Z"
+   "t": "Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna (Russell Brandom/TechCrunch)",
+   "u": "https://www.techmeme.com/261109/p35#a261109p35",
+   "d": "2026-11-09T18:15:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "72c8d5b7c38ca036",
+   "id": "39ab36457d8637fa",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+   "u": "https://latent.space/p/handshake/",
+   "d": "2026-11-09T17:15:53.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "792d5deaad9c4b86",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "u": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "d": "2026-11-09T17:05:43.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "d9f2360be4a0e265",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "President Trump says Jensen Huang should stay on as Nvidia CEO after his affair admission: he is a \"fine person\" and \"I haven't heard he's done anything wrong\" (Kate Sullivan/Bloomberg)",
-   "u": "https://www.techmeme.com/261108/p19#a261108p19",
-   "d": "2026-11-09T01:40:00.000Z",
-   "first": "2026-11-09T02:47:23.924Z"
+   "t": "Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)",
+   "u": "https://www.techmeme.com/261109/p32#a261109p32",
+   "d": "2026-11-09T16:20:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "9b8bff04bd9faa0f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "In a 60 Minutes interview, Trump says the DOJ threatened a top exec at \"one of the big\" AI companies over \"bad\" activities and this \"person totally changed\" (Stevie Bonifield/The Verge)",
+   "u": "https://www.techmeme.com/261109/p31#a261109p31",
+   "d": "2026-11-09T16:10:02.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "d756bd4641be0ab3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Disney and Adobe sign a multiyear deal to build proprietary \"artist-led\" generative AI models with Adobe Firefly Foundry to support Disney's production pipeline (Jess Weatherbed/The Verge)",
+   "u": "https://www.techmeme.com/261109/p29#a261109p29",
+   "d": "2026-11-09T15:50:01.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "b6a747aceeeb655e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Draft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships (Bloomberg)",
+   "u": "https://www.techmeme.com/261109/p28#a261109p28",
+   "d": "2026-11-09T15:40:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "05ca4b3e2a8c2a51",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Medium launches TK, an AI-powered, minimalist note-taking, journaling, and private social networking app with daily prompts, its first major launch since 2017 (David Pierce/The Verge)",
+   "u": "https://www.techmeme.com/261109/p27#a261109p27",
+   "d": "2026-11-09T15:15:02.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "8062e56304847625",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Innovating with AI in the special chemicals industry",
+   "u": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+   "d": "2026-11-09T13:00:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "35a17e4e180f8ada",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Kuken Industries searches 70 years of drawings in minutes",
+   "u": "https://openai.com/index/kuken",
+   "d": "2026-11-09T08:00:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "e39745b35f37bea2",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "AI R&D accelerates 📈, OpenAI at $1.25T 💰, GitHub’s multiplayer harness 🤖",
+   "u": "https://tldr.tech/ai/2026-11-09",
+   "d": "2026-11-09T00:00:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "f0e5bba164b172c5",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+   "u": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "d": "2026-11-09T00:00:00.000Z",
+   "first": "2026-11-09T20:57:42.655Z"
   },
   {
    "id": "f0b6afa993bc56d7",
@@ -772,16 +872,6 @@
    "first": "2026-11-05T07:04:27.302Z"
   },
   {
-   "id": "b7cda7222b2cd8e1",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "u": "https://openai.com/index/devrev-enterprise-self-service",
-   "d": "2026-11-04T00:00:00.000Z",
-   "first": "2026-11-05T00:04:19.224Z"
-  },
-  {
    "id": "7f9a805057d135f3",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -862,16 +952,6 @@
    "first": "2026-11-03T18:30:09.110Z"
   },
   {
-   "id": "3c6fed3a60eee7be",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "They did it...",
-   "u": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
-   "d": "2026-11-03T16:51:59.000Z",
-   "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
    "id": "581b9c8914dfd795",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -900,16 +980,6 @@
    "u": "https://www.bensbites.com/p/if-you-feel-behind-right-now-dont",
    "d": "2026-11-03T14:03:32.000Z",
    "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
-   "id": "20f89fa0a9ecc137",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Accelerating engineering for the physical world",
-   "u": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "d": "2026-11-03T12:00:00.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "49b3b65c588dd33f",
@@ -1092,16 +1162,6 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "26b6a0d6e8db86e1",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "The agentic web is here",
-   "u": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-   "d": "2026-11-02T09:35:19.000Z",
-   "first": "2026-11-02T12:55:38.961Z"
-  },
-  {
    "id": "7607c197748d93ea",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1202,16 +1262,6 @@
    "first": "2026-10-30T20:55:30.425Z"
   },
   {
-   "id": "491d934c7cffe470",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why Old Buildings Are More Beautiful Than New Ones - Robert Caro",
-   "u": "https://www.youtube.com/shorts/2bMhtD2MuwM",
-   "d": "2026-10-30T18:17:34.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
    "id": "d5baa3051e0b0922",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1302,26 +1352,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "e61223677bf4d10a",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "We urgently need to monitor AI agents’ actions in real time",
-   "u": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-   "d": "2026-10-29T10:11:12.000Z",
-   "first": "2026-10-29T13:24:13.130Z"
-  },
-  {
-   "id": "64137a87bbc9c1f5",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-   "u": "https://latent.space/p/ainews-gemini-4-carbon/",
-   "d": "2026-10-29T05:55:19.000Z",
-   "first": "2026-10-29T06:14:06.343Z"
-  },
-  {
    "id": "68123fbf06c5a0d2",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1340,16 +1370,6 @@
    "u": "https://tldr.tech/ai/2026-10-29",
    "d": "2026-10-29T00:00:00.000Z",
    "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "a3dad553b0a6c852",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Creating AI value with enterprise context",
-   "u": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-   "d": "2026-10-28T20:32:02.000Z",
-   "first": "2026-10-29T00:29:38.175Z"
   },
   {
    "id": "97aa9361e57c37c7",
@@ -1902,16 +1922,6 @@
    "first": "2026-10-19T07:56:55.026Z"
   },
   {
-   "id": "fc438081c2799840",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "DeepSeek’s new Flash ⚡, Replit drops Anthropic 🔄, Anthropic’s workforce 💼",
-   "u": "https://tldr.tech/ai/2026-10-19",
-   "d": "2026-10-19T00:00:00.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
    "id": "54271ffa73c5c138",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2222,16 +2232,6 @@
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
-   "id": "4d05b9b3fda8e202",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
-   "u": "https://www.transformernews.ai/p/yoshua-bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
-   "d": "2026-10-08T14:00:43.000Z",
-   "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
    "id": "3eb5fae03670d233",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -2268,16 +2268,6 @@
    "cat": "Lab",
    "t": "Introducing the Anthropic Cyber Mission",
    "u": "https://www.anthropic.com/news/anthropic-cyber-mission",
-   "d": "2026-10-08T00:00:00.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "b91960833ff3d7cc",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "2026 Usage Policy update",
-   "u": "https://www.anthropic.com/news/2026-usage-policy-update",
    "d": "2026-10-08T00:00:00.000Z",
    "first": "2026-10-08T20:32:04.764Z"
   },
@@ -3471,7 +3461,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

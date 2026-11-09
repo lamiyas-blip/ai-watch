@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "39ab36457d8637fa",
     "efa20a107ecdbba5",
     "a66d0dcbf429af13",
     "0761c08a044e8cd4",
@@ -144,6 +145,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "f813be69f328d8cb",
     "85a382b3e7dc527e",
     "c8877f849b0cc83c",
     "6189fb1c64772633",
@@ -211,6 +213,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "e39745b35f37bea2",
     "514cbb35bb43a9a5",
     "6572c938c173b6f7",
     "4c7f1ed0d32cc87f",
@@ -286,6 +289,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "628069c68754a919",
+    "35a17e4e180f8ada",
     "64f8e1c9d35451ae",
     "4edff2f9b5f24ee3",
     "509c9a680acaf8b0",
@@ -431,6 +436,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "f0e5bba164b172c5",
     "f64c35abba15b399",
     "97d2605547a5eac9",
     "a7e0659ce966832e",
@@ -471,6 +477,15 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "820c5d7c57f40f97",
+    "f2f68d7f7404ba50",
+    "ba719061344f7f88",
+    "90bc87fdc5422ad8",
+    "d9f2360be4a0e265",
+    "9b8bff04bd9faa0f",
+    "d756bd4641be0ab3",
+    "b6a747aceeeb655e",
+    "05ca4b3e2a8c2a51",
     "9c6e89429af89b66",
     "77b429ee141af285",
     "1ba979febabc90f1",
@@ -1061,21 +1076,15 @@
     "517c97863ae1a787",
     "88f980abde4f47ed",
     "fa18063c6f3206f3",
-    "defdf7ff1bba297a",
-    "14a324b29b78d740",
-    "1b9f946636669fb4",
-    "7afc92d4aa2f1ecb",
-    "dd645aa897b862e6",
-    "3d7883b1439fee97",
-    "44353b78af024050",
-    "25a00770cd244c3a",
-    "b439d435538f90df",
-    "42a41086aa47911b"
+    "defdf7ff1bba297a"
    ]
   },
   "mit-tr": {
    "init": true,
    "ids": [
+    "8f268cb057f0b61d",
+    "792d5deaad9c4b86",
+    "8062e56304847625",
     "57d2139dd42a5d7b",
     "d9155f40638a6f86",
     "2be127e84390bfb7",
@@ -1180,6 +1189,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "f2e607315e456d42",
     "e10a44c286cf2093",
     "bff50d92d95a6fb9",
     "30f49388d98061ab",
@@ -1380,6 +1390,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "7df1536587667c86",
     "23c00c36a6eb7eef",
     "a9c209129497b9db",
     "a919bcf6cfc71ef6",
