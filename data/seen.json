@@ -104,6 +104,7 @@
   "ai-snake-oil": {
    "init": true,
    "ids": [
+    "b1b040b4d9e362ee",
     "a4019cf3b9d0d030",
     "07565479b52e0aba",
     "eb9af7714c8e004a",
@@ -126,6 +127,7 @@
   "ai-futures": {
    "init": true,
    "ids": [
+    "4a942fcb8ef5055e",
     "358739b2562e07ab",
     "244b5b45cd6fd1a9",
     "63d0dfd136a7a938",
@@ -215,6 +217,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "3ffb309300277d51",
     "e39745b35f37bea2",
     "514cbb35bb43a9a5",
     "6572c938c173b6f7",
@@ -261,6 +264,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "053df7511bc6032a",
     "956d71ef42ef3fe8",
     "30327fcea24806de",
     "dd87af6b56b4d61e",
@@ -291,7 +295,10 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "29d9c09dd1a8cbc4",
+    "17a4001544cdf2f2",
     "b84c47464ca95349",
+    "78c9fa2283c6ae85",
     "628069c68754a919",
     "42d1fc89c9a70048",
     "bb3ffdb74c4f3234",
@@ -409,6 +416,9 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "ca317efcff9cdce6",
+    "41865a0c677f3b34",
+    "34c9eca71c528830",
     "ff684e536c215fa1",
     "9c7bdf8b4e5b3a0d",
     "afbc629fab805c5d",
@@ -441,6 +451,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "e0deee6550892b85",
     "f0e5bba164b172c5",
     "f64c35abba15b399",
     "97d2605547a5eac9",
@@ -482,6 +493,16 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "3bad3aa0acfe866b",
+    "562fb74604a415e5",
+    "1627eca00f9254e2",
+    "d18c44b3ca4a60d9",
+    "d54350d248737bdf",
+    "3d5e4c67876da83d",
+    "9efe6e2fe2320b71",
+    "d03bcf27ff434f93",
+    "5b0782d1d637d40d",
+    "37d378621218c7ff",
     "22dda59f68bbad51",
     "efc240019a3b9fcd",
     "4d35ea2c2737bca5",
@@ -1071,17 +1092,7 @@
     "ec8c241c3577f527",
     "4ff50a5a0b6efd29",
     "4db552bcbc647e21",
-    "44c5cdaeab9dd393",
-    "1ae0016e83b88d83",
-    "4a9a406f70658ad3",
-    "caf81511a69120b1",
-    "f87724e96579462a",
-    "16cf89dc916d5089",
-    "bfe49ab8fa85a61f",
-    "82d818111d63f14a",
-    "3af97369778c2cf1",
-    "9a1d53873882fcb2",
-    "83508796a6201b6c"
+    "44c5cdaeab9dd393"
    ]
   },
   "mit-tr": {

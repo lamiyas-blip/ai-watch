@@ -1,45 +1,165 @@
 {
- "generated": "2026-11-10T11:26:55.907Z",
+ "generated": "2026-11-10T18:44:14.314Z",
  "items": [
   {
-   "id": "22dda59f68bbad51",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Draft prospectus: Anthropic's IPO is set to raise up to $64.4B, pricing shares at $70 to $78 each; Anthropic will also raise $26B via cornerstone investors (Echo Wang/Reuters)",
-   "u": "https://www.techmeme.com/261110/p10#a261110p10",
-   "d": "2026-11-10T11:20:00.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
+   "id": "b1b040b4d9e362ee",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "The missing quadrant in responses to AI",
+   "u": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
+   "d": "2026-11-10T18:37:42.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "efc240019a3b9fcd",
+   "id": "3bad3aa0acfe866b",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic's Fable 5.2 represents \"Jagged AGI\" that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste (Ethan Mollick/One Useful Thing)",
-   "u": "https://www.techmeme.com/261110/p9#a261110p9",
-   "d": "2026-11-10T11:10:02.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
+   "t": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles (Jay Peters/The Verge)",
+   "u": "https://www.techmeme.com/261110/p39#a261110p39",
+   "d": "2026-11-10T18:25:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "4d35ea2c2737bca5",
+   "id": "562fb74604a415e5",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: Jensen Huang resisted internal Nvidia talks about succession planning, which took place over the years; many of the 10 board members are close to him (New York Times)",
-   "u": "https://www.techmeme.com/261110/p8#a261110p8",
-   "d": "2026-11-10T10:55:02.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
+   "t": "The AI Futures Project updates its AI timelines after METR's report on Anthropic R&D, saying it now expects a Superhuman AI Researcher to arrive in 2027 (AI Futures Project)",
+   "u": "https://www.techmeme.com/261110/p38#a261110p38",
+   "d": "2026-11-10T18:02:13.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "9a0ed7c8aa57995b",
+   "id": "1627eca00f9254e2",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia's corporate docs make no reference to \"succession planning\" (Financial Times)",
-   "u": "https://www.techmeme.com/261110/p7#a261110p7",
-   "d": "2026-11-10T10:40:01.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
+   "t": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
+   "u": "https://www.techmeme.com/261110/p37#a261110p37",
+   "d": "2026-11-10T17:55:01.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "d18c44b3ca4a60d9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft (Shirin Ghaffary/Bloomberg)",
+   "u": "https://www.techmeme.com/261110/p35#a261110p35",
+   "d": "2026-11-10T17:35:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "d54350d248737bdf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "New York Governor Kathy Hochul launches the US' first effort to independently test AI systems and train a new generation of AI safety experts via a new center (Calder McHugh/Politico)",
+   "u": "https://www.techmeme.com/261110/p34#a261110p34",
+   "d": "2026-11-10T17:20:01.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "3d5e4c67876da83d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Updated S-1: Anthropic's seven co-founders will sell $1.75B of stock in next week's IPO, each offering shares worth ~$250M at the midpoint of its IPO range (Dylan Sloan/Bloomberg)",
+   "u": "https://www.techmeme.com/261110/p32#a261110p32",
+   "d": "2026-11-10T17:02:35.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "9efe6e2fe2320b71",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)",
+   "u": "https://www.techmeme.com/261110/p30#a261110p30",
+   "d": "2026-11-10T16:25:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "d03bcf27ff434f93",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)",
+   "u": "https://www.techmeme.com/261110/p29#a261110p29",
+   "d": "2026-11-10T16:20:07.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "4a942fcb8ef5055e",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+   "u": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+   "d": "2026-11-10T16:15:14.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "ca317efcff9cdce6",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini 4 Carbon is now available",
+   "u": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "d": "2026-11-10T16:03:47.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "5b0782d1d637d40d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Goldman Sachs expects Anthropic revenue of ~$52B in 2026 and $600B+ by 2030, operating profit in 2029, and positive free cash flow in 2030 (Financial Times)",
+   "u": "https://www.techmeme.com/261110/p27#a261110p27",
+   "d": "2026-11-10T16:02:28.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "053df7511bc6032a",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "How I got seduced",
+   "u": "https://www.bensbites.com/p/how-i-got-seduced",
+   "d": "2026-11-10T15:35:49.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "37d378621218c7ff",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items (Mia Sato/The Verge)",
+   "u": "https://www.techmeme.com/261110/p26#a261110p26",
+   "d": "2026-11-10T15:25:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "41865a0c677f3b34",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+   "u": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "d": "2026-11-10T12:02:28.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "29d9c09dd1a8cbc4",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Helping caregivers use AI in everyday life",
+   "u": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "d": "2026-11-10T12:00:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
   },
   {
    "id": "ef5264debe3bd00e",
@@ -52,14 +172,14 @@
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
-   "id": "717f771d29b82fa4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "China's trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand (Reuters)",
-   "u": "https://www.techmeme.com/261110/p6#a261110p6",
-   "d": "2026-11-10T09:15:55.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
+   "id": "17a4001544cdf2f2",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing Businesses in ChatGPT",
+   "u": "https://openai.com/index/introducing-businesses-chatgpt",
+   "d": "2026-11-10T10:00:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
   },
   {
    "id": "b84c47464ca95349",
@@ -72,14 +192,14 @@
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
-   "id": "152d3094fa9e6226",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A; FactSet led the Series A (Ryan Lawler/Axios)",
-   "u": "https://www.techmeme.com/261110/p3#a261110p3",
-   "d": "2026-11-10T06:45:01.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
+   "id": "78c9fa2283c6ae85",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Work at the Frontier: AI’s effect on freelance work",
+   "u": "https://openai.com/index/ai-effect-on-freelance-work",
+   "d": "2026-11-10T07:00:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
   },
   {
    "id": "7ee278e9e5331dd4",
@@ -89,16 +209,6 @@
    "t": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
    "u": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
    "d": "2026-11-10T06:34:44.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
-   "id": "90fc834fb9693819",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)",
-   "u": "https://www.techmeme.com/261110/p2#a261110p2",
-   "d": "2026-11-10T06:30:00.000Z",
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
@@ -122,16 +232,6 @@
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
-   "id": "32d3445cc46e0caf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-   "u": "https://www.techmeme.com/261109/p53#a261109p53",
-   "d": "2026-11-10T04:40:00.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
    "id": "6b1979dea70f9e2e",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -139,16 +239,6 @@
    "t": "This Airtaxi is Ready For Primetime!",
    "u": "https://www.youtube.com/shorts/GcFRheDNh5U",
    "d": "2026-11-10T04:29:38.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
-   "id": "3035edc4a9cd940b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure (Mackenzie Hawkins/Bloomberg)",
-   "u": "https://www.techmeme.com/261109/p52#a261109p52",
-   "d": "2026-11-10T04:25:01.000Z",
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
@@ -182,6 +272,26 @@
    "first": "2026-11-10T03:06:20.279Z"
   },
   {
+   "id": "3ffb309300277d51",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Claude Fable 5.2 ✨, Meta Ember 🤖, Google’s new TPUs ⚡",
+   "u": "https://tldr.tech/ai/2026-11-10",
+   "d": "2026-11-10T00:00:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "e0deee6550892b85",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Anthropic launches roadshow for proposed initial public offering",
+   "u": "https://www.anthropic.com/news/roadshow-launch",
+   "d": "2026-11-10T00:00:00.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
    "id": "94dbaaf97d049548",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -200,6 +310,16 @@
    "u": "https://www.youtube.com/shorts/bkzWrrsRyqA",
    "d": "2026-11-09T20:37:38.000Z",
    "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "34c9eca71c528830",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "u": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "d": "2026-11-09T19:51:47.000Z",
+   "first": "2026-11-10T18:44:14.314Z"
   },
   {
    "id": "8f268cb057f0b61d",
@@ -772,16 +892,6 @@
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "51135d73c986a6bc",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Flipsnack grows product signups with conversion optimization",
-   "u": "https://openai.com/ads/customers/flipsnack",
-   "d": "2026-11-05T00:45:15.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
    "id": "6572c938c173b6f7",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -790,16 +900,6 @@
    "u": "https://tldr.tech/ai/2026-11-05",
    "d": "2026-11-05T00:00:00.000Z",
    "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "626efda79851a424",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Franklin Templeton uses OpenAI to support investment research",
-   "u": "https://openai.com/index/franklin-templeton",
-   "d": "2026-11-05T00:00:00.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
   },
   {
    "id": "32409ecdd1881680",
@@ -870,16 +970,6 @@
    "u": "https://news.ycombinator.com/item?id=50366117",
    "d": "2026-11-04T14:37:22.000Z",
    "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "14c1354d7d264bcf",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "OpenAI to acquire Pierre Computer Company, Inc.",
-   "u": "https://openai.com/index/openai-to-acquire-pierre",
-   "d": "2026-11-04T14:30:00.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "2be127e84390bfb7",
@@ -1872,16 +1962,6 @@
    "first": "2026-10-20T14:00:59.631Z"
   },
   {
-   "id": "ea5ab5760446c0c7",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Mercury 3 🤖, MiniMax Flash 3.1 ⚡, Exa 3 🔎",
-   "u": "https://tldr.tech/ai/2026-10-20",
-   "d": "2026-10-20T00:00:00.000Z",
-   "first": "2026-10-20T14:00:59.631Z"
-  },
-  {
    "id": "a4019cf3b9d0d030",
    "f": "ai-snake-oil",
    "src": "AI Snake Oil",
@@ -2282,16 +2362,6 @@
    "first": "2026-10-08T20:32:04.764Z"
   },
   {
-   "id": "16d6c4a116e8d261",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Introducing the Anthropic Cyber Mission",
-   "u": "https://www.anthropic.com/news/anthropic-cyber-mission",
-   "d": "2026-10-08T00:00:00.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
    "id": "d5f20e84815040d4",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -2402,26 +2472,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "2e9748a70d12bca7",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Gemini 4 Argon: our next era of frontier intelligence",
-   "u": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "d": "2026-09-30T20:01:45.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "542656b950fd6a6e",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Introducing SynthID Bio",
-   "u": "https://deepmind.google/blog/introducing-synthid-bio/",
-   "d": "2026-09-30T15:03:07.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "760b0bd76227e5f4",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -2522,16 +2572,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "607b6632f1d8819d",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Introducing Gemini 3.8 Live with Live Avatar",
-   "u": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-   "d": "2026-09-24T16:20:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "5600e693ed0d6d85",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -2559,16 +2599,6 @@
    "t": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
    "u": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
    "d": "2026-09-22T13:37:45.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "ba22c2542c20d8b2",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "What can you build with Jev",
-   "u": "https://www.bensbites.com/p/what-can-you-build-with-jev",
-   "d": "2026-09-22T13:01:13.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3142,16 +3172,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "d1f332e0f91b26e9",
-   "f": "ai-snake-oil",
-   "src": "AI Snake Oil",
-   "cat": "Newsletter",
-   "t": "Fact checking Moravec's paradox",
-   "u": "https://www.normaltech.ai/p/fact-checking-moravecs-paradox",
-   "d": "2026-01-29T22:35:47.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "06f8471b99900c1e",
    "f": "ai-futures",
    "src": "AI Futures Project",
@@ -3259,16 +3279,6 @@
    "t": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
    "u": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
    "d": "2025-11-01T17:39:06.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "a1422a2a5818a5a0",
-   "f": "ai-futures",
-   "src": "AI Futures Project",
-   "cat": "Newsletter",
-   "t": "Scenario Scrutiny for AI Policy",
-   "u": "https://blog.aifutures.org/p/scenario-scrutiny-for-ai-policy",
-   "d": "2025-10-28T20:20:21.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3461,7 +3471,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1028 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
