@@ -3,6 +3,8 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "4cc68995b981ae79",
+    "2c73a09727ca1e76",
     "7ee278e9e5331dd4",
     "39ab36457d8637fa",
     "efa20a107ecdbba5",
@@ -493,6 +495,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "23689090413f62e2",
+    "54045cf92a1ad449",
+    "fe703a10428d4dea",
+    "a4dc71b4d460c6ff",
+    "5aa1af7e31a2a762",
+    "3a0e4c209ddaf428",
+    "4756dbeb462888c3",
+    "2b0307f4c81b22ad",
     "3bad3aa0acfe866b",
     "562fb74604a415e5",
     "1627eca00f9254e2",
@@ -1084,15 +1094,7 @@
     "b9a0c7c605bf645a",
     "d9dbba727f6321a7",
     "f70e6c6aacb53a47",
-    "76f109946494fba8",
-    "dfbe9fd8872e09cb",
-    "83abaeabe6077a3c",
-    "39a97246a73ce90c",
-    "da74e08952dcfef9",
-    "ec8c241c3577f527",
-    "4ff50a5a0b6efd29",
-    "4db552bcbc647e21",
-    "44c5cdaeab9dd393"
+    "76f109946494fba8"
    ]
   },
   "mit-tr": {
@@ -1190,6 +1192,7 @@
   "yt-ai-explained": {
    "init": true,
    "ids": [
+    "2e0d4981f45fbd6c",
     "ad0b0e3719117967",
     "fbff78550db0bc09",
     "6c4aae1257692431",
@@ -1362,6 +1365,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "f2d20dfc778acfdc",
     "6b1979dea70f9e2e",
     "94dbaaf97d049548",
     "018813981e7c04d0",
@@ -1501,6 +1505,9 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "c2de8dd100f47af5",
+    "5b9e091f86631ae1",
+    "d41ffa110d240afa",
     "e34f011bfd81313f",
     "9d2d42780526dc3e",
     "826fdfc5f580923e",

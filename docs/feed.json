@@ -1,6 +1,126 @@
 {
- "generated": "2026-11-10T18:44:14.314Z",
+ "generated": "2026-11-10T23:48:16.722Z",
  "items": [
+  {
+   "id": "23689090413f62e2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K (Lawrence Abrams/BleepingComputer)",
+   "u": "https://www.techmeme.com/261110/p57#a261110p57",
+   "d": "2026-11-10T23:40:01.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "54045cf92a1ad449",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Leaked documents: OpenAI's adjusted operating margin improved from -150% to -109% from Q2 to Q3 (Berber Jin/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261110/p56#a261110p56",
+   "d": "2026-11-10T23:20:03.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "2e0d4981f45fbd6c",
+   "f": "yt-ai-explained",
+   "src": "AI Explained",
+   "cat": "YouTube",
+   "t": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+   "u": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+   "d": "2026-11-10T23:11:36.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "fe703a10428d4dea",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Coframe, which uses AI to make websites that test and personalize themselves for each visitor, raised a $25M Series A, bringing its total funding to $35M (Ben Bergman/Business Insider)",
+   "u": "https://www.techmeme.com/261110/p55#a261110p55",
+   "d": "2026-11-10T22:45:00.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "a4dc71b4d460c6ff",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)",
+   "u": "https://www.techmeme.com/261110/p51#a261110p51",
+   "d": "2026-11-10T21:22:07.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "5aa1af7e31a2a762",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO (Cory Weinberg/New York Times)",
+   "u": "https://www.techmeme.com/261110/p50#a261110p50",
+   "d": "2026-11-10T20:55:05.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "3a0e4c209ddaf428",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures (Shubhangi Goel/Business Insider)",
+   "u": "https://www.techmeme.com/261110/p49#a261110p49",
+   "d": "2026-11-10T20:25:16.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "4cc68995b981ae79",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Designing for Agents — Zeno Rocha, Resend",
+   "u": "https://latent.space/p/resend/",
+   "d": "2026-11-10T20:05:17.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "4756dbeb462888c3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Lawsuit filing: Point72's quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)",
+   "u": "https://www.techmeme.com/261110/p48#a261110p48",
+   "d": "2026-11-10T20:05:01.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "f2d20dfc778acfdc",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "When you give a humanoid roller skates",
+   "u": "https://www.youtube.com/shorts/isqwXApzV5E",
+   "d": "2026-11-10T19:35:17.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "2b0307f4c81b22ad",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia hires former acting US attorney Joon H. Kim and his law firm Wachtell Lipton to conduct a probe into Jensen Huang's affair with an alleged Chinese spy (New York Times)",
+   "u": "https://www.techmeme.com/261110/p43#a261110p43",
+   "d": "2026-11-10T19:25:00.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
+   "id": "2c73a09727ca1e76",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+   "u": "https://latent.space/p/naiveai/",
+   "d": "2026-11-10T18:56:32.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
   {
    "id": "b1b040b4d9e362ee",
    "f": "ai-snake-oil",
@@ -9,86 +129,6 @@
    "t": "The missing quadrant in responses to AI",
    "u": "https://www.normaltech.ai/p/the-missing-quadrant-in-responses",
    "d": "2026-11-10T18:37:42.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "3bad3aa0acfe866b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles (Jay Peters/The Verge)",
-   "u": "https://www.techmeme.com/261110/p39#a261110p39",
-   "d": "2026-11-10T18:25:00.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "562fb74604a415e5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The AI Futures Project updates its AI timelines after METR's report on Anthropic R&D, saying it now expects a Superhuman AI Researcher to arrive in 2027 (AI Futures Project)",
-   "u": "https://www.techmeme.com/261110/p38#a261110p38",
-   "d": "2026-11-10T18:02:13.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "1627eca00f9254e2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
-   "u": "https://www.techmeme.com/261110/p37#a261110p37",
-   "d": "2026-11-10T17:55:01.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "d18c44b3ca4a60d9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic unveils office tools, including a video call assistant, a data dashboard, and spreadsheet service Claude Sheets, in a bid to compete with Microsoft (Shirin Ghaffary/Bloomberg)",
-   "u": "https://www.techmeme.com/261110/p35#a261110p35",
-   "d": "2026-11-10T17:35:00.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "d54350d248737bdf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "New York Governor Kathy Hochul launches the US' first effort to independently test AI systems and train a new generation of AI safety experts via a new center (Calder McHugh/Politico)",
-   "u": "https://www.techmeme.com/261110/p34#a261110p34",
-   "d": "2026-11-10T17:20:01.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "3d5e4c67876da83d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Updated S-1: Anthropic's seven co-founders will sell $1.75B of stock in next week's IPO, each offering shares worth ~$250M at the midpoint of its IPO range (Dylan Sloan/Bloomberg)",
-   "u": "https://www.techmeme.com/261110/p32#a261110p32",
-   "d": "2026-11-10T17:02:35.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "9efe6e2fe2320b71",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)",
-   "u": "https://www.techmeme.com/261110/p30#a261110p30",
-   "d": "2026-11-10T16:25:00.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "d03bcf27ff434f93",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)",
-   "u": "https://www.techmeme.com/261110/p29#a261110p29",
-   "d": "2026-11-10T16:20:07.000Z",
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
@@ -112,16 +152,6 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "5b0782d1d637d40d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Goldman Sachs expects Anthropic revenue of ~$52B in 2026 and $600B+ by 2030, operating profit in 2029, and positive free cash flow in 2030 (Financial Times)",
-   "u": "https://www.techmeme.com/261110/p27#a261110p27",
-   "d": "2026-11-10T16:02:28.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
    "id": "053df7511bc6032a",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -129,16 +159,6 @@
    "t": "How I got seduced",
    "u": "https://www.bensbites.com/p/how-i-got-seduced",
    "d": "2026-11-10T15:35:49.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "37d378621218c7ff",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items (Mia Sato/The Verge)",
-   "u": "https://www.techmeme.com/261110/p26#a261110p26",
-   "d": "2026-11-10T15:25:00.000Z",
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
@@ -160,6 +180,16 @@
    "u": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
    "d": "2026-11-10T12:00:00.000Z",
    "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "c2de8dd100f47af5",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI usage generates a fragile codebase",
+   "u": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "d": "2026-11-10T10:25:58.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
   },
   {
    "id": "ef5264debe3bd00e",
@@ -442,6 +472,16 @@
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
+   "id": "5b9e091f86631ae1",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "I'm not convinced the AI bubble exists",
+   "u": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+   "d": "2026-11-08T23:44:36.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
+  },
+  {
    "id": "f0b6afa993bc56d7",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -470,6 +510,16 @@
    "u": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
    "d": "2026-11-08T21:23:29.000Z",
    "first": "2026-11-08T23:14:30.112Z"
+  },
+  {
+   "id": "d41ffa110d240afa",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "How I'm fighting the AI brain fry",
+   "u": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "d": "2026-11-08T19:37:42.000Z",
+   "first": "2026-11-10T23:48:16.722Z"
   },
   {
    "id": "018813981e7c04d0",
@@ -932,16 +982,6 @@
    "first": "2026-11-05T00:04:19.224Z"
   },
   {
-   "id": "804351599892af8f",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "How I Get Claude To Edit My Videos (Step-By-Step)",
-   "u": "https://www.youtube.com/watch?v=ep4psgAFOqc",
-   "d": "2026-11-04T16:40:16.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "d765d362e2d028eb",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1232,16 +1272,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "b96c1469b0d73809",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-   "u": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-   "d": "2026-11-02T19:27:37.000Z",
-   "first": "2026-11-07T01:22:51.687Z"
-  },
-  {
    "id": "ad0b0e3719117967",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -1262,16 +1292,6 @@
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
-   "id": "64c54614f205d3ed",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-   "u": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "d": "2026-11-02T16:40:29.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
    "id": "38821d25ab6117d0",
    "f": "import-ai",
    "src": "Import AI",
@@ -1280,16 +1300,6 @@
    "u": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
    "d": "2026-11-02T14:30:54.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "528310e8be950d02",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "u": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "d": "2026-11-02T14:02:42.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "aad9889125320c9f",
@@ -1382,16 +1392,6 @@
    "first": "2026-10-31T16:24:51.628Z"
   },
   {
-   "id": "6a25cd2d0b5d046b",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
-   "u": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-   "d": "2026-10-31T05:00:48.000Z",
-   "first": "2026-10-31T05:59:32.623Z"
-  },
-  {
    "id": "8caba023e03f551b",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -1450,16 +1450,6 @@
    "u": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
    "d": "2026-10-30T14:18:30.000Z",
    "first": "2026-11-02T12:55:38.961Z"
-  },
-  {
-   "id": "6f0dcb54cb86132f",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-   "u": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-   "d": "2026-10-30T08:24:29.000Z",
-   "first": "2026-10-30T09:10:25.213Z"
   },
   {
    "id": "9ca270470fc27810",
@@ -2832,16 +2822,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "2dc8b1d3013dec25",
-   "f": "yt-ai-explained",
-   "src": "AI Explained",
-   "cat": "YouTube",
-   "t": "AI is getting a little out of control",
-   "u": "https://www.youtube.com/watch?v=xGzseSSStnw",
-   "d": "2026-08-06T15:02:06.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "ef4f7f1619423cf1",
    "f": "ai-futures",
    "src": "AI Futures Project",
@@ -3425,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1040 > 1000"
+   "error": "Entity expansion limit exceeded: 1144 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3453,8 +3433,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3471,7 +3450,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1028 > 1000"
+   "error": "Entity expansion limit exceeded: 1024 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
