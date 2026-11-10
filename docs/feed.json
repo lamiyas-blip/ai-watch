@@ -1,6 +1,96 @@
 {
- "generated": "2026-11-09T20:57:42.655Z",
+ "generated": "2026-11-10T03:06:20.279Z",
  "items": [
+  {
+   "id": "358739b2562e07ab",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Verified Compute Allocation Disclosures as a Foundational Governance Tool",
+   "u": "https://blog.aifutures.org/p/verified-compute-allocation-disclosures",
+   "d": "2026-11-10T02:27:19.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "8f9b61e2eb163d67",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
+   "u": "https://www.techmeme.com/261109/p48#a261109p48",
+   "d": "2026-11-10T01:41:39.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "a0743988b308ac91",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Fable 5.2 just solved software",
+   "u": "https://www.youtube.com/shorts/oW98tLm7suY",
+   "d": "2026-11-10T00:56:42.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "f206b8031fe7ec6c",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "NOTHING will be smarter than Fable 5.2...",
+   "u": "https://www.youtube.com/watch?v=h76wUNmRqxc",
+   "d": "2026-11-10T00:02:58.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "94dbaaf97d049548",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Anthropic's Fable 5.2 is the World’s Best AI Model",
+   "u": "https://www.youtube.com/watch?v=2TM8W66NI_8",
+   "d": "2026-11-09T23:16:34.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "71b80ed69ccc0c93",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
+   "u": "https://www.techmeme.com/261109/p45#a261109p45",
+   "d": "2026-11-09T23:05:00.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "b2a9bd734309b349",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+   "u": "https://www.techmeme.com/261109/p44#a261109p44",
+   "d": "2026-11-09T22:40:01.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "955ef5a8a10c10c4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
+   "u": "https://www.techmeme.com/261109/p43#a261109p43",
+   "d": "2026-11-09T22:00:35.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
+  {
+   "id": "ad4b698f6b54c6cd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)",
+   "u": "https://www.techmeme.com/261109/p42#a261109p42",
+   "d": "2026-11-09T21:15:14.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
+  },
   {
    "id": "f2e607315e456d42",
    "f": "yt-dwarkesh",
@@ -112,54 +202,14 @@
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "d9f2360be4a0e265",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)",
-   "u": "https://www.techmeme.com/261109/p32#a261109p32",
-   "d": "2026-11-09T16:20:00.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "9b8bff04bd9faa0f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "In a 60 Minutes interview, Trump says the DOJ threatened a top exec at \"one of the big\" AI companies over \"bad\" activities and this \"person totally changed\" (Stevie Bonifield/The Verge)",
-   "u": "https://www.techmeme.com/261109/p31#a261109p31",
-   "d": "2026-11-09T16:10:02.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "d756bd4641be0ab3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Disney and Adobe sign a multiyear deal to build proprietary \"artist-led\" generative AI models with Adobe Firefly Foundry to support Disney's production pipeline (Jess Weatherbed/The Verge)",
-   "u": "https://www.techmeme.com/261109/p29#a261109p29",
-   "d": "2026-11-09T15:50:01.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "b6a747aceeeb655e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Draft law: the EU's Digital Fairness Act would require companies to let adults disable addictive features and will target AI systems that simulate relationships (Bloomberg)",
-   "u": "https://www.techmeme.com/261109/p28#a261109p28",
-   "d": "2026-11-09T15:40:00.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "05ca4b3e2a8c2a51",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Medium launches TK, an AI-powered, minimalist note-taking, journaling, and private social networking app with daily prompts, its first major launch since 2017 (David Pierce/The Verge)",
-   "u": "https://www.techmeme.com/261109/p27#a261109p27",
-   "d": "2026-11-09T15:15:02.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
+   "id": "42d1fc89c9a70048",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "u": "https://openai.com/index/control-room",
+   "d": "2026-11-09T13:00:00.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
   },
   {
    "id": "8062e56304847625",
@@ -170,6 +220,16 @@
    "u": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
    "d": "2026-11-09T13:00:00.000Z",
    "first": "2026-11-09T20:57:42.655Z"
+  },
+  {
+   "id": "bb3ffdb74c4f3234",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "CodeRabbit scales agentic software development and ships 20x more",
+   "u": "https://openai.com/index/coderabbit-codex-daybreak",
+   "d": "2026-11-09T08:00:00.000Z",
+   "first": "2026-11-10T03:06:20.279Z"
   },
   {
    "id": "35a17e4e180f8ada",
@@ -712,16 +772,6 @@
    "first": "2026-11-05T00:04:19.224Z"
   },
   {
-   "id": "a503eb4ef43de171",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "The most important paper in AI right now",
-   "u": "https://www.youtube.com/watch?v=j09uV1oAuIo",
-   "d": "2026-11-04T17:09:34.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "804351599892af8f",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -822,16 +872,6 @@
    "first": "2026-11-05T00:04:19.224Z"
   },
   {
-   "id": "4e96f1207657de0e",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Daybreak Red is now available in AWS GovCloud (US-East)",
-   "u": "https://openai.com/index/daybreak-red-aws-govcloud",
-   "d": "2026-11-04T07:00:00.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "bbaca1868b7d81f6",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -860,16 +900,6 @@
    "u": "https://tldr.tech/ai/2026-11-04",
    "d": "2026-11-04T00:00:00.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "8b61562f41bb4c92",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing Images 2.6",
-   "u": "https://openai.com/index/introducing-images-2-6",
-   "d": "2026-11-04T00:00:00.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
   },
   {
    "id": "7f9a805057d135f3",
@@ -1030,16 +1060,6 @@
    "u": "https://tldr.tech/ai/2026-11-03",
    "d": "2026-11-03T00:00:00.000Z",
    "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
-   "id": "ed1a8a4aa9a6136e",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Generate Worlds in Real-Time (Free & Open Source)",
-   "u": "https://www.youtube.com/shorts/lZes3U_WIug",
-   "d": "2026-11-02T23:12:03.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "3343515469e2c296",
@@ -1750,16 +1770,6 @@
    "u": "https://thezvi.substack.com/p/misaligned",
    "d": "2026-10-21T22:24:38.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "5ef08555cd8313cd",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "they’re shutting it DOWN",
-   "u": "https://www.youtube.com/watch?v=ehcBwqyUGjo",
-   "d": "2026-10-21T20:47:18.000Z",
-   "first": "2026-10-21T22:32:23.894Z"
   },
   {
    "id": "334aa381d3c24d71",
@@ -3262,16 +3272,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "70b37466a4da752f",
-   "f": "ai-futures",
-   "src": "AI Futures Project",
-   "cat": "Newsletter",
-   "t": "How an AI company CEO could quietly take over the world",
-   "u": "https://blog.aifutures.org/p/how-an-ai-company-ceo-could-quietly",
-   "d": "2025-10-21T16:21:38.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "83dab750bb5950aa",
    "f": "yt-yannic",
    "src": "Yannic Kilcher",
@@ -3415,7 +3415,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1020 > 1000"
+   "error": "Entity expansion limit exceeded: 1128 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3461,7 +3461,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1002 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

@@ -125,6 +125,7 @@
   "ai-futures": {
    "init": true,
    "ids": [
+    "358739b2562e07ab",
     "244b5b45cd6fd1a9",
     "63d0dfd136a7a938",
     "ef4f7f1619423cf1",
@@ -290,6 +291,8 @@
    "init": true,
    "ids": [
     "628069c68754a919",
+    "42d1fc89c9a70048",
+    "bb3ffdb74c4f3234",
     "35a17e4e180f8ada",
     "64f8e1c9d35451ae",
     "4edff2f9b5f24ee3",
@@ -477,6 +480,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "8f9b61e2eb163d67",
+    "71b80ed69ccc0c93",
+    "b2a9bd734309b349",
+    "955ef5a8a10c10c4",
+    "ad4b698f6b54c6cd",
     "820c5d7c57f40f97",
     "f2f68d7f7404ba50",
     "ba719061344f7f88",
@@ -1071,12 +1079,7 @@
     "e07725226bdde022",
     "2b598984c70ebb99",
     "b8e8958b169f19e4",
-    "8c0f81fcb0c68d19",
-    "d0446f1e3ad2eb6a",
-    "517c97863ae1a787",
-    "88f980abde4f47ed",
-    "fa18063c6f3206f3",
-    "defdf7ff1bba297a"
+    "8c0f81fcb0c68d19"
    ]
   },
   "mit-tr": {
@@ -1343,6 +1346,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "94dbaaf97d049548",
     "018813981e7c04d0",
     "2247dd5fa4010f42",
     "e38a8d0ecf06a2cc",
@@ -1390,6 +1394,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "a0743988b308ac91",
     "7df1536587667c86",
     "23c00c36a6eb7eef",
     "a9c209129497b9db",
@@ -1452,6 +1457,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "f206b8031fe7ec6c",
     "cd846410c5fc87e5",
     "ca4022d35cdc0a9d",
     "cb34f49e7e502c24",
