@@ -1,6 +1,156 @@
 {
- "generated": "2026-11-10T03:06:20.279Z",
+ "generated": "2026-11-10T11:26:55.907Z",
  "items": [
+  {
+   "id": "22dda59f68bbad51",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Draft prospectus: Anthropic's IPO is set to raise up to $64.4B, pricing shares at $70 to $78 each; Anthropic will also raise $26B via cornerstone investors (Echo Wang/Reuters)",
+   "u": "https://www.techmeme.com/261110/p10#a261110p10",
+   "d": "2026-11-10T11:20:00.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "efc240019a3b9fcd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic's Fable 5.2 represents \"Jagged AGI\" that matches human expert levels on select tasks like game design, but lacks self-directed judgment and taste (Ethan Mollick/One Useful Thing)",
+   "u": "https://www.techmeme.com/261110/p9#a261110p9",
+   "d": "2026-11-10T11:10:02.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "4d35ea2c2737bca5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Jensen Huang resisted internal Nvidia talks about succession planning, which took place over the years; many of the 10 board members are close to him (New York Times)",
+   "u": "https://www.techmeme.com/261110/p8#a261110p8",
+   "d": "2026-11-10T10:55:02.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "9a0ed7c8aa57995b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia board member and ex-Cooley CEO Stephen C Neal will probably lead the probe; Nvidia's corporate docs make no reference to \"succession planning\" (Financial Times)",
+   "u": "https://www.techmeme.com/261110/p7#a261110p7",
+   "d": "2026-11-10T10:40:01.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "ef5264debe3bd00e",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Is Software Over?",
+   "u": "https://www.youtube.com/watch?v=vug73goPJaM",
+   "d": "2026-11-10T10:15:57.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "717f771d29b82fa4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "China's trade surplus hit $1.04T in the first 10 months of 2026, topping $1T for a second year in a row, as AI-driven tech exports offset weak domestic demand (Reuters)",
+   "u": "https://www.techmeme.com/261110/p6#a261110p6",
+   "d": "2026-11-10T09:15:55.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "b84c47464ca95349",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Closing the AI guidance gap in education",
+   "u": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "d": "2026-11-10T09:00:00.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "152d3094fa9e6226",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A; FactSet led the Series A (Ryan Lawler/Axios)",
+   "u": "https://www.techmeme.com/261110/p3#a261110p3",
+   "d": "2026-11-10T06:45:01.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "7ee278e9e5331dd4",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+   "u": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+   "d": "2026-11-10T06:34:44.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "90fc834fb9693819",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)",
+   "u": "https://www.techmeme.com/261110/p2#a261110p2",
+   "d": "2026-11-10T06:30:00.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "00a2233f6c091648",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Something Finally Was at Stake (Tom Froese)",
+   "u": "https://www.youtube.com/shorts/N-onb680PEI",
+   "d": "2026-11-10T05:33:49.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "5f3f4d8c6a5b5900",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "I Told Taxi Drivers Not to Worry (Tom Froese)",
+   "u": "https://www.youtube.com/shorts/GCGaQj-FAo8",
+   "d": "2026-11-10T05:15:00.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "32d3445cc46e0caf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+   "u": "https://www.techmeme.com/261109/p53#a261109p53",
+   "d": "2026-11-10T04:40:00.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "6b1979dea70f9e2e",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "This Airtaxi is Ready For Primetime!",
+   "u": "https://www.youtube.com/shorts/GcFRheDNh5U",
+   "d": "2026-11-10T04:29:38.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
+  {
+   "id": "3035edc4a9cd940b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: Nvidia's 2025 figures to the US government undercounted chips sold to Megaspeed via partners by 50K; Nvidia did not give Bloomberg an exact figure (Mackenzie Hawkins/Bloomberg)",
+   "u": "https://www.techmeme.com/261109/p52#a261109p52",
+   "d": "2026-11-10T04:25:01.000Z",
+   "first": "2026-11-10T11:26:55.907Z"
+  },
   {
    "id": "358739b2562e07ab",
    "f": "ai-futures",
@@ -9,16 +159,6 @@
    "t": "Verified Compute Allocation Disclosures as a Foundational Governance Tool",
    "u": "https://blog.aifutures.org/p/verified-compute-allocation-disclosures",
    "d": "2026-11-10T02:27:19.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
-   "id": "8f9b61e2eb163d67",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Emails: Anthropic sent bankers a copy of its IPO filing showing plans to raise up to ~$69B, then followed up saying the pricing details were inaccurate (Echo Wang/Reuters)",
-   "u": "https://www.techmeme.com/261109/p48#a261109p48",
-   "d": "2026-11-10T01:41:39.000Z",
    "first": "2026-11-10T03:06:20.279Z"
   },
   {
@@ -52,46 +192,6 @@
    "first": "2026-11-10T03:06:20.279Z"
   },
   {
-   "id": "71b80ed69ccc0c93",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
-   "u": "https://www.techmeme.com/261109/p45#a261109p45",
-   "d": "2026-11-09T23:05:00.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
-   "id": "b2a9bd734309b349",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
-   "u": "https://www.techmeme.com/261109/p44#a261109p44",
-   "d": "2026-11-09T22:40:01.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
-   "id": "955ef5a8a10c10c4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
-   "u": "https://www.techmeme.com/261109/p43#a261109p43",
-   "d": "2026-11-09T22:00:35.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
-   "id": "ad4b698f6b54c6cd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)",
-   "u": "https://www.techmeme.com/261109/p42#a261109p42",
-   "d": "2026-11-09T21:15:14.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
    "id": "f2e607315e456d42",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -99,16 +199,6 @@
    "t": "How Robert Moses Ruled New York Without Being Elected - Robert Caro",
    "u": "https://www.youtube.com/shorts/bkzWrrsRyqA",
    "d": "2026-11-09T20:37:38.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "820c5d7c57f40f97",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
-   "u": "https://www.techmeme.com/261109/p40#a261109p40",
-   "d": "2026-11-09T20:00:51.000Z",
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
@@ -122,33 +212,13 @@
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "f2f68d7f7404ba50",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
-   "u": "https://www.techmeme.com/261109/p39#a261109p39",
-   "d": "2026-11-09T19:15:01.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
    "id": "7df1536587667c86",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "Anthropic just dropped the best model ever... (Fable 5.2)",
+   "t": "Fable 5.2 is ridiculous",
    "u": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
    "d": "2026-11-09T19:02:56.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "ba719061344f7f88",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic releases Mythos 5.2 and Fable 5.2, saying they are \"best for the most ambitious, open-ended technical work\", with outputs up to 30% faster than 5.1 (Anthropic)",
-   "u": "https://www.techmeme.com/261109/p38#a261109p38",
-   "d": "2026-11-09T19:02:08.000Z",
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
@@ -169,16 +239,6 @@
    "t": "Jensen Huang should resign",
    "u": "https://www.transformernews.ai/p/jensen-huang-should-resign-nvidia-affair-megaspeed",
    "d": "2026-11-09T18:59:21.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "90bc87fdc5422ad8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna (Russell Brandom/TechCrunch)",
-   "u": "https://www.techmeme.com/261109/p35#a261109p35",
-   "d": "2026-11-09T18:15:00.000Z",
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
@@ -862,16 +922,6 @@
    "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "fbc672c4c3fb4250",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "A thousand fewer paths to root",
-   "u": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "d": "2026-11-04T08:00:00.000Z",
-   "first": "2026-11-05T00:04:19.224Z"
-  },
-  {
    "id": "bbaca1868b7d81f6",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -920,16 +970,6 @@
    "u": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
    "d": "2026-11-03T21:26:44.000Z",
    "first": "2026-11-04T03:35:59.122Z"
-  },
-  {
-   "id": "2ca3d6cd36a5e145",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "A real-life speeder bike from Return of the Jedi (Not AI)",
-   "u": "https://www.youtube.com/shorts/PRAY_SewRxI",
-   "d": "2026-11-03T20:51:24.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
   },
   {
    "id": "e905d2fc36c25bf2",
@@ -1342,16 +1382,6 @@
    "first": "2026-10-30T16:03:52.904Z"
   },
   {
-   "id": "d1643c8e4030cd5d",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-   "u": "https://latent.space/p/elorian/",
-   "d": "2026-10-29T16:00:00.000Z",
-   "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
    "id": "dd87af6b56b4d61e",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -1459,26 +1489,6 @@
    "t": "Here's how to build ANYTHING with AI...",
    "u": "https://www.youtube.com/watch?v=6-sMVePCKS4",
    "d": "2026-10-28T07:36:56.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
-   "id": "3286061ffaa16882",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Nobody Had Actually Read It (Kevin Buzzard)",
-   "u": "https://www.youtube.com/shorts/eeVmSP9fL0c",
-   "d": "2026-10-28T05:27:08.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
-   "id": "4ef2224ab827e921",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "The Annals Published It. It Wasn't True. - Kevin Buzzard",
-   "u": "https://www.youtube.com/shorts/Melgii34x-c",
-   "d": "2026-10-28T00:47:40.000Z",
    "first": "2026-10-28T08:47:45.290Z"
   },
   {
@@ -2280,16 +2290,6 @@
    "u": "https://www.anthropic.com/news/anthropic-cyber-mission",
    "d": "2026-10-08T00:00:00.000Z",
    "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "1e3e07a1e7ea433e",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "DeepMind's New AI Just Cracked The Code Of Life",
-   "u": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-   "d": "2026-10-07T13:29:33.000Z",
-   "first": "2026-10-07T16:44:22.968Z"
   },
   {
    "id": "d5f20e84815040d4",
@@ -3415,7 +3415,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1128 > 1000"
+   "error": "Entity expansion limit exceeded: 1040 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3461,7 +3461,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1002 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
