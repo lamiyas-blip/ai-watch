@@ -1,6 +1,66 @@
 {
- "generated": "2026-11-10T23:48:16.722Z",
+ "generated": "2026-11-11T03:26:29.403Z",
  "items": [
+  {
+   "id": "06d865af2307d2a9",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Gilbert + Tobin rethinks the business of law with AI",
+   "u": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "d": "2026-11-12T00:00:00.000Z",
+   "first": "2026-11-11T03:26:29.403Z"
+  },
+  {
+   "id": "20c6ea822f8d552c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing (Jenny Lee/CNBC)",
+   "u": "https://www.techmeme.com/261110/p63#a261110p63",
+   "d": "2026-11-11T02:30:01.000Z",
+   "first": "2026-11-11T03:26:29.403Z"
+  },
+  {
+   "id": "ee40d022de1d9713",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An analysis of the tech job market in late 2026: product managers seem to be benefiting most in the AI era, demand for engineers is plateauing, and more (Lenny Rachitsky/Lenny's Newsletter)",
+   "u": "https://www.techmeme.com/261110/p61#a261110p61",
+   "d": "2026-11-11T01:10:00.000Z",
+   "first": "2026-11-11T03:26:29.403Z"
+  },
+  {
+   "id": "2cf596b940065069",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic's bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more (Financial Times)",
+   "u": "https://www.techmeme.com/261110/p60#a261110p60",
+   "d": "2026-11-11T00:45:01.000Z",
+   "first": "2026-11-11T03:26:29.403Z"
+  },
+  {
+   "id": "3238bd069601b82e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more (Jake Roach/Tom's Hardware)",
+   "u": "https://www.techmeme.com/261110/p59#a261110p59",
+   "d": "2026-11-11T00:25:01.000Z",
+   "first": "2026-11-11T03:26:29.403Z"
+  },
+  {
+   "id": "f1eac51bd7f0919c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261110/p58#a261110p58",
+   "d": "2026-11-11T00:00:53.000Z",
+   "first": "2026-11-11T03:26:29.403Z"
+  },
   {
    "id": "23689090413f62e2",
    "f": "techmeme",
@@ -62,16 +122,6 @@
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
-   "id": "3a0e4c209ddaf428",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across docs, videos, and images, raised a $35M Series A led by RRE Ventures (Shubhangi Goel/Business Insider)",
-   "u": "https://www.techmeme.com/261110/p49#a261110p49",
-   "d": "2026-11-10T20:25:16.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
    "id": "4cc68995b981ae79",
    "f": "latent-space",
    "src": "Latent Space",
@@ -82,16 +132,6 @@
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
-   "id": "4756dbeb462888c3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Lawsuit filing: Point72's quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)",
-   "u": "https://www.techmeme.com/261110/p48#a261110p48",
-   "d": "2026-11-10T20:05:01.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
    "id": "f2d20dfc778acfdc",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -99,16 +139,6 @@
    "t": "When you give a humanoid roller skates",
    "u": "https://www.youtube.com/shorts/isqwXApzV5E",
    "d": "2026-11-10T19:35:17.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
-   "id": "2b0307f4c81b22ad",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia hires former acting US attorney Joon H. Kim and his law firm Wachtell Lipton to conduct a probe into Jensen Huang's affair with an alleged Chinese spy (New York Times)",
-   "u": "https://www.techmeme.com/261110/p43#a261110p43",
-   "d": "2026-11-10T19:25:00.000Z",
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
@@ -920,16 +950,6 @@
    "u": "https://latent.space/p/ainews-it-s-swapping-season/",
    "d": "2026-11-05T06:24:09.000Z",
    "first": "2026-11-05T07:04:27.302Z"
-  },
-  {
-   "id": "665f885e6c6486c7",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Setting a new standard for responsible AI infrastructure",
-   "u": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "d": "2026-11-05T02:00:00.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "135cafe6b353e68c",
@@ -3433,7 +3453,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3464,7 +3485,8 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3472,7 +3494,8 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3480,11 +3503,13 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3496,15 +3521,18 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
