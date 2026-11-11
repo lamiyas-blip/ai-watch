@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T03:26:29.403Z",
+ "generated": "2026-11-11T11:17:12.740Z",
  "items": [
   {
    "id": "06d865af2307d2a9",
@@ -12,74 +12,154 @@
    "first": "2026-11-11T03:26:29.403Z"
   },
   {
-   "id": "20c6ea822f8d552c",
+   "id": "48f0bf5ce250daa9",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing (Jenny Lee/CNBC)",
-   "u": "https://www.techmeme.com/261110/p63#a261110p63",
-   "d": "2026-11-11T02:30:01.000Z",
-   "first": "2026-11-11T03:26:29.403Z"
+   "t": "Analysis: AI-driven e-commerce adoption surged during China's month-long Singles Day festival, with event sales rising 2.4% between October 7 and October 31 (Reuters)",
+   "u": "https://www.techmeme.com/261111/p12#a261111p12",
+   "d": "2026-11-11T11:01:35.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "ee40d022de1d9713",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An analysis of the tech job market in late 2026: product managers seem to be benefiting most in the AI era, demand for engineers is plateauing, and more (Lenny Rachitsky/Lenny's Newsletter)",
-   "u": "https://www.techmeme.com/261110/p61#a261110p61",
-   "d": "2026-11-11T01:10:00.000Z",
-   "first": "2026-11-11T03:26:29.403Z"
+   "id": "97d0610f04169c0b",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "NVIDIA CEO AFFAIR, Fable 5.2, Gemini Carbon, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
+   "u": "https://www.youtube.com/watch?v=FCmLuTENOp0",
+   "d": "2026-11-11T11:00:25.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "2cf596b940065069",
+   "id": "533e97a02c3e36fe",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: Anthropic's bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more (Financial Times)",
-   "u": "https://www.techmeme.com/261110/p60#a261110p60",
-   "d": "2026-11-11T00:45:01.000Z",
-   "first": "2026-11-11T03:26:29.403Z"
+   "t": "England's university regulator says AI makes grading coursework \"close to impossible\" and recommends a return to \"AI-free assessment\" methods like written exams (Richard Adams/The Guardian)",
+   "u": "https://www.techmeme.com/261111/p10#a261111p10",
+   "d": "2026-11-11T10:38:23.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "3238bd069601b82e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more (Jake Roach/Tom's Hardware)",
-   "u": "https://www.techmeme.com/261110/p59#a261110p59",
-   "d": "2026-11-11T00:25:01.000Z",
-   "first": "2026-11-11T03:26:29.403Z"
+   "id": "d6261e570d50d1c0",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+   "u": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+   "d": "2026-11-11T09:34:28.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "f1eac51bd7f0919c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "NY-based Daylight, which provides AI-powered managed security, raised an $80M Series B led by Goldman Sachs Alternatives, sources say at a ~$400M valuation (Maria Armental/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261110/p58#a261110p58",
-   "d": "2026-11-11T00:00:53.000Z",
-   "first": "2026-11-11T03:26:29.403Z"
+   "id": "1a2a3b28f021d315",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
+   "u": "https://www.youtube.com/shorts/qD3FrUgkVII",
+   "d": "2026-11-11T08:21:36.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "23689090413f62e2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "In a report, Railway says it believes the October hack targeted AI provider keys for resale, and unauthorized spend on the stolen keys was estimated at ~$740K (Lawrence Abrams/BleepingComputer)",
-   "u": "https://www.techmeme.com/261110/p57#a261110p57",
-   "d": "2026-11-10T23:40:01.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
+   "id": "5079495eac4cf07d",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Random Code Starts Copying Itself (Blaise Agüera y Arcas)",
+   "u": "https://www.youtube.com/shorts/WyHxyBrKhaQ",
+   "d": "2026-11-11T08:13:17.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "54045cf92a1ad449",
+   "id": "3ce818553b06fe4d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "ChatGPT Plus for veterans and servicemembers",
+   "u": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "d": "2026-11-11T08:00:00.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "eb86cdf6bfd59839",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Leaked documents: OpenAI's adjusted operating margin improved from -150% to -109% from Q2 to Q3 (Berber Jin/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261110/p56#a261110p56",
-   "d": "2026-11-10T23:20:03.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
+   "t": "VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones (Jaron Lanier/New York Times)",
+   "u": "https://www.techmeme.com/261111/p9#a261111p9",
+   "d": "2026-11-11T07:50:21.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "75d48abe2b6df153",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "What software provides when AI bypasses the interface",
+   "u": "https://www.youtube.com/shorts/ZBJV-hA-tLM",
+   "d": "2026-11-11T07:33:33.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "3868edbbbd65a217",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
+   "u": "https://www.techmeme.com/261111/p7#a261111p7",
+   "d": "2026-11-11T07:10:01.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "764747ee80d5fadf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Records: China's Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia's H200 AI chips despite being on a US export blacklist (Eduardo Baptista/Reuters)",
+   "u": "https://www.techmeme.com/261111/p4#a261111p4",
+   "d": "2026-11-11T06:15:02.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "a9bee59a364eac56",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Fable 5.2 Is Quite Insane!",
+   "u": "https://www.youtube.com/shorts/Mt54ez7xsiI",
+   "d": "2026-11-11T04:59:41.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "5b38e600ae75b6a3",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+   "u": "https://latent.space/p/codex-work/",
+   "d": "2026-11-11T04:49:48.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "26c61f949021871f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday, after Jensen Huang admitted to an affair with Alice Huang, an alleged Chinese spy (April Roach/CNBC)",
+   "u": "https://www.techmeme.com/261110/p66#a261110p66",
+   "d": "2026-11-11T04:45:01.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
+   "id": "97e10f0c5f0ac7b8",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "AI made Box features obsolete before launch",
+   "u": "https://www.youtube.com/shorts/L2acYRMzig8",
+   "d": "2026-11-10T23:57:13.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
    "id": "2e0d4981f45fbd6c",
@@ -92,34 +172,14 @@
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
-   "id": "fe703a10428d4dea",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "a3cd723d71246186",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Coframe, which uses AI to make websites that test and personalize themselves for each visitor, raised a $25M Series A, bringing its total funding to $35M (Ben Bergman/Business Insider)",
-   "u": "https://www.techmeme.com/261110/p55#a261110p55",
-   "d": "2026-11-10T22:45:00.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
-   "id": "a4dc71b4d460c6ff",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)",
-   "u": "https://www.techmeme.com/261110/p51#a261110p51",
-   "d": "2026-11-10T21:22:07.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
-   "id": "5aa1af7e31a2a762",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO (Cory Weinberg/New York Times)",
-   "u": "https://www.techmeme.com/261110/p50#a261110p50",
-   "d": "2026-11-10T20:55:05.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
+   "t": "Apple has new Mac app coming to make running local AI models easy",
+   "u": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "d": "2026-11-10T21:25:03.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
    "id": "4cc68995b981ae79",
@@ -252,6 +312,16 @@
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
+   "id": "8ec86951b8ad7577",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "u": "https://openai.com/index/singapore-airlines-travel-work",
+   "d": "2026-11-10T08:00:00.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
+  },
+  {
    "id": "78c9fa2283c6ae85",
    "f": "openai-news",
    "src": "OpenAI",
@@ -340,6 +410,16 @@
    "u": "https://tldr.tech/ai/2026-11-10",
    "d": "2026-11-10T00:00:00.000Z",
    "first": "2026-11-10T18:44:14.314Z"
+  },
+  {
+   "id": "88e76f2d28a1c51d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "u": "https://openai.com/index/cogent-security",
+   "d": "2026-11-10T00:00:00.000Z",
+   "first": "2026-11-11T11:17:12.740Z"
   },
   {
    "id": "e0deee6550892b85",
@@ -832,16 +912,6 @@
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
-   "id": "d87a7d06de9b99b5",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "A 4B AI model that creates 3D game assets",
-   "u": "https://www.youtube.com/shorts/hu1YDJZYGTc",
-   "d": "2026-11-05T20:32:08.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
    "id": "509c9a680acaf8b0",
    "f": "openai-news",
    "src": "OpenAI",
@@ -850,16 +920,6 @@
    "u": "https://openai.com/index/cultfit-builds-with-codex",
    "d": "2026-11-05T20:00:00.000Z",
    "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
-   "id": "8028035ced7f9680",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "What will people REALLY use these for?",
-   "u": "https://www.youtube.com/shorts/hniPlxcQ7X4",
-   "d": "2026-11-05T19:07:54.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
   },
   {
    "id": "5daef2902dd7f4af",
@@ -879,26 +939,6 @@
    "t": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
    "u": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
    "d": "2026-11-05T17:05:16.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "651338d0d1b8c4a4",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Australian universities are creating AI-native graduates",
-   "u": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "d": "2026-11-05T17:00:00.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
-   "id": "81f10925f162eab9",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Kimi K3.1 weights OUT, open source computer use, SOTA image model, science model, Pika H3: AI NEWS",
-   "u": "https://www.youtube.com/watch?v=-M62vWrZh54",
-   "d": "2026-11-05T16:51:09.000Z",
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
@@ -922,26 +962,6 @@
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "167e755fe52bac22",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "u": "https://openai.com/index/introducing-gpt-6-cyber",
-   "d": "2026-11-05T09:00:00.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
-  },
-  {
-   "id": "c9b9c3d9f122dc06",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Merge builds product and business tools with OpenAI technology",
-   "u": "https://openai.com/index/merge-builds-with-openai",
-   "d": "2026-11-05T08:00:00.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
    "id": "088f297c11a649ef",
    "f": "latent-space",
    "src": "Latent Space",
@@ -950,16 +970,6 @@
    "u": "https://latent.space/p/ainews-it-s-swapping-season/",
    "d": "2026-11-05T06:24:09.000Z",
    "first": "2026-11-05T07:04:27.302Z"
-  },
-  {
-   "id": "135cafe6b353e68c",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "I built my own PDF reader to replace Adobe Acrobat",
-   "u": "https://www.youtube.com/shorts/t8-RG3ju_Ao",
-   "d": "2026-11-05T01:33:35.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "6572c938c173b6f7",
@@ -1182,16 +1192,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "31a7ffef996d7dbd",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Google will turn off search for schools that reject AI",
-   "u": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-   "d": "2026-11-03T15:25:47.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
    "id": "30327fcea24806de",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -1259,16 +1259,6 @@
    "t": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
    "u": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
    "d": "2026-11-02T23:01:02.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
-  },
-  {
-   "id": "cdb3c2724fc29c00",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-   "u": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
-   "d": "2026-11-02T22:54:03.000Z",
    "first": "2026-11-03T03:18:47.788Z"
   },
   {
@@ -1400,16 +1390,6 @@
    "u": "https://www.youtube.com/watch?v=WhA2iNfzytY",
    "d": "2026-11-01T07:54:54.000Z",
    "first": "2026-11-01T09:28:01.327Z"
-  },
-  {
-   "id": "2b84ab40d0f2e0fd",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-   "u": "https://latent.space/p/arca/",
-   "d": "2026-10-31T16:05:00.000Z",
-   "first": "2026-10-31T16:24:51.628Z"
   },
   {
    "id": "8caba023e03f551b",
@@ -1560,26 +1540,6 @@
    "u": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
    "d": "2026-10-28T12:10:55.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "cfc0e901d1f52052",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "We're the Ones Having the Debate (Jeremy Avigad)",
-   "u": "https://www.youtube.com/shorts/IcXN7ysaqrc",
-   "d": "2026-10-28T08:26:23.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
-  },
-  {
-   "id": "6b957d13cfb0fabd",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "When It Doesn't Matter That It's Slop (Paul Lessard)",
-   "u": "https://www.youtube.com/shorts/_9axenbT-1I",
-   "d": "2026-10-28T07:51:47.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
   },
   {
    "id": "0630364f37a4cc96",
@@ -3425,7 +3385,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1144 > 1000"
+   "error": "Entity expansion limit exceeded: 1156 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3453,8 +3413,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3471,7 +3430,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1024 > 1000"
+   "error": "Entity expansion limit exceeded: 1058 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3485,8 +3444,7 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3494,8 +3452,7 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
@@ -3503,13 +3460,11 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
@@ -3521,18 +3476,15 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
