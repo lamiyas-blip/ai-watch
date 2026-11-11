@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T11:17:12.740Z",
+ "generated": "2026-11-11T18:47:17.666Z",
  "items": [
   {
    "id": "06d865af2307d2a9",
@@ -12,33 +12,163 @@
    "first": "2026-11-11T03:26:29.403Z"
   },
   {
-   "id": "48f0bf5ce250daa9",
+   "id": "7a29a5b41d21b6a4",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Analysis: AI-driven e-commerce adoption surged during China's month-long Singles Day festival, with event sales rising 2.4% between October 7 and October 31 (Reuters)",
-   "u": "https://www.techmeme.com/261111/p12#a261111p12",
-   "d": "2026-11-11T11:01:35.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
+   "t": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261111/p39#a261111p39",
+   "d": "2026-11-11T18:40:01.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "cec87db79d3ddc57",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows (Nick Clegg/The Atlantic)",
+   "u": "https://www.techmeme.com/261111/p38#a261111p38",
+   "d": "2026-11-11T18:30:00.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "67514f8539e31016",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Hugging Face appears to be hosting a load of models that could be used for cyber attacks",
+   "u": "https://www.transformernews.ai/p/hugging-face-appears-to-be-hosting",
+   "d": "2026-11-11T18:00:36.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "95487c8af6e1eaa8",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "He Built an AI System That Runs His Entire Business",
+   "u": "https://www.youtube.com/watch?v=pvl3z_GyU2Y",
+   "d": "2026-11-11T16:00:07.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "1983d9971d94ce98",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)",
+   "u": "https://www.techmeme.com/261111/p33#a261111p33",
+   "d": "2026-11-11T15:21:00.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "047e2955783a8e48",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed (Tim Fernholz/TechCrunch)",
+   "u": "https://www.techmeme.com/261111/p31#a261111p31",
+   "d": "2026-11-11T15:05:56.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "ba79006827423413",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "The New Ring Camera Flies Around Your House",
+   "u": "https://www.youtube.com/shorts/Xtb3Pua0e8s",
+   "d": "2026-11-11T15:00:23.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "d1194824432ded60",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "d": "2026-11-11T15:00:15.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "b92933efd0116fec",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation (Morgan Chittum/Fortune)",
+   "u": "https://www.techmeme.com/261111/p30#a261111p30",
+   "d": "2026-11-11T14:40:02.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "638ae9b3db3740d7",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Three Months After You Build the Harness (Edward Hughes)",
+   "u": "https://www.youtube.com/shorts/g_n55IXQU20",
+   "d": "2026-11-11T14:15:21.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "de14e5cfd95194db",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "LLMs Cosplay Understanding (Jeremy Howard)",
+   "u": "https://www.youtube.com/shorts/BnA4i_vjcV4",
+   "d": "2026-11-11T13:50:12.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "5bf70286420b6cfc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic's IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg)",
+   "u": "https://www.techmeme.com/261111/p27#a261111p27",
+   "d": "2026-11-11T13:40:01.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "470b885731bfa0dc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Salt Lake City-based energy storage startup Torus raised a $500M Series C led by Magnetar to build shipping container-sized AI data centers at 1MW to 20MW sizes (Mark Chediak/Bloomberg)",
+   "u": "https://www.techmeme.com/261111/p26#a261111p26",
+   "d": "2026-11-11T13:25:02.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "384dcacd5c565ca3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "London-based AI chip startup Fractile raised $720M from Thrive, Founders Fund, and others, sources say at a $7B post-money valuation, up from ~$1.1B in May (George Hammond/Financial Times)",
+   "u": "https://www.techmeme.com/261111/p25#a261111p25",
+   "d": "2026-11-11T13:20:56.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "dcd9fe220f111cc9",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "u": "https://pietromiotti.com/latest/maya-site/?maya",
+   "d": "2026-11-11T12:05:22.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
   },
   {
    "id": "97d0610f04169c0b",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "NVIDIA CEO AFFAIR, Fable 5.2, Gemini Carbon, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
+   "t": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
    "u": "https://www.youtube.com/watch?v=FCmLuTENOp0",
    "d": "2026-11-11T11:00:25.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
-   "id": "533e97a02c3e36fe",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "England's university regulator says AI makes grading coursework \"close to impossible\" and recommends a return to \"AI-free assessment\" methods like written exams (Richard Adams/The Guardian)",
-   "u": "https://www.techmeme.com/261111/p10#a261111p10",
-   "d": "2026-11-11T10:38:23.000Z",
    "first": "2026-11-11T11:17:12.740Z"
   },
   {
@@ -82,16 +212,6 @@
    "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "eb86cdf6bfd59839",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones (Jaron Lanier/New York Times)",
-   "u": "https://www.techmeme.com/261111/p9#a261111p9",
-   "d": "2026-11-11T07:50:21.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
    "id": "75d48abe2b6df153",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -99,26 +219,6 @@
    "t": "What software provides when AI bypasses the interface",
    "u": "https://www.youtube.com/shorts/ZBJV-hA-tLM",
    "d": "2026-11-11T07:33:33.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
-   "id": "3868edbbbd65a217",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
-   "u": "https://www.techmeme.com/261111/p7#a261111p7",
-   "d": "2026-11-11T07:10:01.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
-   "id": "764747ee80d5fadf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Records: China's Northwestern Polytechnical University, which has close PLA ties, has access to Nvidia's H200 AI chips despite being on a US export blacklist (Eduardo Baptista/Reuters)",
-   "u": "https://www.techmeme.com/261111/p4#a261111p4",
-   "d": "2026-11-11T06:15:02.000Z",
    "first": "2026-11-11T11:17:12.740Z"
   },
   {
@@ -142,14 +242,24 @@
    "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "26c61f949021871f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia's stock fell 5.47% on Tuesday, following a 4%+ drop on Monday, after Jensen Huang admitted to an affair with Alice Huang, an alleged Chinese spy (April Roach/CNBC)",
-   "u": "https://www.techmeme.com/261110/p66#a261110p66",
-   "d": "2026-11-11T04:45:01.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
+   "id": "51b824b05ad94a48",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Gemini 4 Carbon ⚡, Claude Sheets 📊, Antigravity Swarm 🤖",
+   "u": "https://tldr.tech/ai/2026-11-11",
+   "d": "2026-11-11T00:00:00.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "69f2710e5c141e8f",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "JioStar’s chief architect on AI discovery at 500M-user scale",
+   "u": "https://openai.com/index/jiostar-vijay-seshadri",
+   "d": "2026-11-11T00:00:00.000Z",
+   "first": "2026-11-11T18:47:17.666Z"
   },
   {
    "id": "97e10f0c5f0ac7b8",
@@ -702,16 +812,6 @@
    "first": "2026-11-07T18:55:25.507Z"
   },
   {
-   "id": "e38a8d0ecf06a2cc",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "That is Some Crazy Fabric",
-   "u": "https://www.youtube.com/shorts/w3z3Fa7ACt8",
-   "d": "2026-11-07T07:36:33.000Z",
-   "first": "2026-11-07T14:14:07.977Z"
-  },
-  {
    "id": "0761c08a044e8cd4",
    "f": "latent-space",
    "src": "Latent Space",
@@ -730,16 +830,6 @@
    "u": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "d": "2026-11-06T20:27:23.000Z",
    "first": "2026-11-07T07:24:09.845Z"
-  },
-  {
-   "id": "e17c211faa71052e",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "AI News: New ChatGPT & Google Models (14 Updates Worth Knowing)",
-   "u": "https://www.youtube.com/watch?v=IrAHINf0M6E",
-   "d": "2026-11-06T18:20:31.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
   },
   {
    "id": "85a382b3e7dc527e",
@@ -912,16 +1002,6 @@
    "first": "2026-11-05T21:37:57.374Z"
   },
   {
-   "id": "509c9a680acaf8b0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Cult.fit builds operational muscle with Codex",
-   "u": "https://openai.com/index/cultfit-builds-with-codex",
-   "d": "2026-11-05T20:00:00.000Z",
-   "first": "2026-11-06T01:51:25.929Z"
-  },
-  {
    "id": "5daef2902dd7f4af",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -1092,16 +1172,6 @@
    "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "9a282a6304e71cda",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Minecraft Doesn't Know What It's Running On (Joscha Bach)",
-   "u": "https://www.youtube.com/shorts/ZhftAOXJACM",
-   "d": "2026-11-04T02:53:57.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
-  },
-  {
    "id": "4c7f1ed0d32cc87f",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1160,16 +1230,6 @@
    "u": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
    "d": "2026-11-03T18:11:11.000Z",
    "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "f0946027db6f81b0",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "u": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "d": "2026-11-03T17:22:37.000Z",
-   "first": "2026-11-03T23:34:59.002Z"
   },
   {
    "id": "9c7bdf8b4e5b3a0d",
@@ -1340,16 +1400,6 @@
    "u": "https://www.youtube.com/shorts/n8uMYGFhg3U",
    "d": "2026-11-02T08:11:03.000Z",
    "first": "2026-11-02T12:55:38.961Z"
-  },
-  {
-   "id": "21159757ab10c73d",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Why Consciousness Might Not Be Hard At All (Joscha Bach)",
-   "u": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
-   "d": "2026-11-02T03:04:11.000Z",
-   "first": "2026-11-02T04:39:09.860Z"
   },
   {
    "id": "e1ab35eebbcb17e5",
@@ -1862,16 +1912,6 @@
    "first": "2026-10-21T15:26:00.387Z"
   },
   {
-   "id": "69f691302f7266b6",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "DeepSeek DeepInfer 🐋, PyTorch on TPUs ⚡, Ramp’s agent framework 👨‍💻",
-   "u": "https://tldr.tech/ai/2026-10-21",
-   "d": "2026-10-21T00:00:00.000Z",
-   "first": "2026-10-21T15:26:00.387Z"
-  },
-  {
    "id": "b5ed299d1f3ceca0",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2282,16 +2322,6 @@
    "first": "2026-10-09T23:21:33.597Z"
   },
   {
-   "id": "5382e312923b42b9",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Democrats prepare to battle over AI regulation",
-   "u": "https://www.transformernews.ai/p/democrats-prepare-to-battle-over-ai-regulation",
-   "d": "2026-10-09T14:34:34.000Z",
-   "first": "2026-10-09T19:08:51.363Z"
-  },
-  {
    "id": "2f0ed1d996b06fdf",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2330,16 +2360,6 @@
    "u": "https://www.anthropic.com/news/genesis-mission-commitment",
    "d": "2026-10-08T00:00:00.000Z",
    "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
-   "id": "d5f20e84815040d4",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-   "u": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-   "d": "2026-10-06T19:57:04.000Z",
-   "first": "2026-10-06T23:07:58.959Z"
   },
   {
    "id": "dea9ad28e543d6ef",
@@ -3385,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1156 > 1000"
+   "error": "Entity expansion limit exceeded: 1187 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3430,7 +3450,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1058 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
