@@ -1,115 +1,155 @@
 {
- "generated": "2026-11-12T16:58:30.450Z",
+ "generated": "2026-11-12T22:33:40.050Z",
  "items": [
   {
-   "id": "af94ee260fe55c51",
+   "id": "cbaaff76268679c5",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
-   "u": "https://www.techmeme.com/261112/p43#a261112p43",
-   "d": "2026-11-12T16:45:33.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "Analysis of open weights: six models from DeepSeek, Moonshot, MiniMax, and Ant Group released since April carry fingerprints of export-controlled Blackwell GPUs (Will DePue/Unemployment Labs)",
+   "u": "https://www.techmeme.com/261112/p62#a261112p62",
+   "d": "2026-11-12T22:30:04.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "0f86f3dd058e5ef1",
+   "id": "c2df1d17a1dd48a1",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "US officials: multiple US DOJ probes threaten to sweep up Nvidia, including one focused on antitrust grounds and two focused on Megaspeed and Supermicro (Rohan Goswami/Semafor)",
-   "u": "https://www.techmeme.com/261112/p42#a261112p42",
-   "d": "2026-11-12T16:40:46.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)",
+   "u": "https://www.techmeme.com/261112/p60#a261112p60",
+   "d": "2026-11-12T22:15:00.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "0d385d68b1f2371c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Staff email: interim Nvidia CEO Colette Kress cites \"an extraordinarily difficult period\" and sets a meeting to \"hear more from leadership\" on November 18 (Terrence O'Brien/The Verge)",
-   "u": "https://www.techmeme.com/261112/p39#a261112p39",
-   "d": "2026-11-12T16:15:01.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "id": "54cc43a62c8af1e2",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Anthropic Researcher explains how to train LLMs",
+   "u": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
+   "d": "2026-11-12T22:09:15.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "217d905e7df2a97d",
+   "id": "ee87dc545631755d",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "President Trump says Tim Cook is the \"only one man\" to take Jensen Huang's place as Nvidia CEO, adding \"A Legend replaces a Legend!\" (Zac Hall/9to5Mac)",
-   "u": "https://www.techmeme.com/261112/p38#a261112p38",
-   "d": "2026-11-12T16:05:00.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "Sources: OpenAI confirmed to lawmakers this week that it would support a bipartisan effort in Congress to curb China's access to AI chips and chipmaking tools (Bloomberg)",
+   "u": "https://www.techmeme.com/261112/p59#a261112p59",
+   "d": "2026-11-12T22:05:29.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "53bfb6b08bd9b1dd",
+   "id": "39dae6071bd84213",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: firms tied to Alice Huang recently invested in DeepSeek, to forge closer ties and supply Nvidia's Blackwell chips, which are banned from sale to China (The Information)",
-   "u": "https://www.techmeme.com/261112/p37#a261112p37",
-   "d": "2026-11-12T15:35:02.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)",
+   "u": "https://www.techmeme.com/261112/p55#a261112p55",
+   "d": "2026-11-12T21:20:01.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "95579341eb6399fb",
+   "id": "2dfd2f64b6310b31",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "LangChain, which aims to help large companies build and deploy their own AI agents, raised $300M led by CapitalG at a $3B valuation, up from $1.25B in 2025 (Belle Lin/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261112/p35#a261112p35",
-   "d": "2026-11-12T15:25:41.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its revenue (Grace Kay/New York Times)",
+   "u": "https://www.techmeme.com/261112/p54#a261112p54",
+   "d": "2026-11-12T21:15:04.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "14b2606f12c2b82c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia dropped 14% at Thursday's open after Jensen Huang resigned, erasing $600B+ in value and taking its market cap below $4T for the first time since 2025 (Bloomberg)",
-   "u": "https://www.techmeme.com/261112/p34#a261112p34",
-   "d": "2026-11-12T15:00:33.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "id": "2a79bfdfde3634cb",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "MASSIVE AI Shake-Up That Changes Everything",
+   "u": "https://www.youtube.com/shorts/iTe0IB5Ugf8",
+   "d": "2026-11-12T20:32:27.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "324d4191cd498d15",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "25e0a791d0613edc",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to AI giant; born in Taiwan, he moved to the US at 10 and owns 3.6% of Nvidia (Amrith Ramkumar/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261112/p33#a261112p33",
-   "d": "2026-11-12T14:50:00.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "u": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "d": "2026-11-12T20:16:24.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "7c06159a4b9b9b9d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)",
-   "u": "https://www.techmeme.com/261112/p32#a261112p32",
-   "d": "2026-11-12T14:40:36.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "id": "4a3751c5f6d6b24c",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "u": "https://openai.com/index/amplitude",
+   "d": "2026-11-12T20:00:00.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "31af8e8abfa90b82",
+   "id": "3ca16b6fcb55eaa0",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A profile of interim Nvidia CEO Colette Kress, who joined in 2013 after working at Cisco and Microsoft; as CFO, Kress criticized US export controls on China (Adam Satariano/New York Times)",
-   "u": "https://www.techmeme.com/261112/p31#a261112p31",
-   "d": "2026-11-12T14:30:02.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers (Google Antigravity)",
+   "u": "https://www.techmeme.com/261112/p49#a261112p49",
+   "d": "2026-11-12T19:30:00.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "6321b347dfc0dfe2",
+   "id": "8625ec018dbd091e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Nvidia appoints ex-Synopsys CEO Harvey C. Jones as its first-ever board chair; the board's Jensen Huang exit press release does not include a quote from Huang (Hayden Field/The Verge)",
-   "u": "https://www.techmeme.com/261112/p29#a261112p29",
-   "d": "2026-11-12T14:25:37.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
+   "t": "Sources: senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out in the wake of the Nvidia spy scandal (Reuters)",
+   "u": "https://www.techmeme.com/261112/p48#a261112p48",
+   "d": "2026-11-12T19:20:04.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
+  },
+  {
+   "id": "864de779b0661804",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Nvidia and the World Without Jensen",
+   "u": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+   "d": "2026-11-12T18:06:26.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
+  },
+  {
+   "id": "6e24c667c1c5261b",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Cheaper AI can lead to more spending",
+   "u": "https://www.youtube.com/shorts/G11-Vmw7-PQ",
+   "d": "2026-11-12T18:01:24.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
+  },
+  {
+   "id": "18178629795c8e5b",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing Gemini 4 Hydrogen",
+   "u": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "d": "2026-11-12T18:00:50.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
+  },
+  {
+   "id": "f97b342022e282f8",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "How to automate your photo library",
+   "u": "https://www.youtube.com/shorts/IehCboBcYsA",
+   "d": "2026-11-12T17:20:42.000Z",
+   "first": "2026-11-12T22:33:40.050Z"
   },
   {
    "id": "8822d9b6d06a11b8",
@@ -306,7 +346,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "He Built an AI System That Runs His Entire Business",
+   "t": "How To Build An AI Operating System For Your Life",
    "u": "https://www.youtube.com/watch?v=pvl3z_GyU2Y",
    "d": "2026-11-11T16:00:07.000Z",
    "first": "2026-11-11T18:47:17.666Z"
@@ -742,16 +782,6 @@
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "7df1536587667c86",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Fable 5.2 is ridiculous",
-   "u": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
-   "d": "2026-11-09T19:02:56.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
    "id": "628069c68754a919",
    "f": "openai-news",
    "src": "OpenAI",
@@ -820,16 +850,6 @@
    "u": "https://openai.com/index/coderabbit-codex-daybreak",
    "d": "2026-11-09T08:00:00.000Z",
    "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
-   "id": "35a17e4e180f8ada",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Kuken Industries searches 70 years of drawings in minutes",
-   "u": "https://openai.com/index/kuken",
-   "d": "2026-11-09T08:00:00.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
   },
   {
    "id": "e39745b35f37bea2",
@@ -902,16 +922,6 @@
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
-   "id": "018813981e7c04d0",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "This controls games characters AND robots",
-   "u": "https://www.youtube.com/shorts/jKjir4-HmQI",
-   "d": "2026-11-08T18:30:51.000Z",
-   "first": "2026-11-08T19:48:32.773Z"
-  },
-  {
    "id": "e10a44c286cf2093",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -940,26 +950,6 @@
    "u": "https://hunch.net/?p=13764006",
    "d": "2026-11-07T18:02:17.000Z",
    "first": "2026-11-07T22:24:40.413Z"
-  },
-  {
-   "id": "23c00c36a6eb7eef",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "12 months to the singularity",
-   "u": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
-   "d": "2026-11-07T17:28:06.000Z",
-   "first": "2026-11-07T18:55:25.507Z"
-  },
-  {
-   "id": "2247dd5fa4010f42",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Claude Code Just Called My Phone",
-   "u": "https://www.youtube.com/shorts/A5SfzBD6M3o",
-   "d": "2026-11-07T17:00:37.000Z",
-   "first": "2026-11-07T18:55:25.507Z"
   },
   {
    "id": "5768805057b018b0",
@@ -1449,16 +1439,6 @@
    "t": "The AI Power List",
    "u": "https://www.transformernews.ai/p/ai-power-list-new-york-magazine",
    "d": "2026-11-02T13:53:28.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "20b620ec9a089980",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Stop counting tokens, start counting what ships",
-   "u": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-   "d": "2026-11-02T13:10:32.000Z",
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
@@ -2272,16 +2252,6 @@
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
-   "id": "e807158022f7267e",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Gemini 4 Argon: Built to solve your hardest problems",
-   "u": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-   "d": "2026-10-13T16:01:52.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
    "id": "2e00db65cefd8432",
    "f": "transformer",
    "src": "Transformer",
@@ -2599,16 +2569,6 @@
    "t": "Opus 5.5: How Close Are We to Automated AI Research?",
    "u": "https://www.youtube.com/watch?v=R9momwXV9w4",
    "d": "2026-09-24T22:51:54.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "8a7cf5569302f71e",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns",
-   "u": "https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard",
-   "d": "2026-09-23T21:20:29.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3480,7 +3440,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1016 > 1000"
+   "error": "Entity expansion limit exceeded: 1004 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
