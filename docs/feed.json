@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-11T18:47:17.666Z",
+ "generated": "2026-11-12T01:07:39.100Z",
  "items": [
+  {
+   "id": "90ba0414e2c41069",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)",
+   "u": "https://www.techmeme.com/261111/p48#a261111p48",
+   "d": "2026-11-12T00:15:00.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "bd2a104a01449115",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Robert Moses Got Everything Built - Robert Caro",
+   "u": "https://www.youtube.com/shorts/3eMnUYkvbJg",
+   "d": "2026-11-12T00:00:15.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
   {
    "id": "06d865af2307d2a9",
    "f": "openai-news",
@@ -10,6 +30,86 @@
    "u": "https://openai.com/index/gilbert-tobin-sam-nickless",
    "d": "2026-11-12T00:00:00.000Z",
    "first": "2026-11-11T03:26:29.403Z"
+  },
+  {
+   "id": "ac8a53377050d117",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 (Axios)",
+   "u": "https://www.techmeme.com/261111/p46#a261111p46",
+   "d": "2026-11-11T23:20:05.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "388bb089b9636ae1",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "AMA with me and the team!",
+   "u": "https://www.youtube.com/watch?v=LFzBzzHZESE",
+   "d": "2026-11-11T22:52:54.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "d8334c4b9623439a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia's board is preparing to oust Jensen Huang and is meeting on Wednesday to determine his future; NVDA drops 7%+ after hours (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261111/p44#a261111p44",
+   "d": "2026-11-11T22:32:14.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "43788abb57facc09",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company (New York Times)",
+   "u": "https://www.techmeme.com/261111/p43#a261111p43",
+   "d": "2026-11-11T22:03:12.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "b4a3bc0107db7108",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "u": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "d": "2026-11-11T21:24:35.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "3d54300afa2f6f8d",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "AlexNet Should Never Have Worked (Simon Prince)",
+   "u": "https://www.youtube.com/shorts/ssD05l4UxmY",
+   "d": "2026-11-11T21:04:44.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "0d8c246f3692a07e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+   "u": "https://www.techmeme.com/261111/p41#a261111p41",
+   "d": "2026-11-11T20:25:00.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "5a0c93b118aa4da6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)",
+   "u": "https://www.techmeme.com/261111/p40#a261111p40",
+   "d": "2026-11-11T19:05:00.000Z",
+   "first": "2026-11-12T01:07:39.100Z"
   },
   {
    "id": "7a29a5b41d21b6a4",
@@ -52,26 +152,6 @@
    "first": "2026-11-11T18:47:17.666Z"
   },
   {
-   "id": "1983d9971d94ce98",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform optimized for AI agents, emerges from stealth with $70M across Series A and seed (Tim Keary/Forbes)",
-   "u": "https://www.techmeme.com/261111/p33#a261111p33",
-   "d": "2026-11-11T15:21:00.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
-   "id": "047e2955783a8e48",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed (Tim Fernholz/TechCrunch)",
-   "u": "https://www.techmeme.com/261111/p31#a261111p31",
-   "d": "2026-11-11T15:05:56.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
    "id": "ba79006827423413",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -89,16 +169,6 @@
    "t": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
    "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
    "d": "2026-11-11T15:00:15.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
-   "id": "b92933efd0116fec",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation (Morgan Chittum/Fortune)",
-   "u": "https://www.techmeme.com/261111/p30#a261111p30",
-   "d": "2026-11-11T14:40:02.000Z",
    "first": "2026-11-11T18:47:17.666Z"
   },
   {
@@ -122,42 +192,12 @@
    "first": "2026-11-11T18:47:17.666Z"
   },
   {
-   "id": "5bf70286420b6cfc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic's IPO draws multiple times the orders for the shares available; a source says Dario Amodei and Jamie Dimon have a livestream event on Friday (Bailey Lipschultz/Bloomberg)",
-   "u": "https://www.techmeme.com/261111/p27#a261111p27",
-   "d": "2026-11-11T13:40:01.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
-   "id": "470b885731bfa0dc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Salt Lake City-based energy storage startup Torus raised a $500M Series C led by Magnetar to build shipping container-sized AI data centers at 1MW to 20MW sizes (Mark Chediak/Bloomberg)",
-   "u": "https://www.techmeme.com/261111/p26#a261111p26",
-   "d": "2026-11-11T13:25:02.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
-   "id": "384dcacd5c565ca3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "London-based AI chip startup Fractile raised $720M from Thrive, Founders Fund, and others, sources say at a $7B post-money valuation, up from ~$1.1B in May (George Hammond/Financial Times)",
-   "u": "https://www.techmeme.com/261111/p25#a261111p25",
-   "d": "2026-11-11T13:20:56.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
    "id": "dcd9fe220f111cc9",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-   "u": "https://pietromiotti.com/latest/maya-site/?maya",
+   "t": "My AI agents found an unmapped Maya site?",
+   "u": "https://pietromiotti.com/latest/maya-site",
    "d": "2026-11-11T12:05:22.000Z",
    "first": "2026-11-11T18:47:17.666Z"
   },
@@ -952,16 +992,6 @@
    "first": "2026-11-06T08:39:12.558Z"
   },
   {
-   "id": "a919bcf6cfc71ef6",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "AI identified Breakout from 17,253 numbers",
-   "u": "https://www.youtube.com/shorts/F4i_-wbmhC8",
-   "d": "2026-11-06T00:32:37.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
    "id": "514cbb35bb43a9a5",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1162,16 +1192,6 @@
    "first": "2026-11-04T11:40:06.831Z"
   },
   {
-   "id": "bbaca1868b7d81f6",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Simulated Water Can't Make You Wet (Joscha Bach)",
-   "u": "https://www.youtube.com/shorts/TA9-RgnLZrs",
-   "d": "2026-11-04T04:39:59.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
-  },
-  {
    "id": "4c7f1ed0d32cc87f",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1220,16 +1240,6 @@
    "u": "https://www.youtube.com/shorts/paOOAJS5Omk",
    "d": "2026-11-03T20:25:36.000Z",
    "first": "2026-11-04T11:40:06.831Z"
-  },
-  {
-   "id": "09bfa9028ea27928",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "How I use AI (Oct 2026)",
-   "u": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-   "d": "2026-11-03T18:11:11.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "9c7bdf8b4e5b3a0d",
@@ -1390,16 +1400,6 @@
    "u": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
    "d": "2026-11-02T13:10:32.000Z",
    "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "7607c197748d93ea",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Japan Accidentally Helped Kill the Tsar - Sarah Paine",
-   "u": "https://www.youtube.com/shorts/n8uMYGFhg3U",
-   "d": "2026-11-02T08:11:03.000Z",
-   "first": "2026-11-02T12:55:38.961Z"
   },
   {
    "id": "e1ab35eebbcb17e5",
@@ -3405,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1187 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3450,7 +3450,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1008 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",

@@ -505,6 +505,12 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "90ba0414e2c41069",
+    "ac8a53377050d117",
+    "d8334c4b9623439a",
+    "43788abb57facc09",
+    "0d8c246f3692a07e",
+    "5a0c93b118aa4da6",
     "7a29a5b41d21b6a4",
     "cec87db79d3ddc57",
     "1983d9971d94ce98",
@@ -1098,13 +1104,7 @@
     "02f69ddd2134dcda",
     "25b237f633f2a8d4",
     "ad42c103890ce23e",
-    "0610d0fad6423c7c",
-    "324baae6f455ce3f",
-    "fd3ff1c617f0260d",
-    "60759c572fd802d0",
-    "573448efed80c6fc",
-    "e8dceaef3fd25ce1",
-    "62d631e594055328"
+    "0610d0fad6423c7c"
    ]
   },
   "mit-tr": {
@@ -1218,6 +1218,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "bd2a104a01449115",
     "f2e607315e456d42",
     "e10a44c286cf2093",
     "bff50d92d95a6fb9",
@@ -1267,6 +1268,7 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "3d54300afa2f6f8d",
     "638ae9b3db3740d7",
     "de14e5cfd95194db",
     "1a2a3b28f021d315",
@@ -1432,6 +1434,7 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "388bb089b9636ae1",
     "97d0610f04169c0b",
     "75d48abe2b6df153",
     "97e10f0c5f0ac7b8",
@@ -1525,6 +1528,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "b4a3bc0107db7108",
     "dcd9fe220f111cc9",
     "a3cd723d71246186",
     "c2de8dd100f47af5",
