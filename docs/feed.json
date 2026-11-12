@@ -1,6 +1,136 @@
 {
- "generated": "2026-11-12T01:07:39.100Z",
+ "generated": "2026-11-12T08:29:25.691Z",
  "items": [
+  {
+   "id": "b79c095eb051258e",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Let AI redesign your work",
+   "u": "https://www.youtube.com/shorts/TzZmDf60hIQ",
+   "d": "2026-11-12T07:50:40.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "da5ff4291d922eb3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)",
+   "u": "https://www.techmeme.com/261112/p5#a261112p5",
+   "d": "2026-11-12T06:55:13.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "3a516df5d4479120",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)",
+   "u": "https://www.techmeme.com/261112/p4#a261112p4",
+   "d": "2026-11-12T06:05:01.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "cc304385f3bcca0e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls as Nvidia CEO Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)",
+   "u": "https://www.techmeme.com/261112/p3#a261112p3",
+   "d": "2026-11-12T05:45:05.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "86c06f27f901cbde",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261112/p2#a261112p2",
+   "d": "2026-11-12T05:35:00.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "b3347264da806b8d",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] D-Day (Decision Models Day)",
+   "u": "https://latent.space/p/ainews-d-day-decision-models-day/",
+   "d": "2026-11-12T05:26:54.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "f0ec5d745e70c061",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AMD shares rose 4%+ after hours after closing up 7.3%, while Broadcom gained 2.4% after hours following a 4% gain, as Nvidia's board weighs ousting CEO Huang (Financial Times)",
+   "u": "https://www.techmeme.com/261112/p1#a261112p1",
+   "d": "2026-11-12T05:25:01.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "506297e4d9110522",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+   "u": "https://latent.space/p/jev-revolution/",
+   "d": "2026-11-12T05:08:20.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "a185320eea098955",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "How Would You Make a Traffic Light Smart? (Michael Tomasello)",
+   "u": "https://www.youtube.com/shorts/0w2Crs8RzFE",
+   "d": "2026-11-12T03:03:27.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "ccab5c4858eefdf0",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Humans Created Languages (Michael Tomasello)",
+   "u": "https://www.youtube.com/shorts/TiEut-ZUwxs",
+   "d": "2026-11-12T03:03:17.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "34d4480d10231ed9",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "It Was Fred That Broke the Window (Michael Tomasello)",
+   "u": "https://www.youtube.com/shorts/wyLcJ5kHu_4",
+   "d": "2026-11-12T03:03:06.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "5a6195952ec369f9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
+   "u": "https://www.techmeme.com/261111/p52#a261111p52",
+   "d": "2026-11-12T02:45:00.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
+  {
+   "id": "9b46a4b0a3bedbb8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia's chip exports to China and Huang's affair (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261111/p51#a261111p51",
+   "d": "2026-11-12T02:35:01.000Z",
+   "first": "2026-11-12T08:29:25.691Z"
+  },
   {
    "id": "90ba0414e2c41069",
    "f": "techmeme",
@@ -32,16 +162,6 @@
    "first": "2026-11-11T03:26:29.403Z"
   },
   {
-   "id": "ac8a53377050d117",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Howard Lutnick has stalled curbs on companies suspected of diverting Nvidia chips to China; Trump approved them for the third time this year on Nov. 5 (Axios)",
-   "u": "https://www.techmeme.com/261111/p46#a261111p46",
-   "d": "2026-11-11T23:20:05.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
    "id": "388bb089b9636ae1",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -49,26 +169,6 @@
    "t": "AMA with me and the team!",
    "u": "https://www.youtube.com/watch?v=LFzBzzHZESE",
    "d": "2026-11-11T22:52:54.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
-   "id": "d8334c4b9623439a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia's board is preparing to oust Jensen Huang and is meeting on Wednesday to determine his future; NVDA drops 7%+ after hours (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261111/p44#a261111p44",
-   "d": "2026-11-11T22:32:14.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
-   "id": "43788abb57facc09",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company (New York Times)",
-   "u": "https://www.techmeme.com/261111/p43#a261111p43",
-   "d": "2026-11-11T22:03:12.000Z",
    "first": "2026-11-12T01:07:39.100Z"
   },
   {
@@ -90,46 +190,6 @@
    "u": "https://www.youtube.com/shorts/ssD05l4UxmY",
    "d": "2026-11-11T21:04:44.000Z",
    "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
-   "id": "0d8c246f3692a07e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
-   "u": "https://www.techmeme.com/261111/p41#a261111p41",
-   "d": "2026-11-11T20:25:00.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
-   "id": "5a0c93b118aa4da6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)",
-   "u": "https://www.techmeme.com/261111/p40#a261111p40",
-   "d": "2026-11-11T19:05:00.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
-   "id": "7a29a5b41d21b6a4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261111/p39#a261111p39",
-   "d": "2026-11-11T18:40:01.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
-   "id": "cec87db79d3ddc57",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows (Nick Clegg/The Atlantic)",
-   "u": "https://www.techmeme.com/261111/p38#a261111p38",
-   "d": "2026-11-11T18:30:00.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
   },
   {
    "id": "67514f8539e31016",
@@ -489,26 +549,6 @@
    "t": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
    "u": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
    "d": "2026-11-10T06:34:44.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
-   "id": "00a2233f6c091648",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Something Finally Was at Stake (Tom Froese)",
-   "u": "https://www.youtube.com/shorts/N-onb680PEI",
-   "d": "2026-11-10T05:33:49.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
-   "id": "5f3f4d8c6a5b5900",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "I Told Taxi Drivers Not to Worry (Tom Froese)",
-   "u": "https://www.youtube.com/shorts/GCGaQj-FAo8",
-   "d": "2026-11-10T05:15:00.000Z",
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
@@ -952,16 +992,6 @@
    "first": "2026-11-06T08:39:12.558Z"
   },
   {
-   "id": "a9c209129497b9db",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Pika turns images and sound into an editable video",
-   "u": "https://www.youtube.com/shorts/_CQ2QEI63o8",
-   "d": "2026-11-06T07:12:53.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
    "id": "826fdfc5f580923e",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1182,16 +1212,6 @@
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "5dd364e34992f931",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "The Dream Chocolate That Stopped Being Real (Joscha Bach)",
-   "u": "https://www.youtube.com/shorts/BwE9HfB5Rtw",
-   "d": "2026-11-04T08:27:06.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
-  },
-  {
    "id": "4c7f1ed0d32cc87f",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1282,16 +1302,6 @@
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
-   "id": "789931437fef05a2",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-   "u": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-   "d": "2026-11-03T05:35:00.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
    "id": "40607cdf83cad3c0",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1320,16 +1330,6 @@
    "u": "https://tldr.tech/ai/2026-11-03",
    "d": "2026-11-03T00:00:00.000Z",
    "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
-   "id": "3343515469e2c296",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
-   "u": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
-   "d": "2026-11-02T23:01:02.000Z",
-   "first": "2026-11-03T03:18:47.788Z"
   },
   {
    "id": "091edd9d78a75dff",
@@ -3450,7 +3450,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1008 > 1000"
+   "error": "Entity expansion limit exceeded: 1018 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
