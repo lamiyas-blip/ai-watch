@@ -224,6 +224,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "2ce057acb0efac4c",
     "51b824b05ad94a48",
     "3ffb309300277d51",
     "e39745b35f37bea2",
@@ -272,6 +273,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "8822d9b6d06a11b8",
     "053df7511bc6032a",
     "956d71ef42ef3fe8",
     "30327fcea24806de",
@@ -303,6 +305,8 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "355b5622bdc066f4",
+    "6323bd6e229b49c7",
     "06d865af2307d2a9",
     "3ce818553b06fe4d",
     "69f2710e5c141e8f",
@@ -507,6 +511,17 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "af94ee260fe55c51",
+    "0f86f3dd058e5ef1",
+    "0d385d68b1f2371c",
+    "217d905e7df2a97d",
+    "53bfb6b08bd9b1dd",
+    "95579341eb6399fb",
+    "14b2606f12c2b82c",
+    "324d4191cd498d15",
+    "7c06159a4b9b9b9d",
+    "31af8e8abfa90b82",
+    "6321b347dfc0dfe2",
     "da5ff4291d922eb3",
     "3a516df5d4479120",
     "cc304385f3bcca0e",
@@ -1095,18 +1110,7 @@
     "f86db380ae4a5e5b",
     "8262138ff95b0f07",
     "a3899ce06474a0a8",
-    "671b557516bc8a78",
-    "e4a5c9715249ff7e",
-    "249acba69193c91e",
-    "78cf693160dabc5e",
-    "33d3a37dbcf5f0b2",
-    "d6615714fcae9d32",
-    "d0fb2d643fac8958",
-    "abf2d210d0656678",
-    "9c02b275bf810b73",
-    "bea330a3c45cafab",
-    "a0f530db0c985167",
-    "9fc9c1bb5d024674"
+    "671b557516bc8a78"
    ]
   },
   "mit-tr": {
@@ -1270,6 +1274,8 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "8de330be7b3bd5d4",
+    "6000b039fc4f19ea",
     "a185320eea098955",
     "ccab5c4858eefdf0",
     "34d4480d10231ed9",
@@ -1363,6 +1369,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "b17b5aa3d53ea1ca",
     "ef5264debe3bd00e",
     "5768805057b018b0",
     "7831b26d27dc3041",

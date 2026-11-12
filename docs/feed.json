@@ -1,6 +1,166 @@
 {
- "generated": "2026-11-12T08:29:25.691Z",
+ "generated": "2026-11-12T16:58:30.450Z",
  "items": [
+  {
+   "id": "af94ee260fe55c51",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
+   "u": "https://www.techmeme.com/261112/p43#a261112p43",
+   "d": "2026-11-12T16:45:33.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "0f86f3dd058e5ef1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US officials: multiple US DOJ probes threaten to sweep up Nvidia, including one focused on antitrust grounds and two focused on Megaspeed and Supermicro (Rohan Goswami/Semafor)",
+   "u": "https://www.techmeme.com/261112/p42#a261112p42",
+   "d": "2026-11-12T16:40:46.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "0d385d68b1f2371c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Staff email: interim Nvidia CEO Colette Kress cites \"an extraordinarily difficult period\" and sets a meeting to \"hear more from leadership\" on November 18 (Terrence O'Brien/The Verge)",
+   "u": "https://www.techmeme.com/261112/p39#a261112p39",
+   "d": "2026-11-12T16:15:01.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "217d905e7df2a97d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "President Trump says Tim Cook is the \"only one man\" to take Jensen Huang's place as Nvidia CEO, adding \"A Legend replaces a Legend!\" (Zac Hall/9to5Mac)",
+   "u": "https://www.techmeme.com/261112/p38#a261112p38",
+   "d": "2026-11-12T16:05:00.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "53bfb6b08bd9b1dd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: firms tied to Alice Huang recently invested in DeepSeek, to forge closer ties and supply Nvidia's Blackwell chips, which are banned from sale to China (The Information)",
+   "u": "https://www.techmeme.com/261112/p37#a261112p37",
+   "d": "2026-11-12T15:35:02.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "95579341eb6399fb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "LangChain, which aims to help large companies build and deploy their own AI agents, raised $300M led by CapitalG at a $3B valuation, up from $1.25B in 2025 (Belle Lin/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261112/p35#a261112p35",
+   "d": "2026-11-12T15:25:41.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "14b2606f12c2b82c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia dropped 14% at Thursday's open after Jensen Huang resigned, erasing $600B+ in value and taking its market cap below $4T for the first time since 2025 (Bloomberg)",
+   "u": "https://www.techmeme.com/261112/p34#a261112p34",
+   "d": "2026-11-12T15:00:33.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "324d4191cd498d15",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to AI giant; born in Taiwan, he moved to the US at 10 and owns 3.6% of Nvidia (Amrith Ramkumar/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261112/p33#a261112p33",
+   "d": "2026-11-12T14:50:00.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "7c06159a4b9b9b9d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)",
+   "u": "https://www.techmeme.com/261112/p32#a261112p32",
+   "d": "2026-11-12T14:40:36.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "31af8e8abfa90b82",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of interim Nvidia CEO Colette Kress, who joined in 2013 after working at Cisco and Microsoft; as CFO, Kress criticized US export controls on China (Adam Satariano/New York Times)",
+   "u": "https://www.techmeme.com/261112/p31#a261112p31",
+   "d": "2026-11-12T14:30:02.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "6321b347dfc0dfe2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia appoints ex-Synopsys CEO Harvey C. Jones as its first-ever board chair; the board's Jensen Huang exit press release does not include a quote from Huang (Hayden Field/The Verge)",
+   "u": "https://www.techmeme.com/261112/p29#a261112p29",
+   "d": "2026-11-12T14:25:37.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "8822d9b6d06a11b8",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "To the man with AI, everything looks like a task",
+   "u": "https://www.bensbites.com/p/to-the-man-with-ai-everything-looks",
+   "d": "2026-11-12T14:03:11.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "b17b5aa3d53ea1ca",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "DeepMind’s AI Just Did The Impossible",
+   "u": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+   "d": "2026-11-12T13:41:41.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "8de330be7b3bd5d4",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "AlexNet Left My Old Book in the Dust (Simon Prince) #Shorts",
+   "u": "https://www.youtube.com/shorts/inwyawObxL4",
+   "d": "2026-11-12T11:28:24.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "6000b039fc4f19ea",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Lying Only Works Because We're Cooperative (Michael Tomasello)",
+   "u": "https://www.youtube.com/shorts/10glKhm5LW4",
+   "d": "2026-11-12T11:27:47.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "355b5622bdc066f4",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Holiday Extras is rethinking what it can build with Codex",
+   "u": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "d": "2026-11-12T09:30:00.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
   {
    "id": "b79c095eb051258e",
    "f": "yt-matthew-berman",
@@ -12,46 +172,6 @@
    "first": "2026-11-12T08:29:25.691Z"
   },
   {
-   "id": "da5ff4291d922eb3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)",
-   "u": "https://www.techmeme.com/261112/p5#a261112p5",
-   "d": "2026-11-12T06:55:13.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
-   "id": "3a516df5d4479120",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)",
-   "u": "https://www.techmeme.com/261112/p4#a261112p4",
-   "d": "2026-11-12T06:05:01.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
-   "id": "cc304385f3bcca0e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls as Nvidia CEO Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)",
-   "u": "https://www.techmeme.com/261112/p3#a261112p3",
-   "d": "2026-11-12T05:45:05.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
-   "id": "86c06f27f901cbde",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261112/p2#a261112p2",
-   "d": "2026-11-12T05:35:00.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
    "id": "b3347264da806b8d",
    "f": "latent-space",
    "src": "Latent Space",
@@ -59,16 +179,6 @@
    "t": "[AINews] D-Day (Decision Models Day)",
    "u": "https://latent.space/p/ainews-d-day-decision-models-day/",
    "d": "2026-11-12T05:26:54.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
-   "id": "f0ec5d745e70c061",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AMD shares rose 4%+ after hours after closing up 7.3%, while Broadcom gained 2.4% after hours following a 4% gain, as Nvidia's board weighs ousting CEO Huang (Financial Times)",
-   "u": "https://www.techmeme.com/261112/p1#a261112p1",
-   "d": "2026-11-12T05:25:01.000Z",
    "first": "2026-11-12T08:29:25.691Z"
   },
   {
@@ -112,36 +222,6 @@
    "first": "2026-11-12T08:29:25.691Z"
   },
   {
-   "id": "5a6195952ec369f9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
-   "u": "https://www.techmeme.com/261111/p52#a261111p52",
-   "d": "2026-11-12T02:45:00.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
-   "id": "9b46a4b0a3bedbb8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia's chip exports to China and Huang's affair (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261111/p51#a261111p51",
-   "d": "2026-11-12T02:35:01.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
-   "id": "90ba0414e2c41069",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)",
-   "u": "https://www.techmeme.com/261111/p48#a261111p48",
-   "d": "2026-11-12T00:15:00.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
    "id": "bd2a104a01449115",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -150,6 +230,26 @@
    "u": "https://www.youtube.com/shorts/3eMnUYkvbJg",
    "d": "2026-11-12T00:00:15.000Z",
    "first": "2026-11-12T01:07:39.100Z"
+  },
+  {
+   "id": "2ce057acb0efac4c",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠",
+   "u": "https://tldr.tech/ai/2026-11-12",
+   "d": "2026-11-12T00:00:00.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
+  },
+  {
+   "id": "6323bd6e229b49c7",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Supporting research on AI and children’s safety",
+   "u": "https://openai.com/index/children-first-declaration",
+   "d": "2026-11-12T00:00:00.000Z",
+   "first": "2026-11-12T16:58:30.450Z"
   },
   {
    "id": "06d865af2307d2a9",
@@ -279,26 +379,6 @@
    "t": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
    "u": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
    "d": "2026-11-11T09:34:28.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
-   "id": "1a2a3b28f021d315",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
-   "u": "https://www.youtube.com/shorts/qD3FrUgkVII",
-   "d": "2026-11-11T08:21:36.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
-   "id": "5079495eac4cf07d",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Random Code Starts Copying Itself (Blaise Agüera y Arcas)",
-   "u": "https://www.youtube.com/shorts/WyHxyBrKhaQ",
-   "d": "2026-11-11T08:13:17.000Z",
    "first": "2026-11-11T11:17:12.740Z"
   },
   {
@@ -972,16 +1052,6 @@
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
-   "id": "64f8e1c9d35451ae",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "u": "https://openai.com/index/partnering-with-hacktron",
-   "d": "2026-11-06T08:00:00.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
-  },
-  {
    "id": "7831b26d27dc3041",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -1030,16 +1100,6 @@
    "u": "https://tldr.tech/ai/2026-11-06",
    "d": "2026-11-06T00:00:00.000Z",
    "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "4edff2f9b5f24ee3",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Measuring how AI agents handle everyday wet-lab science",
-   "u": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "d": "2026-11-06T00:00:00.000Z",
-   "first": "2026-11-06T21:39:53.240Z"
   },
   {
    "id": "a2eb11b3e84d4585",
@@ -1852,16 +1912,6 @@
    "first": "2026-10-22T17:23:04.195Z"
   },
   {
-   "id": "b6afbe3662ba21db",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Claude Duet 🤖, Anthropic API changes 👨‍💻, Recursive’s local model 💻",
-   "u": "https://tldr.tech/ai/2026-10-22",
-   "d": "2026-10-22T00:00:00.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
    "id": "3cbda20863b82ce9",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2302,16 +2352,6 @@
    "first": "2026-10-11T19:02:37.957Z"
   },
   {
-   "id": "37db21f3e190886f",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "DeepSeek Solved AI’s Memory Problem",
-   "u": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-   "d": "2026-10-11T16:53:17.000Z",
-   "first": "2026-10-11T19:02:37.957Z"
-  },
-  {
    "id": "493d90e5f5216717",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2559,16 +2599,6 @@
    "t": "Opus 5.5: How Close Are We to Automated AI Research?",
    "u": "https://www.youtube.com/watch?v=R9momwXV9w4",
    "d": "2026-09-24T22:51:54.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "5600e693ed0d6d85",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "Back to Claude",
-   "u": "https://www.bensbites.com/p/back-to-claude",
-   "d": "2026-09-24T13:04:08.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3450,7 +3480,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1018 > 1000"
+   "error": "Entity expansion limit exceeded: 1016 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
