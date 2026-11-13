@@ -1,15 +1,175 @@
 {
- "generated": "2026-11-13T10:37:53.940Z",
+ "generated": "2026-11-13T18:13:08.213Z",
  "items": [
   {
-   "id": "a6e148b14819dd7f",
+   "id": "667a27da977c4566",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "AI server maker xFusion gets approval from the Shenzhen Stock Exchange for a ChiNext IPO; filing: the company aims to raise ~$1.2B by issuing up to 220M shares (Sangmi Cha/Bloomberg)",
-   "u": "https://www.techmeme.com/261113/p6#a261113p6",
-   "d": "2026-11-13T09:35:00.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
+   "t": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
+   "u": "https://www.techmeme.com/261113/p20#a261113p20",
+   "d": "2026-11-13T17:30:02.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "d32000ada88e63e4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics (Wen Shao/Fortune)",
+   "u": "https://www.techmeme.com/261113/p19#a261113p19",
+   "d": "2026-11-13T17:25:01.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "d8df57b9673e97d3",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: Things Will Never Be The Same",
+   "u": "https://www.youtube.com/watch?v=G_Jrexy_5Bg",
+   "d": "2026-11-13T17:21:49.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "f11116868466e849",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules (Bloomberg)",
+   "u": "https://www.techmeme.com/261113/p18#a261113p18",
+   "d": "2026-11-13T17:10:03.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "331dfaba2dfc70f4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia's board has approached Arm CEO Rene Haas in its search for a potential successor to Jensen Huang; Haas worked at Nvidia more than a decade ago (Michael Acton/Financial Times)",
+   "u": "https://www.techmeme.com/261113/p17#a261113p17",
+   "d": "2026-11-13T17:03:26.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "0a70e19425300ec1",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Independent AI auditors have a recruitment problem",
+   "u": "https://www.transformernews.ai/p/independent-ai-auditors-have-a-recruitment",
+   "d": "2026-11-13T16:14:15.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "2694c62497e55e6a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)",
+   "u": "https://www.techmeme.com/261113/p15#a261113p15",
+   "d": "2026-11-13T15:35:05.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "25e8778ceb66811a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: SpaceX laid off ~60 Grok Imagine staffers in the past week, leaving a handful to keep the product alive, as it prioritizes AI coding tools and Grok Bot (The Information)",
+   "u": "https://www.techmeme.com/261113/p14#a261113p14",
+   "d": "2026-11-13T15:15:02.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "cdd55aa7367a45be",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing ChatGPT Wallet",
+   "u": "https://openai.com/index/introducing-chatgpt-wallet",
+   "d": "2026-11-13T15:00:00.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "192ffe479b58955d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang's biographer says Nvidia had a culture of omertà and deference toward Huang, who was quite arrogant, that enabled him to \"be his worst self\" (Stephen Witt/New York Times)",
+   "u": "https://www.techmeme.com/261113/p12#a261113p12",
+   "d": "2026-11-13T14:40:42.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "a25461da79e69eea",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Amended S-1: Nscale had $5.5B in debt in September, up from $137.4M in June; Nvidia committed $2B of its $3B+ convertible financing; it previously disclosed $1B (Bloomberg)",
+   "u": "https://www.techmeme.com/261113/p11#a261113p11",
+   "d": "2026-11-13T14:25:00.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "be9fc153ca4d1eca",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Gemini 4 Swarm is out of control...",
+   "u": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
+   "d": "2026-11-13T14:16:35.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "c9cf55ed8c3ed5ed",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang's downfall exposes Nvidia's internal politics; source: Huang ran Nvidia as a \"feudal system\" with his daughter and son-in-law in powerful positions (Financial Times)",
+   "u": "https://www.techmeme.com/261113/p10#a261113p10",
+   "d": "2026-11-13T13:10:02.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "c10c779972b5e412",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production (Sally Ward-Foxton/EE Times)",
+   "u": "https://www.techmeme.com/261113/p8#a261113p8",
+   "d": "2026-11-13T12:15:19.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "780cf657068937d0",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI Is Destroying the Trust Between Writers and Readers",
+   "u": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+   "d": "2026-11-13T11:13:46.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "0db17aec3ee48395",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A review of Chinese contracts, disclosures, and other documents identifies $3.2B+ in compute projects built or planned around Nvidia GPUs restricted by the US (Eduardo Baptista/Reuters)",
+   "u": "https://www.techmeme.com/261113/p7#a261113p7",
+   "d": "2026-11-13T10:50:00.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "d7a889876e983f64",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "u": "https://status.claude.com/incidents/nn11wk485zfn",
+   "d": "2026-11-13T10:18:13.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
   },
   {
    "id": "2322ccf132e3b37d",
@@ -19,46 +179,6 @@
    "t": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
    "u": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
    "d": "2026-11-13T09:04:13.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
-   "id": "be0b0da4c34a7955",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them (Jessica Lyons/The Register)",
-   "u": "https://www.techmeme.com/261113/p5#a261113p5",
-   "d": "2026-11-13T07:25:02.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
-   "id": "eb36ea05a9aec680",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)",
-   "u": "https://www.techmeme.com/261113/p3#a261113p3",
-   "d": "2026-11-13T06:01:16.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
-   "id": "76f74ed46bfa2c71",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option (Sarah Perez/TechCrunch)",
-   "u": "https://www.techmeme.com/261113/p1#a261113p1",
-   "d": "2026-11-13T05:05:01.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
-   "id": "75cfddb01c1f4204",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital (Sarah Klearman/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261112/p74#a261112p74",
-   "d": "2026-11-13T04:45:01.000Z",
    "first": "2026-11-13T10:37:53.940Z"
   },
   {
@@ -82,16 +202,6 @@
    "first": "2026-11-13T10:37:53.940Z"
   },
   {
-   "id": "8baf7e485cbbe3fb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear (Jasper Goodman/Politico)",
-   "u": "https://www.techmeme.com/261112/p70#a261112p70",
-   "d": "2026-11-13T03:01:46.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
    "id": "5f888c62faa78030",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -102,26 +212,6 @@
    "first": "2026-11-13T10:37:53.940Z"
   },
   {
-   "id": "f38c444184b7bb66",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia faced pressure to boost its 25% residual value support backstop on a planned $500B AI financing vehicle with asset managers before Huang's exit (Bloomberg)",
-   "u": "https://www.techmeme.com/261112/p69#a261112p69",
-   "d": "2026-11-13T02:11:02.000Z",
-   "first": "2026-11-13T02:59:53.627Z"
-  },
-  {
-   "id": "509e14cfd7ca8159",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: President Trump's and Howard Lutnick's close relationship with Jensen Huang made officials wary of taking aggressive steps to rein in Nvidia chip sales (New York Times)",
-   "u": "https://www.techmeme.com/261112/p67#a261112p67",
-   "d": "2026-11-13T01:35:01.000Z",
-   "first": "2026-11-13T02:59:53.627Z"
-  },
-  {
    "id": "15415b3d3a5ef377",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -130,6 +220,16 @@
    "u": "https://www.lesswrong.com/posts/HuQAuWjc2Z5tqCjyw/scattered-thoughts-on-how-doing-math-feels-these-days",
    "d": "2026-11-13T01:10:37.000Z",
    "first": "2026-11-13T02:59:53.627Z"
+  },
+  {
+   "id": "d2b30d040279a715",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒",
+   "u": "https://tldr.tech/ai/2026-11-13",
+   "d": "2026-11-13T00:00:00.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
   },
   {
    "id": "f8ce7ed4b55a1c18",
@@ -356,7 +456,7 @@
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
    "cat": "YouTube",
-   "t": "How Robert Moses Got Everything Built - Robert Caro",
+   "t": "How Robert Moses Got Everything Built",
    "u": "https://www.youtube.com/shorts/3eMnUYkvbJg",
    "d": "2026-11-12T00:00:15.000Z",
    "first": "2026-11-12T01:07:39.100Z"
@@ -692,6 +792,16 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
+   "id": "ea2338dd86ec192a",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Opening the datasets behind our AI weather models",
+   "u": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "d": "2026-11-10T11:13:04.000Z",
+   "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
    "id": "c2de8dd100f47af5",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -822,21 +932,11 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "94dbaaf97d049548",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Anthropic's Fable 5.2 is the World’s Best AI Model",
-   "u": "https://www.youtube.com/watch?v=2TM8W66NI_8",
-   "d": "2026-11-09T23:16:34.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
    "id": "f2e607315e456d42",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
    "cat": "YouTube",
-   "t": "How Robert Moses Ruled New York Without Being Elected - Robert Caro",
+   "t": "How Robert Moses Ruled New York Without Being Elected",
    "u": "https://www.youtube.com/shorts/bkzWrrsRyqA",
    "d": "2026-11-09T20:37:38.000Z",
    "first": "2026-11-09T20:57:42.655Z"
@@ -900,16 +1000,6 @@
    "u": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
    "d": "2026-11-09T17:05:43.000Z",
    "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "42d1fc89c9a70048",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-   "u": "https://openai.com/index/control-room",
-   "d": "2026-11-09T13:00:00.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
   },
   {
    "id": "8062e56304847625",
@@ -996,7 +1086,7 @@
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
    "cat": "YouTube",
-   "t": "How LBJ Fooled the Segregationists - Robert Caro",
+   "t": "How LBJ Fooled the Segregationists",
    "u": "https://www.youtube.com/shorts/S4NYamZuts4",
    "d": "2026-11-07T21:53:54.000Z",
    "first": "2026-11-08T01:35:46.914Z"
@@ -1136,7 +1226,7 @@
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
    "cat": "YouTube",
-   "t": "The Man Who Built New York Without Winning a Single Vote - Robert Caro",
+   "t": "The Man Who Built New York Without Winning a Single Vote",
    "u": "https://www.youtube.com/shorts/JyB3mExvn_w",
    "d": "2026-11-06T04:34:08.000Z",
    "first": "2026-11-06T08:39:12.558Z"
@@ -1290,26 +1380,6 @@
    "u": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
    "d": "2026-11-04T13:00:00.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "f082d2f1d69b7ae2",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI is forcing us to pay off 40 years of technical debt",
-   "u": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-   "d": "2026-11-04T11:52:17.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "9784641e273273f6",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Geoffrey Hinton: it might turn out we were better off without AI",
-   "u": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-   "d": "2026-11-04T10:23:34.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
   },
   {
    "id": "4c7f1ed0d32cc87f",
@@ -1842,16 +1912,6 @@
    "first": "2026-10-25T15:08:29.703Z"
   },
   {
-   "id": "a22a031998ca235e",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "it's WORSE than we thought...",
-   "u": "https://www.youtube.com/watch?v=eK7Sn0_zHQw",
-   "d": "2026-10-24T06:17:07.000Z",
-   "first": "2026-10-24T07:27:21.939Z"
-  },
-  {
    "id": "0ff8f17bcaf721b7",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -1879,16 +1939,6 @@
    "t": "The cyberpocalypse is here — sort of",
    "u": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
    "d": "2026-10-23T13:56:51.000Z",
-   "first": "2026-10-23T17:33:03.730Z"
-  },
-  {
-   "id": "2e575241118c4c80",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "OpenAI nears $1.25T 💰, ☁️, 1Password for Agents 🔑, Gemini 3.5 Pro postmortem 🤖",
-   "u": "https://tldr.tech/ai/2026-10-23",
-   "d": "2026-10-23T00:00:00.000Z",
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
@@ -2270,26 +2320,6 @@
    "u": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
    "d": "2026-10-13T19:43:07.000Z",
    "first": "2026-10-13T21:37:41.621Z"
-  },
-  {
-   "id": "832d7cf24dba3f2f",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Gemini 4 Argon for Robotics",
-   "u": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-   "d": "2026-10-13T16:01:58.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "2e00db65cefd8432",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "‘Artificial’ is not the AI film we deserve",
-   "u": "https://www.transformernews.ai/p/artificial-review-not-the-ai-film-we-deserve",
-   "d": "2026-10-13T15:02:01.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
   },
   {
    "id": "6f029e3afa50979e",
@@ -3450,12 +3480,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1018 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1006 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",

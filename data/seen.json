@@ -157,6 +157,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "0a70e19425300ec1",
     "67514f8539e31016",
     "f813be69f328d8cb",
     "85a382b3e7dc527e",
@@ -227,6 +228,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "d2b30d040279a715",
     "2ce057acb0efac4c",
     "51b824b05ad94a48",
     "3ffb309300277d51",
@@ -308,6 +310,7 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "cdd55aa7367a45be",
     "bebe362e67886a9a",
     "a8cd0bd46b7c8aba",
     "355b5622bdc066f4",
@@ -443,6 +446,7 @@
     "d1194824432ded60",
     "ca317efcff9cdce6",
     "41865a0c677f3b34",
+    "ea2338dd86ec192a",
     "34c9eca71c528830",
     "ff684e536c215fa1",
     "9c7bdf8b4e5b3a0d",
@@ -518,6 +522,17 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "667a27da977c4566",
+    "d32000ada88e63e4",
+    "f11116868466e849",
+    "331dfaba2dfc70f4",
+    "2694c62497e55e6a",
+    "25e8778ceb66811a",
+    "192ffe479b58955d",
+    "a25461da79e69eea",
+    "c9cf55ed8c3ed5ed",
+    "c10c779972b5e412",
+    "0db17aec3ee48395",
     "a6e148b14819dd7f",
     "be0b0da4c34a7955",
     "eb36ea05a9aec680",
@@ -1106,18 +1121,7 @@
     "4609c7a773bda3e5",
     "26d01f44a2ae588c",
     "e8f8b450cc576e5c",
-    "d8697bc0cdf2139c",
-    "4e373c5288d349af",
-    "51f0ca048517799b",
-    "739635902ac5b761",
-    "c181c2ba463f5e9d",
-    "5770cdcf1f7ef445",
-    "69483908facb5214",
-    "74bf47722c508207",
-    "31dc72225b9b81ec",
-    "3b33bf7bfe2598f7",
-    "e7108e036e408815",
-    "781c05df539665a1"
+    "d8697bc0cdf2139c"
    ]
   },
   "mit-tr": {
@@ -1403,6 +1407,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "d8df57b9673e97d3",
     "2a79bfdfde3634cb",
     "f97b342022e282f8",
     "95487c8af6e1eaa8",
@@ -1529,6 +1534,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "be9fc153ca4d1eca",
     "f206b8031fe7ec6c",
     "cd846410c5fc87e5",
     "ca4022d35cdc0a9d",
@@ -1556,6 +1562,8 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "780cf657068937d0",
+    "d7a889876e983f64",
     "f8ce7ed4b55a1c18",
     "66a0cdd6658e1fb3",
     "b4a3bc0107db7108",
