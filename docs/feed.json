@@ -1,6 +1,126 @@
 {
- "generated": "2026-11-13T18:13:08.213Z",
+ "generated": "2026-11-13T23:44:36.181Z",
  "items": [
+  {
+   "id": "57dd2dfe8edb7e76",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
+   "u": "https://www.techmeme.com/261113/p34#a261113p34",
+   "d": "2026-11-13T23:35:00.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "97f8d6bbcc3da327",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "I’ve changed my mind about continual learning",
+   "u": "https://www.youtube.com/shorts/CoSptp9tYpY",
+   "d": "2026-11-13T22:39:45.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "4f2c428fe6d037e3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
+   "u": "https://www.techmeme.com/261113/p32#a261113p32",
+   "d": "2026-11-13T22:10:02.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "3fb1d9a22c676773",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261113/p31#a261113p31",
+   "d": "2026-11-13T22:01:42.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "f61b368a248ca6a5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
+   "u": "https://www.techmeme.com/261113/p29#a261113p29",
+   "d": "2026-11-13T21:01:40.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "f73aaeed06ca4d4f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+   "u": "https://www.techmeme.com/261113/p28#a261113p28",
+   "d": "2026-11-13T20:40:02.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "04f590a1fe25f285",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)",
+   "u": "https://www.techmeme.com/261113/p27#a261113p27",
+   "d": "2026-11-13T20:35:01.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "76833a39eca998cc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
+   "u": "https://www.techmeme.com/261113/p25#a261113p25",
+   "d": "2026-11-13T19:20:01.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "db95b22d2b95e68a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
+   "u": "https://www.techmeme.com/261113/p24#a261113p24",
+   "d": "2026-11-13T19:10:01.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "c0b4ea56a81370d4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)",
+   "u": "https://www.techmeme.com/261113/p23#a261113p23",
+   "d": "2026-11-13T18:55:00.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "93036de22cac18ea",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Recursive self-improvement has started",
+   "u": "https://www.youtube.com/watch?v=1NHPDzpfR6Y",
+   "d": "2026-11-13T18:37:05.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "dc2473ad60a03efe",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "u": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "d": "2026-11-13T17:30:10.000Z",
+   "first": "2026-11-13T23:44:36.181Z"
+  },
   {
    "id": "667a27da977c4566",
    "f": "techmeme",
@@ -9,16 +129,6 @@
    "t": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
    "u": "https://www.techmeme.com/261113/p20#a261113p20",
    "d": "2026-11-13T17:30:02.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "d32000ada88e63e4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics (Wen Shao/Fortune)",
-   "u": "https://www.techmeme.com/261113/p19#a261113p19",
-   "d": "2026-11-13T17:25:01.000Z",
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
@@ -32,26 +142,6 @@
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
-   "id": "f11116868466e849",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules (Bloomberg)",
-   "u": "https://www.techmeme.com/261113/p18#a261113p18",
-   "d": "2026-11-13T17:10:03.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "331dfaba2dfc70f4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia's board has approached Arm CEO Rene Haas in its search for a potential successor to Jensen Huang; Haas worked at Nvidia more than a decade ago (Michael Acton/Financial Times)",
-   "u": "https://www.techmeme.com/261113/p17#a261113p17",
-   "d": "2026-11-13T17:03:26.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
    "id": "0a70e19425300ec1",
    "f": "transformer",
    "src": "Transformer",
@@ -59,26 +149,6 @@
    "t": "Independent AI auditors have a recruitment problem",
    "u": "https://www.transformernews.ai/p/independent-ai-auditors-have-a-recruitment",
    "d": "2026-11-13T16:14:15.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "2694c62497e55e6a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)",
-   "u": "https://www.techmeme.com/261113/p15#a261113p15",
-   "d": "2026-11-13T15:35:05.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "25e8778ceb66811a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: SpaceX laid off ~60 Grok Imagine staffers in the past week, leaving a handful to keep the product alive, as it prioritizes AI coding tools and Grok Bot (The Information)",
-   "u": "https://www.techmeme.com/261113/p14#a261113p14",
-   "d": "2026-11-13T15:15:02.000Z",
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
@@ -92,26 +162,6 @@
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
-   "id": "192ffe479b58955d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang's biographer says Nvidia had a culture of omertà and deference toward Huang, who was quite arrogant, that enabled him to \"be his worst self\" (Stephen Witt/New York Times)",
-   "u": "https://www.techmeme.com/261113/p12#a261113p12",
-   "d": "2026-11-13T14:40:42.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "a25461da79e69eea",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Amended S-1: Nscale had $5.5B in debt in September, up from $137.4M in June; Nvidia committed $2B of its $3B+ convertible financing; it previously disclosed $1B (Bloomberg)",
-   "u": "https://www.techmeme.com/261113/p11#a261113p11",
-   "d": "2026-11-13T14:25:00.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
    "id": "be9fc153ca4d1eca",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -122,43 +172,13 @@
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
-   "id": "c9cf55ed8c3ed5ed",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang's downfall exposes Nvidia's internal politics; source: Huang ran Nvidia as a \"feudal system\" with his daughter and son-in-law in powerful positions (Financial Times)",
-   "u": "https://www.techmeme.com/261113/p10#a261113p10",
-   "d": "2026-11-13T13:10:02.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "c10c779972b5e412",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "South Korea-based DeepX tapes out DX-M2, an edge AI chip to run inference of 100B-parameter LLMs on robots and drones, targeting fall 2027 for mass production (Sally Ward-Foxton/EE Times)",
-   "u": "https://www.techmeme.com/261113/p8#a261113p8",
-   "d": "2026-11-13T12:15:19.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
    "id": "780cf657068937d0",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "AI Is Destroying the Trust Between Writers and Readers",
+   "t": "AI is destroying the trust between writers and readers",
    "u": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
    "d": "2026-11-13T11:13:46.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "0db17aec3ee48395",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A review of Chinese contracts, disclosures, and other documents identifies $3.2B+ in compute projects built or planned around Nvidia GPUs restricted by the US (Eduardo Baptista/Reuters)",
-   "u": "https://www.techmeme.com/261113/p7#a261113p7",
-   "d": "2026-11-13T10:50:00.000Z",
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
@@ -1362,16 +1382,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "e237f42b1f69fc89",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Ask HN: What's your current AI agentic setup?",
-   "u": "https://news.ycombinator.com/item?id=50366117",
-   "d": "2026-11-04T14:37:22.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
    "id": "2be127e84390bfb7",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1400,16 +1410,6 @@
    "u": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
    "d": "2026-11-03T20:44:53.000Z",
    "first": "2026-11-03T23:34:59.002Z"
-  },
-  {
-   "id": "208f873ba6e03c9a",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Robert Moses Destroyed His Enemies - Robert Caro",
-   "u": "https://www.youtube.com/shorts/paOOAJS5Omk",
-   "d": "2026-11-03T20:25:36.000Z",
-   "first": "2026-11-04T11:40:06.831Z"
   },
   {
    "id": "9c7bdf8b4e5b3a0d",
@@ -1480,16 +1480,6 @@
    "u": "https://tldr.tech/ai/2026-11-03",
    "d": "2026-11-03T00:00:00.000Z",
    "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
-   "id": "091edd9d78a75dff",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Why Senators Couldn’t Say No to LBJ – Robert Caro",
-   "u": "https://www.youtube.com/shorts/7l6IEPzt68I",
-   "d": "2026-11-02T21:42:00.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
   },
   {
    "id": "dd16ee33e3f97d51",
@@ -3480,7 +3470,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1018 > 1000"
+   "error": "Entity expansion limit exceeded: 1016 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3494,7 +3484,8 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3502,15 +3493,18 @@
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3518,23 +3512,28 @@
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   }
  }
 }
