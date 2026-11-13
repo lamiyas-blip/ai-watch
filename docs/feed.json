@@ -1,6 +1,106 @@
 {
- "generated": "2026-11-13T02:59:53.627Z",
+ "generated": "2026-11-13T10:37:53.940Z",
  "items": [
+  {
+   "id": "a6e148b14819dd7f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI server maker xFusion gets approval from the Shenzhen Stock Exchange for a ChiNext IPO; filing: the company aims to raise ~$1.2B by issuing up to 220M shares (Sangmi Cha/Bloomberg)",
+   "u": "https://www.techmeme.com/261113/p6#a261113p6",
+   "d": "2026-11-13T09:35:00.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "2322ccf132e3b37d",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+   "u": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+   "d": "2026-11-13T09:04:13.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "be0b0da4c34a7955",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them (Jessica Lyons/The Register)",
+   "u": "https://www.techmeme.com/261113/p5#a261113p5",
+   "d": "2026-11-13T07:25:02.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "eb36ea05a9aec680",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO (Financial Times)",
+   "u": "https://www.techmeme.com/261113/p3#a261113p3",
+   "d": "2026-11-13T06:01:16.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "76f74ed46bfa2c71",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Meta launches an outbound calling feature for Muse, such as to businesses, available for paid US subscribers; Gemini and startup Instinct offer a similar option (Sarah Perez/TechCrunch)",
+   "u": "https://www.techmeme.com/261113/p1#a261113p1",
+   "d": "2026-11-13T05:05:01.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "75cfddb01c1f4204",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Mirendil, founded by former Anthropic researchers to build tools for frontier AI R&D, raised a $1B Series A led by Kleiner Perkins and Clearlake Capital (Sarah Klearman/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261112/p74#a261112p74",
+   "d": "2026-11-13T04:45:01.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "6be5adf498abc800",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Rogue AI Deployments Are Probably Coming",
+   "u": "https://www.youtube.com/shorts/Pnn5ZrQ7fFo",
+   "d": "2026-11-13T04:39:47.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "0c4e89af2ec4aedd",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+   "u": "https://latent.space/p/artcraft/",
+   "d": "2026-11-13T04:17:25.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "8baf7e485cbbe3fb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Senate Banking Chair Tim Scott asks Jensen Huang and Howard Lutnick to testify at separate hearings in December over the Nvidia saga; Lutnick agrees to appear (Jasper Goodman/Politico)",
+   "u": "https://www.techmeme.com/261112/p70#a261112p70",
+   "d": "2026-11-13T03:01:46.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "5f888c62faa78030",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Who controls access to AI?",
+   "u": "https://www.youtube.com/shorts/yVaVR2Ywfik",
+   "d": "2026-11-13T02:45:18.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
+  },
   {
    "id": "f38c444184b7bb66",
    "f": "techmeme",
@@ -32,44 +132,14 @@
    "first": "2026-11-13T02:59:53.627Z"
   },
   {
-   "id": "5d2dc58de6ee8564",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "f8ce7ed4b55a1c18",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A (CJ Fairfield/CRN)",
-   "u": "https://www.techmeme.com/261112/p65#a261112p65",
-   "d": "2026-11-13T00:30:00.000Z",
-   "first": "2026-11-13T02:59:53.627Z"
-  },
-  {
-   "id": "80b7d04b3bcf754f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The FBI says North Korean hackers stole $400M+ in crypto in the last 18 months using \"FaceStealer\", a scheme involving fake video calls and AI deepfakes (A.J. Vicens/Reuters)",
-   "u": "https://www.techmeme.com/261112/p63#a261112p63",
-   "d": "2026-11-12T23:35:01.000Z",
-   "first": "2026-11-13T02:59:53.627Z"
-  },
-  {
-   "id": "cbaaff76268679c5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis of open weights: six models from DeepSeek, Moonshot, MiniMax, and Ant Group released since April carry fingerprints of export-controlled Blackwell GPUs (Will DePue/Unemployment Labs)",
-   "u": "https://www.techmeme.com/261112/p62#a261112p62",
-   "d": "2026-11-12T22:30:04.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
-  },
-  {
-   "id": "c2df1d17a1dd48a1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)",
-   "u": "https://www.techmeme.com/261112/p60#a261112p60",
-   "d": "2026-11-12T22:15:00.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
+   "t": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "u": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "d": "2026-11-12T23:06:17.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
   },
   {
    "id": "54cc43a62c8af1e2",
@@ -82,24 +152,14 @@
    "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "ee87dc545631755d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "66a0cdd6658e1fb3",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Sources: OpenAI confirmed to lawmakers this week that it would support a bipartisan effort in Congress to curb China's access to AI chips and chipmaking tools (Bloomberg)",
-   "u": "https://www.techmeme.com/261112/p59#a261112p59",
-   "d": "2026-11-12T22:05:29.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
-  },
-  {
-   "id": "39dae6071bd84213",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)",
-   "u": "https://www.techmeme.com/261112/p55#a261112p55",
-   "d": "2026-11-12T21:20:01.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
+   "t": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "u": "https://unemploymentlabs.com/checkpoint-forensics",
+   "d": "2026-11-12T21:56:11.000Z",
+   "first": "2026-11-13T10:37:53.940Z"
   },
   {
    "id": "2a79bfdfde3634cb",
@@ -722,16 +782,6 @@
    "first": "2026-11-10T03:06:20.279Z"
   },
   {
-   "id": "a0743988b308ac91",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Fable 5.2 just solved software",
-   "u": "https://www.youtube.com/shorts/oW98tLm7suY",
-   "d": "2026-11-10T00:56:42.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
    "id": "f206b8031fe7ec6c",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1172,16 +1222,6 @@
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "088f297c11a649ef",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] It's Swapping Season",
-   "u": "https://latent.space/p/ainews-it-s-swapping-season/",
-   "d": "2026-11-05T06:24:09.000Z",
-   "first": "2026-11-05T07:04:27.302Z"
-  },
-  {
    "id": "6572c938c173b6f7",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1200,16 +1240,6 @@
    "u": "https://www.youtube.com/shorts/CGPQ2-pJ6As",
    "d": "2026-11-04T23:17:12.000Z",
    "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "9d6514ea672c2095",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
-   "u": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
-   "d": "2026-11-04T19:17:30.000Z",
-   "first": "2026-11-05T00:04:19.224Z"
   },
   {
    "id": "d9155f40638a6f86",
@@ -1290,26 +1320,6 @@
    "u": "https://tldr.tech/ai/2026-11-04",
    "d": "2026-11-04T00:00:00.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "7f9a805057d135f3",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "u": "https://arxiv.org/abs/2605.29713",
-   "d": "2026-11-03T21:40:53.000Z",
-   "first": "2026-11-04T03:35:59.122Z"
-  },
-  {
-   "id": "9513fb11e7ecbf6d",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-   "u": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-   "d": "2026-11-03T21:26:44.000Z",
-   "first": "2026-11-04T03:35:59.122Z"
   },
   {
    "id": "e905d2fc36c25bf2",
@@ -2912,16 +2922,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "ecf0126068275501",
-   "f": "yt-robert-miles",
-   "src": "Robert Miles AI Safety",
-   "cat": "YouTube",
-   "t": "Why Smart AIs Cheat",
-   "u": "https://www.youtube.com/shorts/11vWK5cbxmI",
-   "d": "2026-07-25T03:02:57.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "816790ff40c90352",
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
@@ -3433,8 +3433,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "fetch failed"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3451,12 +3450,12 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1022 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
    "ok": false,
-   "error": "HTTP 429"
+   "error": "Entity expansion limit exceeded: 1006 > 1000"
   },
   "reddit-ml": {
    "name": "r/MachineLearning (top of week)",
@@ -3465,43 +3464,35 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
@@ -3509,13 +3500,11 @@
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 500"
+   "ok": true
   }
  }
 }
