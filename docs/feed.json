@@ -1,6 +1,46 @@
 {
- "generated": "2026-11-14T17:13:42.259Z",
+ "generated": "2026-11-14T21:36:48.213Z",
  "items": [
+  {
+   "id": "a8652a9169424a0d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)",
+   "u": "https://www.techmeme.com/261114/p18#a261114p18",
+   "d": "2026-11-14T19:55:01.000Z",
+   "first": "2026-11-14T21:36:48.213Z"
+  },
+  {
+   "id": "2afe46e8ccf0d783",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
+   "u": "https://www.techmeme.com/261114/p17#a261114p17",
+   "d": "2026-11-14T19:01:14.000Z",
+   "first": "2026-11-14T21:36:48.213Z"
+  },
+  {
+   "id": "498d91d1536a92c4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
+   "u": "https://www.techmeme.com/261114/p16#a261114p16",
+   "d": "2026-11-14T18:35:04.000Z",
+   "first": "2026-11-14T21:36:48.213Z"
+  },
+  {
+   "id": "51c3c1ae97e0260f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up (Nathan Lambert/Interconnects AI)",
+   "u": "https://www.techmeme.com/261114/p15#a261114p15",
+   "d": "2026-11-14T18:05:02.000Z",
+   "first": "2026-11-14T21:36:48.213Z"
+  },
   {
    "id": "ac12e5ce93ff31d1",
    "f": "interconnects",
@@ -59,36 +99,6 @@
    "t": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
    "u": "https://www.techmeme.com/261114/p5#a261114p5",
    "d": "2026-11-14T06:55:00.000Z",
-   "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "ce3ca89cbf69c65b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
-   "u": "https://www.techmeme.com/261114/p4#a261114p4",
-   "d": "2026-11-14T06:35:00.000Z",
-   "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "5a2f426c045ef86e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
-   "u": "https://www.techmeme.com/261114/p3#a261114p3",
-   "d": "2026-11-14T06:30:09.000Z",
-   "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "a87ee4d652d94f94",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
-   "u": "https://www.techmeme.com/261113/p42#a261113p42",
-   "d": "2026-11-14T04:25:01.000Z",
    "first": "2026-11-14T11:01:35.900Z"
   },
   {
@@ -3413,7 +3423,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3430,7 +3441,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1032 > 1000"
+   "error": "Entity expansion limit exceeded: 1010 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3444,43 +3455,53 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
