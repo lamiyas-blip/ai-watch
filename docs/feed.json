@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-14T03:48:06.546Z",
+ "generated": "2026-11-14T11:01:35.900Z",
  "items": [
+  {
+   "id": "3adcf2a371de31c3",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Funkiest Zoom meeting EVER (Surprise video)",
+   "u": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+   "d": "2026-11-14T08:40:55.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
+  {
+   "id": "638b8cb180c5e0da",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] The No AI Slop Manifesto",
+   "u": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+   "d": "2026-11-14T08:31:02.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
+  {
+   "id": "6c7f4ce92dbb2908",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
+   "u": "https://www.techmeme.com/261114/p7#a261114p7",
+   "d": "2026-11-14T07:30:08.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
+  {
+   "id": "679151230d52374a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+   "u": "https://www.techmeme.com/261114/p6#a261114p6",
+   "d": "2026-11-14T07:02:17.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
+  {
+   "id": "22a30bd0b4c0b071",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+   "u": "https://www.techmeme.com/261114/p5#a261114p5",
+   "d": "2026-11-14T06:55:00.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
+  {
+   "id": "ce3ca89cbf69c65b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+   "u": "https://www.techmeme.com/261114/p4#a261114p4",
+   "d": "2026-11-14T06:35:00.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
+  {
+   "id": "5a2f426c045ef86e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+   "u": "https://www.techmeme.com/261114/p3#a261114p3",
+   "d": "2026-11-14T06:30:09.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
+  {
+   "id": "a87ee4d652d94f94",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+   "u": "https://www.techmeme.com/261113/p42#a261113p42",
+   "d": "2026-11-14T04:25:01.000Z",
+   "first": "2026-11-14T11:01:35.900Z"
+  },
   {
    "id": "a1e0df7c0e6da2b8",
    "f": "techmeme",
@@ -32,16 +112,6 @@
    "first": "2026-11-14T03:48:06.546Z"
   },
   {
-   "id": "57dd2dfe8edb7e76",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "ASI, developer of AI tool SMART, says the FAA outage \"is not based on or a result of the SMART system, any product of ASI, or our integration with FAA and ATC\" (Asi/@airspaceintel)",
-   "u": "https://www.techmeme.com/261113/p34#a261113p34",
-   "d": "2026-11-13T23:35:00.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
    "id": "97f8d6bbcc3da327",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -49,56 +119,6 @@
    "t": "I’ve changed my mind about continual learning",
    "u": "https://www.youtube.com/shorts/CoSptp9tYpY",
    "d": "2026-11-13T22:39:45.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "4f2c428fe6d037e3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
-   "u": "https://www.techmeme.com/261113/p32#a261113p32",
-   "d": "2026-11-13T22:10:02.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "3fb1d9a22c676773",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261113/p31#a261113p31",
-   "d": "2026-11-13T22:01:42.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "f61b368a248ca6a5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
-   "u": "https://www.techmeme.com/261113/p29#a261113p29",
-   "d": "2026-11-13T21:01:40.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "f73aaeed06ca4d4f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
-   "u": "https://www.techmeme.com/261113/p28#a261113p28",
-   "d": "2026-11-13T20:40:02.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "04f590a1fe25f285",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)",
-   "u": "https://www.techmeme.com/261113/p27#a261113p27",
-   "d": "2026-11-13T20:35:01.000Z",
    "first": "2026-11-13T23:44:36.181Z"
   },
   {
@@ -1189,16 +1209,6 @@
    "t": "Innovation Council’s directors include execs at David Sacks’ VC firm",
    "u": "https://www.transformernews.ai/p/innovation-council-david-sacks-jd-vance",
    "d": "2026-11-06T14:34:18.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "7657e2af2c22e06e",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-   "u": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
-   "d": "2026-11-06T10:35:21.000Z",
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
@@ -2309,16 +2319,6 @@
    "t": "Zuck’s wonder...full",
    "u": "https://www.bensbites.com/p/zucks-wonderfull",
    "d": "2026-10-13T13:00:35.000Z",
-   "first": "2026-10-13T16:32:23.524Z"
-  },
-  {
-   "id": "ee2c770df23691b7",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "OpenAI’s New AI Is Doing Things We Barely Understand",
-   "u": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-   "d": "2026-10-13T08:56:12.000Z",
    "first": "2026-10-13T16:32:23.524Z"
   },
   {
@@ -3443,7 +3443,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3460,7 +3461,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1016 > 1000"
+   "error": "Entity expansion limit exceeded: 1032 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3474,58 +3475,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
