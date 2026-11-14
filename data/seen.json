@@ -311,6 +311,7 @@
    "init": true,
    "ids": [
     "cdd55aa7367a45be",
+    "6b82b9aee3d05ab9",
     "bebe362e67886a9a",
     "a8cd0bd46b7c8aba",
     "355b5622bdc066f4",
@@ -522,6 +523,9 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "a1e0df7c0e6da2b8",
+    "043a02728d18f55c",
+    "bf020d1d481d40e1",
     "57dd2dfe8edb7e76",
     "4f2c428fe6d037e3",
     "3fb1d9a22c676773",
@@ -1118,10 +1122,7 @@
     "be1e62e0576330a7",
     "877baf03f646a3c1",
     "df134d1f5436460b",
-    "070b86fc344f468d",
-    "c8a7af9cc80445a6",
-    "9e6741a9c61ac082",
-    "a016a71d3938349f"
+    "070b86fc344f468d"
    ]
   },
   "mit-tr": {

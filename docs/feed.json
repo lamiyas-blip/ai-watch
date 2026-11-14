@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-13T23:44:36.181Z",
+ "generated": "2026-11-14T03:48:06.546Z",
  "items": [
+  {
+   "id": "a1e0df7c0e6da2b8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
+   "u": "https://www.techmeme.com/261113/p38#a261113p38",
+   "d": "2026-11-14T01:55:00.000Z",
+   "first": "2026-11-14T03:48:06.546Z"
+  },
+  {
+   "id": "043a02728d18f55c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
+   "u": "https://www.techmeme.com/261113/p37#a261113p37",
+   "d": "2026-11-14T01:15:03.000Z",
+   "first": "2026-11-14T03:48:06.546Z"
+  },
+  {
+   "id": "bf020d1d481d40e1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
+   "u": "https://www.techmeme.com/261113/p36#a261113p36",
+   "d": "2026-11-14T01:00:12.000Z",
+   "first": "2026-11-14T03:48:06.546Z"
+  },
   {
    "id": "57dd2dfe8edb7e76",
    "f": "techmeme",
@@ -72,36 +102,6 @@
    "first": "2026-11-13T23:44:36.181Z"
   },
   {
-   "id": "76833a39eca998cc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
-   "u": "https://www.techmeme.com/261113/p25#a261113p25",
-   "d": "2026-11-13T19:20:01.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "db95b22d2b95e68a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
-   "u": "https://www.techmeme.com/261113/p24#a261113p24",
-   "d": "2026-11-13T19:10:01.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "c0b4ea56a81370d4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)",
-   "u": "https://www.techmeme.com/261113/p23#a261113p23",
-   "d": "2026-11-13T18:55:00.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
    "id": "93036de22cac18ea",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -120,16 +120,6 @@
    "u": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
    "d": "2026-11-13T17:30:10.000Z",
    "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
-   "id": "667a27da977c4566",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
-   "u": "https://www.techmeme.com/261113/p20#a261113p20",
-   "d": "2026-11-13T17:30:02.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
   },
   {
    "id": "d8df57b9673e97d3",
@@ -200,6 +190,16 @@
    "u": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
    "d": "2026-11-13T09:04:13.000Z",
    "first": "2026-11-13T10:37:53.940Z"
+  },
+  {
+   "id": "6b82b9aee3d05ab9",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "u": "https://openai.com/business/customer-stories/shield",
+   "d": "2026-11-13T08:00:00.000Z",
+   "first": "2026-11-14T03:48:06.546Z"
   },
   {
    "id": "6be5adf498abc800",
@@ -979,16 +979,6 @@
    "t": "The backlash about data centers might really just be about electricity",
    "u": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
    "d": "2026-11-09T19:35:33.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "628069c68754a919",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "ChatGPT Enterprise now available in AWS Marketplace",
-   "u": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "d": "2026-11-09T19:00:00.000Z",
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
@@ -3425,7 +3415,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1093 > 1000"
+   "error": "Entity expansion limit exceeded: 1042 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3489,7 +3479,8 @@
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3508,7 +3499,8 @@
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
