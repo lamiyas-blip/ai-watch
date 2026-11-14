@@ -1,12 +1,22 @@
 {
- "generated": "2026-11-14T11:01:35.900Z",
+ "generated": "2026-11-14T17:13:42.259Z",
  "items": [
+  {
+   "id": "ac12e5ce93ff31d1",
+   "f": "interconnects",
+   "src": "Interconnects",
+   "cat": "Newsletter",
+   "t": "Open-source AI without Jensen",
+   "u": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "d": "2026-11-14T12:23:15.000Z",
+   "first": "2026-11-14T17:13:42.259Z"
+  },
   {
    "id": "3adcf2a371de31c3",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
    "cat": "YouTube",
-   "t": "Funkiest Zoom meeting EVER (Surprise video)",
+   "t": "AI Can Do Everything…Except This",
    "u": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
    "d": "2026-11-14T08:40:55.000Z",
    "first": "2026-11-14T11:01:35.900Z"
@@ -82,34 +92,14 @@
    "first": "2026-11-14T11:01:35.900Z"
   },
   {
-   "id": "a1e0df7c0e6da2b8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "0656bf677ac62a88",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
-   "u": "https://www.techmeme.com/261113/p38#a261113p38",
-   "d": "2026-11-14T01:55:00.000Z",
-   "first": "2026-11-14T03:48:06.546Z"
-  },
-  {
-   "id": "043a02728d18f55c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
-   "u": "https://www.techmeme.com/261113/p37#a261113p37",
-   "d": "2026-11-14T01:15:03.000Z",
-   "first": "2026-11-14T03:48:06.546Z"
-  },
-  {
-   "id": "bf020d1d481d40e1",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
-   "u": "https://www.techmeme.com/261113/p36#a261113p36",
-   "d": "2026-11-14T01:00:12.000Z",
-   "first": "2026-11-14T03:48:06.546Z"
+   "t": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "u": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "d": "2026-11-14T02:52:59.000Z",
+   "first": "2026-11-14T17:13:42.259Z"
   },
   {
    "id": "97f8d6bbcc3da327",
@@ -120,6 +110,16 @@
    "u": "https://www.youtube.com/shorts/CoSptp9tYpY",
    "d": "2026-11-13T22:39:45.000Z",
    "first": "2026-11-13T23:44:36.181Z"
+  },
+  {
+   "id": "b0bc651599dac470",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "No AI Slop: A Manifesto",
+   "u": "https://www.slopmanifesto.com/",
+   "d": "2026-11-13T19:51:56.000Z",
+   "first": "2026-11-14T17:13:42.259Z"
   },
   {
    "id": "93036de22cac18ea",
@@ -160,6 +160,16 @@
    "u": "https://www.transformernews.ai/p/independent-ai-auditors-have-a-recruitment",
    "d": "2026-11-13T16:14:15.000Z",
    "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "51a10aaef09a577e",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "u": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "d": "2026-11-13T15:08:44.000Z",
+   "first": "2026-11-14T17:13:42.259Z"
   },
   {
    "id": "cdd55aa7367a45be",
@@ -1162,16 +1172,6 @@
    "first": "2026-11-07T07:24:09.845Z"
   },
   {
-   "id": "9d2d42780526dc3e",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI is dramatically accelerating AI research",
-   "u": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "d": "2026-11-06T20:27:23.000Z",
-   "first": "2026-11-07T07:24:09.845Z"
-  },
-  {
    "id": "85a382b3e7dc527e",
    "f": "transformer",
    "src": "Transformer",
@@ -1232,16 +1232,6 @@
    "first": "2026-11-06T08:39:12.558Z"
   },
   {
-   "id": "826fdfc5f580923e",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "I struggle to believe that AI R&D is ingenious",
-   "u": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-   "d": "2026-11-06T05:19:04.000Z",
-   "first": "2026-11-07T14:14:07.977Z"
-  },
-  {
    "id": "bff50d92d95a6fb9",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1269,16 +1259,6 @@
    "t": "Anthropic R&D accelerates 📈, GPT-6 Cyber 🔐, Inkling 2 Small 🧠",
    "u": "https://tldr.tech/ai/2026-11-06",
    "d": "2026-11-06T00:00:00.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "a2eb11b3e84d4585",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-   "u": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-   "d": "2026-11-05T23:09:57.000Z",
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
@@ -2712,16 +2692,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "5e257b78c1730cd2",
-   "f": "interconnects",
-   "src": "Interconnects",
-   "cat": "Newsletter",
-   "t": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
-   "u": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
-   "d": "2026-09-08T14:15:25.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "d9cef48d6aa210d7",
    "f": "import-ai",
    "src": "Import AI",
@@ -3443,8 +3413,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",

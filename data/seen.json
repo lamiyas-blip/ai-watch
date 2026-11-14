@@ -85,6 +85,7 @@
   "interconnects": {
    "init": true,
    "ids": [
+    "ac12e5ce93ff31d1",
     "d765d362e2d028eb",
     "d5baa3051e0b0922",
     "3557db7aa5ffe0cb",
@@ -1567,7 +1568,10 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "0656bf677ac62a88",
+    "b0bc651599dac470",
     "dc2473ad60a03efe",
+    "51a10aaef09a577e",
     "780cf657068937d0",
     "d7a889876e983f64",
     "f8ce7ed4b55a1c18",
