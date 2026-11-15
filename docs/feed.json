@@ -1,6 +1,76 @@
 {
- "generated": "2026-11-15T15:17:06.926Z",
+ "generated": "2026-11-15T20:27:07.054Z",
  "items": [
+  {
+   "id": "eb2bcced418d6df5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+   "u": "https://www.techmeme.com/261115/p14#a261115p14",
+   "d": "2026-11-15T19:20:00.000Z",
+   "first": "2026-11-15T20:27:07.054Z"
+  },
+  {
+   "id": "cd24f6901f8324eb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)",
+   "u": "https://www.techmeme.com/261115/p13#a261115p13",
+   "d": "2026-11-15T19:10:00.000Z",
+   "first": "2026-11-15T20:27:07.054Z"
+  },
+  {
+   "id": "10f0445d4e2304f8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)",
+   "u": "https://www.techmeme.com/261115/p12#a261115p12",
+   "d": "2026-11-15T18:55:00.000Z",
+   "first": "2026-11-15T20:27:07.054Z"
+  },
+  {
+   "id": "03ab6d8a6c56cc2b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
+   "u": "https://www.techmeme.com/261115/p11#a261115p11",
+   "d": "2026-11-15T17:15:01.000Z",
+   "first": "2026-11-15T20:27:07.054Z"
+  },
+  {
+   "id": "0d0c664bdda04b15",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+   "u": "https://www.techmeme.com/261115/p10#a261115p10",
+   "d": "2026-11-15T16:30:00.000Z",
+   "first": "2026-11-15T20:27:07.054Z"
+  },
+  {
+   "id": "f9d2b438364d423f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue (Tony Czuczka/Bloomberg)",
+   "u": "https://www.techmeme.com/261115/p8#a261115p8",
+   "d": "2026-11-15T15:50:01.000Z",
+   "first": "2026-11-15T20:27:07.054Z"
+  },
+  {
+   "id": "6198036722d6c05a",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "All AI-generated code should be Open Source",
+   "u": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "d": "2026-11-15T14:46:58.000Z",
+   "first": "2026-11-15T20:27:07.054Z"
+  },
   {
    "id": "e9690f13c160fe96",
    "f": "techmeme",
@@ -82,16 +152,6 @@
    "first": "2026-11-15T07:58:27.391Z"
   },
   {
-   "id": "0f0bff2ebb5e7284",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
-   "u": "https://www.techmeme.com/261114/p23#a261114p23",
-   "d": "2026-11-15T04:15:42.000Z",
-   "first": "2026-11-15T07:58:27.391Z"
-  },
-  {
    "id": "d26d0511248c2840",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -100,46 +160,6 @@
    "u": "https://www.youtube.com/shorts/SeGUXN8XIu8",
    "d": "2026-11-15T01:05:37.000Z",
    "first": "2026-11-15T15:17:06.926Z"
-  },
-  {
-   "id": "3e854df9fb56581b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
-   "u": "https://www.techmeme.com/261114/p20#a261114p20",
-   "d": "2026-11-14T22:05:01.000Z",
-   "first": "2026-11-15T01:24:29.548Z"
-  },
-  {
-   "id": "a8652a9169424a0d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)",
-   "u": "https://www.techmeme.com/261114/p18#a261114p18",
-   "d": "2026-11-14T19:55:01.000Z",
-   "first": "2026-11-14T21:36:48.213Z"
-  },
-  {
-   "id": "2afe46e8ccf0d783",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
-   "u": "https://www.techmeme.com/261114/p17#a261114p17",
-   "d": "2026-11-14T19:01:14.000Z",
-   "first": "2026-11-14T21:36:48.213Z"
-  },
-  {
-   "id": "498d91d1536a92c4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
-   "u": "https://www.techmeme.com/261114/p16#a261114p16",
-   "d": "2026-11-14T18:35:04.000Z",
-   "first": "2026-11-14T21:36:48.213Z"
   },
   {
    "id": "ac12e5ce93ff31d1",
@@ -1250,16 +1270,6 @@
    "u": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
    "d": "2026-11-08T21:23:29.000Z",
    "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
-   "id": "d41ffa110d240afa",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "How I'm fighting the AI brain fry",
-   "u": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-   "d": "2026-11-08T19:37:42.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
   },
   {
    "id": "e10a44c286cf2093",
@@ -3490,7 +3500,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1008 > 1000"
+   "error": "Entity expansion limit exceeded: 1004 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
