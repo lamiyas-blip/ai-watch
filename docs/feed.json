@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-15T07:58:27.391Z",
+ "generated": "2026-11-15T15:17:06.926Z",
  "items": [
+  {
+   "id": "e9690f13c160fe96",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+   "u": "https://www.techmeme.com/261115/p7#a261115p7",
+   "d": "2026-11-15T12:02:16.000Z",
+   "first": "2026-11-15T15:17:06.926Z"
+  },
+  {
+   "id": "c8240bfe1673ccb5",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "The Self-Driving Car With Balls",
+   "u": "https://www.youtube.com/shorts/X3r-mZtPfP8",
+   "d": "2026-11-15T07:12:15.000Z",
+   "first": "2026-11-15T15:17:06.926Z"
+  },
   {
    "id": "ad9cfeb698c81386",
    "f": "techmeme",
@@ -72,6 +92,16 @@
    "first": "2026-11-15T07:58:27.391Z"
   },
   {
+   "id": "d26d0511248c2840",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The Next 4 Years of AI Will Look Nothing Like the Last 4",
+   "u": "https://www.youtube.com/shorts/SeGUXN8XIu8",
+   "d": "2026-11-15T01:05:37.000Z",
+   "first": "2026-11-15T15:17:06.926Z"
+  },
+  {
    "id": "3e854df9fb56581b",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
@@ -109,16 +139,6 @@
    "t": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
    "u": "https://www.techmeme.com/261114/p16#a261114p16",
    "d": "2026-11-14T18:35:04.000Z",
-   "first": "2026-11-14T21:36:48.213Z"
-  },
-  {
-   "id": "51c3c1ae97e0260f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up (Nathan Lambert/Interconnects AI)",
-   "u": "https://www.techmeme.com/261114/p15#a261114p15",
-   "d": "2026-11-14T18:05:02.000Z",
    "first": "2026-11-14T21:36:48.213Z"
   },
   {
@@ -1032,16 +1052,6 @@
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
-   "id": "6b1979dea70f9e2e",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "This Airtaxi is Ready For Primetime!",
-   "u": "https://www.youtube.com/shorts/GcFRheDNh5U",
-   "d": "2026-11-10T04:29:38.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
    "id": "358739b2562e07ab",
    "f": "ai-futures",
    "src": "AI Futures Project",
@@ -1459,16 +1469,6 @@
    "t": "GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡",
    "u": "https://tldr.tech/ai/2026-11-05",
    "d": "2026-11-05T00:00:00.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "32409ecdd1881680",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "The man who handed out LBJ’s money - Robert Caro",
-   "u": "https://www.youtube.com/shorts/CGPQ2-pJ6As",
-   "d": "2026-11-04T23:17:12.000Z",
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
@@ -3490,7 +3490,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1048 > 1000"
+   "error": "Entity expansion limit exceeded: 1008 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3504,58 +3504,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
