@@ -1,6 +1,76 @@
 {
- "generated": "2026-11-15T01:24:29.548Z",
+ "generated": "2026-11-15T07:58:27.391Z",
  "items": [
+  {
+   "id": "ad9cfeb698c81386",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
+   "u": "https://www.techmeme.com/261115/p6#a261115p6",
+   "d": "2026-11-15T07:01:35.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
+  {
+   "id": "f9dbd60dc6ee12a5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
+   "u": "https://www.techmeme.com/261115/p5#a261115p5",
+   "d": "2026-11-15T06:50:01.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
+  {
+   "id": "88ac71f16a353b43",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future's Nvidia\" (Cheng Ting-Fang/Nikkei Asia)",
+   "u": "https://www.techmeme.com/261115/p4#a261115p4",
+   "d": "2026-11-15T06:45:46.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
+  {
+   "id": "7da0ee5ea3819913",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
+   "u": "https://www.techmeme.com/261115/p3#a261115p3",
+   "d": "2026-11-15T06:40:02.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
+  {
+   "id": "52b6382c2695407d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia insiders say Jensen Huang was prone to wild office tantrums, which a source says some employees were surprised hadn't leaked before his public downfall (Thomas Barrabi/New York Post)",
+   "u": "https://www.techmeme.com/261115/p2#a261115p2",
+   "d": "2026-11-15T06:20:01.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
+  {
+   "id": "54b06c07fe28565c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261115/p1#a261115p1",
+   "d": "2026-11-15T05:55:03.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
+  {
+   "id": "0f0bff2ebb5e7284",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
+   "u": "https://www.techmeme.com/261114/p23#a261114p23",
+   "d": "2026-11-15T04:15:42.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
   {
    "id": "3e854df9fb56581b",
    "f": "techmeme",
@@ -79,16 +149,6 @@
    "t": "[AINews] The No AI Slop Manifesto",
    "u": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
    "d": "2026-11-14T08:31:02.000Z",
-   "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "6c7f4ce92dbb2908",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
-   "u": "https://www.techmeme.com/261114/p7#a261114p7",
-   "d": "2026-11-14T07:30:08.000Z",
    "first": "2026-11-14T11:01:35.900Z"
   },
   {
@@ -852,6 +912,16 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
+   "id": "51ae88ead718d217",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Generative AI uses more energy on non-English text",
+   "u": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+   "d": "2026-11-10T15:07:28.000Z",
+   "first": "2026-11-15T07:58:27.391Z"
+  },
+  {
    "id": "8544d1abc4ebd432",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -1199,16 +1269,6 @@
    "t": "We Visited China’s Stargate in Inner Mongolia",
    "u": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
    "d": "2026-11-07T19:01:39.000Z",
-   "first": "2026-11-07T22:24:40.413Z"
-  },
-  {
-   "id": "e34f011bfd81313f",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "The end of Microsoft Research's AI Frontiers group",
-   "u": "https://hunch.net/?p=13764006",
-   "d": "2026-11-07T18:02:17.000Z",
    "first": "2026-11-07T22:24:40.413Z"
   },
   {
@@ -3345,11 +3405,13 @@
  "health": {
   "import-ai": {
    "name": "Import AI",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 403"
   },
   "zvi": {
    "name": "Don't Worry About the Vase",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 403"
   },
   "latent-space": {
    "name": "Latent Space",
@@ -3493,7 +3555,7 @@
   "yt-wes-roth": {
    "name": "Wes Roth",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   }
  }
 }
