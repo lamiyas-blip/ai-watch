@@ -1,6 +1,16 @@
 {
- "generated": "2026-11-14T21:36:48.213Z",
+ "generated": "2026-11-15T01:24:29.548Z",
  "items": [
+  {
+   "id": "3e854df9fb56581b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+   "u": "https://www.techmeme.com/261114/p20#a261114p20",
+   "d": "2026-11-14T22:05:01.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
+  },
   {
    "id": "a8652a9169424a0d",
    "f": "techmeme",
@@ -79,26 +89,6 @@
    "t": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
    "u": "https://www.techmeme.com/261114/p7#a261114p7",
    "d": "2026-11-14T07:30:08.000Z",
-   "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "679151230d52374a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
-   "u": "https://www.techmeme.com/261114/p6#a261114p6",
-   "d": "2026-11-14T07:02:17.000Z",
-   "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "22a30bd0b4c0b071",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
-   "u": "https://www.techmeme.com/261114/p5#a261114p5",
-   "d": "2026-11-14T06:55:00.000Z",
    "first": "2026-11-14T11:01:35.900Z"
   },
   {
@@ -200,6 +190,16 @@
    "u": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
    "d": "2026-11-13T14:16:35.000Z",
    "first": "2026-11-13T18:13:08.213Z"
+  },
+  {
+   "id": "20895dd82058dd7e",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Jensen Huang Resigns After Having Another Affair In Addition to the Chinese Spy",
+   "u": "https://thezvi.substack.com/p/jensen-huang-resigns-after-having",
+   "d": "2026-11-13T12:20:54.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
   },
   {
    "id": "780cf657068937d0",
@@ -390,6 +390,16 @@
    "u": "https://www.youtube.com/shorts/IehCboBcYsA",
    "d": "2026-11-12T17:20:42.000Z",
    "first": "2026-11-12T22:33:40.050Z"
+  },
+  {
+   "id": "f276e96d1bca0309",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "AI #194: Spy Versus Guy",
+   "u": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
+   "d": "2026-11-12T14:31:34.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
   },
   {
    "id": "8822d9b6d06a11b8",
@@ -590,6 +600,16 @@
    "u": "https://www.transformernews.ai/p/hugging-face-appears-to-be-hosting",
    "d": "2026-11-11T18:00:36.000Z",
    "first": "2026-11-11T18:47:17.666Z"
+  },
+  {
+   "id": "9278d5ba48e36ac5",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Fable and Mythos 5.2: The System Card",
+   "u": "https://thezvi.substack.com/p/fable-and-mythos-52-the-system-card",
+   "d": "2026-11-11T16:25:17.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
   },
   {
    "id": "95487c8af6e1eaa8",
@@ -832,6 +852,16 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
+   "id": "8544d1abc4ebd432",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Nvidia CEO Jensen Huang Had an Affair With a Chinese Spy",
+   "u": "https://thezvi.substack.com/p/nvidia-ceo-jensen-huang-had-an-affair",
+   "d": "2026-11-10T13:01:11.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
+  },
+  {
    "id": "41865a0c677f3b34",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1052,6 +1082,26 @@
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
+   "id": "2f770d22771e018e",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "u": "https://thezvi.substack.com/p/ai-r-and-d-is-accelerating-towards",
+   "d": "2026-11-09T14:45:41.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
+  },
+  {
+   "id": "e0a38cee269098fc",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+   "u": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+   "d": "2026-11-09T13:31:34.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
+  },
+  {
    "id": "8062e56304847625",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1182,6 +1232,16 @@
    "first": "2026-11-07T07:24:09.845Z"
   },
   {
+   "id": "fb29f322c5f2941a",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+   "u": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms",
+   "d": "2026-11-06T18:26:12.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
+  },
+  {
    "id": "85a382b3e7dc527e",
    "f": "transformer",
    "src": "Transformer",
@@ -1290,6 +1350,16 @@
    "u": "https://newsletter.semianalysis.com/p/tpu-strikes-the-king",
    "d": "2026-11-05T19:03:45.000Z",
    "first": "2026-11-05T21:37:57.374Z"
+  },
+  {
+   "id": "f26f239ada47b8a5",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "AI #193: Progress May Dramatically Accelerate",
+   "u": "https://thezvi.substack.com/p/ai-193-progress-may-dramatically",
+   "d": "2026-11-05T18:37:37.000Z",
+   "first": "2026-11-15T01:24:29.548Z"
   },
   {
    "id": "ff684e536c215fa1",
@@ -1922,16 +1992,6 @@
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
-   "id": "e6cffff73f9a26af",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "AI #191: The Hackening Begins",
-   "u": "https://thezvi.substack.com/p/ai-191-the-hackening-begins",
-   "d": "2026-10-22T15:13:06.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "8405823ba9037fd0",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1972,16 +2032,6 @@
    "first": "2026-10-22T20:38:45.378Z"
   },
   {
-   "id": "21d0f90e039c6d78",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Misaligned!",
-   "u": "https://thezvi.substack.com/p/misaligned",
-   "d": "2026-10-21T22:24:38.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "334aa381d3c24d71",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2010,16 +2060,6 @@
    "u": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
    "d": "2026-10-21T00:00:00.000Z",
    "first": "2026-10-21T19:25:43.093Z"
-  },
-  {
-   "id": "26e332ac661bc371",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
-   "u": "https://thezvi.substack.com/p/anthropic-does-not-understand-why",
-   "d": "2026-10-20T23:03:05.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "adee386d1f22f970",
@@ -2082,16 +2122,6 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
-   "id": "9f28b4b3731c70b5",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "I Can See Everything",
-   "u": "https://thezvi.substack.com/p/i-can-see-everything",
-   "d": "2026-10-19T13:44:21.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "9699698011cea3b2",
    "f": "import-ai",
    "src": "Import AI",
@@ -2132,16 +2162,6 @@
    "first": "2026-10-18T19:46:31.840Z"
   },
   {
-   "id": "b724fd4b3a6b50ed",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
-   "u": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
-   "d": "2026-10-17T14:42:39.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "62145b1bf93c285a",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2170,16 +2190,6 @@
    "u": "https://www.transformernews.ai/p/leading-the-future-struggles-ai-safety-pacs-gain-ground",
    "d": "2026-10-16T15:13:20.000Z",
    "first": "2026-10-16T18:15:41.908Z"
-  },
-  {
-   "id": "84375ca0a24e993f",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Monthly Roundup #47: October 2026",
-   "u": "https://thezvi.substack.com/p/monthly-roundup-47-october-2026",
-   "d": "2026-10-16T13:54:21.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "c7201d7caeea9334",
@@ -2220,16 +2230,6 @@
    "u": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
    "d": "2026-10-15T13:01:39.000Z",
    "first": "2026-10-15T15:27:27.208Z"
-  },
-  {
-   "id": "fa69eaba2836d09d",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "AI #190: Scion of the Times",
-   "u": "https://thezvi.substack.com/p/ai-190-scion-of-the-times",
-   "d": "2026-10-15T12:03:51.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "fc9b7e23ab2b73f4",
@@ -2922,16 +2922,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "07d5e2249ddb7454",
-   "f": "import-ai",
-   "src": "Import AI",
-   "cat": "Newsletter",
-   "t": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
-   "u": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
-   "d": "2026-07-20T12:31:45.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "a9a711181e5573d2",
    "f": "alignment-forum",
    "src": "Alignment Forum",
@@ -3355,13 +3345,11 @@
  "health": {
   "import-ai": {
    "name": "Import AI",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "zvi": {
    "name": "Don't Worry About the Vase",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "latent-space": {
    "name": "Latent Space",
@@ -3395,7 +3383,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1042 > 1000"
+   "error": "Entity expansion limit exceeded: 1032 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3423,8 +3411,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3441,7 +3428,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1010 > 1000"
+   "error": "Entity expansion limit exceeded: 1048 > 1000"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3461,7 +3448,7 @@
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
    "ok": false,
-   "error": "HTTP 500"
+   "error": "HTTP 404"
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
@@ -3505,7 +3492,8 @@
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 500"
   }
  }
 }
