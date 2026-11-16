@@ -1,85 +1,205 @@
 {
- "generated": "2026-11-16T06:52:57.829Z",
+ "generated": "2026-11-16T16:33:29.935Z",
  "items": [
   {
-   "id": "fa79ee9535ffb8c8",
+   "id": "499ddcb4d4b0e74b",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas (Financial Times)",
-   "u": "https://www.techmeme.com/261116/p2#a261116p2",
-   "d": "2026-11-16T06:05:00.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "OpenAI says it has signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of embedded assessments (OpenAI)",
+   "u": "https://www.techmeme.com/261116/p33#a261116p33",
+   "d": "2026-11-16T16:15:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "0b7bdd0d6bb55c55",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "2bc5a780c9932fdd",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "Sources: the Trump admin plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help them win overseas business (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261115/p29#a261115p29",
-   "d": "2026-11-16T04:40:00.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "Building trustworthy AI by fencing it in, not predicting it",
+   "u": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "d": "2026-11-16T16:04:28.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "55431d6c00391615",
+   "id": "31bef5704865c140",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, bringing total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)",
-   "u": "https://www.techmeme.com/261115/p28#a261115p28",
-   "d": "2026-11-16T04:35:01.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027 (New York Times)",
+   "u": "https://www.techmeme.com/261116/p32#a261116p32",
+   "d": "2026-11-16T15:10:04.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "91fd19bd4e94b3de",
+   "id": "435a872ad09f2441",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Apple launches its Health AI Usage Study, with an OpenEvidence-powered app that answers health questions and can use HealthKit data, for up to 200,000 US users (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261115/p27#a261115p27",
-   "d": "2026-11-16T04:10:02.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "President Trump says he \"would not mind\" the reinstatement of Jensen Huang as Nvidia CEO and \"I don't know that she was a spy at all\", referencing Alice Huang (Emily Goodin/New York Post)",
+   "u": "https://www.techmeme.com/261116/p31#a261116p31",
+   "d": "2026-11-16T14:55:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "fed7676e76e5e665",
+   "id": "4b50e50c8d92d26e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: Jensen Huang had planned to pull back Nvidia's aggressive financing and told neoclouds to get upfront customer payments; Colette Kress may go further (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261115/p24#a261115p24",
-   "d": "2026-11-16T03:30:00.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "Google's TIG reports the first observed instance of attackers using an autonomous AI framework with no human in the loop to turn security patches into exploits (Duncan Riley/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261116/p30#a261116p30",
+   "d": "2026-11-16T14:40:01.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "d4bfed721def6179",
+   "id": "384a1f800e444b7a",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Mount Thor, which is building cloud infrastructure for agentic AI on Apple silicon, raised $45M in a seed round and a Series A co-led by CRV and Conviction (Bradley C/9to5Mac)",
-   "u": "https://www.techmeme.com/261115/p23#a261115p23",
-   "d": "2026-11-16T03:20:01.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "Knit Health, which uses its AI world model to predict patient care needs, forecast treatment impacts, and optimize referrals, raised a $35M Series A led by NEA (Will Maddox/Axios)",
+   "u": "https://www.techmeme.com/261116/p29#a261116p29",
+   "d": "2026-11-16T14:35:05.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "44415aecffacf855",
+   "id": "06a02f76f58b381d",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Toronto-based Blue J, which provides AI-powered tax research software, raised a $176M Series E round led by JMI Equity at a $700M+ valuation (Alex Riehl/BetaKit)",
-   "u": "https://www.techmeme.com/261115/p22#a261115p22",
-   "d": "2026-11-16T02:40:01.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "Tel Aviv- and SF-based Corma, which builds AI agents custom-trained for cyber defense, raised a $125M Series A led by NEA, after raising a $60M seed in August (Angus Loten/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261116/p28#a261116p28",
+   "d": "2026-11-16T14:30:01.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "7ad1719869c40915",
+   "id": "fba3acd9bcbb8ea6",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Samsung aims to be a one-stop shop that builds, runs, and powers AI data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
-   "u": "https://www.techmeme.com/261115/p19#a261115p19",
-   "d": "2026-11-16T01:15:01.000Z",
-   "first": "2026-11-16T06:52:57.829Z"
+   "t": "The US Commerce Department issues an interim rule to limit remote access to advanced AI chips and servers from select countries, such as Singapore and Malaysia (Bloomberg)",
+   "u": "https://www.techmeme.com/261116/p27#a261116p27",
+   "d": "2026-11-16T13:55:01.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "116413f4413f97d3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The Jensen Huang saga is driven by elite factional conflicts: China hawks vs. doves, open vs. closed AI models, and the founder class vs. managerial class (Max Read/Patreon)",
+   "u": "https://www.techmeme.com/261116/p25#a261116p25",
+   "d": "2026-11-16T13:40:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "cdcf74ffe9cc1aa3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Dreamteam, which uses AI agents for CRM tasks like data capture and research, raised $53M across seed and Series A led by Together Fund and Accel, respectively (Jagmeet Singh/TechCrunch)",
+   "u": "https://www.techmeme.com/261116/p24#a261116p24",
+   "d": "2026-11-16T13:05:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "29cce713e6d0defe",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Building AI that can work across the enterprise",
+   "u": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+   "d": "2026-11-16T13:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "f4db107aece0297d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at the Jensen Huang fallout: a threat to Nvidia's organizational moat and its financing of neocloud customers, a win for AI doomers and hawks, and more (Ben Thompson/Stratechery)",
+   "u": "https://www.techmeme.com/261116/p23#a261116p23",
+   "d": "2026-11-16T12:46:46.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "8830afd6a81a2968",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The US-led Pax Silica faces local backlash in the Philippines over a planned AI hub, with concerns about displacement, resources, and threats to sovereignty (New York Times)",
+   "u": "https://www.techmeme.com/261116/p22#a261116p22",
+   "d": "2026-11-16T12:35:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "61b8e7fc3cf09ce4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Wall Street's 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades (Emily Herbert/Financial Times)",
+   "u": "https://www.techmeme.com/261116/p21#a261116p21",
+   "d": "2026-11-16T12:20:01.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "e56156d1ac513351",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "LVMH’s Media Division announces strategic partnership with OpenAI",
+   "u": "https://openai.com/index/lvmh-media-division-partnership",
+   "d": "2026-11-16T09:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "6a459de39983222d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Advancing computer-use agents for healthcare teams",
+   "u": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "d": "2026-11-16T06:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "a46949318a161c29",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "More ways to move care forward with ChatGPT for Healthcare",
+   "u": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "d": "2026-11-16T06:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "d2005029302dcb76",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "3D Printing Entire Buildings is So Wild To Me",
+   "u": "https://www.youtube.com/shorts/ETw45WHQ6Z4",
+   "d": "2026-11-16T05:35:39.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "b51d012ff154a8ad",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
+   "u": "https://tldr.tech/ai/2026-11-16",
+   "d": "2026-11-16T00:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "b685221b08e826c6",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "The King’s Trust and OpenAI launch £1m partnership",
+   "u": "https://openai.com/index/the-kings-trust-and-openai",
+   "d": "2026-11-16T00:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
   },
   {
    "id": "f5e5e982bf829b60",
@@ -882,16 +1002,6 @@
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
-   "id": "f2d20dfc778acfdc",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "When you give a humanoid roller skates",
-   "u": "https://www.youtube.com/shorts/isqwXApzV5E",
-   "d": "2026-11-10T19:35:17.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
    "id": "2c73a09727ca1e76",
    "f": "latent-space",
    "src": "Latent Space",
@@ -972,16 +1082,6 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "29d9c09dd1a8cbc4",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Helping caregivers use AI in everyday life",
-   "u": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "d": "2026-11-10T12:00:00.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
    "id": "ea2338dd86ec192a",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1010,36 +1110,6 @@
    "u": "https://www.youtube.com/watch?v=vug73goPJaM",
    "d": "2026-11-10T10:15:57.000Z",
    "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
-   "id": "17a4001544cdf2f2",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing Businesses in ChatGPT",
-   "u": "https://openai.com/index/introducing-businesses-chatgpt",
-   "d": "2026-11-10T10:00:00.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "b84c47464ca95349",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Closing the AI guidance gap in education",
-   "u": "https://openai.com/index/closing-ai-guidance-gap-education",
-   "d": "2026-11-10T09:00:00.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
-   "id": "8ec86951b8ad7577",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Singapore Airlines elevates travel & work with OpenAI technology",
-   "u": "https://openai.com/index/singapore-airlines-travel-work",
-   "d": "2026-11-10T08:00:00.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
   },
   {
    "id": "7ee278e9e5331dd4",
@@ -1542,16 +1612,6 @@
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
-   "id": "40607cdf83cad3c0",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-   "u": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-   "d": "2026-11-03T04:18:47.000Z",
-   "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
    "id": "cfc53712f0b799ab",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1589,16 +1649,6 @@
    "t": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
    "u": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
    "d": "2026-11-02T17:02:16.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
-  },
-  {
-   "id": "5cda0ef8f2e860c8",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Raising the quality of insights in agentic analytics",
-   "u": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-   "d": "2026-11-02T17:00:00.000Z",
    "first": "2026-11-02T21:59:23.006Z"
   },
   {
@@ -1930,16 +1980,6 @@
    "u": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
    "d": "2026-10-26T12:31:52.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "57f59158d2e339f1",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Apple’s 20B model 📱, Kimi K3.1 Pro 🧠, Block Dessa 🗣️, frontier training security 🔐",
-   "u": "https://tldr.tech/ai/2026-10-26",
-   "d": "2026-10-26T00:00:00.000Z",
-   "first": "2026-10-26T13:39:53.734Z"
   },
   {
    "id": "d37d60eea82fab52",
@@ -3433,7 +3473,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3450,7 +3491,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1004 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
@@ -3464,58 +3505,47 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-mlst": {
    "name": "Machine Learning Street Talk",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-karpathy": {
    "name": "Andrej Karpathy",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-yannic": {
    "name": "Yannic Kilcher",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-two-minute": {
    "name": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   },
   "yt-wes-roth": {
    "name": "Wes Roth",
-   "ok": false,
-   "error": "HTTP 404"
+   "ok": true
   }
  }
 }
