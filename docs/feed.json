@@ -1,6 +1,66 @@
 {
- "generated": "2026-11-15T20:27:07.054Z",
+ "generated": "2026-11-16T00:06:22.129Z",
  "items": [
+  {
+   "id": "f5e5e982bf829b60",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Claude just changed EVERYTHING...",
+   "u": "https://www.youtube.com/watch?v=pjYntsza2FA",
+   "d": "2026-11-15T23:27:16.000Z",
+   "first": "2026-11-16T00:06:22.129Z"
+  },
+  {
+   "id": "55b6dd93c20d778e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "AI’s math progress matters more for AI research than for math",
+   "u": "https://www.youtube.com/shorts/7DO3mOl_OrI",
+   "d": "2026-11-15T23:19:02.000Z",
+   "first": "2026-11-16T00:06:22.129Z"
+  },
+  {
+   "id": "84f8cf2b540b12df",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+   "u": "https://www.techmeme.com/261115/p18#a261115p18",
+   "d": "2026-11-15T23:00:00.000Z",
+   "first": "2026-11-16T00:06:22.129Z"
+  },
+  {
+   "id": "b13d260c0a35dd88",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)",
+   "u": "https://www.techmeme.com/261115/p16#a261115p16",
+   "d": "2026-11-15T22:02:17.000Z",
+   "first": "2026-11-16T00:06:22.129Z"
+  },
+  {
+   "id": "b2147c61b910fd78",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "A step toward defining the Standard Model on a lattice",
+   "u": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "d": "2026-11-15T22:00:01.000Z",
+   "first": "2026-11-16T00:06:22.129Z"
+  },
+  {
+   "id": "aa0fc1bdaa7a5900",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Our new blog for science",
+   "u": "https://openai.com/index/our-new-blog-for-science",
+   "d": "2026-11-15T22:00:00.000Z",
+   "first": "2026-11-16T00:06:22.129Z"
+  },
   {
    "id": "eb2bcced418d6df5",
    "f": "techmeme",
@@ -119,36 +179,6 @@
    "t": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future's Nvidia\" (Cheng Ting-Fang/Nikkei Asia)",
    "u": "https://www.techmeme.com/261115/p4#a261115p4",
    "d": "2026-11-15T06:45:46.000Z",
-   "first": "2026-11-15T07:58:27.391Z"
-  },
-  {
-   "id": "7da0ee5ea3819913",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
-   "u": "https://www.techmeme.com/261115/p3#a261115p3",
-   "d": "2026-11-15T06:40:02.000Z",
-   "first": "2026-11-15T07:58:27.391Z"
-  },
-  {
-   "id": "52b6382c2695407d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia insiders say Jensen Huang was prone to wild office tantrums, which a source says some employees were surprised hadn't leaked before his public downfall (Thomas Barrabi/New York Post)",
-   "u": "https://www.techmeme.com/261115/p2#a261115p2",
-   "d": "2026-11-15T06:20:01.000Z",
-   "first": "2026-11-15T07:58:27.391Z"
-  },
-  {
-   "id": "54b06c07fe28565c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261115/p1#a261115p1",
-   "d": "2026-11-15T05:55:03.000Z",
    "first": "2026-11-15T07:58:27.391Z"
   },
   {
@@ -1052,16 +1082,6 @@
    "first": "2026-11-11T11:17:12.740Z"
   },
   {
-   "id": "78c9fa2283c6ae85",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Work at the Frontier: AI’s effect on freelance work",
-   "u": "https://openai.com/index/ai-effect-on-freelance-work",
-   "d": "2026-11-10T07:00:00.000Z",
-   "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
    "id": "7ee278e9e5331dd4",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1100,16 +1120,6 @@
    "u": "https://tldr.tech/ai/2026-11-10",
    "d": "2026-11-10T00:00:00.000Z",
    "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "88e76f2d28a1c51d",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Cogent and OpenAI build cyber defense factories for enterprises",
-   "u": "https://openai.com/index/cogent-security",
-   "d": "2026-11-10T00:00:00.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
   },
   {
    "id": "e0deee6550892b85",
@@ -1410,16 +1420,6 @@
    "u": "https://tldr.tech/ai/2026-11-06",
    "d": "2026-11-06T00:00:00.000Z",
    "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "30f49388d98061ab",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Which AI is the best liar?",
-   "u": "https://www.youtube.com/watch?v=1NQwfImTseU",
-   "d": "2026-11-05T21:00:50.000Z",
-   "first": "2026-11-05T21:37:57.374Z"
   },
   {
    "id": "5daef2902dd7f4af",
@@ -1920,16 +1920,6 @@
    "u": "https://thezvi.substack.com/p/anthropic-versus-anthropic",
    "d": "2026-10-27T12:49:20.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "91ea0aa7ed1e3f57",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "OpenAI just broke physics...",
-   "u": "https://www.youtube.com/watch?v=lskEzJ7ixw0",
-   "d": "2026-10-27T12:10:55.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
   },
   {
    "id": "bc93f65561465f1e",
@@ -3483,7 +3473,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3514,7 +3505,8 @@
   },
   "yt-ai-explained": {
    "name": "AI Explained",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-dwarkesh": {
    "name": "Dwarkesh Patel",
@@ -3530,7 +3522,8 @@
   },
   "yt-robert-miles": {
    "name": "Robert Miles AI Safety",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-3b1b": {
    "name": "3Blue1Brown",
@@ -3546,7 +3539,8 @@
   },
   "yt-matt-wolfe": {
    "name": "Matt Wolfe",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 404"
   },
   "yt-matthew-berman": {
    "name": "Matthew Berman",
