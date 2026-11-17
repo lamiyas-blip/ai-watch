@@ -3,6 +3,8 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "b3065be4bc69f041",
+    "e183efd89ed57be4",
     "11699b6425dc32bd",
     "638b8cb180c5e0da",
     "2322ccf132e3b37d",
@@ -160,6 +162,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "f1abaf44c12afa31",
     "0a70e19425300ec1",
     "67514f8539e31016",
     "f813be69f328d8cb",
@@ -231,6 +234,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "44e2098490738a71",
     "b51d012ff154a8ad",
     "d2b30d040279a715",
     "2ce057acb0efac4c",
@@ -282,6 +286,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "b58be7763c1978cd",
     "8822d9b6d06a11b8",
     "053df7511bc6032a",
     "956d71ef42ef3fe8",
@@ -315,6 +320,7 @@
    "init": true,
    "ids": [
     "0a206f1c4398f073",
+    "38effceff2809666",
     "a99dd05d47c441c5",
     "5bb9f50796e1c2a7",
     "feaa48436d5247a9",
@@ -540,6 +546,12 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "e8fd26787027d678",
+    "a89b209612f4fd9d",
+    "f324505547bfbf96",
+    "537326aff94ffc29",
+    "6f50dbe5e760d744",
+    "076b094616dbaea5",
     "201b43546ec9b034",
     "933c075b9feca42b",
     "b89f596f5b787b2a",
@@ -1133,18 +1145,13 @@
     "6f7dd26f8a4f7d57",
     "073c774cb69c080a",
     "cb289f0c5d2a1094",
-    "eb2979f6c0697228",
-    "f8e74eacb45dd26b",
-    "65219c7c6e5cdc27",
-    "5bb78faa468b8f73",
-    "78af730bdccdb7f5",
-    "55da42a7457a9691",
-    "696755830d952c4f"
+    "eb2979f6c0697228"
    ]
   },
   "mit-tr": {
    "init": true,
    "ids": [
+    "58a77252ee121edb",
     "f82253da14f2efc5",
     "2bc5a780c9932fdd",
     "29cce713e6d0defe",
@@ -1381,6 +1388,8 @@
   "yt-3b1b": {
    "init": true,
    "ids": [
+    "666e51fe37f241f6",
+    "30bf9ab73248ac4d",
     "949055c4c191f4d4",
     "2a965856ca7614cb",
     "43225a490f5b5ab9",
@@ -1409,6 +1418,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "6b9be6f91c1aef13",
     "3adcf2a371de31c3",
     "b17b5aa3d53ea1ca",
     "ef5264debe3bd00e",

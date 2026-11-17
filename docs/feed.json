@@ -1,75 +1,155 @@
 {
- "generated": "2026-11-17T08:37:53.484Z",
+ "generated": "2026-11-17T17:57:14.864Z",
  "items": [
   {
-   "id": "201b43546ec9b034",
+   "id": "e8fd26787027d678",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice (Reuters)",
-   "u": "https://www.techmeme.com/261117/p4#a261117p4",
-   "d": "2026-11-17T07:30:01.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
+   "t": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)",
+   "u": "https://www.techmeme.com/261117/p42#a261117p42",
+   "d": "2026-11-17T17:50:02.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "933c075b9feca42b",
+   "id": "a89b209612f4fd9d",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom's Hardware)",
-   "u": "https://www.techmeme.com/261117/p3#a261117p3",
-   "d": "2026-11-17T06:20:00.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
+   "t": "Docs: Nvidia stopped reporting Singapore unit revenue in 2025 as it accounted for nearly 50% of global revenue; the unit's revenue rose 72% YoY to $104B in 2025 (Financial Times)",
+   "u": "https://www.techmeme.com/261117/p41#a261117p41",
+   "d": "2026-11-17T17:30:01.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "b89f596f5b787b2a",
+   "id": "f324505547bfbf96",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "The US Commerce Department says it began probing Megaspeed in 2024 over possible export rule violations; Nvidia put Megaspeed on its \"no sell\" list in June 2025 (Kanishka Singh/Reuters)",
-   "u": "https://www.techmeme.com/261117/p2#a261117p2",
-   "d": "2026-11-17T05:55:00.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
+   "t": "Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets (Katrina Manson/Bloomberg)",
+   "u": "https://www.techmeme.com/261117/p39#a261117p39",
+   "d": "2026-11-17T17:10:00.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "0b0aa6be4497a007",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom's Hardware)",
-   "u": "https://www.techmeme.com/261116/p52#a261116p52",
-   "d": "2026-11-17T04:02:44.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
+   "id": "f1abaf44c12afa31",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "What should AI be to us?",
+   "u": "https://www.transformernews.ai/p/what-should-ai-be-to-us",
+   "d": "2026-11-17T17:02:30.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "798ee395adf60266",
+   "id": "537326aff94ffc29",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Filing: Leopold Aschenbrenner's hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged (Sean Conlon/CNBC)",
-   "u": "https://www.techmeme.com/261116/p51#a261116p51",
-   "d": "2026-11-17T03:35:00.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
+   "t": "Source: Nvidia's board is not considering reinstating Huang, after he released a statement saying he \"made serious mistakes\" and fell below \"the standards\" (CNN)",
+   "u": "https://www.techmeme.com/261117/p38#a261117p38",
+   "d": "2026-11-17T17:00:54.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "2dae2fbf569dfd00",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Jensen Huang's daughter remains in a senior Nvidia role; before Jensen Huang resigned, she was his de facto chief of staff with considerable authority (New York Times)",
-   "u": "https://www.techmeme.com/261116/p50#a261116p50",
-   "d": "2026-11-17T03:20:00.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
+   "id": "666e51fe37f241f6",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+   "u": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
+   "d": "2026-11-17T16:43:16.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "2acd0bfbf9d70c76",
+   "id": "30bf9ab73248ac4d",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "Encoding the encyclopedia on a rod",
+   "u": "https://www.youtube.com/shorts/0IZcjWtWmDA",
+   "d": "2026-11-17T16:43:03.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "6f50dbe5e760d744",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)",
-   "u": "https://www.techmeme.com/261116/p49#a261116p49",
-   "d": "2026-11-17T02:31:00.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
+   "t": "Sources: Jensen Huang's daughter Madison, a marketing director, helped steer Nvidia's response to Megaspeed scrutiny and temporarily sidelined a top comms exec (Financial Times)",
+   "u": "https://www.techmeme.com/261117/p37#a261117p37",
+   "d": "2026-11-17T16:30:01.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "b3065be4bc69f041",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+   "u": "https://latent.space/p/cloudflare/",
+   "d": "2026-11-17T15:00:00.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "076b094616dbaea5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Bloomberg)",
+   "u": "https://www.techmeme.com/261117/p28#a261117p28",
+   "d": "2026-11-17T14:40:01.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "58a77252ee121edb",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Research Reports",
+   "u": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "d": "2026-11-17T14:39:46.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "b58be7763c1978cd",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Productiv-icky",
+   "u": "https://www.bensbites.com/p/productiv-icky",
+   "d": "2026-11-17T14:14:18.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "6b9be6f91c1aef13",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "OpenAI's New Breakthrough Is... Utter Chaos",
+   "u": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+   "d": "2026-11-17T12:46:24.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "e183efd89ed57be4",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+   "u": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+   "d": "2026-11-17T09:24:56.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
+  },
+  {
+   "id": "44e2098490738a71",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Perplexity Research 🧪, NVIDIA Rubin HPC 🖥️, OpenAI safety assessments 👨‍💻",
+   "u": "https://tldr.tech/ai/2026-11-17",
+   "d": "2026-11-17T00:00:00.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
    "id": "0a206f1c4398f073",
@@ -80,6 +160,16 @@
    "u": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
    "d": "2026-11-17T00:00:00.000Z",
    "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "38effceff2809666",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing OpenAI for Chile",
+   "u": "https://openai.com/index/introducing-openai-for-chile",
+   "d": "2026-11-17T00:00:00.000Z",
+   "first": "2026-11-17T17:57:14.864Z"
   },
   {
    "id": "3d7071d54dcf91bf",
@@ -102,16 +192,6 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
-   "id": "b029e5c166f5f606",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
-   "u": "https://www.techmeme.com/261116/p43#a261116p43",
-   "d": "2026-11-16T21:05:01.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
    "id": "f82253da14f2efc5",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -126,7 +206,7 @@
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
    "cat": "YouTube",
-   "t": "We could be 12 months away from AIs that can overthrow the government",
+   "t": "AIs might overthrow the government within a year – Paul Christiano",
    "u": "https://www.youtube.com/watch?v=SyHM5hNPAEo",
    "d": "2026-11-16T18:08:23.000Z",
    "first": "2026-11-17T00:32:29.764Z"
@@ -136,7 +216,7 @@
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "Box CEO Explains How AI Is Changing Software",
+   "t": "Box CEO Explains Why AI Makes Software Features Obsolete",
    "u": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
    "d": "2026-11-16T17:42:57.000Z",
    "first": "2026-11-17T00:32:29.764Z"
@@ -520,16 +600,6 @@
    "u": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
    "d": "2026-11-13T09:04:13.000Z",
    "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
-   "id": "6b82b9aee3d05ab9",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "u": "https://openai.com/business/customer-stories/shield",
-   "d": "2026-11-13T08:00:00.000Z",
-   "first": "2026-11-14T03:48:06.546Z"
   },
   {
    "id": "6be5adf498abc800",
@@ -1292,16 +1362,6 @@
    "first": "2026-11-08T23:14:30.112Z"
   },
   {
-   "id": "a66d0dcbf429af13",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "u": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
-   "d": "2026-11-08T21:23:29.000Z",
-   "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
    "id": "e10a44c286cf2093",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -1330,16 +1390,6 @@
    "u": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
    "d": "2026-11-07T16:24:47.000Z",
    "first": "2026-11-07T18:55:25.507Z"
-  },
-  {
-   "id": "0761c08a044e8cd4",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Anthropic IPO: Whither Now?",
-   "u": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-   "d": "2026-11-07T03:04:53.000Z",
-   "first": "2026-11-07T07:24:09.845Z"
   },
   {
    "id": "fb29f322c5f2941a",
@@ -1509,16 +1559,6 @@
    "t": "What the blue tsunami means for AI policy",
    "u": "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation",
    "d": "2026-11-04T15:48:33.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "2be127e84390bfb7",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Securing the agentic enterprise with data lineage",
-   "u": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-   "d": "2026-11-04T13:00:00.000Z",
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
@@ -1892,16 +1932,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "bc93f65561465f1e",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "GPT-6.1 Terra ⚡, Anthropic IPO filing 📈, agent native git 👨‍💻",
-   "u": "https://tldr.tech/ai/2026-10-27",
-   "d": "2026-10-27T00:00:00.000Z",
-   "first": "2026-10-27T14:42:55.473Z"
-  },
-  {
    "id": "97d2605547a5eac9",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2152,16 +2182,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "d8b331098725868c",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "Gemini 4 Argon Is Not What I Expected",
-   "u": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-   "d": "2026-10-19T08:49:21.000Z",
-   "first": "2026-10-19T15:10:12.575Z"
-  },
-  {
    "id": "d8c55bdb6961d5c7",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2230,16 +2250,6 @@
    "u": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
    "d": "2026-10-15T16:08:03.000Z",
    "first": "2026-10-15T19:17:47.223Z"
-  },
-  {
-   "id": "14758153dc578c9d",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "OpenAI’s spy shows it needs to grow up, fast",
-   "u": "https://www.transformernews.ai/p/openai-spy-exposes-wider-security-problem",
-   "d": "2026-10-15T15:01:20.000Z",
-   "first": "2026-10-15T15:27:27.208Z"
   },
   {
    "id": "03dc4200d7e27134",
@@ -2579,16 +2589,6 @@
    "t": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
    "u": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
    "d": "2026-09-25T15:58:22.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "1ae53e3b6b534815",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "50 years of tech devices",
-   "u": "https://www.bensbites.com/p/50-years-of-tech-devices",
-   "d": "2026-09-25T13:50:24.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2932,16 +2932,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "816790ff40c90352",
-   "f": "yt-3b1b",
-   "src": "3Blue1Brown",
-   "cat": "YouTube",
-   "t": "The 64 sugar cubes puzzle",
-   "u": "https://www.youtube.com/shorts/6XPlmCDNLNc",
-   "d": "2026-07-24T15:05:39.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "a9a711181e5573d2",
    "f": "alignment-forum",
    "src": "Alignment Forum",
@@ -2949,16 +2939,6 @@
    "t": "AI 2040: Plan A",
    "u": "https://www.alignmentforum.org/posts/pFzctpJBat95SrCyC/ai-2040-plan-a",
    "d": "2026-07-20T01:52:20.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "87acba0ea7820de2",
-   "f": "yt-3b1b",
-   "src": "3Blue1Brown",
-   "cat": "YouTube",
-   "t": "But what is cross-entropy? | Compression is Intelligence Part 2",
-   "u": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
-   "d": "2026-07-16T11:56:04.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3405,7 +3385,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1098 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,8 +3413,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
@@ -3451,7 +3430,7 @@
   "reddit-localllama": {
    "name": "r/LocalLLaMA (top of week)",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1022 > 1000"
+   "error": "HTTP 429"
   },
   "reddit-singularity": {
    "name": "r/singularity (top of week)",
