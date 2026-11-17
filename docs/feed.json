@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-17T00:32:29.764Z",
+ "generated": "2026-11-17T08:37:53.484Z",
  "items": [
+  {
+   "id": "201b43546ec9b034",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A review of 300+ Chinese documents shows AI distillation has moved from academic experiments to widespread industrial use, with Beijing encouraging the practice (Reuters)",
+   "u": "https://www.techmeme.com/261117/p4#a261117p4",
+   "d": "2026-11-17T07:30:01.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "933c075b9feca42b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom's Hardware)",
+   "u": "https://www.techmeme.com/261117/p3#a261117p3",
+   "d": "2026-11-17T06:20:00.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "b89f596f5b787b2a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The US Commerce Department says it began probing Megaspeed in 2024 over possible export rule violations; Nvidia put Megaspeed on its \"no sell\" list in June 2025 (Kanishka Singh/Reuters)",
+   "u": "https://www.techmeme.com/261117/p2#a261117p2",
+   "d": "2026-11-17T05:55:00.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "0b0aa6be4497a007",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic tells investors Claude Mythos Preview got its AI running on AMD GPUs in ~3 days with \"basically no human intervention\", vs. the usual 6-12 months (Shane Downing/Tom's Hardware)",
+   "u": "https://www.techmeme.com/261116/p52#a261116p52",
+   "d": "2026-11-17T04:02:44.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "798ee395adf60266",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Leopold Aschenbrenner's hedge fund Situational Awareness, after nearly blowing up, loaded back up on AI stocks at the end of Q3; all have since plunged (Sean Conlon/CNBC)",
+   "u": "https://www.techmeme.com/261116/p51#a261116p51",
+   "d": "2026-11-17T03:35:00.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "2dae2fbf569dfd00",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Jensen Huang's daughter remains in a senior Nvidia role; before Jensen Huang resigned, she was his de facto chief of staff with considerable authority (New York Times)",
+   "u": "https://www.techmeme.com/261116/p50#a261116p50",
+   "d": "2026-11-17T03:20:00.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "2acd0bfbf9d70c76",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "macOS 27.3 beta warns if an app would get full device control, nudging users to \"Choose Apps\" for the app to control instead, brought on by AI apps' popularity (Juli Clover/MacRumors)",
+   "u": "https://www.techmeme.com/261116/p49#a261116p49",
+   "d": "2026-11-17T02:31:00.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "0a206f1c4398f073",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Strengthening NATO and allied cyber defenses with AI",
+   "u": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "d": "2026-11-17T00:00:00.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
   {
    "id": "3d7071d54dcf91bf",
    "f": "yt-matt-wolfe",
@@ -32,16 +112,6 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
-   "id": "fc3b2c9a25b01b7a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)",
-   "u": "https://www.techmeme.com/261116/p40#a261116p40",
-   "d": "2026-11-16T18:55:00.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
    "id": "f82253da14f2efc5",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -49,16 +119,6 @@
    "t": "The open-source movement wants Jensen Huang back",
    "u": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
    "d": "2026-11-16T18:38:47.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "651316978bc6629a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI announces new tools to combat CSAM, including an image classifier and warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
-   "u": "https://www.techmeme.com/261116/p39#a261116p39",
-   "d": "2026-11-16T18:10:01.000Z",
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
@@ -72,26 +132,6 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
-   "id": "1d23db49410ffa8b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)",
-   "u": "https://www.techmeme.com/261116/p38#a261116p38",
-   "d": "2026-11-16T18:05:01.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "a68671bb5380be64",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)",
-   "u": "https://www.techmeme.com/261116/p37#a261116p37",
-   "d": "2026-11-16T17:43:06.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
    "id": "1c0d532082027dc0",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -99,16 +139,6 @@
    "t": "Box CEO Explains How AI Is Changing Software",
    "u": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
    "d": "2026-11-16T17:42:57.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "888a3f2aa64daf71",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
-   "u": "https://www.techmeme.com/261116/p36#a261116p36",
-   "d": "2026-11-16T17:20:03.000Z",
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
@@ -129,16 +159,6 @@
    "t": "Strengthening the fight against online child sexual abuse with new tools and support",
    "u": "https://openai.com/index/strengthening-online-child-safety",
    "d": "2026-11-16T17:00:00.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "fbd4204d550e0fe8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Noeri, which is developing AI software to review and suggest improvements for its clients' AI models, coding tools, and more, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)",
-   "u": "https://www.techmeme.com/261116/p35#a261116p35",
-   "d": "2026-11-16T16:55:01.000Z",
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
@@ -172,6 +192,16 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
+   "id": "d8986de235745a4f",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Revolut raises ambition without lowering the bar",
+   "u": "https://openai.com/business/customer-stories/revolut",
+   "d": "2026-11-16T09:30:00.000Z",
+   "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
    "id": "e56156d1ac513351",
    "f": "openai-news",
    "src": "OpenAI",
@@ -192,22 +222,22 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
-   "id": "6a459de39983222d",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Advancing computer-use agents for healthcare teams",
-   "u": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "d": "2026-11-16T06:00:00.000Z",
-   "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
    "id": "a46949318a161c29",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "More ways to move care forward with ChatGPT for Healthcare",
    "u": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+   "d": "2026-11-16T06:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "6a459de39983222d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Advancing computer-use agents for healthcare teams",
+   "u": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
    "d": "2026-11-16T06:00:00.000Z",
    "first": "2026-11-16T16:33:29.935Z"
   },
@@ -602,16 +632,6 @@
    "first": "2026-11-12T22:33:40.050Z"
   },
   {
-   "id": "bebe362e67886a9a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "u": "https://openai.com/business/customer-stories/amplitude",
-   "d": "2026-11-12T20:00:00.000Z",
-   "first": "2026-11-13T02:59:53.627Z"
-  },
-  {
    "id": "864de779b0661804",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -680,16 +700,6 @@
    "u": "https://www.youtube.com/watch?v=gPNiuyYirfw",
    "d": "2026-11-12T13:41:41.000Z",
    "first": "2026-11-12T16:58:30.450Z"
-  },
-  {
-   "id": "a8cd0bd46b7c8aba",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Gondola doubles revenue as its team builds more with Codex",
-   "u": "https://openai.com/business/customer-stories/gondola",
-   "d": "2026-11-12T12:00:00.000Z",
-   "first": "2026-11-13T02:59:53.627Z"
   },
   {
    "id": "8de330be7b3bd5d4",
@@ -3395,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1008 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
