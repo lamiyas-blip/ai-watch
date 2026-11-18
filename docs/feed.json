@@ -1,65 +1,115 @@
 {
- "generated": "2026-11-18T07:45:04.855Z",
+ "generated": "2026-11-18T16:46:40.604Z",
  "items": [
   {
-   "id": "1b97ec01f37fab93",
+   "id": "facd774426429f6d",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A Gallup survey of 15,925 people aged 15 to 22 across 16 countries finds that more than 33% rely on AI for companionship, rising to 50% among daily AI users (Jason Parham/Wired)",
-   "u": "https://www.techmeme.com/261118/p4#a261118p4",
-   "d": "2026-11-18T07:30:02.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
+   "t": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's \"safety\" branding and its \"reckless attempt\" to build RSI (Center for AI Safety)",
+   "u": "https://www.techmeme.com/261118/p30#a261118p30",
+   "d": "2026-11-18T16:01:45.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
-   "id": "08a79a20811a895b",
+   "id": "e108e7ee3dc12fbe",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Anthropic IPO is set to redraw VC power rankings, with lesser-known firms like Spark Capital poised for outsized returns compared with larger, blue-chip rivals (George Hammond/Financial Times)",
-   "u": "https://www.techmeme.com/261118/p3#a261118p3",
-   "d": "2026-11-18T07:00:41.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
+   "t": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\" (Steven Levy/Wired)",
+   "u": "https://www.techmeme.com/261118/p29#a261118p29",
+   "d": "2026-11-18T15:30:01.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
-   "id": "5ed178b14babacb7",
+   "id": "f81a71a6e0cb4535",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "LanceDB, which makes a multimodal lakehouse for AI training, built on the open format Lance, raised a $57.5M Series B led by Bessemer and Innovation Endeavors (Kyt Dotson/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261117/p72#a261117p72",
-   "d": "2026-11-18T04:30:05.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
+   "t": "Tencent President Martin Lau says the US' new \"remote access\" rules on Chinese chip access \"sets everyone back in China\" and will delay new AI model training (Juro Osawa/The Information)",
+   "u": "https://www.techmeme.com/261118/p27#a261118p27",
+   "d": "2026-11-18T15:10:00.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
-   "id": "8c064bf9398b4e56",
+   "id": "c5dcfc8f0a47b8e5",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: former Nvidia exec Jay Puri, who oversaw chip clients like Alice Huang, controlled chip sales to Super Micro; Puri is married to an ex-Super Micro exec (The Information)",
-   "u": "https://www.techmeme.com/261117/p71#a261117p71",
-   "d": "2026-11-18T04:15:00.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
+   "t": "US House Democrats launch an investigation into Commerce Secretary Howard Lutnick and his family's ties to Nvidia, laying the groundwork for oversight in 2027 (Chris Marquette/Politico)",
+   "u": "https://www.techmeme.com/261118/p25#a261118p25",
+   "d": "2026-11-18T14:55:01.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
-   "id": "c455ab3bacd28776",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "3c2567d45f690925",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "Sources: a faction of Nvidia board members is pushing for Jensen Huang's return despite Chair Harvey Jones stating the board has no plans to reinstate Huang (Semafor)",
-   "u": "https://www.techmeme.com/261117/p69#a261117p69",
-   "d": "2026-11-18T02:50:08.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
+   "t": "The AI Hype Index: AI is everywhere",
+   "u": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+   "d": "2026-11-18T14:42:44.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
-   "id": "efdbacdcc89db065",
+   "id": "724069d6211f0837",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic's IPO midpoint, the average employee's equity is valued at $72M (Bloomberg)",
-   "u": "https://www.techmeme.com/261117/p67#a261117p67",
-   "d": "2026-11-18T01:50:07.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
+   "t": "Sources: the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage (Alexandra Alper/Reuters)",
+   "u": "https://www.techmeme.com/261118/p23#a261118p23",
+   "d": "2026-11-18T14:36:07.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
+  },
+  {
+   "id": "5a3990d0860172f9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas (Alex Weprin/The Hollywood Reporter)",
+   "u": "https://www.techmeme.com/261118/p22#a261118p22",
+   "d": "2026-11-18T14:21:09.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
+  },
+  {
+   "id": "b30314c5285af4ad",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: ByteDance is in advanced talks with Microsoft to spend an additional ~$500M on Azure, primarily to access OpenAI models, drawing complaints from OpenAI (The Information)",
+   "u": "https://www.techmeme.com/261118/p21#a261118p21",
+   "d": "2026-11-18T14:07:15.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
+  },
+  {
+   "id": "f4a7e54a63fb136a",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "AI video just got scary good...",
+   "u": "https://www.youtube.com/watch?v=Na1v2yaUXlY",
+   "d": "2026-11-18T11:00:34.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
+  },
+  {
+   "id": "db218993f756b1ca",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "This smell startup says its AI nose is as good as a human’s",
+   "u": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "d": "2026-11-18T10:20:30.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
+  },
+  {
+   "id": "8ffcab006331cb39",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+   "u": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+   "d": "2026-11-18T10:19:04.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
    "id": "d9af04b4b06789d6",
@@ -69,16 +119,6 @@
    "t": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
    "u": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
    "d": "2026-11-18T01:43:27.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
-  },
-  {
-   "id": "1beebedee8282f7d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Wall Street execs and the NSA told Congress this week's outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models (Jeff Stein/The Washington Sun)",
-   "u": "https://www.techmeme.com/261117/p66#a261117p66",
-   "d": "2026-11-18T01:15:01.000Z",
    "first": "2026-11-18T07:45:04.855Z"
   },
   {
@@ -92,14 +132,24 @@
    "first": "2026-11-18T07:45:04.855Z"
   },
   {
-   "id": "7143884e1d959678",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff (Tim Fernholz/TechCrunch)",
-   "u": "https://www.techmeme.com/261117/p63#a261117p63",
-   "d": "2026-11-18T00:00:14.000Z",
-   "first": "2026-11-18T00:19:50.445Z"
+   "id": "f828d0c67c509723",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "GPT-6.2 Astra 🧠, Microsoft’s seven models 🚀, Replit Missions 🤖",
+   "u": "https://tldr.tech/ai/2026-11-18",
+   "d": "2026-11-18T00:00:00.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
+  },
+  {
+   "id": "26db65f0079facad",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "u": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "d": "2026-11-18T00:00:00.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
    "id": "6db33f699c66fc21",
@@ -156,7 +206,7 @@
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
    "cat": "YouTube",
-   "t": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+   "t": "How to compress text to 1 bit per character | Information theory, part 3",
    "u": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
    "d": "2026-11-17T16:43:16.000Z",
    "first": "2026-11-17T17:57:14.864Z"
@@ -402,22 +452,22 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
-   "id": "a46949318a161c29",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "More ways to move care forward with ChatGPT for Healthcare",
-   "u": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "d": "2026-11-16T06:00:00.000Z",
-   "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
    "id": "6a459de39983222d",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Advancing computer-use agents for healthcare teams",
    "u": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+   "d": "2026-11-16T06:00:00.000Z",
+   "first": "2026-11-16T16:33:29.935Z"
+  },
+  {
+   "id": "a46949318a161c29",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "More ways to move care forward with ChatGPT for Healthcare",
+   "u": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
    "d": "2026-11-16T06:00:00.000Z",
    "first": "2026-11-16T16:33:29.935Z"
   },
@@ -450,16 +500,6 @@
    "u": "https://openai.com/index/the-kings-trust-and-openai",
    "d": "2026-11-16T00:00:00.000Z",
    "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
-   "id": "29fa5c100336a563",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "At Holiday Extras, dots get to work before anyone asks",
-   "u": "https://openai.com/business/customer-stories/holiday-extras-dots",
-   "d": "2026-11-16T00:00:00.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
   },
   {
    "id": "f5e5e982bf829b60",
@@ -1402,16 +1442,6 @@
    "first": "2026-11-08T23:14:30.112Z"
   },
   {
-   "id": "efa20a107ecdbba5",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-   "u": "https://latent.space/p/cs146s/",
-   "d": "2026-11-08T21:41:44.000Z",
-   "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
    "id": "ee53d53e3e5435a2",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -1469,16 +1499,6 @@
    "t": "Innovation Council’s directors include execs at David Sacks’ VC firm",
    "u": "https://www.transformernews.ai/p/innovation-council-david-sacks-jd-vance",
    "d": "2026-11-06T14:34:18.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "57d2139dd42a5d7b",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-   "u": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-   "d": "2026-11-06T10:00:00.000Z",
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
@@ -1570,16 +1590,6 @@
    "u": "https://tldr.tech/ai/2026-11-05",
    "d": "2026-11-05T00:00:00.000Z",
    "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "d9155f40638a6f86",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "u": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "d": "2026-11-04T18:50:55.000Z",
-   "first": "2026-11-05T00:04:19.224Z"
   },
   {
    "id": "d765d362e2d028eb",
@@ -1762,16 +1772,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "104f3daa621c29a3",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "my bots just BROKE Wall St...",
-   "u": "https://www.youtube.com/watch?v=rY8FuDONHxw",
-   "d": "2026-10-30T18:39:37.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
    "id": "d5baa3051e0b0922",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1900,16 +1900,6 @@
    "u": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
    "d": "2026-10-28T12:10:55.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "89245e54ab3b033c",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Genie 4 worlds 🌍, Frontier Code 2 👨‍💻, AI drug discovery 🧬",
-   "u": "https://tldr.tech/ai/2026-10-28",
-   "d": "2026-10-28T00:00:00.000Z",
-   "first": "2026-10-28T15:33:34.833Z"
   },
   {
    "id": "f64c35abba15b399",
@@ -3405,7 +3395,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1052 > 1000"
+   "error": "Entity expansion limit exceeded: 1004 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
