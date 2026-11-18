@@ -1,35 +1,105 @@
 {
- "generated": "2026-11-17T17:57:14.864Z",
+ "generated": "2026-11-18T00:19:50.445Z",
  "items": [
   {
-   "id": "e8fd26787027d678",
+   "id": "7143884e1d959678",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)",
-   "u": "https://www.techmeme.com/261117/p42#a261117p42",
-   "d": "2026-11-17T17:50:02.000Z",
-   "first": "2026-11-17T17:57:14.864Z"
+   "t": "Colette Kress says Nvidia will no longer sell H200 chips in China, ending its role in a deal brokered by Huang and Trump that let the US collect a 25% tariff (Tim Fernholz/TechCrunch)",
+   "u": "https://www.techmeme.com/261117/p63#a261117p63",
+   "d": "2026-11-18T00:00:14.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
   },
   {
-   "id": "a89b209612f4fd9d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Docs: Nvidia stopped reporting Singapore unit revenue in 2025 as it accounted for nearly 50% of global revenue; the unit's revenue rose 72% YoY to $104B in 2025 (Financial Times)",
-   "u": "https://www.techmeme.com/261117/p41#a261117p41",
-   "d": "2026-11-17T17:30:01.000Z",
-   "first": "2026-11-17T17:57:14.864Z"
+   "id": "6db33f699c66fc21",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "ChatGPT 6.2 Astra is \"A Mess\"",
+   "u": "https://www.youtube.com/shorts/LxKNPrXBuyU",
+   "d": "2026-11-17T23:38:50.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
   },
   {
-   "id": "f324505547bfbf96",
+   "id": "1e874a879c1c3a71",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Vals: in simulated scenarios, AI models from Anthropic, Google, xAI, DeepSeek, and OpenAI identified civilians, ambulances, and a school as military targets (Katrina Manson/Bloomberg)",
-   "u": "https://www.techmeme.com/261117/p39#a261117p39",
-   "d": "2026-11-17T17:10:00.000Z",
-   "first": "2026-11-17T17:57:14.864Z"
+   "t": "Nvidia interim CEO Colette Kress says the company will stay \"disciplined and selective\" in supporting neoclouds; CoreWeave and Nebius jump 9%+ after hours (Ina Fried/Axios)",
+   "u": "https://www.techmeme.com/261117/p62#a261117p62",
+   "d": "2026-11-17T23:35:04.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "7bc3eec1ae771194",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)",
+   "u": "https://www.techmeme.com/261117/p59#a261117p59",
+   "d": "2026-11-17T22:15:01.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "5c055eefe34306dc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
+   "u": "https://www.techmeme.com/261117/p57#a261117p57",
+   "d": "2026-11-17T21:45:02.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "32c1cea5d646abee",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
+   "u": "https://www.techmeme.com/261117/p56#a261117p56",
+   "d": "2026-11-17T21:26:56.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "8103ff5d7bcd30d7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261117/p54#a261117p54",
+   "d": "2026-11-17T21:05:01.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "d1770d258fe5b64a",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Fast Can AI Become an Expert?",
+   "u": "https://www.youtube.com/shorts/o7D3wiHnU4k",
+   "d": "2026-11-17T20:39:17.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "c377a61fcc31adac",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "OpenAI JUST made EVERYONE MAD...",
+   "u": "https://www.youtube.com/watch?v=tEysfZGzJc8",
+   "d": "2026-11-17T20:38:00.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "8a52aeda870fa7ad",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing GPT-6.2 Astra and Sol",
+   "u": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "d": "2026-11-17T17:45:00.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
   },
   {
    "id": "f1abaf44c12afa31",
@@ -39,16 +109,6 @@
    "t": "What should AI be to us?",
    "u": "https://www.transformernews.ai/p/what-should-ai-be-to-us",
    "d": "2026-11-17T17:02:30.000Z",
-   "first": "2026-11-17T17:57:14.864Z"
-  },
-  {
-   "id": "537326aff94ffc29",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Nvidia's board is not considering reinstating Huang, after he released a statement saying he \"made serious mistakes\" and fell below \"the standards\" (CNN)",
-   "u": "https://www.techmeme.com/261117/p38#a261117p38",
-   "d": "2026-11-17T17:00:54.000Z",
    "first": "2026-11-17T17:57:14.864Z"
   },
   {
@@ -72,16 +132,6 @@
    "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "6f50dbe5e760d744",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Jensen Huang's daughter Madison, a marketing director, helped steer Nvidia's response to Megaspeed scrutiny and temporarily sidelined a top comms exec (Financial Times)",
-   "u": "https://www.techmeme.com/261117/p37#a261117p37",
-   "d": "2026-11-17T16:30:01.000Z",
-   "first": "2026-11-17T17:57:14.864Z"
-  },
-  {
    "id": "b3065be4bc69f041",
    "f": "latent-space",
    "src": "Latent Space",
@@ -89,16 +139,6 @@
    "t": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
    "u": "https://latent.space/p/cloudflare/",
    "d": "2026-11-17T15:00:00.000Z",
-   "first": "2026-11-17T17:57:14.864Z"
-  },
-  {
-   "id": "076b094616dbaea5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic is guiding prospective IPO investors that it expects to price its shares at or above the high end of its $70 to $78 marketed range (Bloomberg)",
-   "u": "https://www.techmeme.com/261117/p28#a261117p28",
-   "d": "2026-11-17T14:40:01.000Z",
    "first": "2026-11-17T17:57:14.864Z"
   },
   {
@@ -142,6 +182,16 @@
    "first": "2026-11-17T17:57:14.864Z"
   },
   {
+   "id": "b43248eca70f16e2",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Introducing ChatGPT for Sales",
+   "u": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "d": "2026-11-17T08:00:00.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
    "id": "44e2098490738a71",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -160,6 +210,16 @@
    "u": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
    "d": "2026-11-17T00:00:00.000Z",
    "first": "2026-11-17T08:37:53.484Z"
+  },
+  {
+   "id": "9b26dc471b53d09a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Astra for Law leads in legal intelligence",
+   "u": "https://openai.com/index/astra-law-6-2",
+   "d": "2026-11-17T00:00:00.000Z",
+   "first": "2026-11-18T00:19:50.445Z"
   },
   {
    "id": "38effceff2809666",
@@ -382,26 +442,6 @@
    "first": "2026-11-16T00:06:22.129Z"
   },
   {
-   "id": "b2147c61b910fd78",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "A step toward defining the Standard Model on a lattice",
-   "u": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "d": "2026-11-15T22:00:01.000Z",
-   "first": "2026-11-16T00:06:22.129Z"
-  },
-  {
-   "id": "aa0fc1bdaa7a5900",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Our new blog for science",
-   "u": "https://openai.com/index/our-new-blog-for-science",
-   "d": "2026-11-15T22:00:00.000Z",
-   "first": "2026-11-16T00:06:22.129Z"
-  },
-  {
    "id": "6198036722d6c05a",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -540,16 +580,6 @@
    "u": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
    "d": "2026-11-13T15:08:44.000Z",
    "first": "2026-11-14T17:13:42.259Z"
-  },
-  {
-   "id": "cdd55aa7367a45be",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing ChatGPT Wallet",
-   "u": "https://openai.com/index/introducing-chatgpt-wallet",
-   "d": "2026-11-13T15:00:00.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
   },
   {
    "id": "be9fc153ca4d1eca",
@@ -932,16 +962,6 @@
    "first": "2026-11-11T18:47:17.666Z"
   },
   {
-   "id": "ba79006827423413",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "The New Ring Camera Flies Around Your House",
-   "u": "https://www.youtube.com/shorts/Xtb3Pua0e8s",
-   "d": "2026-11-11T15:00:23.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
    "id": "d1194824432ded60",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1306,7 +1326,7 @@
    "f": "mit-tr",
    "src": "MIT Technology Review",
    "cat": "News",
-   "t": "Innovating with AI in the special chemicals industry",
+   "t": "Innovating with AI in the specialty chemicals industry",
    "u": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
    "d": "2026-11-09T13:00:00.000Z",
    "first": "2026-11-09T20:57:42.655Z"
@@ -1360,16 +1380,6 @@
    "u": "https://latent.space/p/cs146s/",
    "d": "2026-11-08T21:41:44.000Z",
    "first": "2026-11-08T23:14:30.112Z"
-  },
-  {
-   "id": "e10a44c286cf2093",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How LBJ Fooled the Segregationists",
-   "u": "https://www.youtube.com/shorts/S4NYamZuts4",
-   "d": "2026-11-07T21:53:54.000Z",
-   "first": "2026-11-08T01:35:46.914Z"
   },
   {
    "id": "ee53d53e3e5435a2",
@@ -1860,16 +1870,6 @@
    "u": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
    "d": "2026-10-28T12:10:55.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "0630364f37a4cc96",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "Here's how to build ANYTHING with AI...",
-   "u": "https://www.youtube.com/watch?v=6-sMVePCKS4",
-   "d": "2026-10-28T07:36:56.000Z",
-   "first": "2026-10-28T08:47:45.290Z"
   },
   {
    "id": "89245e54ab3b033c",
@@ -3385,7 +3385,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1098 > 1000"
+   "error": "Entity expansion limit exceeded: 1052 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3413,7 +3413,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "The operation was aborted due to timeout"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
