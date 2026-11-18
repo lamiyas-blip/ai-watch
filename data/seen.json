@@ -141,6 +141,7 @@
   "ai-futures": {
    "init": true,
    "ids": [
+    "8b0018a8c1669406",
     "4a942fcb8ef5055e",
     "358739b2562e07ab",
     "244b5b45cd6fd1a9",
@@ -321,7 +322,11 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "96c1187cc728c509",
+    "a54f3e68cce4f468",
+    "3d7a5753659e9137",
     "26db65f0079facad",
+    "95e07a71c91fb9ca",
     "8a52aeda870fa7ad",
     "b43248eca70f16e2",
     "0a206f1c4398f073",
@@ -472,6 +477,8 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "0175de14b545c148",
+    "a34c74a1585bf056",
     "18178629795c8e5b",
     "d1194824432ded60",
     "ca317efcff9cdce6",
@@ -552,6 +559,16 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "bb13c50439f55b66",
+    "b5309a69a111d8eb",
+    "4ee634d40c25575e",
+    "2ed2cd4786acdc7b",
+    "474fba046b42bd0e",
+    "87777e8f2e308c7b",
+    "edc5a673c7d3c6e9",
+    "2270dd30556972bf",
+    "71643b9c296c22a5",
+    "d675efd05d3081db",
     "facd774426429f6d",
     "e108e7ee3dc12fbe",
     "f81a71a6e0cb4535",
@@ -1141,17 +1158,7 @@
     "948d10e76e7db1fd",
     "4b191dcf6b7f3862",
     "134642bbd9c446cd",
-    "22792bd79e19040c",
-    "069e14d99bd56349",
-    "5bec8baa49e5a8d6",
-    "06adac332e2fa6e6",
-    "3f1a8b0ef0c5f8aa",
-    "05e9d083ae1667a1",
-    "42c736a6d344e73f",
-    "1c03f9209cd038f2",
-    "98479c81cf4e3907",
-    "13a1379aa30a0da1",
-    "1e3a0957a5f510f3"
+    "22792bd79e19040c"
    ]
   },
   "mit-tr": {
@@ -1273,6 +1280,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "38addd79ebdff9eb",
     "d1770d258fe5b64a",
     "d5600b34e97b3d75",
     "55b6dd93c20d778e",
@@ -1454,6 +1462,8 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "c7ac011ff98f1291",
+    "14769697f81fd4bc",
     "d9af04b4b06789d6",
     "6db33f699c66fc21",
     "3d7071d54dcf91bf",
@@ -1618,6 +1628,10 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "8ee78e5f504f4225",
+    "ec7a8d820d947a3e",
+    "9a7bc56fa4c2945d",
+    "5124a48372c4cb36",
     "6198036722d6c05a",
     "0656bf677ac62a88",
     "b0bc651599dac470",

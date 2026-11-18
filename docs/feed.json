@@ -1,45 +1,175 @@
 {
- "generated": "2026-11-18T16:46:40.604Z",
+ "generated": "2026-11-18T23:11:38.423Z",
  "items": [
   {
-   "id": "facd774426429f6d",
+   "id": "bb13c50439f55b66",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's \"safety\" branding and its \"reckless attempt\" to build RSI (Center for AI Safety)",
-   "u": "https://www.techmeme.com/261118/p30#a261118p30",
-   "d": "2026-11-18T16:01:45.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
+   "t": "OpenAI says its models improved power, performance, and area by up to 14% on AMD's flagship GPU IP; some changes are in a design AMD sent for manufacturing (OpenAI)",
+   "u": "https://www.techmeme.com/261118/p45#a261118p45",
+   "d": "2026-11-18T22:10:06.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "e108e7ee3dc12fbe",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\" (Steven Levy/Wired)",
-   "u": "https://www.techmeme.com/261118/p29#a261118p29",
-   "d": "2026-11-18T15:30:01.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
+   "id": "c7ac011ff98f1291",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Insane AI Breakthroughs Nobody Is Talking About",
+   "u": "https://www.youtube.com/watch?v=-oA6oLxWpJg",
+   "d": "2026-11-18T22:08:16.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "f81a71a6e0cb4535",
+   "id": "b5309a69a111d8eb",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Tencent President Martin Lau says the US' new \"remote access\" rules on Chinese chip access \"sets everyone back in China\" and will delay new AI model training (Juro Osawa/The Information)",
-   "u": "https://www.techmeme.com/261118/p27#a261118p27",
-   "d": "2026-11-18T15:10:00.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
+   "t": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
+   "u": "https://www.techmeme.com/261118/p44#a261118p44",
+   "d": "2026-11-18T21:47:59.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "c5dcfc8f0a47b8e5",
+   "id": "4ee634d40c25575e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "US House Democrats launch an investigation into Commerce Secretary Howard Lutnick and his family's ties to Nvidia, laying the groundwork for oversight in 2027 (Chris Marquette/Politico)",
-   "u": "https://www.techmeme.com/261118/p25#a261118p25",
-   "d": "2026-11-18T14:55:01.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
+   "t": "Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg's stake (Sabrina Willmer/Bloomberg)",
+   "u": "https://www.techmeme.com/261118/p42#a261118p42",
+   "d": "2026-11-18T21:40:01.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "0175de14b545c148",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Introducing Gemini 4 Neon",
+   "u": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "d": "2026-11-18T21:35:43.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "2ed2cd4786acdc7b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261118/p41#a261118p41",
+   "d": "2026-11-18T21:15:05.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "474fba046b42bd0e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
+   "u": "https://www.techmeme.com/261118/p39#a261118p39",
+   "d": "2026-11-18T20:05:02.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "87777e8f2e308c7b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "At Nvidia's first all-hands since Huang's ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule (Wired)",
+   "u": "https://www.techmeme.com/261118/p38#a261118p38",
+   "d": "2026-11-18T19:25:43.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "14769697f81fd4bc",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "The Reason No One Can Catch NVIDIA",
+   "u": "https://www.youtube.com/shorts/hT0qW_DRFLw",
+   "d": "2026-11-18T19:02:01.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "edc5a673c7d3c6e9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)",
+   "u": "https://www.techmeme.com/261118/p37#a261118p37",
+   "d": "2026-11-18T18:35:01.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "8b0018a8c1669406",
+   "f": "ai-futures",
+   "src": "AI Futures Project",
+   "cat": "Newsletter",
+   "t": "Pacing AI via Compute Reallocation",
+   "u": "https://blog.aifutures.org/p/pacing-ai-via-compute-reallocation",
+   "d": "2026-11-18T18:22:17.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "a34c74a1585bf056",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Genie 4 is now available",
+   "u": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "d": "2026-11-18T18:13:42.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "2270dd30556972bf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)",
+   "u": "https://www.techmeme.com/261118/p36#a261118p36",
+   "d": "2026-11-18T17:55:01.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "71643b9c296c22a5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)",
+   "u": "https://www.techmeme.com/261118/p35#a261118p35",
+   "d": "2026-11-18T17:40:02.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "d675efd05d3081db",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: Anthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting (CNBC)",
+   "u": "https://www.techmeme.com/261118/p34#a261118p34",
+   "d": "2026-11-18T17:15:00.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "38addd79ebdff9eb",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "How Hackers Got Into OpenAI’s Code and Anthropic’s Slack - Paul Christiano",
+   "u": "https://www.youtube.com/shorts/-PQpJAdp7gw",
+   "d": "2026-11-18T17:00:30.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "8ee78e5f504f4225",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI agents ask better questions than KPMG accountants in audit trial",
+   "u": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "d": "2026-11-18T15:49:34.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
   },
   {
    "id": "3c2567d45f690925",
@@ -49,36 +179,6 @@
    "t": "The AI Hype Index: AI is everywhere",
    "u": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
    "d": "2026-11-18T14:42:44.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
-  },
-  {
-   "id": "724069d6211f0837",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: the Trump administration is considering requiring US companies to disclose on their websites if they use Chinese AI models, seeking to discourage usage (Alexandra Alper/Reuters)",
-   "u": "https://www.techmeme.com/261118/p23#a261118p23",
-   "d": "2026-11-18T14:36:07.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
-  },
-  {
-   "id": "5a3990d0860172f9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Disney and AWS partner to develop AI-powered audio-animatronics of three Star Wars characters, debuting later in November at Amazon re:Invent in Las Vegas (Alex Weprin/The Hollywood Reporter)",
-   "u": "https://www.techmeme.com/261118/p22#a261118p22",
-   "d": "2026-11-18T14:21:09.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
-  },
-  {
-   "id": "b30314c5285af4ad",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: ByteDance is in advanced talks with Microsoft to spend an additional ~$500M on Azure, primarily to access OpenAI models, drawing complaints from OpenAI (The Information)",
-   "u": "https://www.techmeme.com/261118/p21#a261118p21",
-   "d": "2026-11-18T14:07:15.000Z",
    "first": "2026-11-18T16:46:40.604Z"
   },
   {
@@ -112,6 +212,46 @@
    "first": "2026-11-18T16:46:40.604Z"
   },
   {
+   "id": "96c1187cc728c509",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "The Silent Consensus",
+   "u": "https://openai.com/index/the-silent-consensus",
+   "d": "2026-11-18T10:00:00.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "a54f3e68cce4f468",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Inside the Codex sandbox",
+   "u": "https://openai.com/index/inside-the-codex-sandbox",
+   "d": "2026-11-18T08:00:00.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "ec7a8d820d947a3e",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI is killing All About Berlin",
+   "u": "https://nicolasbouliane.com/blog/death-by-ai",
+   "d": "2026-11-18T06:47:26.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "3d7a5753659e9137",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Managing frontier AI risk: From training to deployment",
+   "u": "https://openai.com/index/managing-frontier-ai-risk",
+   "d": "2026-11-18T06:00:00.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
    "id": "d9af04b4b06789d6",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -130,6 +270,16 @@
    "u": "https://www.youtube.com/shorts/nWoVDFjj2Iw",
    "d": "2026-11-18T00:33:58.000Z",
    "first": "2026-11-18T07:45:04.855Z"
+  },
+  {
+   "id": "9a7bc56fa4c2945d",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Google's AI answers reducing search traffic by 40%",
+   "u": "https://revscope.co/blog/search-seo-geo-2026/",
+   "d": "2026-11-18T00:17:58.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
   },
   {
    "id": "f828d0c67c509723",
@@ -152,6 +302,16 @@
    "first": "2026-11-18T16:46:40.604Z"
   },
   {
+   "id": "95e07a71c91fb9ca",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Advancing chip design with OpenAI models",
+   "u": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "d": "2026-11-18T00:00:00.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
    "id": "6db33f699c66fc21",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -160,6 +320,16 @@
    "u": "https://www.youtube.com/shorts/LxKNPrXBuyU",
    "d": "2026-11-17T23:38:50.000Z",
    "first": "2026-11-18T00:19:50.445Z"
+  },
+  {
+   "id": "5124a48372c4cb36",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "u": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "d": "2026-11-17T21:16:12.000Z",
+   "first": "2026-11-18T23:11:38.423Z"
   },
   {
    "id": "d1770d258fe5b64a",
@@ -206,7 +376,7 @@
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
    "cat": "YouTube",
-   "t": "How to compress text to 1 bit per character | Information theory, part 3",
+   "t": "This algorithm changed how I think about compression | Information theory, part 3",
    "u": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
    "d": "2026-11-17T16:43:16.000Z",
    "first": "2026-11-17T17:57:14.864Z"
@@ -442,36 +612,6 @@
    "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "51efc7d8ea808305",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Our first phase of embedded assessments",
-   "u": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "d": "2026-11-16T08:00:00.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "6a459de39983222d",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Advancing computer-use agents for healthcare teams",
-   "u": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "d": "2026-11-16T06:00:00.000Z",
-   "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
-   "id": "a46949318a161c29",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "More ways to move care forward with ChatGPT for Healthcare",
-   "u": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "d": "2026-11-16T06:00:00.000Z",
-   "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
    "id": "d2005029302dcb76",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -488,16 +628,6 @@
    "cat": "Newsletter",
    "t": "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
    "u": "https://tldr.tech/ai/2026-11-16",
-   "d": "2026-11-16T00:00:00.000Z",
-   "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
-   "id": "b685221b08e826c6",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "The King’s Trust and OpenAI launch £1m partnership",
-   "u": "https://openai.com/index/the-kings-trust-and-openai",
    "d": "2026-11-16T00:00:00.000Z",
    "first": "2026-11-16T16:33:29.935Z"
   },
@@ -792,16 +922,6 @@
    "first": "2026-11-13T10:37:53.940Z"
   },
   {
-   "id": "2a79bfdfde3634cb",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "MASSIVE AI Shake-Up That Changes Everything",
-   "u": "https://www.youtube.com/shorts/iTe0IB5Ugf8",
-   "d": "2026-11-12T20:32:27.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
-  },
-  {
    "id": "25e0a791d0613edc",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -839,16 +959,6 @@
    "t": "Introducing Gemini 4 Hydrogen",
    "u": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
    "d": "2026-11-12T18:00:50.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
-  },
-  {
-   "id": "f97b342022e282f8",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "How to automate your photo library",
-   "u": "https://www.youtube.com/shorts/IehCboBcYsA",
-   "d": "2026-11-12T17:20:42.000Z",
    "first": "2026-11-12T22:33:40.050Z"
   },
   {
@@ -1132,16 +1242,6 @@
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
-   "id": "a3cd723d71246186",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Apple has new Mac app coming to make running local AI models easy",
-   "u": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-   "d": "2026-11-10T21:25:03.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
    "id": "4cc68995b981ae79",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1202,16 +1302,6 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "51ae88ead718d217",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Generative AI uses more energy on non-English text",
-   "u": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-   "d": "2026-11-10T15:07:28.000Z",
-   "first": "2026-11-15T07:58:27.391Z"
-  },
-  {
    "id": "8544d1abc4ebd432",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -1240,16 +1330,6 @@
    "u": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
    "d": "2026-11-10T11:13:04.000Z",
    "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "c2de8dd100f47af5",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI usage generates a fragile codebase",
-   "u": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-   "d": "2026-11-10T10:25:58.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
   },
   {
    "id": "ef5264debe3bd00e",
@@ -1310,16 +1390,6 @@
    "u": "https://www.anthropic.com/news/roadshow-launch",
    "d": "2026-11-10T00:00:00.000Z",
    "first": "2026-11-10T18:44:14.314Z"
-  },
-  {
-   "id": "f2e607315e456d42",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Robert Moses Ruled New York Without Being Elected",
-   "u": "https://www.youtube.com/shorts/bkzWrrsRyqA",
-   "d": "2026-11-09T20:37:38.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
   },
   {
    "id": "34c9eca71c528830",
@@ -1420,16 +1490,6 @@
    "u": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
    "d": "2026-11-09T00:00:00.000Z",
    "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "5b9e091f86631ae1",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "I'm not convinced the AI bubble exists",
-   "u": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-   "d": "2026-11-08T23:44:36.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
   },
   {
    "id": "f0b6afa993bc56d7",
@@ -2312,16 +2372,6 @@
    "first": "2026-10-14T22:46:09.874Z"
   },
   {
-   "id": "0b1394e407839b3b",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "u": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "d": "2026-10-14T02:00:14.000Z",
-   "first": "2026-10-14T05:34:29.529Z"
-  },
-  {
    "id": "3873710e669257dd",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2340,16 +2390,6 @@
    "u": "https://www.anthropic.com/news/2026-us-midterms",
    "d": "2026-10-14T00:00:00.000Z",
    "first": "2026-10-14T19:47:43.043Z"
-  },
-  {
-   "id": "6271bda5a32f47e4",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Developing Gemini 4 Argon responsibly and safely",
-   "u": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "d": "2026-10-13T19:43:07.000Z",
-   "first": "2026-10-13T21:37:41.621Z"
   },
   {
    "id": "6f029e3afa50979e",
@@ -3232,16 +3272,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "0036d30089a1ab37",
-   "f": "ai-futures",
-   "src": "AI Futures Project",
-   "cat": "Newsletter",
-   "t": "Early US policy priorities for AGI",
-   "u": "https://blog.aifutures.org/p/early-us-policy-priorities-for-agi",
-   "d": "2025-12-09T01:11:06.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "ca22f4695fe7a529",
    "f": "yt-yannic",
    "src": "Yannic Kilcher",
@@ -3423,8 +3453,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
