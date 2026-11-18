@@ -549,6 +549,13 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "1b97ec01f37fab93",
+    "08a79a20811a895b",
+    "5ed178b14babacb7",
+    "8c064bf9398b4e56",
+    "c455ab3bacd28776",
+    "efdbacdcc89db065",
+    "1beebedee8282f7d",
     "7143884e1d959678",
     "1e874a879c1c3a71",
     "7bc3eec1ae771194",
@@ -1141,14 +1148,7 @@
     "425724d9aad020a0",
     "fc7c3e70c1231bd3",
     "4dca83502cfd80ae",
-    "019f83f032cb6d1e",
-    "f65e9117defefeef",
-    "935646afc4198319",
-    "5cbb0ef44199ed70",
-    "6850593962937a14",
-    "abba5dad2bd4bf78",
-    "2b3c217a0ce1b5f7",
-    "c6ae063a3f686b5c"
+    "019f83f032cb6d1e"
    ]
   },
   "mit-tr": {
@@ -1378,6 +1378,7 @@
   "yt-robert-miles": {
    "init": true,
    "ids": [
+    "23afe18e9fa00e2d",
     "6be5adf498abc800",
     "5df8791ab1940530",
     "c771ddbf79ad3999",
@@ -1448,6 +1449,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "d9af04b4b06789d6",
     "6db33f699c66fc21",
     "3d7071d54dcf91bf",
     "d2005029302dcb76",
