@@ -1,65 +1,155 @@
 {
- "generated": "2026-11-19T04:17:32.133Z",
+ "generated": "2026-11-19T13:37:22.313Z",
  "items": [
   {
-   "id": "169339329b5ab135",
+   "id": "efe050f055086e92",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Sources: Jeffrey Kessler, who oversees the Commerce Dept.'s BIS, pressured staff to expedite Nvidia H200 China sales despite red flags from other departments (The Information)",
-   "u": "https://www.techmeme.com/261118/p60#a261118p60",
-   "d": "2026-11-19T04:10:29.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
+   "t": "Canva adds a toggle to let free and paid users disable generative AI features like Magic Expand, following user frustration over the platform's AI push (Emma Roth/The Verge)",
+   "u": "https://www.techmeme.com/261119/p26#a261119p26",
+   "d": "2026-11-19T12:55:01.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
   },
   {
-   "id": "7c370d6c7b2df123",
+   "id": "705e5235ee53578d",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost (Artificial Analysis)",
-   "u": "https://www.techmeme.com/261118/p58#a261118p58",
-   "d": "2026-11-19T03:35:01.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
+   "t": "GTA VI's 5,000-strong team eschewed AI and procedural generation in favor of handcrafted \"fidelity\", with 30,000 unique NPCs and an in-game video game system (Joseph Bernstein/New York Times)",
+   "u": "https://www.techmeme.com/261119/p25#a261119p25",
+   "d": "2026-11-19T12:45:10.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
   },
   {
-   "id": "7976d8f38932676f",
+   "id": "93c019c0c201ee21",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab (New York Times)",
-   "u": "https://www.techmeme.com/261118/p57#a261118p57",
-   "d": "2026-11-19T03:15:02.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
+   "t": "IEA expects global data center investment to hit $4T by 2030; fewer than 100 major AI projects would require a combined 50GW of power, matching peak UK demand (Will Mathis/Bloomberg)",
+   "u": "https://www.techmeme.com/261119/p24#a261119p24",
+   "d": "2026-11-19T12:35:03.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
   },
   {
-   "id": "109a3d9b496998dc",
+   "id": "bf489ed3548ece6e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more (OpenAI)",
-   "u": "https://www.techmeme.com/261118/p54#a261118p54",
-   "d": "2026-11-19T01:55:04.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
+   "t": "Dustin Moskovitz, one of Anthropic's earliest investors, says he \"invested in Anthropic to promote safety, not racing\" and frontier AI labs \"should slow down\" (New York Times)",
+   "u": "https://www.techmeme.com/261119/p23#a261119p23",
+   "d": "2026-11-19T12:25:01.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
   },
   {
-   "id": "5a418ecbc0111c79",
+   "id": "793067b04a4db301",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)",
-   "u": "https://www.techmeme.com/261118/p52#a261118p52",
-   "d": "2026-11-19T01:05:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
+   "t": "Analysis: Anthropic needs ~$602B in annual revenue to hit a 20% return on invested capital comparable to its Big Tech peers; Apple has $478B in annual revenue (Financial Times)",
+   "u": "https://www.techmeme.com/261119/p22#a261119p22",
+   "d": "2026-11-19T12:15:22.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
   },
   {
-   "id": "2940854c00d6e637",
+   "id": "0278388c64abefaa",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)",
-   "u": "https://www.techmeme.com/261118/p51#a261118p51",
-   "d": "2026-11-19T00:40:03.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
+   "t": "Snap launches Easy Lens CLI on Mac, Windows, and Linux, letting developers build AR Lenses using external AI coding tools like Claude Code (Aisha Malik/TechCrunch)",
+   "u": "https://www.techmeme.com/261119/p19#a261119p19",
+   "d": "2026-11-19T11:35:01.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "3181665873559656",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An argument against tech's \"silent consensus\", a belief that AI advances mean the forfeiture of human primacy, and a call for legal and technical frameworks (Dean Ball/OpenAI)",
+   "u": "https://www.techmeme.com/261119/p18#a261119p18",
+   "d": "2026-11-19T11:25:03.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "a11ff070f54cc30f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at Jeff Bezos' AI startup Prometheus, which raised $18B and employs ~250 people; sources say it is building an end-to-end agentic AI engineering system (Rebecca Heilweil/Fast Company)",
+   "u": "https://www.techmeme.com/261119/p17#a261119p17",
+   "d": "2026-11-19T11:15:02.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "dd16230bd09623a4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic is set to become the US stock market's largest public benefit corporation by far; the mandate is overseen by a five-member \"long-term benefit trust\" (Cory Weinberg/New York Times)",
+   "u": "https://www.techmeme.com/261119/p16#a261119p16",
+   "d": "2026-11-19T11:10:03.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "17f5821f9bd24635",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Alibaba reports Q2 revenue up 10% to ~$40.7B, above est., and net profit up 3x to ~$9.68B, above ~$3.6B est., as its AI and e-commerce profitability improves (Tracy Qu/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261119/p15#a261119p15",
+   "d": "2026-11-19T11:01:37.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "9a21e9a9f28c3509",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Moonshot AI cancelled a $150M contract with a Southeast Asian neocloud to rent access to Nvidia AI chips in an Indonesian data center, after US rules (The Information)",
+   "u": "https://www.techmeme.com/261119/p14#a261119p14",
+   "d": "2026-11-19T10:55:02.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "9ce424b3c556c197",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "DeepMind Just Did Something Extraordinary For Humanity",
+   "u": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+   "d": "2026-11-19T09:26:19.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "abbf693dd77c01da",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+   "u": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+   "d": "2026-11-19T07:07:43.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "9d7dd67fc50f4a23",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Google's Neon is wild...",
+   "u": "https://www.youtube.com/watch?v=-0uvPVwPFgM",
+   "d": "2026-11-19T04:49:11.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
+  },
+  {
+   "id": "fda8f351f7e112ea",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "How To Get A Friend To Leave An Abusive Relationship",
+   "u": "https://www.lesswrong.com/posts/2xaen4jJdnksfkCJx/how-to-get-a-friend-to-leave-an-abusive-relationship",
+   "d": "2026-11-19T04:17:15.000Z",
+   "first": "2026-11-19T13:37:22.313Z"
   },
   {
    "id": "6d7912344a7a320d",
@@ -69,26 +159,6 @@
    "t": "Let's Not Do Recursive Self-Improvement",
    "u": "https://www.youtube.com/shorts/K0apRfqBf8A",
    "d": "2026-11-19T00:32:30.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
-   "id": "a1ef79ddcab9ea5f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app (Abner Li/9to5Google)",
-   "u": "https://www.techmeme.com/261118/p49#a261118p49",
-   "d": "2026-11-19T00:20:01.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
-   "id": "ac1c6f80ccffdf88",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs' AI platform via a ~$95M no-bid deal (Bloomberg)",
-   "u": "https://www.techmeme.com/261118/p48#a261118p48",
-   "d": "2026-11-18T23:55:01.000Z",
    "first": "2026-11-19T04:17:32.133Z"
   },
   {
@@ -1422,16 +1492,6 @@
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
-   "id": "39ab36457d8637fa",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-   "u": "https://latent.space/p/handshake/",
-   "d": "2026-11-09T17:15:53.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
    "id": "792d5deaad9c4b86",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1812,16 +1872,6 @@
    "first": "2026-11-01T20:38:45.544Z"
   },
   {
-   "id": "cb34f49e7e502c24",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "the BIGGEST HACK of all time just started...",
-   "u": "https://www.youtube.com/watch?v=WhA2iNfzytY",
-   "d": "2026-11-01T07:54:54.000Z",
-   "first": "2026-11-01T09:28:01.327Z"
-  },
-  {
    "id": "8caba023e03f551b",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -1920,16 +1970,6 @@
    "u": "https://tldr.tech/ai/2026-10-29",
    "d": "2026-10-29T00:00:00.000Z",
    "first": "2026-10-29T19:03:02.080Z"
-  },
-  {
-   "id": "97aa9361e57c37c7",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "DeepSeek's New AI Is An Absolute Monster",
-   "u": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-   "d": "2026-10-28T17:32:40.000Z",
-   "first": "2026-10-28T20:38:29.079Z"
   },
   {
    "id": "9caa982344aceed0",
@@ -2470,16 +2510,6 @@
    "u": "https://www.bensbites.com/p/text-is-so-2023",
    "d": "2026-10-08T13:00:52.000Z",
    "first": "2026-10-08T15:00:11.845Z"
-  },
-  {
-   "id": "5d2d4d08df53558d",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "What's the date?",
-   "u": "https://www.lesswrong.com/posts/vzKWsEskYBEWTwpBP/what-s-the-date",
-   "d": "2026-10-08T02:49:10.000Z",
-   "first": "2026-10-08T07:36:20.931Z"
   },
   {
    "id": "dea9ad28e543d6ef",
@@ -3405,7 +3435,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1058 > 1000"
+   "error": "Entity expansion limit exceeded: 1204 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,8 +3463,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",

@@ -3,6 +3,7 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "abbf693dd77c01da",
     "8ffcab006331cb39",
     "b3065be4bc69f041",
     "e183efd89ed57be4",
@@ -562,6 +563,17 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "efe050f055086e92",
+    "705e5235ee53578d",
+    "93c019c0c201ee21",
+    "bf489ed3548ece6e",
+    "793067b04a4db301",
+    "0278388c64abefaa",
+    "3181665873559656",
+    "a11ff070f54cc30f",
+    "dd16230bd09623a4",
+    "17f5821f9bd24635",
+    "9a21e9a9f28c3509",
     "169339329b5ab135",
     "7c370d6c7b2df123",
     "7976d8f38932676f",
@@ -1150,18 +1162,7 @@
     "5d6e5442191514b2",
     "c9baaf17660745df",
     "85830e91570afff7",
-    "35bcb69e7c2045d3",
-    "70b7712a2b4ba85c",
-    "0bdb9ea6e5634ab1",
-    "bc7e702d9a746156",
-    "41c9f5fdc1af47f3",
-    "7a73335953d30688",
-    "2662407943a4bdae",
-    "5bdd09f0868736f7",
-    "b0707b7a21371775",
-    "9a6bc75d7f6cdf92",
-    "91b9d7732559263b",
-    "890bf39e656ace6f"
+    "35bcb69e7c2045d3"
    ]
   },
   "mit-tr": {
@@ -1226,6 +1227,7 @@
   "lesswrong": {
    "init": true,
    "ids": [
+    "fda8f351f7e112ea",
     "15415b3d3a5ef377",
     "f0b6afa993bc56d7",
     "10b0ae22371a3a18",
@@ -1440,6 +1442,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "9ce424b3c556c197",
     "6b9be6f91c1aef13",
     "3adcf2a371de31c3",
     "b17b5aa3d53ea1ca",
@@ -1601,6 +1604,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "9d7dd67fc50f4a23",
     "f4a7e54a63fb136a",
     "c377a61fcc31adac",
     "f5e5e982bf829b60",
