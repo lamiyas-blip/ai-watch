@@ -323,6 +323,8 @@
    "init": true,
    "ids": [
     "96c1187cc728c509",
+    "6daa79e244daa573",
+    "d1e91688a92207f0",
     "a54f3e68cce4f468",
     "3d7a5753659e9137",
     "26db65f0079facad",
@@ -517,6 +519,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "327c1f686e8e3a52",
     "e0deee6550892b85",
     "f0e5bba164b172c5",
     "f64c35abba15b399",
@@ -559,6 +562,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "169339329b5ab135",
+    "7c370d6c7b2df123",
+    "7976d8f38932676f",
+    "109a3d9b496998dc",
+    "5a418ecbc0111c79",
+    "2940854c00d6e637",
+    "a1ef79ddcab9ea5f",
+    "ac1c6f80ccffdf88",
     "bb13c50439f55b66",
     "b5309a69a111d8eb",
     "4ee634d40c25575e",
@@ -1150,15 +1161,7 @@
     "b0707b7a21371775",
     "9a6bc75d7f6cdf92",
     "91b9d7732559263b",
-    "890bf39e656ace6f",
-    "98f2b87d2ed44cfa",
-    "fe85356d9a64f648",
-    "57f65b40f79aebbd",
-    "ef50bc46562c602d",
-    "948d10e76e7db1fd",
-    "4b191dcf6b7f3862",
-    "134642bbd9c446cd",
-    "22792bd79e19040c"
+    "890bf39e656ace6f"
    ]
   },
   "mit-tr": {
@@ -1391,6 +1394,7 @@
   "yt-robert-miles": {
    "init": true,
    "ids": [
+    "6d7912344a7a320d",
     "23afe18e9fa00e2d",
     "6be5adf498abc800",
     "5df8791ab1940530",

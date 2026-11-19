@@ -1,15 +1,95 @@
 {
- "generated": "2026-11-18T23:11:38.423Z",
+ "generated": "2026-11-19T04:17:32.133Z",
  "items": [
   {
-   "id": "bb13c50439f55b66",
+   "id": "169339329b5ab135",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI says its models improved power, performance, and area by up to 14% on AMD's flagship GPU IP; some changes are in a design AMD sent for manufacturing (OpenAI)",
-   "u": "https://www.techmeme.com/261118/p45#a261118p45",
-   "d": "2026-11-18T22:10:06.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
+   "t": "Sources: Jeffrey Kessler, who oversees the Commerce Dept.'s BIS, pressured staff to expedite Nvidia H200 China sales despite red flags from other departments (The Information)",
+   "u": "https://www.techmeme.com/261118/p60#a261118p60",
+   "d": "2026-11-19T04:10:29.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "7c370d6c7b2df123",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Artificial Analysis: Gemini 4 Neon trails only Claude Fable 5.2 and GPT-6.2 Astra on the Intelligence Index and rivals Opus 5.5 on coding at a much lower cost (Artificial Analysis)",
+   "u": "https://www.techmeme.com/261118/p58#a261118p58",
+   "d": "2026-11-19T03:35:01.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "7976d8f38932676f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Alibaba uses regional companies like Megaspeed to access Nvidia chips via offshore data centers and potentially aid a Chinese military-linked AI lab (New York Times)",
+   "u": "https://www.techmeme.com/261118/p57#a261118p57",
+   "d": "2026-11-19T03:15:02.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "109a3d9b496998dc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more (OpenAI)",
+   "u": "https://www.techmeme.com/261118/p54#a261118p54",
+   "d": "2026-11-19T01:55:04.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "5a418ecbc0111c79",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)",
+   "u": "https://www.techmeme.com/261118/p52#a261118p52",
+   "d": "2026-11-19T01:05:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "2940854c00d6e637",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B (Yasutaka Tamura/Bloomberg)",
+   "u": "https://www.techmeme.com/261118/p51#a261118p51",
+   "d": "2026-11-19T00:40:03.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "6d7912344a7a320d",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Let's Not Do Recursive Self-Improvement",
+   "u": "https://www.youtube.com/shorts/K0apRfqBf8A",
+   "d": "2026-11-19T00:32:30.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "a1ef79ddcab9ea5f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Gemini 4 Neon costs $3/1M input tokens and $15/1M output tokens; the model sits between Hydrogen and Carbon and replaces Argon in the Gemini app (Abner Li/9to5Google)",
+   "u": "https://www.techmeme.com/261118/p49#a261118p49",
+   "d": "2026-11-19T00:20:01.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "ac1c6f80ccffdf88",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The Homeland Security Task Force launches the Threat Disruption Center to fight crypto fraud and cybercrime, using TRM Labs' AI platform via a ~$95M no-bid deal (Bloomberg)",
+   "u": "https://www.techmeme.com/261118/p48#a261118p48",
+   "d": "2026-11-18T23:55:01.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
   },
   {
    "id": "c7ac011ff98f1291",
@@ -19,26 +99,6 @@
    "t": "Insane AI Breakthroughs Nobody Is Talking About",
    "u": "https://www.youtube.com/watch?v=-oA6oLxWpJg",
    "d": "2026-11-18T22:08:16.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "b5309a69a111d8eb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
-   "u": "https://www.techmeme.com/261118/p44#a261118p44",
-   "d": "2026-11-18T21:47:59.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "4ee634d40c25575e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg's stake (Sabrina Willmer/Bloomberg)",
-   "u": "https://www.techmeme.com/261118/p42#a261118p42",
-   "d": "2026-11-18T21:40:01.000Z",
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
@@ -52,36 +112,6 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "2ed2cd4786acdc7b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261118/p41#a261118p41",
-   "d": "2026-11-18T21:15:05.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "474fba046b42bd0e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
-   "u": "https://www.techmeme.com/261118/p39#a261118p39",
-   "d": "2026-11-18T20:05:02.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "87777e8f2e308c7b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "At Nvidia's first all-hands since Huang's ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule (Wired)",
-   "u": "https://www.techmeme.com/261118/p38#a261118p38",
-   "d": "2026-11-18T19:25:43.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
    "id": "14769697f81fd4bc",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -89,16 +119,6 @@
    "t": "The Reason No One Can Catch NVIDIA",
    "u": "https://www.youtube.com/shorts/hT0qW_DRFLw",
    "d": "2026-11-18T19:02:01.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "edc5a673c7d3c6e9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)",
-   "u": "https://www.techmeme.com/261118/p37#a261118p37",
-   "d": "2026-11-18T18:35:01.000Z",
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
@@ -119,36 +139,6 @@
    "t": "Genie 4 is now available",
    "u": "https://deepmind.google/blog/genie-4-is-now-available/",
    "d": "2026-11-18T18:13:42.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "2270dd30556972bf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)",
-   "u": "https://www.techmeme.com/261118/p36#a261118p36",
-   "d": "2026-11-18T17:55:01.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "71643b9c296c22a5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)",
-   "u": "https://www.techmeme.com/261118/p35#a261118p35",
-   "d": "2026-11-18T17:40:02.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "d675efd05d3081db",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Anthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting (CNBC)",
-   "u": "https://www.techmeme.com/261118/p34#a261118p34",
-   "d": "2026-11-18T17:15:00.000Z",
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
@@ -220,6 +210,26 @@
    "u": "https://openai.com/index/the-silent-consensus",
    "d": "2026-11-18T10:00:00.000Z",
    "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "6daa79e244daa573",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Research acceleration: The jagged frontier",
+   "u": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "d": "2026-11-18T08:00:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "d1e91688a92207f0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "u": "https://openai.com/business/customer-stories/sumitomo-life",
+   "d": "2026-11-18T08:00:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
   },
   {
    "id": "a54f3e68cce4f468",
@@ -310,6 +320,16 @@
    "u": "https://openai.com/index/advancing-chip-design-with-our-models",
    "d": "2026-11-18T00:00:00.000Z",
    "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "327c1f686e8e3a52",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Anthropic prices initial public offering",
+   "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "d": "2026-11-18T00:00:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
   },
   {
    "id": "6db33f699c66fc21",
@@ -590,26 +610,6 @@
    "u": "https://openai.com/index/science-at-the-frontier",
    "d": "2026-11-16T12:00:00.000Z",
    "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "d8986de235745a4f",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Revolut raises ambition without lowering the bar",
-   "u": "https://openai.com/business/customer-stories/revolut",
-   "d": "2026-11-16T09:30:00.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
-  },
-  {
-   "id": "e56156d1ac513351",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "LVMH’s Media Division announces strategic partnership with OpenAI",
-   "u": "https://openai.com/index/lvmh-media-division-partnership",
-   "d": "2026-11-16T09:00:00.000Z",
-   "first": "2026-11-16T16:33:29.935Z"
   },
   {
    "id": "d2005029302dcb76",
@@ -906,7 +906,7 @@
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "Anthropic Researcher explains how to train LLMs",
+   "t": "Anthropic Researcher Explains How LLMs Are Built and Trained",
    "u": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
    "d": "2026-11-12T22:09:15.000Z",
    "first": "2026-11-12T22:33:40.050Z"
@@ -2482,16 +2482,6 @@
    "first": "2026-10-08T07:36:20.931Z"
   },
   {
-   "id": "55db05e650cd10b0",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Building on our commitment to American scientific discovery",
-   "u": "https://www.anthropic.com/news/genesis-mission-commitment",
-   "d": "2026-10-08T00:00:00.000Z",
-   "first": "2026-10-08T20:32:04.764Z"
-  },
-  {
    "id": "dea9ad28e543d6ef",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2962,16 +2952,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "f5ac2788dffce7da",
-   "f": "yt-robert-miles",
-   "src": "Robert Miles AI Safety",
-   "cat": "YouTube",
-   "t": "People are Catching On",
-   "u": "https://www.youtube.com/shorts/V51Qgaml-7M",
-   "d": "2026-07-29T05:35:55.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "c8771c66db924d39",
    "f": "import-ai",
    "src": "Import AI",
@@ -3425,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1004 > 1000"
+   "error": "Entity expansion limit exceeded: 1058 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3453,7 +3433,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
