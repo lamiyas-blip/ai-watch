@@ -1,6 +1,116 @@
 {
- "generated": "2026-11-20T02:43:15.456Z",
+ "generated": "2026-11-20T10:39:38.976Z",
  "items": [
+  {
+   "id": "f66fc1fed1696aea",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions (Bloomberg)",
+   "u": "https://www.techmeme.com/261120/p7#a261120p7",
+   "d": "2026-11-20T09:45:00.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "953c968f4823eb73",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
+   "u": "https://www.techmeme.com/261120/p6#a261120p6",
+   "d": "2026-11-20T07:25:00.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "a549bacddec7cb26",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+   "u": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+   "d": "2026-11-20T07:12:24.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "f4e26be30bc3c365",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure (Bloomberg)",
+   "u": "https://www.techmeme.com/261120/p5#a261120p5",
+   "d": "2026-11-20T07:00:01.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "b17b635cc20fda8a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue (Bloomberg)",
+   "u": "https://www.techmeme.com/261120/p3#a261120p3",
+   "d": "2026-11-20T06:15:01.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "a5938cd01f8791d3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261120/p2#a261120p2",
+   "d": "2026-11-20T05:55:02.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "f14f625252073aa2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (William Sandlund/Financial Times)",
+   "u": "https://www.techmeme.com/261120/p1#a261120p1",
+   "d": "2026-11-20T05:45:01.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "2be8bae5bb0e8eaf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO (Bloomberg)",
+   "u": "https://www.techmeme.com/261119/p61#a261119p61",
+   "d": "2026-11-20T04:15:00.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "c20c2f215e777b34",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)",
+   "u": "https://www.techmeme.com/261119/p60#a261119p60",
+   "d": "2026-11-20T03:30:00.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "9ed1fec787ba1830",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)",
+   "u": "https://www.techmeme.com/261119/p59#a261119p59",
+   "d": "2026-11-20T02:55:01.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
+  {
+   "id": "940ffeb85d361bc1",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Gemini 4 Neon is ridiculous...",
+   "u": "https://www.youtube.com/watch?v=5eON_8rgKzk",
+   "d": "2026-11-20T02:37:36.000Z",
+   "first": "2026-11-20T10:39:38.976Z"
+  },
   {
    "id": "afd86a58083efd82",
    "f": "techmeme",
@@ -62,16 +172,6 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "1ca3be56d8b6796c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
-   "u": "https://www.techmeme.com/261119/p52#a261119p52",
-   "d": "2026-11-19T22:30:01.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
    "id": "ca177fa5a4b32f4d",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -109,26 +209,6 @@
    "t": "POV: The diff after I asked Claude to fix my app",
    "u": "https://www.youtube.com/shorts/FUj0a5B6bVk",
    "d": "2026-11-19T19:47:46.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "1f9a15b568724f16",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
-   "u": "https://www.techmeme.com/261119/p48#a261119p48",
-   "d": "2026-11-19T19:01:15.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "2ab5fdc9e3d86adf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)",
-   "u": "https://www.techmeme.com/261119/p47#a261119p47",
-   "d": "2026-11-19T18:50:09.000Z",
    "first": "2026-11-19T21:53:42.908Z"
   },
   {
@@ -1122,16 +1202,6 @@
    "first": "2026-11-12T16:58:30.450Z"
   },
   {
-   "id": "b79c095eb051258e",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Let AI redesign your work",
-   "u": "https://www.youtube.com/shorts/TzZmDf60hIQ",
-   "d": "2026-11-12T07:50:40.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
    "id": "b3347264da806b8d",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1319,16 +1389,6 @@
    "t": "Designing for Agents — Zeno Rocha, Resend",
    "u": "https://latent.space/p/resend/",
    "d": "2026-11-10T20:05:17.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
-   "id": "2c73a09727ca1e76",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-   "u": "https://latent.space/p/naiveai/",
-   "d": "2026-11-10T18:56:32.000Z",
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
@@ -3395,7 +3455,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1108 > 1000"
+   "error": "Entity expansion limit exceeded: 1180 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
