@@ -1,25 +1,105 @@
 {
- "generated": "2026-11-20T10:39:38.976Z",
+ "generated": "2026-11-20T18:53:39.972Z",
  "items": [
   {
-   "id": "f66fc1fed1696aea",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "f53de54f7e027223",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
    "cat": "News",
-   "t": "An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions (Bloomberg)",
-   "u": "https://www.techmeme.com/261120/p7#a261120p7",
-   "d": "2026-11-20T09:45:00.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
+   "t": "The most misunderstood graph in AI just got a major update",
+   "u": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "d": "2026-11-20T18:15:15.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
   },
   {
-   "id": "953c968f4823eb73",
+   "id": "2ba6cec0fd6b42f7",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
-   "u": "https://www.techmeme.com/261120/p6#a261120p6",
-   "d": "2026-11-20T07:25:00.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
+   "t": "Tom Cotton, the GOP senator who chairs the Senate Intelligence Committee, says Howard Lutnick repeatedly ignored warnings about AI chips being smuggled to China (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261120/p21#a261120p21",
+   "d": "2026-11-20T18:10:02.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "1de50d8550a8567d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn't come up (Reuters)",
+   "u": "https://www.techmeme.com/261120/p20#a261120p20",
+   "d": "2026-11-20T17:20:01.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "7bbb2315a4ef89ef",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Linq, which offers texting and calling infrastructure for AI agents, raised a $90M Series B led by a16z, following a $20M Series A in February (Harper Harwell/Birmingham Business Journal)",
+   "u": "https://www.techmeme.com/261120/p19#a261120p19",
+   "d": "2026-11-20T16:00:53.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "93deea284e112863",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language (Joseph Howlett/Scientific American)",
+   "u": "https://www.techmeme.com/261120/p17#a261120p17",
+   "d": "2026-11-20T15:20:00.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "d30a069fda4798de",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic stock fell as low as $87.26 in the opening hours of its second day of trading, trimming gains from the $83 IPO price to as little as 5.1% (Bloomberg)",
+   "u": "https://www.techmeme.com/261120/p16#a261120p16",
+   "d": "2026-11-20T15:10:01.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "256a207d96cc2cfe",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "Policy can still work on short timelines",
+   "u": "https://www.transformernews.ai/p/policy-can-still-work-on-short-timelines-california-states-ai",
+   "d": "2026-11-20T15:00:31.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "a3d89c4fd5f96a3e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)",
+   "u": "https://www.techmeme.com/261120/p14#a261120p14",
+   "d": "2026-11-20T13:50:01.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "d099ecc766ab0118",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Current and ex-staffers describe abusive behavior by Jensen Huang that goes back decades; Nvidia settled with two senior leaders who alleged abusive conduct (New York Times)",
+   "u": "https://www.techmeme.com/261120/p12#a261120p12",
+   "d": "2026-11-20T12:40:01.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "389de7a7a6f62a88",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August (Bloomberg)",
+   "u": "https://www.techmeme.com/261120/p10#a261120p10",
+   "d": "2026-11-20T11:10:01.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
   },
   {
    "id": "a549bacddec7cb26",
@@ -29,76 +109,6 @@
    "t": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
    "u": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
    "d": "2026-11-20T07:12:24.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
-  },
-  {
-   "id": "f4e26be30bc3c365",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure (Bloomberg)",
-   "u": "https://www.techmeme.com/261120/p5#a261120p5",
-   "d": "2026-11-20T07:00:01.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
-  },
-  {
-   "id": "b17b635cc20fda8a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue (Bloomberg)",
-   "u": "https://www.techmeme.com/261120/p3#a261120p3",
-   "d": "2026-11-20T06:15:01.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
-  },
-  {
-   "id": "a5938cd01f8791d3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261120/p2#a261120p2",
-   "d": "2026-11-20T05:55:02.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
-  },
-  {
-   "id": "f14f625252073aa2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (William Sandlund/Financial Times)",
-   "u": "https://www.techmeme.com/261120/p1#a261120p1",
-   "d": "2026-11-20T05:45:01.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
-  },
-  {
-   "id": "2be8bae5bb0e8eaf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO (Bloomberg)",
-   "u": "https://www.techmeme.com/261119/p61#a261119p61",
-   "d": "2026-11-20T04:15:00.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
-  },
-  {
-   "id": "c20c2f215e777b34",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)",
-   "u": "https://www.techmeme.com/261119/p60#a261119p60",
-   "d": "2026-11-20T03:30:00.000Z",
-   "first": "2026-11-20T10:39:38.976Z"
-  },
-  {
-   "id": "9ed1fec787ba1830",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)",
-   "u": "https://www.techmeme.com/261119/p59#a261119p59",
-   "d": "2026-11-20T02:55:01.000Z",
    "first": "2026-11-20T10:39:38.976Z"
   },
   {
@@ -112,34 +122,24 @@
    "first": "2026-11-20T10:39:38.976Z"
   },
   {
-   "id": "afd86a58083efd82",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)",
-   "u": "https://www.techmeme.com/261119/p57#a261119p57",
-   "d": "2026-11-20T01:50:51.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
+   "id": "6aff3d7b52a7353c",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+   "u": "https://tldr.tech/ai/2026-11-20",
+   "d": "2026-11-20T00:00:00.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
   },
   {
-   "id": "e08a09446b140e34",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
-   "u": "https://www.techmeme.com/261119/p56#a261119p56",
-   "d": "2026-11-20T00:50:59.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
-   "id": "a3c4d08eb1576b90",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+ (Krystal Hu/Reuters)",
-   "u": "https://www.techmeme.com/261119/p55#a261119p55",
-   "d": "2026-11-20T00:35:46.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
+   "id": "5800eed4e4320fda",
+   "f": "anthropic-news",
+   "src": "Anthropic",
+   "cat": "Lab",
+   "t": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+   "u": "https://www.anthropic.com/news/ipo-close",
+   "d": "2026-11-20T00:00:00.000Z",
+   "first": "2026-11-20T18:53:39.972Z"
   },
   {
    "id": "616dd962fb97b317",
@@ -149,16 +149,6 @@
    "t": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
    "u": "https://latent.space/p/linear-scaling/",
    "d": "2026-11-19T23:58:21.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
-   "id": "ed18d7c791bbf9dc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation (The Information)",
-   "u": "https://www.techmeme.com/261119/p54#a261119p54",
-   "d": "2026-11-19T23:00:01.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
@@ -1572,16 +1562,6 @@
    "first": "2026-11-15T01:24:29.548Z"
   },
   {
-   "id": "8062e56304847625",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Innovating with AI in the specialty chemicals industry",
-   "u": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-   "d": "2026-11-09T13:00:00.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
    "id": "e39745b35f37bea2",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1970,16 +1950,6 @@
    "u": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
    "d": "2026-10-30T14:18:30.000Z",
    "first": "2026-11-02T12:55:38.961Z"
-  },
-  {
-   "id": "9ca270470fc27810",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Mistral Large 4 OSS 🧠, agent swarm behavior 🤖, Sam Altman interview 🍺f",
-   "u": "https://tldr.tech/ai/2026-10-30",
-   "d": "2026-10-30T00:00:00.000Z",
-   "first": "2026-10-30T16:03:52.904Z"
   },
   {
    "id": "dd87af6b56b4d61e",
@@ -2382,16 +2352,6 @@
    "first": "2026-10-16T18:15:41.908Z"
   },
   {
-   "id": "b05a7c150b4f4a35",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Leading the Future stumbles as pro-safety PACs gain ground",
-   "u": "https://www.transformernews.ai/p/leading-the-future-struggles-ai-safety-pacs-gain-ground",
-   "d": "2026-10-16T15:13:20.000Z",
-   "first": "2026-10-16T18:15:41.908Z"
-  },
-  {
    "id": "c7201d7caeea9334",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -2500,16 +2460,6 @@
    "u": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
    "d": "2026-10-12T12:30:39.000Z",
    "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "24dcd2eb49edb467",
-   "f": "anthropic-news",
-   "src": "Anthropic",
-   "cat": "Lab",
-   "t": "Strengthening our defenses against distillation attacks",
-   "u": "https://www.anthropic.com/news/distillation-defenses",
-   "d": "2026-10-12T00:00:00.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
   },
   {
    "id": "84c97404f7046ec1",
@@ -3455,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1180 > 1000"
+   "error": "Entity expansion limit exceeded: 1232 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",

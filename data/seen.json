@@ -167,6 +167,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "256a207d96cc2cfe",
     "f1abaf44c12afa31",
     "0a70e19425300ec1",
     "67514f8539e31016",
@@ -239,6 +240,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "6aff3d7b52a7353c",
     "11a4e817e9dfdc4f",
     "f828d0c67c509723",
     "44e2098490738a71",
@@ -529,6 +531,7 @@
   "anthropic-news": {
    "init": true,
    "ids": [
+    "5800eed4e4320fda",
     "327c1f686e8e3a52",
     "e0deee6550892b85",
     "f0e5bba164b172c5",
@@ -572,6 +575,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "2ba6cec0fd6b42f7",
+    "1de50d8550a8567d",
+    "7bbb2315a4ef89ef",
+    "93deea284e112863",
+    "d30a069fda4798de",
+    "a3d89c4fd5f96a3e",
+    "d099ecc766ab0118",
+    "389de7a7a6f62a88",
     "f66fc1fed1696aea",
     "953c968f4823eb73",
     "f4e26be30bc3c365",
@@ -1163,20 +1174,13 @@
     "79288e9eb88cc0cd",
     "f3bb0bd8b23fbdf3",
     "2ede4996832a71fe",
-    "8def08144845ced0",
-    "6497cb1275e2bfb8",
-    "38ea4c81ca17d281",
-    "24c0e0df9ab29d3a",
-    "a8c9a818beee63b7",
-    "9f11d433b781319c",
-    "45074507f6f4444c",
-    "78081d4c2d75f6fc",
-    "a8450202bd2a9eba"
+    "8def08144845ced0"
    ]
   },
   "mit-tr": {
    "init": true,
    "ids": [
+    "f53de54f7e027223",
     "3c2567d45f690925",
     "db218993f756b1ca",
     "58a77252ee121edb",
