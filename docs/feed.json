@@ -1,6 +1,76 @@
 {
- "generated": "2026-11-19T21:53:42.908Z",
+ "generated": "2026-11-20T02:43:15.456Z",
  "items": [
+  {
+   "id": "afd86a58083efd82",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)",
+   "u": "https://www.techmeme.com/261119/p57#a261119p57",
+   "d": "2026-11-20T01:50:51.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "e08a09446b140e34",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
+   "u": "https://www.techmeme.com/261119/p56#a261119p56",
+   "d": "2026-11-20T00:50:59.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "a3c4d08eb1576b90",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+ (Krystal Hu/Reuters)",
+   "u": "https://www.techmeme.com/261119/p55#a261119p55",
+   "d": "2026-11-20T00:35:46.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "616dd962fb97b317",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+   "u": "https://latent.space/p/linear-scaling/",
+   "d": "2026-11-19T23:58:21.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "ed18d7c791bbf9dc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia is in advanced talks to acquire diffusion LLM developer Inception for $500M+ plus earnouts; talks began before Jensen Huang's resignation (The Information)",
+   "u": "https://www.techmeme.com/261119/p54#a261119p54",
+   "d": "2026-11-19T23:00:01.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "cfaaec10d3b3a08b",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "I Gave Hark Pro Three Everyday Tasks",
+   "u": "https://www.youtube.com/shorts/2qd2LEXDYpo",
+   "d": "2026-11-19T22:36:08.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "1ca3be56d8b6796c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
+   "u": "https://www.techmeme.com/261119/p52#a261119p52",
+   "d": "2026-11-19T22:30:01.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
   {
    "id": "ca177fa5a4b32f4d",
    "f": "yt-matt-wolfe",
@@ -59,56 +129,6 @@
    "t": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)",
    "u": "https://www.techmeme.com/261119/p47#a261119p47",
    "d": "2026-11-19T18:50:09.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "e508f0ef6922a8eb",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)",
-   "u": "https://www.techmeme.com/261119/p43#a261119p43",
-   "d": "2026-11-19T17:25:02.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "013d52b5cd0beb2a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 (John Reynolds/Tech.eu)",
-   "u": "https://www.techmeme.com/261119/p41#a261119p41",
-   "d": "2026-11-19T17:05:16.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "dcbb59513df8cb7a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price (Reuters)",
-   "u": "https://www.techmeme.com/261119/p40#a261119p40",
-   "d": "2026-11-19T16:56:35.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "074ce562e089d2df",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
-   "u": "https://www.techmeme.com/261119/p39#a261119p39",
-   "d": "2026-11-19T16:52:44.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "c6adcac5400d4713",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AMD's shares fall 6%+ after Hunterbrook disclosed a short position, warning AMD is engaging in \"circular deals\" and \"has made way more promises\" than Nvidia (Lynn Doan/Bloomberg)",
-   "u": "https://www.techmeme.com/261119/p38#a261119p38",
-   "d": "2026-11-19T16:40:00.000Z",
    "first": "2026-11-19T21:53:42.908Z"
   },
   {
@@ -200,6 +220,46 @@
    "u": "https://tldr.tech/ai/2026-11-19",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-19T21:53:42.908Z"
+  },
+  {
+   "id": "b11d8c62dccab3ae",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Deploying Daybreak Red",
+   "u": "https://openai.com/business/learn/deploying-daybreak-red",
+   "d": "2026-11-19T00:00:00.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "b3a2f6e3f7760b8d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "See PR scans in action",
+   "u": "https://openai.com/business/learn/pr-scans-demo",
+   "d": "2026-11-19T00:00:00.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "612536d9a47448e5",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Explore the Codex Security Plugin",
+   "u": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "d": "2026-11-19T00:00:00.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "e35384defbc50b1a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Get started with Daybreak Blue",
+   "u": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "d": "2026-11-19T00:00:00.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
   },
   {
    "id": "c7ac011ff98f1291",
@@ -322,22 +382,22 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "d1e91688a92207f0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "u": "https://openai.com/business/customer-stories/sumitomo-life",
-   "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
    "id": "6daa79e244daa573",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Research acceleration: The jagged frontier",
    "u": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "d": "2026-11-18T08:00:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "d1e91688a92207f0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "u": "https://openai.com/business/customer-stories/sumitomo-life",
    "d": "2026-11-18T08:00:00.000Z",
    "first": "2026-11-19T04:17:32.133Z"
   },
@@ -412,16 +472,6 @@
    "first": "2026-11-18T16:46:40.604Z"
   },
   {
-   "id": "26db65f0079facad",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "u": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "d": "2026-11-18T00:00:00.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
-  },
-  {
    "id": "95e07a71c91fb9ca",
    "f": "openai-news",
    "src": "OpenAI",
@@ -430,6 +480,16 @@
    "u": "https://openai.com/index/advancing-chip-design-with-our-models",
    "d": "2026-11-18T00:00:00.000Z",
    "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "26db65f0079facad",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "u": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "d": "2026-11-18T00:00:00.000Z",
+   "first": "2026-11-18T16:46:40.604Z"
   },
   {
    "id": "327c1f686e8e3a52",
@@ -602,26 +662,6 @@
    "first": "2026-11-17T08:37:53.484Z"
   },
   {
-   "id": "38effceff2809666",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing OpenAI for Chile",
-   "u": "https://openai.com/index/introducing-openai-for-chile",
-   "d": "2026-11-17T00:00:00.000Z",
-   "first": "2026-11-17T17:57:14.864Z"
-  },
-  {
-   "id": "9b26dc471b53d09a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Astra for Law leads in legal intelligence",
-   "u": "https://openai.com/index/astra-law-6-2",
-   "d": "2026-11-17T00:00:00.000Z",
-   "first": "2026-11-18T00:19:50.445Z"
-  },
-  {
    "id": "3d7071d54dcf91bf",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -669,26 +709,6 @@
    "t": "Box CEO Explains Why AI Makes Software Features Obsolete",
    "u": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
    "d": "2026-11-16T17:42:57.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "a99dd05d47c441c5",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Broadening access to AI for scientists",
-   "u": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "d": "2026-11-16T17:00:00.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
-   "id": "5bb9f50796e1c2a7",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "u": "https://openai.com/index/strengthening-online-child-safety",
-   "d": "2026-11-16T17:00:00.000Z",
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
@@ -1182,16 +1202,6 @@
    "first": "2026-11-12T16:58:30.450Z"
   },
   {
-   "id": "388bb089b9636ae1",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "AMA with me and the team!",
-   "u": "https://www.youtube.com/watch?v=LFzBzzHZESE",
-   "d": "2026-11-11T22:52:54.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
    "id": "b4a3bc0107db7108",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1399,16 +1409,6 @@
    "t": "Is Software Over?",
    "u": "https://www.youtube.com/watch?v=vug73goPJaM",
    "d": "2026-11-10T10:15:57.000Z",
-   "first": "2026-11-10T11:26:55.907Z"
-  },
-  {
-   "id": "7ee278e9e5331dd4",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-   "u": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-   "d": "2026-11-10T06:34:44.000Z",
    "first": "2026-11-10T11:26:55.907Z"
   },
   {
@@ -3395,7 +3395,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1109 > 1000"
+   "error": "Entity expansion limit exceeded: 1108 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
