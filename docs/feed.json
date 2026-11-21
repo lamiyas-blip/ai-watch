@@ -1,6 +1,46 @@
 {
- "generated": "2026-11-21T07:28:24.655Z",
+ "generated": "2026-11-21T15:29:55.958Z",
  "items": [
+  {
+   "id": "3994148b8b79328c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
+   "u": "https://www.techmeme.com/261121/p7#a261121p7",
+   "d": "2026-11-21T15:10:01.000Z",
+   "first": "2026-11-21T15:29:55.958Z"
+  },
+  {
+   "id": "f964df9137689c08",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Chimps Quit When Paid (Michael Tomasello)",
+   "u": "https://www.youtube.com/shorts/INeNb0wwErg",
+   "d": "2026-11-21T14:30:43.000Z",
+   "first": "2026-11-21T15:29:55.958Z"
+  },
+  {
+   "id": "3ecf6fd008fbd793",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
+   "u": "https://www.techmeme.com/261121/p6#a261121p6",
+   "d": "2026-11-21T11:30:01.000Z",
+   "first": "2026-11-21T15:29:55.958Z"
+  },
+  {
+   "id": "bdb7434d27614c66",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "AI just BROKE SaaS...",
+   "u": "https://www.youtube.com/watch?v=AxQE_ash8b8",
+   "d": "2026-11-21T10:02:45.000Z",
+   "first": "2026-11-21T15:29:55.958Z"
+  },
   {
    "id": "59bde5d2af782a8a",
    "f": "techmeme",
@@ -112,16 +152,6 @@
    "first": "2026-11-21T00:24:20.600Z"
   },
   {
-   "id": "8df2331f0647a2ee",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training (Reggie Ugwu/New York Times)",
-   "u": "https://www.techmeme.com/261120/p35#a261120p35",
-   "d": "2026-11-20T21:30:03.000Z",
-   "first": "2026-11-21T00:24:20.600Z"
-  },
-  {
    "id": "ff1b9633b6f82431",
    "f": "latent-space",
    "src": "Latent Space",
@@ -156,7 +186,7 @@
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "t": "Google workers tell their employer not to punish schools that don't want AI",
    "u": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
    "d": "2026-11-20T16:59:27.000Z",
    "first": "2026-11-21T00:24:20.600Z"
@@ -182,6 +212,16 @@
    "first": "2026-11-20T18:53:39.972Z"
   },
   {
+   "id": "2e32bfc9bee81824",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+   "u": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "d": "2026-11-20T13:29:59.000Z",
+   "first": "2026-11-21T15:29:55.958Z"
+  },
+  {
    "id": "f3d5239495ba18e7",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -200,6 +240,16 @@
    "u": "https://openai.com/index/combatting-adversarial-distillation",
    "d": "2026-11-20T10:00:00.000Z",
    "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "cf2f5224ca5cb224",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "u": "https://signal.org/blog/protecting-your-privacy/",
+   "d": "2026-11-20T09:42:16.000Z",
+   "first": "2026-11-21T15:29:55.958Z"
   },
   {
    "id": "a549bacddec7cb26",
@@ -346,7 +396,7 @@
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
    "cat": "YouTube",
-   "t": "What a Squirrel Knows That Language Models Skip (Michael Tomasello)",
+   "t": "What a Squirrel Does That LLMs Don't (Michael Tomasello)",
    "u": "https://www.youtube.com/watch?v=io7qhEjJoik",
    "d": "2026-11-19T14:22:11.000Z",
    "first": "2026-11-19T21:53:42.908Z"
@@ -1132,26 +1182,6 @@
    "first": "2026-11-15T01:24:29.548Z"
   },
   {
-   "id": "780cf657068937d0",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI is destroying the trust between writers and readers",
-   "u": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-   "d": "2026-11-13T11:13:46.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "d7a889876e983f64",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-   "u": "https://status.claude.com/incidents/nn11wk485zfn",
-   "d": "2026-11-13T10:18:13.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
    "id": "2322ccf132e3b37d",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1399,16 +1429,6 @@
    "t": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
    "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
    "d": "2026-11-11T15:00:15.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
-   "id": "638ae9b3db3740d7",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Three Months After You Build the Harness (Edward Hughes)",
-   "u": "https://www.youtube.com/shorts/g_n55IXQU20",
-   "d": "2026-11-11T14:15:21.000Z",
    "first": "2026-11-11T18:47:17.666Z"
   },
   {
@@ -1689,16 +1709,6 @@
    "t": "Will Democrats splinter on AI?",
    "u": "https://www.transformernews.ai/p/will-democrats-splinter-on-ai",
    "d": "2026-11-06T15:39:50.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
-  },
-  {
-   "id": "cd846410c5fc87e5",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "Anthropic just built it...",
-   "u": "https://www.youtube.com/watch?v=2lt4P_xGFL8",
-   "d": "2026-11-06T14:35:24.000Z",
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
@@ -3355,11 +3365,13 @@
  "health": {
   "import-ai": {
    "name": "Import AI",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 403"
   },
   "zvi": {
    "name": "Don't Worry About the Vase",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 403"
   },
   "latent-space": {
    "name": "Latent Space",
@@ -3421,8 +3433,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
