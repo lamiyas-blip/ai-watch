@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-21T00:24:20.600Z",
+ "generated": "2026-11-21T07:28:24.655Z",
  "items": [
+  {
+   "id": "59bde5d2af782a8a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
+   "u": "https://www.techmeme.com/261121/p4#a261121p4",
+   "d": "2026-11-21T06:30:00.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
+   "id": "2784bc43e8585754",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
+   "u": "https://www.techmeme.com/261121/p2#a261121p2",
+   "d": "2026-11-21T06:00:55.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
+   "id": "5150617f81f61cc6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
+   "u": "https://www.techmeme.com/261121/p1#a261121p1",
+   "d": "2026-11-21T05:15:00.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
+   "id": "603313741f01e891",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Riemann Hypothesis proved...twice independently",
+   "u": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+   "d": "2026-11-21T05:02:13.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
+   "id": "e270966b54c1ebe9",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "What else could you use this for?",
+   "u": "https://www.youtube.com/shorts/7_pMINxEEPU",
+   "d": "2026-11-21T03:42:44.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
+   "id": "1cb6fdbb58787383",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Claude JUST solved the Riemann Hypothesis...",
+   "u": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+   "d": "2026-11-21T02:24:48.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
+   "id": "20484f9a7d0c20a9",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "AI Labs Should Stop Advancing Until They Fix Security - Paul Christiano",
+   "u": "https://www.youtube.com/shorts/Ru0l6G5oq7U",
+   "d": "2026-11-21T01:17:53.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
+   "id": "11ec4d66a0d8edd0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
+   "u": "https://www.techmeme.com/261120/p43#a261120p43",
+   "d": "2026-11-21T00:25:00.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
   {
    "id": "26aee186a8fcd97e",
    "f": "techmeme",
@@ -52,36 +132,6 @@
    "first": "2026-11-21T00:24:20.600Z"
   },
   {
-   "id": "ac2435b2ef649006",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: the US SEC is probing Nvidia's accounting practices; last year, Nvidia changed how it reports revenue, removing Singapore from geographical breakdowns (Reuters)",
-   "u": "https://www.techmeme.com/261120/p31#a261120p31",
-   "d": "2026-11-20T20:25:00.000Z",
-   "first": "2026-11-21T00:24:20.600Z"
-  },
-  {
-   "id": "dd137c40f87b3a61",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia board's main reason for ousting Jensen Huang was his \"lying\" and \"lack of candor\" from October 2025 until this fall over the Alice Huang affair (Wired)",
-   "u": "https://www.techmeme.com/261120/p30#a261120p30",
-   "d": "2026-11-20T20:20:01.000Z",
-   "first": "2026-11-21T00:24:20.600Z"
-  },
-  {
-   "id": "b1055445a730f436",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia shares closed down 14% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company's market cap down by $2.5T (Kif Leswing/CNBC)",
-   "u": "https://www.techmeme.com/261120/p29#a261120p29",
-   "d": "2026-11-20T20:10:01.000Z",
-   "first": "2026-11-21T00:24:20.600Z"
-  },
-  {
    "id": "345a3143833a7e4a",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -110,6 +160,16 @@
    "u": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
    "d": "2026-11-20T16:59:27.000Z",
    "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "566cfafd2778ed42",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "On Dwarkesh Patel’s November 2026 Podcast With Paul Christiano",
+   "u": "https://thezvi.substack.com/p/on-dwarkesh-patels-november-2026",
+   "d": "2026-11-20T15:24:40.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
   },
   {
    "id": "256a207d96cc2cfe",
@@ -302,6 +362,16 @@
    "first": "2026-11-19T21:53:42.908Z"
   },
   {
+   "id": "926ad6fde2fd1ca5",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "AI #195: Opening Bell",
+   "u": "https://thezvi.substack.com/p/ai-195-opening-bell",
+   "d": "2026-11-19T11:56:26.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
    "id": "9ce424b3c556c197",
    "f": "yt-two-minute",
    "src": "Two Minute Papers",
@@ -480,6 +550,16 @@
    "u": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
    "d": "2026-11-18T15:49:34.000Z",
    "first": "2026-11-18T23:11:38.423Z"
+  },
+  {
+   "id": "836ba2a83a8afb7b",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Quickly, There’s No Time",
+   "u": "https://thezvi.substack.com/p/quickly-theres-no-time",
+   "d": "2026-11-18T15:18:23.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
   },
   {
    "id": "3c2567d45f690925",
@@ -732,6 +812,16 @@
    "first": "2026-11-17T17:57:14.864Z"
   },
   {
+   "id": "bcb7ae5f833b9471",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Jensen Huang Really Liked Selling China Advanced AI Chips",
+   "u": "https://thezvi.substack.com/p/jensen-huang-really-liked-selling",
+   "d": "2026-11-17T14:41:58.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
    "id": "58a77252ee121edb",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -802,6 +892,16 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
+   "id": "8c67b63d790ecf0e",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Fable 5.2 is the New Bazooka",
+   "u": "https://thezvi.substack.com/p/fable-52-is-the-new-bazooka",
+   "d": "2026-11-16T20:27:14.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
    "id": "f82253da14f2efc5",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -842,6 +942,16 @@
    "first": "2026-11-16T16:33:29.935Z"
   },
   {
+   "id": "28a7a528a1c7ed57",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+   "u": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+   "d": "2026-11-16T14:01:15.000Z",
+   "first": "2026-11-21T07:28:24.655Z"
+  },
+  {
    "id": "29cce713e6d0defe",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -849,16 +959,6 @@
    "t": "Building AI that can work across the enterprise",
    "u": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
    "d": "2026-11-16T13:00:00.000Z",
-   "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
-   "id": "d2005029302dcb76",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "3D Printing Entire Buildings is So Wild To Me",
-   "u": "https://www.youtube.com/shorts/ETw45WHQ6Z4",
-   "d": "2026-11-16T05:35:39.000Z",
    "first": "2026-11-16T16:33:29.935Z"
   },
   {
@@ -1252,16 +1352,6 @@
    "first": "2026-11-12T08:29:25.691Z"
   },
   {
-   "id": "bd2a104a01449115",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Robert Moses Got Everything Built",
-   "u": "https://www.youtube.com/shorts/3eMnUYkvbJg",
-   "d": "2026-11-12T00:00:15.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
    "id": "2ce057acb0efac4c",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1329,16 +1419,6 @@
    "t": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
    "u": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
    "d": "2026-11-11T09:34:28.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
-  },
-  {
-   "id": "5b38e600ae75b6a3",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-   "u": "https://latent.space/p/codex-work/",
-   "d": "2026-11-11T04:49:48.000Z",
    "first": "2026-11-11T11:17:12.740Z"
   },
   {
@@ -1702,16 +1782,6 @@
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
-   "id": "ca4022d35cdc0a9d",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "this might be HUGE...",
-   "u": "https://www.youtube.com/watch?v=DJjK6LAIouM",
-   "d": "2026-11-05T12:07:51.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
    "id": "6572c938c173b6f7",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -1942,16 +2012,6 @@
    "first": "2026-10-29T19:03:02.080Z"
   },
   {
-   "id": "41c79210cc95f8b3",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "AI #192: Anthropic Is Going Public",
-   "u": "https://thezvi.substack.com/p/ai-192-anthropic-is-going-public",
-   "d": "2026-10-29T13:49:48.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "68123fbf06c5a0d2",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1980,16 +2040,6 @@
    "u": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
    "d": "2026-10-28T12:58:39.000Z",
    "first": "2026-10-28T15:33:34.833Z"
-  },
-  {
-   "id": "20865da8d23a6d85",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Anthropic Files Its S-1",
-   "u": "https://thezvi.substack.com/p/anthropic-files-its-s-1",
-   "d": "2026-10-28T12:10:55.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "f64c35abba15b399",
@@ -2032,16 +2082,6 @@
    "first": "2026-10-27T14:42:55.473Z"
   },
   {
-   "id": "9aaa063cda6bb526",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Anthropic Versus Anthropic",
-   "u": "https://thezvi.substack.com/p/anthropic-versus-anthropic",
-   "d": "2026-10-27T12:49:20.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "97d2605547a5eac9",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -2060,16 +2100,6 @@
    "u": "https://www.anthropic.com/news/expanding-partnership-gsa",
    "d": "2026-10-27T00:00:00.000Z",
    "first": "2026-10-27T23:17:48.381Z"
-  },
-  {
-   "id": "6fc7dd4637729b6a",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Gemini 4 Argon: The Model and Safety Cards",
-   "u": "https://thezvi.substack.com/p/gemini-4-argon-the-model-and-safety",
-   "d": "2026-10-26T12:58:47.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "da46bb7049428a6c",
@@ -2120,16 +2150,6 @@
    "u": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
    "d": "2026-10-25T11:49:00.000Z",
    "first": "2026-10-25T15:08:29.703Z"
-  },
-  {
-   "id": "0ff8f17bcaf721b7",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "The Hackening",
-   "u": "https://thezvi.substack.com/p/the-hackening",
-   "d": "2026-10-23T21:13:08.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "ee226666af0238d8",
@@ -2932,16 +2952,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "c8771c66db924d39",
-   "f": "import-ai",
-   "src": "Import AI",
-   "cat": "Newsletter",
-   "t": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
-   "u": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
-   "d": "2026-07-27T13:30:53.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
    "id": "a9a711181e5573d2",
    "f": "alignment-forum",
    "src": "Alignment Forum",
@@ -3345,13 +3355,11 @@
  "health": {
   "import-ai": {
    "name": "Import AI",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "zvi": {
    "name": "Don't Worry About the Vase",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "latent-space": {
    "name": "Latent Space",
@@ -3413,7 +3421,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
