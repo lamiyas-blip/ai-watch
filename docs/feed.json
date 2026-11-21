@@ -1,6 +1,96 @@
 {
- "generated": "2026-11-20T18:53:39.972Z",
+ "generated": "2026-11-21T00:24:20.600Z",
  "items": [
+  {
+   "id": "26aee186a8fcd97e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
+   "u": "https://www.techmeme.com/261120/p42#a261120p42",
+   "d": "2026-11-20T23:50:00.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "b56ebe161aa004c2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor's Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+   "u": "https://www.techmeme.com/261120/p39#a261120p39",
+   "d": "2026-11-20T23:00:01.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "91e716c37ab010a2",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Six Robots Worked a 24-Hour Shift at a Shanghai Convenience Store",
+   "u": "https://www.youtube.com/shorts/BoBe0tepch4",
+   "d": "2026-11-20T22:53:25.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "8df2331f0647a2ee",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training (Reggie Ugwu/New York Times)",
+   "u": "https://www.techmeme.com/261120/p35#a261120p35",
+   "d": "2026-11-20T21:30:03.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "ff1b9633b6f82431",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+   "u": "https://latent.space/p/formal-verification/",
+   "d": "2026-11-20T21:18:41.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "ac2435b2ef649006",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: the US SEC is probing Nvidia's accounting practices; last year, Nvidia changed how it reports revenue, removing Singapore from geographical breakdowns (Reuters)",
+   "u": "https://www.techmeme.com/261120/p31#a261120p31",
+   "d": "2026-11-20T20:25:00.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "dd137c40f87b3a61",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia board's main reason for ousting Jensen Huang was his \"lying\" and \"lack of candor\" from October 2025 until this fall over the Alice Huang affair (Wired)",
+   "u": "https://www.techmeme.com/261120/p30#a261120p30",
+   "d": "2026-11-20T20:20:01.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "b1055445a730f436",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia shares closed down 14% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company's market cap down by $2.5T (Kif Leswing/CNBC)",
+   "u": "https://www.techmeme.com/261120/p29#a261120p29",
+   "d": "2026-11-20T20:10:01.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "345a3143833a7e4a",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "AI News: This Is The Make or Break Week!!",
+   "u": "https://www.youtube.com/watch?v=wqNIzUmNt9M",
+   "d": "2026-11-20T19:00:16.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
   {
    "id": "f53de54f7e027223",
    "f": "mit-tr",
@@ -12,54 +102,14 @@
    "first": "2026-11-20T18:53:39.972Z"
   },
   {
-   "id": "2ba6cec0fd6b42f7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "3e4c0f05d7e82a78",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Tom Cotton, the GOP senator who chairs the Senate Intelligence Committee, says Howard Lutnick repeatedly ignored warnings about AI chips being smuggled to China (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261120/p21#a261120p21",
-   "d": "2026-11-20T18:10:02.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
-  },
-  {
-   "id": "1de50d8550a8567d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn't come up (Reuters)",
-   "u": "https://www.techmeme.com/261120/p20#a261120p20",
-   "d": "2026-11-20T17:20:01.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
-  },
-  {
-   "id": "7bbb2315a4ef89ef",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Linq, which offers texting and calling infrastructure for AI agents, raised a $90M Series B led by a16z, following a $20M Series A in February (Harper Harwell/Birmingham Business Journal)",
-   "u": "https://www.techmeme.com/261120/p19#a261120p19",
-   "d": "2026-11-20T16:00:53.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
-  },
-  {
-   "id": "93deea284e112863",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language (Joseph Howlett/Scientific American)",
-   "u": "https://www.techmeme.com/261120/p17#a261120p17",
-   "d": "2026-11-20T15:20:00.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
-  },
-  {
-   "id": "d30a069fda4798de",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic stock fell as low as $87.26 in the opening hours of its second day of trading, trimming gains from the $83 IPO price to as little as 5.1% (Bloomberg)",
-   "u": "https://www.techmeme.com/261120/p16#a261120p16",
-   "d": "2026-11-20T15:10:01.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
+   "t": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "u": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "d": "2026-11-20T16:59:27.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
   },
   {
    "id": "256a207d96cc2cfe",
@@ -72,34 +122,24 @@
    "first": "2026-11-20T18:53:39.972Z"
   },
   {
-   "id": "a3d89c4fd5f96a3e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "f3d5239495ba18e7",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "Anthropic raises an additional $12.2B as underwriters exercise their \"greenshoe\" overallotment of shares, bringing the total raised in its IPO to $93.5B (Ashley Capoot/CNBC)",
-   "u": "https://www.techmeme.com/261120/p14#a261120p14",
-   "d": "2026-11-20T13:50:01.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
+   "t": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "u": "https://architectlabs.com/blog/frostbite",
+   "d": "2026-11-20T10:01:41.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
   },
   {
-   "id": "d099ecc766ab0118",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Current and ex-staffers describe abusive behavior by Jensen Huang that goes back decades; Nvidia settled with two senior leaders who alleged abusive conduct (New York Times)",
-   "u": "https://www.techmeme.com/261120/p12#a261120p12",
-   "d": "2026-11-20T12:40:01.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
-  },
-  {
-   "id": "389de7a7a6f62a88",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Shanghai-based Pragmatik Labs, founded by ex-Qwen AI head Junyang Lin, raised tens of millions of dollars at a $5B valuation, up from $2B in August (Bloomberg)",
-   "u": "https://www.techmeme.com/261120/p10#a261120p10",
-   "d": "2026-11-20T11:10:01.000Z",
-   "first": "2026-11-20T18:53:39.972Z"
+   "id": "3a92b83a9bd66f08",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Combatting adversarial distillation",
+   "u": "https://openai.com/index/combatting-adversarial-distillation",
+   "d": "2026-11-20T10:00:00.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
   },
   {
    "id": "a549bacddec7cb26",
@@ -130,6 +170,26 @@
    "u": "https://tldr.tech/ai/2026-11-20",
    "d": "2026-11-20T00:00:00.000Z",
    "first": "2026-11-20T18:53:39.972Z"
+  },
+  {
+   "id": "347f8b599dab4af5",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "u": "https://openai.com/business/customer-stories/hebbia",
+   "d": "2026-11-20T00:00:00.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "883854fb910b3625",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Can AI help scientists identify promising drug candidates?",
+   "u": "https://openai.com/index/introducing-medchembench",
+   "d": "2026-11-20T00:00:00.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
   },
   {
    "id": "5800eed4e4320fda",
@@ -200,6 +260,26 @@
    "u": "https://www.youtube.com/shorts/FUj0a5B6bVk",
    "d": "2026-11-19T19:47:46.000Z",
    "first": "2026-11-19T21:53:42.908Z"
+  },
+  {
+   "id": "979fc1a0277dbb56",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Fuck Your AI Safeguards",
+   "u": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+   "d": "2026-11-19T16:30:18.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
+  },
+  {
+   "id": "46337ec657ed2075",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+   "u": "https://thedataexchange.media/pete-warden-moonshine/",
+   "d": "2026-11-19T15:38:12.000Z",
+   "first": "2026-11-21T00:24:20.600Z"
   },
   {
    "id": "7aaf9dda29cc3cc4",
@@ -292,12 +372,12 @@
    "first": "2026-11-19T21:53:42.908Z"
   },
   {
-   "id": "b11d8c62dccab3ae",
+   "id": "612536d9a47448e5",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
-   "t": "Deploying Daybreak Red",
-   "u": "https://openai.com/business/learn/deploying-daybreak-red",
+   "t": "Explore the Codex Security Plugin",
+   "u": "https://openai.com/business/learn/codex-security-plugin-demo",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -312,22 +392,22 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "612536d9a47448e5",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Explore the Codex Security Plugin",
-   "u": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "d": "2026-11-19T00:00:00.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
    "id": "e35384defbc50b1a",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Get started with Daybreak Blue",
    "u": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "d": "2026-11-19T00:00:00.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "b11d8c62dccab3ae",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Deploying Daybreak Red",
+   "u": "https://openai.com/business/learn/deploying-daybreak-red",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -452,22 +532,22 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "6daa79e244daa573",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Research acceleration: The jagged frontier",
-   "u": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
    "id": "d1e91688a92207f0",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
    "u": "https://openai.com/business/customer-stories/sumitomo-life",
+   "d": "2026-11-18T08:00:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "6daa79e244daa573",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Research acceleration: The jagged frontier",
+   "u": "https://openai.com/index/research-acceleration-jagged-frontier",
    "d": "2026-11-18T08:00:00.000Z",
    "first": "2026-11-19T04:17:32.133Z"
   },
@@ -612,16 +692,6 @@
    "first": "2026-11-18T00:19:50.445Z"
   },
   {
-   "id": "8a52aeda870fa7ad",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing GPT-6.2 Astra and Sol",
-   "u": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "d": "2026-11-17T17:45:00.000Z",
-   "first": "2026-11-18T00:19:50.445Z"
-  },
-  {
    "id": "f1abaf44c12afa31",
    "f": "transformer",
    "src": "Transformer",
@@ -702,16 +772,6 @@
    "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "b43248eca70f16e2",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Introducing ChatGPT for Sales",
-   "u": "https://openai.com/index/introducing-chatgpt-for-sales",
-   "d": "2026-11-17T08:00:00.000Z",
-   "first": "2026-11-18T00:19:50.445Z"
-  },
-  {
    "id": "44e2098490738a71",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -720,16 +780,6 @@
    "u": "https://tldr.tech/ai/2026-11-17",
    "d": "2026-11-17T00:00:00.000Z",
    "first": "2026-11-17T17:57:14.864Z"
-  },
-  {
-   "id": "0a206f1c4398f073",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Strengthening NATO and allied cyber defenses with AI",
-   "u": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "d": "2026-11-17T00:00:00.000Z",
-   "first": "2026-11-17T08:37:53.484Z"
   },
   {
    "id": "3d7071d54dcf91bf",
@@ -850,16 +900,6 @@
    "u": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "d": "2026-11-15T14:46:58.000Z",
    "first": "2026-11-15T20:27:07.054Z"
-  },
-  {
-   "id": "c8240bfe1673ccb5",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "The Self-Driving Car With Balls",
-   "u": "https://www.youtube.com/shorts/X3r-mZtPfP8",
-   "d": "2026-11-15T07:12:15.000Z",
-   "first": "2026-11-15T15:17:06.926Z"
   },
   {
    "id": "d26d0511248c2840",
@@ -1072,16 +1112,6 @@
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
-   "id": "f8ce7ed4b55a1c18",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "u": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-   "d": "2026-11-12T23:06:17.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
    "id": "54cc43a62c8af1e2",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -1090,16 +1120,6 @@
    "u": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
    "d": "2026-11-12T22:09:15.000Z",
    "first": "2026-11-12T22:33:40.050Z"
-  },
-  {
-   "id": "66a0cdd6658e1fb3",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-   "u": "https://unemploymentlabs.com/checkpoint-forensics",
-   "d": "2026-11-12T21:56:11.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
   },
   {
    "id": "25e0a791d0613edc",
@@ -1119,16 +1139,6 @@
    "t": "Nvidia and the World Without Jensen",
    "u": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
    "d": "2026-11-12T18:06:26.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
-  },
-  {
-   "id": "6e24c667c1c5261b",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Cheaper AI can lead to more spending",
-   "u": "https://www.youtube.com/shorts/G11-Vmw7-PQ",
-   "d": "2026-11-12T18:01:24.000Z",
    "first": "2026-11-12T22:33:40.050Z"
   },
   {
@@ -1262,16 +1272,6 @@
    "first": "2026-11-12T16:58:30.450Z"
   },
   {
-   "id": "b4a3bc0107db7108",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "u": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "d": "2026-11-11T21:24:35.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
    "id": "3d54300afa2f6f8d",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -1322,16 +1322,6 @@
    "first": "2026-11-11T18:47:17.666Z"
   },
   {
-   "id": "dcd9fe220f111cc9",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "My AI agents found an unmapped Maya site?",
-   "u": "https://pietromiotti.com/latest/maya-site",
-   "d": "2026-11-11T12:05:22.000Z",
-   "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
    "id": "d6261e570d50d1c0",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1369,16 +1359,6 @@
    "t": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
    "u": "https://www.youtube.com/watch?v=583ThJIqQ7k",
    "d": "2026-11-10T23:11:36.000Z",
-   "first": "2026-11-10T23:48:16.722Z"
-  },
-  {
-   "id": "4cc68995b981ae79",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Designing for Agents — Zeno Rocha, Resend",
-   "u": "https://latent.space/p/resend/",
-   "d": "2026-11-10T20:05:17.000Z",
    "first": "2026-11-10T23:48:16.722Z"
   },
   {
@@ -3405,7 +3385,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1232 > 1000"
+   "error": "Entity expansion limit exceeded: 1012 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,8 +3413,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
