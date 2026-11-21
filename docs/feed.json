@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-21T15:29:55.958Z",
+ "generated": "2026-11-21T20:59:07.514Z",
  "items": [
+  {
+   "id": "95479ab5e49abbe4",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+   "u": "https://www.techmeme.com/261121/p10#a261121p10",
+   "d": "2026-11-21T20:10:02.000Z",
+   "first": "2026-11-21T20:59:07.514Z"
+  },
+  {
+   "id": "015a230de9d148b5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
+   "u": "https://www.techmeme.com/261121/p9#a261121p9",
+   "d": "2026-11-21T18:55:01.000Z",
+   "first": "2026-11-21T20:59:07.514Z"
+  },
+  {
+   "id": "2eb9580da4e34bd7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
+   "u": "https://www.techmeme.com/261121/p8#a261121p8",
+   "d": "2026-11-21T17:55:01.000Z",
+   "first": "2026-11-21T20:59:07.514Z"
+  },
   {
    "id": "3994148b8b79328c",
    "f": "techmeme",
@@ -129,16 +159,6 @@
    "t": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
    "u": "https://www.techmeme.com/261120/p42#a261120p42",
    "d": "2026-11-20T23:50:00.000Z",
-   "first": "2026-11-21T00:24:20.600Z"
-  },
-  {
-   "id": "b56ebe161aa004c2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor's Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
-   "u": "https://www.techmeme.com/261120/p39#a261120p39",
-   "d": "2026-11-20T23:00:01.000Z",
    "first": "2026-11-21T00:24:20.600Z"
   },
   {
@@ -3405,7 +3425,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1012 > 1000"
+   "error": "Entity expansion limit exceeded: 1110 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,7 +3453,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
