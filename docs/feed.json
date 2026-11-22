@@ -1,6 +1,66 @@
 {
- "generated": "2026-11-22T00:57:22.774Z",
+ "generated": "2026-11-22T07:40:28.446Z",
  "items": [
+  {
+   "id": "24183c96a5844bb8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
+   "u": "https://www.techmeme.com/261122/p5#a261122p5",
+   "d": "2026-11-22T07:00:41.000Z",
+   "first": "2026-11-22T07:40:28.446Z"
+  },
+  {
+   "id": "9731929871af9833",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
+   "u": "https://www.techmeme.com/261122/p4#a261122p4",
+   "d": "2026-11-22T06:40:16.000Z",
+   "first": "2026-11-22T07:40:28.446Z"
+  },
+  {
+   "id": "a1f242eff7cd4039",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
+   "u": "https://www.techmeme.com/261122/p2#a261122p2",
+   "d": "2026-11-22T05:50:01.000Z",
+   "first": "2026-11-22T07:40:28.446Z"
+  },
+  {
+   "id": "9a57c248942fd775",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
+   "u": "https://www.techmeme.com/261122/p1#a261122p1",
+   "d": "2026-11-22T05:45:01.000Z",
+   "first": "2026-11-22T07:40:28.446Z"
+  },
+  {
+   "id": "71173b5b69253da4",
+   "f": "yt-robert-miles",
+   "src": "Robert Miles AI Safety",
+   "cat": "YouTube",
+   "t": "Apply to AFFINE Superintelligence Alignment Seminar RIGHT NOW",
+   "u": "https://www.youtube.com/shorts/RGQCJGTS_ZA",
+   "d": "2026-11-22T03:03:09.000Z",
+   "first": "2026-11-22T07:40:28.446Z"
+  },
+  {
+   "id": "fc492e775ee83c99",
+   "f": "yt-3b1b",
+   "src": "3Blue1Brown",
+   "cat": "YouTube",
+   "t": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+   "u": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+   "d": "2026-11-22T02:02:12.000Z",
+   "first": "2026-11-22T07:40:28.446Z"
+  },
   {
    "id": "cae8d886d51d5216",
    "f": "techmeme",
@@ -122,16 +182,6 @@
    "first": "2026-11-21T07:28:24.655Z"
   },
   {
-   "id": "5150617f81f61cc6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
-   "u": "https://www.techmeme.com/261121/p1#a261121p1",
-   "d": "2026-11-21T05:15:00.000Z",
-   "first": "2026-11-21T07:28:24.655Z"
-  },
-  {
    "id": "603313741f01e891",
    "f": "latent-space",
    "src": "Latent Space",
@@ -170,26 +220,6 @@
    "u": "https://www.youtube.com/shorts/Ru0l6G5oq7U",
    "d": "2026-11-21T01:17:53.000Z",
    "first": "2026-11-21T07:28:24.655Z"
-  },
-  {
-   "id": "11ec4d66a0d8edd0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
-   "u": "https://www.techmeme.com/261120/p43#a261120p43",
-   "d": "2026-11-21T00:25:00.000Z",
-   "first": "2026-11-21T07:28:24.655Z"
-  },
-  {
-   "id": "26aee186a8fcd97e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
-   "u": "https://www.techmeme.com/261120/p42#a261120p42",
-   "d": "2026-11-20T23:50:00.000Z",
-   "first": "2026-11-21T00:24:20.600Z"
   },
   {
    "id": "91e716c37ab010a2",
@@ -2872,16 +2902,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "bb48be090a6b6b1a",
-   "f": "yt-3b1b",
-   "src": "3Blue1Brown",
-   "cat": "YouTube",
-   "t": "The jumping pegs puzzle",
-   "u": "https://www.youtube.com/shorts/rYyJm1tD3d0",
-   "d": "2026-08-18T14:54:17.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "9f00c3f44d990fdd",
    "f": "import-ai",
    "src": "Import AI",
@@ -2969,16 +2989,6 @@
    "t": "Full AI Escape Seems Possible",
    "u": "https://www.youtube.com/shorts/40pRi5wMBwA",
    "d": "2026-08-01T01:30:50.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "fa4df9c319c4c681",
-   "f": "yt-robert-miles",
-   "src": "Robert Miles AI Safety",
-   "cat": "YouTube",
-   "t": "\"Just Predicting Tokens\"",
-   "u": "https://www.youtube.com/shorts/nc8KPtnBK38",
-   "d": "2026-07-31T03:06:34.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -3463,8 +3473,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",

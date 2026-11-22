@@ -580,6 +580,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "24183c96a5844bb8",
+    "9731929871af9833",
+    "a1f242eff7cd4039",
+    "9a57c248942fd775",
     "cae8d886d51d5216",
     "95479ab5e49abbe4",
     "015a230de9d148b5",
@@ -1175,11 +1179,7 @@
     "931bd5dba99a506b",
     "cd3f9d5b3555f632",
     "72be0ef6ba408aaa",
-    "d8aab0495fe925e9",
-    "ce5cea7709a73a9a",
-    "f12169e72531dbc6",
-    "54d939841f2d3385",
-    "05635c78668ae190"
+    "d8aab0495fe925e9"
    ]
   },
   "mit-tr": {
@@ -1418,6 +1418,7 @@
   "yt-robert-miles": {
    "init": true,
    "ids": [
+    "71173b5b69253da4",
     "6d7912344a7a320d",
     "23afe18e9fa00e2d",
     "6be5adf498abc800",
@@ -1434,6 +1435,7 @@
   "yt-3b1b": {
    "init": true,
    "ids": [
+    "fc492e775ee83c99",
     "666e51fe37f241f6",
     "30bf9ab73248ac4d",
     "949055c4c191f4d4",
