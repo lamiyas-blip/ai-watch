@@ -1,6 +1,26 @@
 {
- "generated": "2026-11-22T07:40:28.446Z",
+ "generated": "2026-11-22T15:44:53.865Z",
  "items": [
+  {
+   "id": "7dc2227089e7081f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+   "u": "https://www.techmeme.com/261122/p7#a261122p7",
+   "d": "2026-11-22T15:00:34.000Z",
+   "first": "2026-11-22T15:44:53.865Z"
+  },
+  {
+   "id": "0e7c86837fa813e7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
+   "u": "https://www.techmeme.com/261122/p6#a261122p6",
+   "d": "2026-11-22T11:01:10.000Z",
+   "first": "2026-11-22T15:44:53.865Z"
+  },
   {
    "id": "24183c96a5844bb8",
    "f": "techmeme",
@@ -169,16 +189,6 @@
    "t": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
    "u": "https://www.techmeme.com/261121/p4#a261121p4",
    "d": "2026-11-21T06:30:00.000Z",
-   "first": "2026-11-21T07:28:24.655Z"
-  },
-  {
-   "id": "2784bc43e8585754",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
-   "u": "https://www.techmeme.com/261121/p2#a261121p2",
-   "d": "2026-11-21T06:00:55.000Z",
    "first": "2026-11-21T07:28:24.655Z"
   },
   {
@@ -3445,7 +3455,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1025 > 1000"
+   "error": "Entity expansion limit exceeded: 1033 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3473,7 +3483,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
