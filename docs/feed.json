@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-21T20:59:07.514Z",
+ "generated": "2026-11-22T00:57:22.774Z",
  "items": [
+  {
+   "id": "cae8d886d51d5216",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+   "u": "https://www.techmeme.com/261121/p11#a261121p11",
+   "d": "2026-11-22T00:10:02.000Z",
+   "first": "2026-11-22T00:57:22.774Z"
+  },
+  {
+   "id": "c54b3e942622a478",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "They built cyborg cockroaches with built-in AI...",
+   "u": "https://www.youtube.com/shorts/GFxHjrYwoFk",
+   "d": "2026-11-21T21:25:07.000Z",
+   "first": "2026-11-22T00:57:22.774Z"
+  },
+  {
+   "id": "3e1d293cd510173a",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "I’m Crashing Out About Anthropic",
+   "u": "https://www.youtube.com/watch?v=I0Fasi1-teQ",
+   "d": "2026-11-21T21:23:31.000Z",
+   "first": "2026-11-22T00:57:22.774Z"
+  },
   {
    "id": "95479ab5e49abbe4",
    "f": "techmeme",
@@ -942,16 +972,6 @@
    "first": "2026-11-17T17:57:14.864Z"
   },
   {
-   "id": "3d7071d54dcf91bf",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "This had never been done before!",
-   "u": "https://www.youtube.com/shorts/btjS7OaffpM",
-   "d": "2026-11-16T22:27:42.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
    "id": "11699b6425dc32bd",
    "f": "latent-space",
    "src": "Latent Space",
@@ -1260,16 +1280,6 @@
    "u": "https://tldr.tech/ai/2026-11-13",
    "d": "2026-11-13T00:00:00.000Z",
    "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "54cc43a62c8af1e2",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Anthropic Researcher Explains How LLMs Are Built and Trained",
-   "u": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
-   "d": "2026-11-12T22:09:15.000Z",
-   "first": "2026-11-12T22:33:40.050Z"
   },
   {
    "id": "25e0a791d0613edc",
@@ -3425,7 +3435,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1110 > 1000"
+   "error": "Entity expansion limit exceeded: 1025 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
