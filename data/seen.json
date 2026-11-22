@@ -331,17 +331,18 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "6f01a575c4b8448a",
     "3a92b83a9bd66f08",
     "347f8b599dab4af5",
     "883854fb910b3625",
     "68f0f584d9160f2e",
-    "612536d9a47448e5",
+    "b11d8c62dccab3ae",
     "b3a2f6e3f7760b8d",
     "e35384defbc50b1a",
-    "b11d8c62dccab3ae",
+    "612536d9a47448e5",
     "96c1187cc728c509",
-    "d1e91688a92207f0",
     "6daa79e244daa573",
+    "d1e91688a92207f0",
     "a54f3e68cce4f468",
     "3d7a5753659e9137",
     "95e07a71c91fb9ca",
@@ -580,6 +581,10 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "9ac2bf55a7b0b1e0",
+    "3203fc44104d954d",
+    "a0e498f4ad809072",
+    "23bc02ef7b5d6ca3",
     "7dc2227089e7081f",
     "0e7c86837fa813e7",
     "24183c96a5844bb8",
@@ -1175,11 +1180,7 @@
     "63295a20dba9a0b6",
     "38579bb9ae835625",
     "5b461fc267d26f0f",
-    "2af3bcd60806421d",
-    "5e3b2b5fe4245f6d",
-    "ed971b9ce1a17459",
-    "931bd5dba99a506b",
-    "cd3f9d5b3555f632"
+    "2af3bcd60806421d"
    ]
   },
   "mit-tr": {
@@ -1493,6 +1494,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "2c0233e2e83a3456",
     "c54b3e942622a478",
     "e270966b54c1ebe9",
     "345a3143833a7e4a",

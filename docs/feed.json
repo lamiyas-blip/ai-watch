@@ -1,6 +1,56 @@
 {
- "generated": "2026-11-22T15:44:53.865Z",
+ "generated": "2026-11-22T21:22:03.226Z",
  "items": [
+  {
+   "id": "2c0233e2e83a3456",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Google Cooked With This New Model!",
+   "u": "https://www.youtube.com/shorts/8RNSJ6Ud4nY",
+   "d": "2026-11-22T20:58:01.000Z",
+   "first": "2026-11-22T21:22:03.226Z"
+  },
+  {
+   "id": "9ac2bf55a7b0b1e0",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
+   "u": "https://www.techmeme.com/261122/p11#a261122p11",
+   "d": "2026-11-22T20:35:00.000Z",
+   "first": "2026-11-22T21:22:03.226Z"
+  },
+  {
+   "id": "3203fc44104d954d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
+   "u": "https://www.techmeme.com/261122/p10#a261122p10",
+   "d": "2026-11-22T19:50:01.000Z",
+   "first": "2026-11-22T21:22:03.226Z"
+  },
+  {
+   "id": "a0e498f4ad809072",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
+   "u": "https://www.techmeme.com/261122/p9#a261122p9",
+   "d": "2026-11-22T18:25:01.000Z",
+   "first": "2026-11-22T21:22:03.226Z"
+  },
+  {
+   "id": "23bc02ef7b5d6ca3",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
+   "u": "https://www.techmeme.com/261122/p8#a261122p8",
+   "d": "2026-11-22T17:15:01.000Z",
+   "first": "2026-11-22T21:22:03.226Z"
+  },
   {
    "id": "7dc2227089e7081f",
    "f": "techmeme",
@@ -92,6 +142,16 @@
    "first": "2026-11-22T00:57:22.774Z"
   },
   {
+   "id": "6f01a575c4b8448a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Perplexity and Intelligence",
+   "u": "https://openai.com/index/perplexity-and-intelligence",
+   "d": "2026-11-22T00:00:00.000Z",
+   "first": "2026-11-22T21:22:03.226Z"
+  },
+  {
    "id": "c54b3e942622a478",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -142,16 +202,6 @@
    "first": "2026-11-21T20:59:07.514Z"
   },
   {
-   "id": "3994148b8b79328c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
-   "u": "https://www.techmeme.com/261121/p7#a261121p7",
-   "d": "2026-11-21T15:10:01.000Z",
-   "first": "2026-11-21T15:29:55.958Z"
-  },
-  {
    "id": "f964df9137689c08",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -159,16 +209,6 @@
    "t": "Chimps Quit When Paid (Michael Tomasello)",
    "u": "https://www.youtube.com/shorts/INeNb0wwErg",
    "d": "2026-11-21T14:30:43.000Z",
-   "first": "2026-11-21T15:29:55.958Z"
-  },
-  {
-   "id": "3ecf6fd008fbd793",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
-   "u": "https://www.techmeme.com/261121/p6#a261121p6",
-   "d": "2026-11-21T11:30:01.000Z",
    "first": "2026-11-21T15:29:55.958Z"
   },
   {
@@ -180,16 +220,6 @@
    "u": "https://www.youtube.com/watch?v=AxQE_ash8b8",
    "d": "2026-11-21T10:02:45.000Z",
    "first": "2026-11-21T15:29:55.958Z"
-  },
-  {
-   "id": "59bde5d2af782a8a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
-   "u": "https://www.techmeme.com/261121/p4#a261121p4",
-   "d": "2026-11-21T06:30:00.000Z",
-   "first": "2026-11-21T07:28:24.655Z"
   },
   {
    "id": "603313741f01e891",
@@ -582,12 +612,12 @@
    "first": "2026-11-19T21:53:42.908Z"
   },
   {
-   "id": "612536d9a47448e5",
+   "id": "b11d8c62dccab3ae",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
-   "t": "Explore the Codex Security Plugin",
-   "u": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "t": "Deploying Daybreak Red",
+   "u": "https://openai.com/business/learn/deploying-daybreak-red",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -612,12 +642,12 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "b11d8c62dccab3ae",
+   "id": "612536d9a47448e5",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
-   "t": "Deploying Daybreak Red",
-   "u": "https://openai.com/business/learn/deploying-daybreak-red",
+   "t": "Explore the Codex Security Plugin",
+   "u": "https://openai.com/business/learn/codex-security-plugin-demo",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -752,22 +782,22 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "d1e91688a92207f0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "u": "https://openai.com/business/customer-stories/sumitomo-life",
-   "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
    "id": "6daa79e244daa573",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "Research acceleration: The jagged frontier",
    "u": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "d": "2026-11-18T08:00:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "d1e91688a92207f0",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "u": "https://openai.com/business/customer-stories/sumitomo-life",
    "d": "2026-11-18T08:00:00.000Z",
    "first": "2026-11-19T04:17:32.133Z"
   },
@@ -852,16 +882,6 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "26db65f0079facad",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "u": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "d": "2026-11-18T00:00:00.000Z",
-   "first": "2026-11-18T16:46:40.604Z"
-  },
-  {
    "id": "327c1f686e8e3a52",
    "f": "anthropic-news",
    "src": "Anthropic",
@@ -870,16 +890,6 @@
    "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "d": "2026-11-18T00:00:00.000Z",
    "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
-   "id": "6db33f699c66fc21",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "ChatGPT 6.2 Astra is \"A Mess\"",
-   "u": "https://www.youtube.com/shorts/LxKNPrXBuyU",
-   "d": "2026-11-17T23:38:50.000Z",
-   "first": "2026-11-18T00:19:50.445Z"
   },
   {
    "id": "5124a48372c4cb36",
