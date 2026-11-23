@@ -123,6 +123,7 @@
   "ai-snake-oil": {
    "init": true,
    "ids": [
+    "cbf1e63e779e51ec",
     "b1b040b4d9e362ee",
     "a4019cf3b9d0d030",
     "07565479b52e0aba",
@@ -242,6 +243,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "65cc39f294a5a557",
     "6aff3d7b52a7353c",
     "11a4e817e9dfdc4f",
     "f828d0c67c509723",
@@ -331,18 +333,20 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "7207478fd51254da",
+    "09a46968943a238d",
     "6f01a575c4b8448a",
     "3a92b83a9bd66f08",
     "347f8b599dab4af5",
     "883854fb910b3625",
     "68f0f584d9160f2e",
-    "b11d8c62dccab3ae",
     "b3a2f6e3f7760b8d",
-    "e35384defbc50b1a",
+    "b11d8c62dccab3ae",
     "612536d9a47448e5",
+    "e35384defbc50b1a",
     "96c1187cc728c509",
-    "6daa79e244daa573",
     "d1e91688a92207f0",
+    "6daa79e244daa573",
     "a54f3e68cce4f468",
     "3d7a5753659e9137",
     "95e07a71c91fb9ca",
@@ -497,6 +501,7 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "e6a0efac14803b15",
     "0175de14b545c148",
     "a34c74a1585bf056",
     "18178629795c8e5b",
@@ -581,6 +586,16 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "fa3ed1f81261738b",
+    "47cd02166cb4f33e",
+    "7057a6b17ef4038c",
+    "b919c30d919d0a4c",
+    "efc25a34e47e816d",
+    "bb2f6e304ee4001e",
+    "10e334ea2021f65c",
+    "0241bd8ec6296f84",
+    "b412e2a09dbc0822",
+    "2b61ee2ca7a37960",
     "5f09212e19e08f74",
     "35c895048121c16d",
     "732f0c8e50f39e29",
@@ -1170,22 +1185,13 @@
     "7795bee697c6d416",
     "bc473cc7a30337d8",
     "fc3007aab2175a69",
-    "58f01ec4e0659501",
-    "83f02eb1984a91cb",
-    "704fa10e5812f1cc",
-    "9ff6ee13cacc7004",
-    "8066802e70f6f77e",
-    "a4872642733fe58c",
-    "000e26676cba89a8",
-    "e48404fa97a907c2",
-    "c42d7c3f1d2e67c5",
-    "b0ac4c19721628c2",
-    "b998d4fcaa48611d"
+    "58f01ec4e0659501"
    ]
   },
   "mit-tr": {
    "init": true,
    "ids": [
+    "7710279ff33cf49f",
     "f53de54f7e027223",
     "3c2567d45f690925",
     "db218993f756b1ca",
@@ -1305,6 +1311,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "1dc723513e192504",
     "20484f9a7d0c20a9",
     "38addd79ebdff9eb",
     "d1770d258fe5b64a",
@@ -1363,6 +1370,7 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "bb3da2f0f7b9b94e",
     "f964df9137689c08",
     "7aaf9dda29cc3cc4",
     "8de330be7b3bd5d4",
@@ -1495,6 +1503,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "f8421896786aa147",
     "2c0233e2e83a3456",
     "c54b3e942622a478",
     "e270966b54c1ebe9",

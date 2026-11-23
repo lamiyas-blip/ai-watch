@@ -1,35 +1,185 @@
 {
- "generated": "2026-11-23T09:55:36.793Z",
+ "generated": "2026-11-23T21:48:24.515Z",
  "items": [
   {
-   "id": "5f09212e19e08f74",
+   "id": "fa3ed1f81261738b",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent (Chris Buckley/New York Times)",
-   "u": "https://www.techmeme.com/261123/p8#a261123p8",
-   "d": "2026-11-23T09:30:00.000Z",
-   "first": "2026-11-23T09:55:36.793Z"
+   "t": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
+   "u": "https://www.techmeme.com/261123/p42#a261123p42",
+   "d": "2026-11-23T21:40:00.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
   },
   {
-   "id": "35c895048121c16d",
+   "id": "47cd02166cb4f33e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers (Bloomberg)",
-   "u": "https://www.techmeme.com/261123/p7#a261123p7",
-   "d": "2026-11-23T09:15:03.000Z",
-   "first": "2026-11-23T09:55:36.793Z"
+   "t": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
+   "u": "https://www.techmeme.com/261123/p41#a261123p41",
+   "d": "2026-11-23T21:25:00.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
   },
   {
-   "id": "732f0c8e50f39e29",
+   "id": "f8421896786aa147",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "This looks SCARILY human",
+   "u": "https://www.youtube.com/shorts/u1ozwejEwBo",
+   "d": "2026-11-23T21:09:34.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "cbf1e63e779e51ec",
+   "f": "ai-snake-oil",
+   "src": "AI Snake Oil",
+   "cat": "Newsletter",
+   "t": "Management consulting is not a thin wrapper on intelligence",
+   "u": "https://www.normaltech.ai/p/management-consulting-is-not-a-thin",
+   "d": "2026-11-23T20:12:32.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "7057a6b17ef4038c",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "A look at AECJ, an Amazon employee group with over 1,000 members that is stepping up efforts to slow Amazon's data center expansion and spark debate over AI use (Rafe Rosner-Uddin/Financial Times)",
-   "u": "https://www.techmeme.com/261123/p6#a261123p6",
-   "d": "2026-11-23T09:05:00.000Z",
-   "first": "2026-11-23T09:55:36.793Z"
+   "t": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
+   "u": "https://www.techmeme.com/261123/p39#a261123p39",
+   "d": "2026-11-23T20:01:33.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "1dc723513e192504",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "What if GPT-10 did the Hugging Face hack? - Paul Christiano",
+   "u": "https://www.youtube.com/shorts/QAE9nRTHtas",
+   "d": "2026-11-23T19:37:54.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "b919c30d919d0a4c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
+   "u": "https://www.techmeme.com/261123/p38#a261123p38",
+   "d": "2026-11-23T19:30:02.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "efc25a34e47e816d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Jensen Huang returned to Nvidia's headquarters to cheers from employees and said \"I'm gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
+   "u": "https://www.techmeme.com/261123/p37#a261123p37",
+   "d": "2026-11-23T19:05:01.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "bb2f6e304ee4001e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
+   "u": "https://www.techmeme.com/261123/p35#a261123p35",
+   "d": "2026-11-23T18:25:01.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "10e334ea2021f65c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia board's decision to reinstate Jensen Huang was done without consulting Nvidia's senior leadership, who were only informed at the last minute (Bloomberg)",
+   "u": "https://www.techmeme.com/261123/p33#a261123p33",
+   "d": "2026-11-23T18:01:16.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "7710279ff33cf49f",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+   "u": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+   "d": "2026-11-23T17:36:08.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "0241bd8ec6296f84",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Musk has told employees SpaceX is falling behind in AI, making it more lucrative to rent out computing than use it to improve SpaceX's own products (New York Times)",
+   "u": "https://www.techmeme.com/261123/p31#a261123p31",
+   "d": "2026-11-23T17:35:00.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "b412e2a09dbc0822",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang's reinstatement, assuring Nvidia's board Huang posed no national security risk (New York Times)",
+   "u": "https://www.techmeme.com/261123/p29#a261123p29",
+   "d": "2026-11-23T17:10:01.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "e6a0efac14803b15",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "Finding faster quantum algorithms with agents and formal verification",
+   "u": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "d": "2026-11-23T16:59:40.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "2b61ee2ca7a37960",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia's board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)",
+   "u": "https://www.techmeme.com/261123/p28#a261123p28",
+   "d": "2026-11-23T16:40:03.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "bb3da2f0f7b9b94e",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "AI Just Pours Tokens Into the Problem (Kevin Buzzard)",
+   "u": "https://www.youtube.com/shorts/IUcrxIM0K-Y",
+   "d": "2026-11-23T10:51:27.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "7207478fd51254da",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Connected intelligence for in-house legal",
+   "u": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "d": "2026-11-23T08:00:00.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "09a46968943a238d",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Richpanel helps companies automate 50% of support in 30 days",
+   "u": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "d": "2026-11-23T08:00:00.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
   },
   {
    "id": "186fb2e8d548feb4",
@@ -52,74 +202,14 @@
    "first": "2026-11-23T09:55:36.793Z"
   },
   {
-   "id": "614cfbc17660ff68",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)",
-   "u": "https://www.techmeme.com/261123/p4#a261123p4",
-   "d": "2026-11-23T07:01:27.000Z",
-   "first": "2026-11-23T09:55:36.793Z"
-  },
-  {
-   "id": "7496bdedd08b1fcc",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners (Kyt Dotson/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261123/p1#a261123p1",
-   "d": "2026-11-23T05:30:01.000Z",
-   "first": "2026-11-23T09:55:36.793Z"
-  },
-  {
-   "id": "4ae16176d621e1ff",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
-   "u": "https://www.techmeme.com/261122/p19#a261122p19",
-   "d": "2026-11-23T04:00:14.000Z",
-   "first": "2026-11-23T09:55:36.793Z"
-  },
-  {
-   "id": "20f1b5ea637c04ff",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures (Ryan Lawler/Axios)",
-   "u": "https://www.techmeme.com/261122/p18#a261122p18",
-   "d": "2026-11-23T03:25:01.000Z",
-   "first": "2026-11-23T09:55:36.793Z"
-  },
-  {
-   "id": "8b25a3c6463ce867",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)",
-   "u": "https://www.techmeme.com/261122/p16#a261122p16",
-   "d": "2026-11-23T01:45:00.000Z",
-   "first": "2026-11-23T01:51:35.220Z"
-  },
-  {
-   "id": "cf5c789f22c2c0b6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
-   "u": "https://www.techmeme.com/261122/p15#a261122p15",
-   "d": "2026-11-23T00:55:00.000Z",
-   "first": "2026-11-23T01:51:35.220Z"
-  },
-  {
-   "id": "0b272250e9a1c91f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261122/p14#a261122p14",
-   "d": "2026-11-23T00:45:01.000Z",
-   "first": "2026-11-23T01:51:35.220Z"
+   "id": "65cc39f294a5a557",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "OpenAI publishes progress 🧠, Inkling 2 Mini 💧, Riemann proof 📐",
+   "u": "https://tldr.tech/ai/2026-11-23",
+   "d": "2026-11-23T00:00:00.000Z",
+   "first": "2026-11-23T21:48:24.515Z"
   },
   {
    "id": "2c0233e2e83a3456",
@@ -592,16 +682,6 @@
    "first": "2026-11-19T21:53:42.908Z"
   },
   {
-   "id": "b11d8c62dccab3ae",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Deploying Daybreak Red",
-   "u": "https://openai.com/business/learn/deploying-daybreak-red",
-   "d": "2026-11-19T00:00:00.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
    "id": "b3a2f6e3f7760b8d",
    "f": "openai-news",
    "src": "OpenAI",
@@ -612,12 +692,12 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "e35384defbc50b1a",
+   "id": "b11d8c62dccab3ae",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
-   "t": "Get started with Daybreak Blue",
-   "u": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "t": "Deploying Daybreak Red",
+   "u": "https://openai.com/business/learn/deploying-daybreak-red",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -628,6 +708,16 @@
    "cat": "Lab",
    "t": "Explore the Codex Security Plugin",
    "u": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "d": "2026-11-19T00:00:00.000Z",
+   "first": "2026-11-20T02:43:15.456Z"
+  },
+  {
+   "id": "e35384defbc50b1a",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Get started with Daybreak Blue",
+   "u": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -762,22 +852,22 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "6daa79e244daa573",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Research acceleration: The jagged frontier",
-   "u": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
    "id": "d1e91688a92207f0",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
    "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
    "u": "https://openai.com/business/customer-stories/sumitomo-life",
+   "d": "2026-11-18T08:00:00.000Z",
+   "first": "2026-11-19T04:17:32.133Z"
+  },
+  {
+   "id": "6daa79e244daa573",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Research acceleration: The jagged frontier",
+   "u": "https://openai.com/index/research-acceleration-jagged-frontier",
    "d": "2026-11-18T08:00:00.000Z",
    "first": "2026-11-19T04:17:32.133Z"
   },
@@ -800,26 +890,6 @@
    "u": "https://nicolasbouliane.com/blog/death-by-ai",
    "d": "2026-11-18T06:47:26.000Z",
    "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "3d7a5753659e9137",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Managing frontier AI risk: From training to deployment",
-   "u": "https://openai.com/index/managing-frontier-ai-risk",
-   "d": "2026-11-18T06:00:00.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "d9af04b4b06789d6",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "OpenAI GPT-6.2 Astra is Here - It's Not What You Think",
-   "u": "https://www.youtube.com/watch?v=JVHkb8PTMvc",
-   "d": "2026-11-18T01:43:27.000Z",
-   "first": "2026-11-18T07:45:04.855Z"
   },
   {
    "id": "23afe18e9fa00e2d",
@@ -850,16 +920,6 @@
    "u": "https://tldr.tech/ai/2026-11-18",
    "d": "2026-11-18T00:00:00.000Z",
    "first": "2026-11-18T16:46:40.604Z"
-  },
-  {
-   "id": "95e07a71c91fb9ca",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Advancing chip design with OpenAI models",
-   "u": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "d": "2026-11-18T00:00:00.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
   },
   {
    "id": "327c1f686e8e3a52",
@@ -1192,16 +1252,6 @@
    "first": "2026-11-14T17:13:42.259Z"
   },
   {
-   "id": "93036de22cac18ea",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "Recursive self-improvement has started",
-   "u": "https://www.youtube.com/watch?v=1NHPDzpfR6Y",
-   "d": "2026-11-13T18:37:05.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
    "id": "dc2473ad60a03efe",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1452,16 +1502,6 @@
    "first": "2026-11-12T16:58:30.450Z"
   },
   {
-   "id": "3d54300afa2f6f8d",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "AlexNet Should Never Have Worked (Simon Prince)",
-   "u": "https://www.youtube.com/shorts/ssD05l4UxmY",
-   "d": "2026-11-11T21:04:44.000Z",
-   "first": "2026-11-12T01:07:39.100Z"
-  },
-  {
    "id": "67514f8539e31016",
    "f": "transformer",
    "src": "Transformer",
@@ -1659,16 +1699,6 @@
    "t": "Jensen Huang should resign",
    "u": "https://www.transformernews.ai/p/jensen-huang-should-resign-nvidia-affair-megaspeed",
    "d": "2026-11-09T18:59:21.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
-   "id": "792d5deaad9c4b86",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "Nancy Pelosi’s replacement is ready to regulate AI",
-   "u": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-   "d": "2026-11-09T17:05:43.000Z",
    "first": "2026-11-09T20:57:42.655Z"
   },
   {
@@ -1990,16 +2020,6 @@
    "u": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
    "d": "2026-11-02T01:51:42.000Z",
    "first": "2026-11-02T04:39:09.860Z"
-  },
-  {
-   "id": "3fb0951f453db90f",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "DeepSeek super agent 🤖, GPT-6 Rosalind 🧬, Google orbital compute 🛰️",
-   "u": "https://tldr.tech/ai/2026-11-02",
-   "d": "2026-11-02T00:00:00.000Z",
-   "first": "2026-11-02T21:59:23.006Z"
   },
   {
    "id": "a7e591728385da4f",
@@ -2410,16 +2430,6 @@
    "u": "https://newsletter.semianalysis.com/p/asml-is-building-a-hybrid-bonding",
    "d": "2026-10-15T19:27:20.000Z",
    "first": "2026-10-15T22:30:57.761Z"
-  },
-  {
-   "id": "066f5a7939361f0d",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "u": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "d": "2026-10-15T16:08:03.000Z",
-   "first": "2026-10-15T19:17:47.223Z"
   },
   {
    "id": "03dc4200d7e27134",
@@ -3172,16 +3182,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "48b0eea7205fbf50",
-   "f": "ai-snake-oil",
-   "src": "AI Snake Oil",
-   "cat": "Newsletter",
-   "t": "AI Won’t Automatically Make Legal Services Cheaper",
-   "u": "https://www.normaltech.ai/p/ai-wont-automatically-make-legal",
-   "d": "2026-02-12T19:26:05.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "06f8471b99900c1e",
    "f": "ai-futures",
    "src": "AI Futures Project",
@@ -3425,7 +3425,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1072 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
