@@ -1,6 +1,96 @@
 {
- "generated": "2026-11-23T01:51:35.220Z",
+ "generated": "2026-11-23T09:55:36.793Z",
  "items": [
+  {
+   "id": "5f09212e19e08f74",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent (Chris Buckley/New York Times)",
+   "u": "https://www.techmeme.com/261123/p8#a261123p8",
+   "d": "2026-11-23T09:30:00.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "35c895048121c16d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers (Bloomberg)",
+   "u": "https://www.techmeme.com/261123/p7#a261123p7",
+   "d": "2026-11-23T09:15:03.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "732f0c8e50f39e29",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A look at AECJ, an Amazon employee group with over 1,000 members that is stepping up efforts to slow Amazon's data center expansion and spark debate over AI use (Rafe Rosner-Uddin/Financial Times)",
+   "u": "https://www.techmeme.com/261123/p6#a261123p6",
+   "d": "2026-11-23T09:05:00.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "186fb2e8d548feb4",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Claude AI Solved The Secret Of Black Holes",
+   "u": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+   "d": "2026-11-23T07:37:52.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "1368e09d4b4f7b47",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "OpenAI's SHOCKING new warning...",
+   "u": "https://www.youtube.com/watch?v=f5_c0O_chy4",
+   "d": "2026-11-23T07:35:14.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "614cfbc17660ff68",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)",
+   "u": "https://www.techmeme.com/261123/p4#a261123p4",
+   "d": "2026-11-23T07:01:27.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "7496bdedd08b1fcc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners (Kyt Dotson/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261123/p1#a261123p1",
+   "d": "2026-11-23T05:30:01.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "4ae16176d621e1ff",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
+   "u": "https://www.techmeme.com/261122/p19#a261122p19",
+   "d": "2026-11-23T04:00:14.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
+  {
+   "id": "20f1b5ea637c04ff",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures (Ryan Lawler/Axios)",
+   "u": "https://www.techmeme.com/261122/p18#a261122p18",
+   "d": "2026-11-23T03:25:01.000Z",
+   "first": "2026-11-23T09:55:36.793Z"
+  },
   {
    "id": "8b25a3c6463ce867",
    "f": "techmeme",
@@ -32,16 +122,6 @@
    "first": "2026-11-23T01:51:35.220Z"
   },
   {
-   "id": "9cb9e502e20d8fb9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
-   "u": "https://www.techmeme.com/261122/p12#a261122p12",
-   "d": "2026-11-22T23:20:08.000Z",
-   "first": "2026-11-23T01:51:35.220Z"
-  },
-  {
    "id": "2c0233e2e83a3456",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
@@ -50,96 +130,6 @@
    "u": "https://www.youtube.com/shorts/8RNSJ6Ud4nY",
    "d": "2026-11-22T20:58:01.000Z",
    "first": "2026-11-22T21:22:03.226Z"
-  },
-  {
-   "id": "9ac2bf55a7b0b1e0",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
-   "u": "https://www.techmeme.com/261122/p11#a261122p11",
-   "d": "2026-11-22T20:35:00.000Z",
-   "first": "2026-11-22T21:22:03.226Z"
-  },
-  {
-   "id": "3203fc44104d954d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
-   "u": "https://www.techmeme.com/261122/p10#a261122p10",
-   "d": "2026-11-22T19:50:01.000Z",
-   "first": "2026-11-22T21:22:03.226Z"
-  },
-  {
-   "id": "a0e498f4ad809072",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
-   "u": "https://www.techmeme.com/261122/p9#a261122p9",
-   "d": "2026-11-22T18:25:01.000Z",
-   "first": "2026-11-22T21:22:03.226Z"
-  },
-  {
-   "id": "23bc02ef7b5d6ca3",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
-   "u": "https://www.techmeme.com/261122/p8#a261122p8",
-   "d": "2026-11-22T17:15:01.000Z",
-   "first": "2026-11-22T21:22:03.226Z"
-  },
-  {
-   "id": "7dc2227089e7081f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
-   "u": "https://www.techmeme.com/261122/p7#a261122p7",
-   "d": "2026-11-22T15:00:34.000Z",
-   "first": "2026-11-22T15:44:53.865Z"
-  },
-  {
-   "id": "0e7c86837fa813e7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
-   "u": "https://www.techmeme.com/261122/p6#a261122p6",
-   "d": "2026-11-22T11:01:10.000Z",
-   "first": "2026-11-22T15:44:53.865Z"
-  },
-  {
-   "id": "24183c96a5844bb8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
-   "u": "https://www.techmeme.com/261122/p5#a261122p5",
-   "d": "2026-11-22T07:00:41.000Z",
-   "first": "2026-11-22T07:40:28.446Z"
-  },
-  {
-   "id": "9731929871af9833",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
-   "u": "https://www.techmeme.com/261122/p4#a261122p4",
-   "d": "2026-11-22T06:40:16.000Z",
-   "first": "2026-11-22T07:40:28.446Z"
-  },
-  {
-   "id": "a1f242eff7cd4039",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
-   "u": "https://www.techmeme.com/261122/p2#a261122p2",
-   "d": "2026-11-22T05:50:01.000Z",
-   "first": "2026-11-22T07:40:28.446Z"
   },
   {
    "id": "71173b5b69253da4",
@@ -1622,16 +1612,6 @@
    "first": "2026-11-10T03:06:20.279Z"
   },
   {
-   "id": "f206b8031fe7ec6c",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "NOTHING will be smarter than Fable 5.2...",
-   "u": "https://www.youtube.com/watch?v=h76wUNmRqxc",
-   "d": "2026-11-10T00:02:58.000Z",
-   "first": "2026-11-10T03:06:20.279Z"
-  },
-  {
    "id": "3ffb309300277d51",
    "f": "tldr-ai",
    "src": "TLDR AI",
@@ -2049,16 +2029,6 @@
    "t": "Was I wrong about open models & cyber risks?",
    "u": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
    "d": "2026-10-30T17:36:56.000Z",
-   "first": "2026-10-30T20:55:30.425Z"
-  },
-  {
-   "id": "de5918bc88ad4383",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "OpenAI Claims It Just Did The Impossible",
-   "u": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-   "d": "2026-10-30T15:57:16.000Z",
    "first": "2026-10-30T20:55:30.425Z"
   },
   {

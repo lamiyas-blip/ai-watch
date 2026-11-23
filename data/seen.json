@@ -581,6 +581,13 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "5f09212e19e08f74",
+    "35c895048121c16d",
+    "732f0c8e50f39e29",
+    "614cfbc17660ff68",
+    "7496bdedd08b1fcc",
+    "4ae16176d621e1ff",
+    "20f1b5ea637c04ff",
     "8b25a3c6463ce867",
     "cf5c789f22c2c0b6",
     "0b272250e9a1c91f",
@@ -1173,14 +1180,7 @@
     "e48404fa97a907c2",
     "c42d7c3f1d2e67c5",
     "b0ac4c19721628c2",
-    "b998d4fcaa48611d",
-    "ead415ce9f173490",
-    "8f3ef8a6fa5d93d3",
-    "5ca2653ac71faf53",
-    "31235f1c00027171",
-    "564fef1e6114c78e",
-    "e48efb85af698533",
-    "c06488974cf83726"
+    "b998d4fcaa48611d"
    ]
   },
   "mit-tr": {
@@ -1467,6 +1467,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "186fb2e8d548feb4",
     "9ce424b3c556c197",
     "6b9be6f91c1aef13",
     "3adcf2a371de31c3",
@@ -1640,6 +1641,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "1368e09d4b4f7b47",
     "bdb7434d27614c66",
     "1cb6fdbb58787383",
     "9d7dd67fc50f4a23",
