@@ -1,6 +1,46 @@
 {
- "generated": "2026-11-22T21:22:03.226Z",
+ "generated": "2026-11-23T01:51:35.220Z",
  "items": [
+  {
+   "id": "8b25a3c6463ce867",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)",
+   "u": "https://www.techmeme.com/261122/p16#a261122p16",
+   "d": "2026-11-23T01:45:00.000Z",
+   "first": "2026-11-23T01:51:35.220Z"
+  },
+  {
+   "id": "cf5c789f22c2c0b6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
+   "u": "https://www.techmeme.com/261122/p15#a261122p15",
+   "d": "2026-11-23T00:55:00.000Z",
+   "first": "2026-11-23T01:51:35.220Z"
+  },
+  {
+   "id": "0b272250e9a1c91f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261122/p14#a261122p14",
+   "d": "2026-11-23T00:45:01.000Z",
+   "first": "2026-11-23T01:51:35.220Z"
+  },
+  {
+   "id": "9cb9e502e20d8fb9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+   "u": "https://www.techmeme.com/261122/p12#a261122p12",
+   "d": "2026-11-22T23:20:08.000Z",
+   "first": "2026-11-23T01:51:35.220Z"
+  },
   {
    "id": "2c0233e2e83a3456",
    "f": "yt-matt-wolfe",
@@ -102,16 +142,6 @@
    "first": "2026-11-22T07:40:28.446Z"
   },
   {
-   "id": "9a57c248942fd775",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
-   "u": "https://www.techmeme.com/261122/p1#a261122p1",
-   "d": "2026-11-22T05:45:01.000Z",
-   "first": "2026-11-22T07:40:28.446Z"
-  },
-  {
    "id": "71173b5b69253da4",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -130,16 +160,6 @@
    "u": "https://www.youtube.com/watch?v=zqzk43bSdDI",
    "d": "2026-11-22T02:02:12.000Z",
    "first": "2026-11-22T07:40:28.446Z"
-  },
-  {
-   "id": "cae8d886d51d5216",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
-   "u": "https://www.techmeme.com/261121/p11#a261121p11",
-   "d": "2026-11-22T00:10:02.000Z",
-   "first": "2026-11-22T00:57:22.774Z"
   },
   {
    "id": "6f01a575c4b8448a",
@@ -170,36 +190,6 @@
    "u": "https://www.youtube.com/watch?v=I0Fasi1-teQ",
    "d": "2026-11-21T21:23:31.000Z",
    "first": "2026-11-22T00:57:22.774Z"
-  },
-  {
-   "id": "95479ab5e49abbe4",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
-   "u": "https://www.techmeme.com/261121/p10#a261121p10",
-   "d": "2026-11-21T20:10:02.000Z",
-   "first": "2026-11-21T20:59:07.514Z"
-  },
-  {
-   "id": "015a230de9d148b5",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
-   "u": "https://www.techmeme.com/261121/p9#a261121p9",
-   "d": "2026-11-21T18:55:01.000Z",
-   "first": "2026-11-21T20:59:07.514Z"
-  },
-  {
-   "id": "2eb9580da4e34bd7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
-   "u": "https://www.techmeme.com/261121/p8#a261121p8",
-   "d": "2026-11-21T17:55:01.000Z",
-   "first": "2026-11-21T20:59:07.514Z"
   },
   {
    "id": "f964df9137689c08",
@@ -3465,7 +3455,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1033 > 1000"
+   "error": "Entity expansion limit exceeded: 1072 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
