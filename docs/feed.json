@@ -1,6 +1,96 @@
 {
- "generated": "2026-11-23T21:48:24.515Z",
+ "generated": "2026-11-24T05:38:45.444Z",
  "items": [
+  {
+   "id": "af184b28e83e9d05",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "PM Lawrence Wong says he doesn't want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips (Philip Heijmans/Bloomberg)",
+   "u": "https://www.techmeme.com/261124/p1#a261124p1",
+   "d": "2026-11-24T05:05:01.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "d20bbca8ecb5d7c2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches (Mike Wheatley/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261123/p54#a261123p54",
+   "d": "2026-11-24T04:15:00.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "b9adcce286deb5e1",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+   "u": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+   "d": "2026-11-24T04:14:16.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "a6cd035dcfe7eab7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI rolls out a version of GPT-6.2 Sol that is \"optimized for everyday conversation\" to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)",
+   "u": "https://www.techmeme.com/261123/p52#a261123p52",
+   "d": "2026-11-24T03:45:01.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "a6f22ad823d9dd5c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261123/p51#a261123p51",
+   "d": "2026-11-24T03:15:00.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "1ab539202f8a8b7a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
+   "u": "https://www.techmeme.com/261123/p50#a261123p50",
+   "d": "2026-11-24T02:35:01.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "893f09a548a2a1c3",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "Did AI JUST Solve Mathematics?",
+   "u": "https://www.youtube.com/watch?v=MkeKXJzJo98",
+   "d": "2026-11-24T02:30:08.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "367fd122933c4d26",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets (Madlin Mekelburg/Bloomberg)",
+   "u": "https://www.techmeme.com/261123/p49#a261123p49",
+   "d": "2026-11-24T02:10:02.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
+  {
+   "id": "bc14605d4484014b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
+   "u": "https://www.techmeme.com/261123/p46#a261123p46",
+   "d": "2026-11-24T00:25:01.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
+  },
   {
    "id": "fa3ed1f81261738b",
    "f": "techmeme",
@@ -12,21 +102,21 @@
    "first": "2026-11-23T21:48:24.515Z"
   },
   {
-   "id": "47cd02166cb4f33e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
-   "u": "https://www.techmeme.com/261123/p41#a261123p41",
-   "d": "2026-11-23T21:25:00.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
+   "id": "35ec9c04317fb826",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "OpenAI and Cisco introduce Shirudo",
+   "u": "https://openai.com/index/introducing-shirudo",
+   "d": "2026-11-23T21:20:00.000Z",
+   "first": "2026-11-24T05:38:45.444Z"
   },
   {
    "id": "f8421896786aa147",
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "This looks SCARILY human",
+   "t": "Believe it or not, this ISN’T AI",
    "u": "https://www.youtube.com/shorts/u1ozwejEwBo",
    "d": "2026-11-23T21:09:34.000Z",
    "first": "2026-11-23T21:48:24.515Z"
@@ -42,16 +132,6 @@
    "first": "2026-11-23T21:48:24.515Z"
   },
   {
-   "id": "7057a6b17ef4038c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
-   "u": "https://www.techmeme.com/261123/p39#a261123p39",
-   "d": "2026-11-23T20:01:33.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
    "id": "1dc723513e192504",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -59,46 +139,6 @@
    "t": "What if GPT-10 did the Hugging Face hack? - Paul Christiano",
    "u": "https://www.youtube.com/shorts/QAE9nRTHtas",
    "d": "2026-11-23T19:37:54.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
-   "id": "b919c30d919d0a4c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
-   "u": "https://www.techmeme.com/261123/p38#a261123p38",
-   "d": "2026-11-23T19:30:02.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
-   "id": "efc25a34e47e816d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Jensen Huang returned to Nvidia's headquarters to cheers from employees and said \"I'm gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
-   "u": "https://www.techmeme.com/261123/p37#a261123p37",
-   "d": "2026-11-23T19:05:01.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
-   "id": "bb2f6e304ee4001e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
-   "u": "https://www.techmeme.com/261123/p35#a261123p35",
-   "d": "2026-11-23T18:25:01.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
-   "id": "10e334ea2021f65c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia board's decision to reinstate Jensen Huang was done without consulting Nvidia's senior leadership, who were only informed at the last minute (Bloomberg)",
-   "u": "https://www.techmeme.com/261123/p33#a261123p33",
-   "d": "2026-11-23T18:01:16.000Z",
    "first": "2026-11-23T21:48:24.515Z"
   },
   {
@@ -112,26 +152,6 @@
    "first": "2026-11-23T21:48:24.515Z"
   },
   {
-   "id": "0241bd8ec6296f84",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Musk has told employees SpaceX is falling behind in AI, making it more lucrative to rent out computing than use it to improve SpaceX's own products (New York Times)",
-   "u": "https://www.techmeme.com/261123/p31#a261123p31",
-   "d": "2026-11-23T17:35:00.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
-   "id": "b412e2a09dbc0822",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Trump directed an effort, led by JD Vance, to push for Jensen Huang's reinstatement, assuring Nvidia's board Huang posed no national security risk (New York Times)",
-   "u": "https://www.techmeme.com/261123/p29#a261123p29",
-   "d": "2026-11-23T17:10:01.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
    "id": "e6a0efac14803b15",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -139,16 +159,6 @@
    "t": "Finding faster quantum algorithms with agents and formal verification",
    "u": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
    "d": "2026-11-23T16:59:40.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
-  },
-  {
-   "id": "2b61ee2ca7a37960",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia's board says it is starting a search to fill a new position, Chief Compliance Officer, reporting to the Nominating and Corporate Governance Committee (Anhata Rooprai/Reuters)",
-   "u": "https://www.techmeme.com/261123/p28#a261123p28",
-   "d": "2026-11-23T16:40:03.000Z",
    "first": "2026-11-23T21:48:24.515Z"
   },
   {
@@ -692,12 +702,12 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "b11d8c62dccab3ae",
+   "id": "e35384defbc50b1a",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
-   "t": "Deploying Daybreak Red",
-   "u": "https://openai.com/business/learn/deploying-daybreak-red",
+   "t": "Get started with Daybreak Blue",
+   "u": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -712,12 +722,12 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "e35384defbc50b1a",
+   "id": "b11d8c62dccab3ae",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
-   "t": "Get started with Daybreak Blue",
-   "u": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "t": "Deploying Daybreak Red",
+   "u": "https://openai.com/business/learn/deploying-daybreak-red",
    "d": "2026-11-19T00:00:00.000Z",
    "first": "2026-11-20T02:43:15.456Z"
   },
@@ -852,16 +862,6 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "d1e91688a92207f0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "u": "https://openai.com/business/customer-stories/sumitomo-life",
-   "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
    "id": "6daa79e244daa573",
    "f": "openai-news",
    "src": "OpenAI",
@@ -872,14 +872,14 @@
    "first": "2026-11-19T04:17:32.133Z"
   },
   {
-   "id": "a54f3e68cce4f468",
+   "id": "d1e91688a92207f0",
    "f": "openai-news",
    "src": "OpenAI",
    "cat": "Lab",
-   "t": "Inside the Codex sandbox",
-   "u": "https://openai.com/index/inside-the-codex-sandbox",
+   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "u": "https://openai.com/business/customer-stories/sumitomo-life",
    "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
+   "first": "2026-11-19T04:17:32.133Z"
   },
   {
    "id": "ec7a8d820d947a3e",
@@ -1332,16 +1332,6 @@
    "first": "2026-11-13T10:37:53.940Z"
   },
   {
-   "id": "5f888c62faa78030",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Who controls access to AI?",
-   "u": "https://www.youtube.com/shorts/yVaVR2Ywfik",
-   "d": "2026-11-13T02:45:18.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
    "id": "15415b3d3a5ef377",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1530,16 +1520,6 @@
    "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
    "d": "2026-11-11T15:00:15.000Z",
    "first": "2026-11-11T18:47:17.666Z"
-  },
-  {
-   "id": "d6261e570d50d1c0",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
-   "u": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
-   "d": "2026-11-11T09:34:28.000Z",
-   "first": "2026-11-11T11:17:12.740Z"
   },
   {
    "id": "51b824b05ad94a48",
@@ -3425,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1014 > 1000"
+   "error": "Entity expansion limit exceeded: 1063 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
