@@ -171,6 +171,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "ad3a67b6b68c7d3a",
     "256a207d96cc2cfe",
     "f1abaf44c12afa31",
     "0a70e19425300ec1",
@@ -244,6 +245,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "b9e5232c23254a9f",
     "65cc39f294a5a557",
     "6aff3d7b52a7353c",
     "11a4e817e9dfdc4f",
@@ -300,6 +302,7 @@
   "bens-bites": {
    "init": true,
    "ids": [
+    "fe0bdc7a19861a49",
     "75a575237031c1c7",
     "b58be7763c1978cd",
     "8822d9b6d06a11b8",
@@ -588,6 +591,15 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "056ecf44a5fdef8a",
+    "1522c8f7787cb4be",
+    "e40814205800715b",
+    "e6f255c08103ea13",
+    "cf7a549b50d3f541",
+    "867eccd98c3ccb6f",
+    "09184825b92f59e8",
+    "2481ef4a7e7c75ee",
+    "a6498df30ddecd83",
     "af184b28e83e9d05",
     "d20bbca8ecb5d7c2",
     "a6cd035dcfe7eab7",
@@ -1178,21 +1190,13 @@
     "b61abb8d592268ef",
     "70324ac22398e348",
     "1df93a03823088b3",
-    "aed0f28c77718ee4",
-    "3759032bf3799083",
-    "a13d2f0e53d54926",
-    "3a9e765f5a54c3bf",
-    "7eae9d16210c1c5e",
-    "68c424812a54aa9a",
-    "d90373d789e6772c",
-    "e23208cde37f6b2d",
-    "6081417b851b77ba",
-    "95bd90241c44635e"
+    "aed0f28c77718ee4"
    ]
   },
   "mit-tr": {
    "init": true,
    "ids": [
+    "6d7c574d2a13e789",
     "7710279ff33cf49f",
     "f53de54f7e027223",
     "3c2567d45f690925",
@@ -1254,6 +1258,7 @@
   "lesswrong": {
    "init": true,
    "ids": [
+    "907408c6e12e468b",
     "fda8f351f7e112ea",
     "15415b3d3a5ef377",
     "f0b6afa993bc56d7",
@@ -1806,6 +1811,7 @@
   "import-ai": {
    "init": true,
    "ids": [
+    "79eaa256a4667466",
     "28a7a528a1c7ed57",
     "e0a38cee269098fc",
     "38821d25ab6117d0",
@@ -1828,6 +1834,7 @@
   "zvi": {
    "init": true,
    "ids": [
+    "18c740b98e310593",
     "566cfafd2778ed42",
     "926ad6fde2fd1ca5",
     "836ba2a83a8afb7b",

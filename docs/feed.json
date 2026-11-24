@@ -1,25 +1,135 @@
 {
- "generated": "2026-11-24T05:38:45.444Z",
+ "generated": "2026-11-24T16:36:25.733Z",
  "items": [
   {
-   "id": "af184b28e83e9d05",
+   "id": "056ecf44a5fdef8a",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "PM Lawrence Wong says he doesn't want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips (Philip Heijmans/Bloomberg)",
-   "u": "https://www.techmeme.com/261124/p1#a261124p1",
-   "d": "2026-11-24T05:05:01.000Z",
-   "first": "2026-11-24T05:38:45.444Z"
+   "t": "Experts say Trump effectively overrode Nvidia's board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny (New York Times)",
+   "u": "https://www.techmeme.com/261124/p23#a261124p23",
+   "d": "2026-11-24T16:01:38.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
   },
   {
-   "id": "d20bbca8ecb5d7c2",
+   "id": "ad3a67b6b68c7d3a",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "To stop AI cheating, we need to fix shoddy training environments",
+   "u": "https://www.transformernews.ai/p/to-stop-ai-cheating-we-need-to-fix",
+   "d": "2026-11-24T16:01:05.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "1522c8f7787cb4be",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches (Mike Wheatley/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261123/p54#a261123p54",
-   "d": "2026-11-24T04:15:00.000Z",
-   "first": "2026-11-24T05:38:45.444Z"
+   "t": "Nvidia falls 6%+, paring its 31% jump on Jensen Huang's return as CEO; AMD and Micron drop 9%+, and Arm and Marvell 8%+, after posting strong gains on Monday (Arjun Kharpal/CNBC)",
+   "u": "https://www.techmeme.com/261124/p22#a261124p22",
+   "d": "2026-11-24T15:25:01.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "6d7c574d2a13e789",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "Raising the stakes for enterprise networks with AI modernization",
+   "u": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "d": "2026-11-24T15:15:16.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "e40814205800715b",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+ (Medha Singh/Reuters)",
+   "u": "https://www.techmeme.com/261124/p21#a261124p21",
+   "d": "2026-11-24T14:45:30.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "fe0bdc7a19861a49",
+   "f": "bens-bites",
+   "src": "Ben's Bites",
+   "cat": "Newsletter",
+   "t": "Commitment issues (app edition)",
+   "u": "https://www.bensbites.com/p/commitment-issues-app-edition",
+   "d": "2026-11-24T14:04:45.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "e6f255c08103ea13",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Zipher, which uses AI agents to handle data workload execution and resource allocation, raised $53M across seed and Series A from TLV Partners and others (Duncan Riley/SiliconANGLE)",
+   "u": "https://www.techmeme.com/261124/p19#a261124p19",
+   "d": "2026-11-24T13:35:01.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "cf7a549b50d3f541",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate (Nat Rubio-Licht/The Deep View)",
+   "u": "https://www.techmeme.com/261124/p18#a261124p18",
+   "d": "2026-11-24T13:25:01.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "867eccd98c3ccb6f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261124/p16#a261124p16",
+   "d": "2026-11-24T12:50:00.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "09184825b92f59e8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more (Financial Times)",
+   "u": "https://www.techmeme.com/261124/p13#a261124p13",
+   "d": "2026-11-24T11:55:00.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "2481ef4a7e7c75ee",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks (Anthropic)",
+   "u": "https://www.techmeme.com/261124/p12#a261124p12",
+   "d": "2026-11-24T11:40:00.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "a6498df30ddecd83",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly (Madison Mills/Axios)",
+   "u": "https://www.techmeme.com/261124/p11#a261124p11",
+   "d": "2026-11-24T11:20:02.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "907408c6e12e468b",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Pacing AI via Compute Reallocation",
+   "u": "https://www.lesswrong.com/posts/dBEDh2WeZfhuiDnJ5/pacing-ai-via-compute-reallocation",
+   "d": "2026-11-24T07:43:49.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
   },
   {
    "id": "b9adcce286deb5e1",
@@ -29,36 +139,6 @@
    "t": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
    "u": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
    "d": "2026-11-24T04:14:16.000Z",
-   "first": "2026-11-24T05:38:45.444Z"
-  },
-  {
-   "id": "a6cd035dcfe7eab7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI rolls out a version of GPT-6.2 Sol that is \"optimized for everyday conversation\" to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)",
-   "u": "https://www.techmeme.com/261123/p52#a261123p52",
-   "d": "2026-11-24T03:45:01.000Z",
-   "first": "2026-11-24T05:38:45.444Z"
-  },
-  {
-   "id": "a6f22ad823d9dd5c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261123/p51#a261123p51",
-   "d": "2026-11-24T03:15:00.000Z",
-   "first": "2026-11-24T05:38:45.444Z"
-  },
-  {
-   "id": "1ab539202f8a8b7a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
-   "u": "https://www.techmeme.com/261123/p50#a261123p50",
-   "d": "2026-11-24T02:35:01.000Z",
    "first": "2026-11-24T05:38:45.444Z"
   },
   {
@@ -72,34 +152,14 @@
    "first": "2026-11-24T05:38:45.444Z"
   },
   {
-   "id": "367fd122933c4d26",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets (Madlin Mekelburg/Bloomberg)",
-   "u": "https://www.techmeme.com/261123/p49#a261123p49",
-   "d": "2026-11-24T02:10:02.000Z",
-   "first": "2026-11-24T05:38:45.444Z"
-  },
-  {
-   "id": "bc14605d4484014b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
-   "u": "https://www.techmeme.com/261123/p46#a261123p46",
-   "d": "2026-11-24T00:25:01.000Z",
-   "first": "2026-11-24T05:38:45.444Z"
-  },
-  {
-   "id": "fa3ed1f81261738b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
-   "u": "https://www.techmeme.com/261123/p42#a261123p42",
-   "d": "2026-11-23T21:40:00.000Z",
-   "first": "2026-11-23T21:48:24.515Z"
+   "id": "b9e5232c23254a9f",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "GLM-5.4 loops 🔁, Claude Ship 🚢, OpenAI secures Linux 🔒",
+   "u": "https://tldr.tech/ai/2026-11-24",
+   "d": "2026-11-24T00:00:00.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
   },
   {
    "id": "35ec9c04317fb826",
@@ -160,6 +220,16 @@
    "u": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
    "d": "2026-11-23T16:59:40.000Z",
    "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "79eaa256a4667466",
+   "f": "import-ai",
+   "src": "Import AI",
+   "cat": "Newsletter",
+   "t": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+   "u": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+   "d": "2026-11-23T14:11:17.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
   },
   {
    "id": "bb3da2f0f7b9b94e",
@@ -246,7 +316,7 @@
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
    "cat": "YouTube",
-   "t": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+   "t": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
    "u": "https://www.youtube.com/watch?v=zqzk43bSdDI",
    "d": "2026-11-22T02:02:12.000Z",
    "first": "2026-11-22T07:40:28.446Z"
@@ -280,6 +350,16 @@
    "u": "https://www.youtube.com/watch?v=I0Fasi1-teQ",
    "d": "2026-11-21T21:23:31.000Z",
    "first": "2026-11-22T00:57:22.774Z"
+  },
+  {
+   "id": "18c740b98e310593",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "GPT-6.2 Astra and Sol: The System Card",
+   "u": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
+   "d": "2026-11-21T15:11:35.000Z",
+   "first": "2026-11-24T16:36:25.733Z"
   },
   {
    "id": "f964df9137689c08",
@@ -1662,16 +1742,6 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "8f268cb057f0b61d",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "The backlash about data centers might really just be about electricity",
-   "u": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-   "d": "2026-11-09T19:35:33.000Z",
-   "first": "2026-11-09T20:57:42.655Z"
-  },
-  {
    "id": "f813be69f328d8cb",
    "f": "transformer",
    "src": "Transformer",
@@ -1942,16 +2012,6 @@
    "first": "2026-11-03T11:07:09.880Z"
   },
   {
-   "id": "5b643b94d1259021",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Claude Message Threads 🧵, Astra 6.2 spotted 👀, Anthropic nears RSI 🔄",
-   "u": "https://tldr.tech/ai/2026-11-03",
-   "d": "2026-11-03T00:00:00.000Z",
-   "first": "2026-11-03T18:30:09.110Z"
-  },
-  {
    "id": "dd16ee33e3f97d51",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -2010,16 +2070,6 @@
    "u": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
    "d": "2026-11-01T18:40:45.000Z",
    "first": "2026-11-01T20:38:45.544Z"
-  },
-  {
-   "id": "8caba023e03f551b",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Childhood and Education #22: Voice Without Exit",
-   "u": "https://thezvi.substack.com/p/childhood-and-education-22-voice",
-   "d": "2026-10-30T20:25:47.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "d5baa3051e0b0922",
@@ -2342,16 +2392,6 @@
    "first": "2026-10-19T20:38:57.966Z"
   },
   {
-   "id": "a2b4e5bfd95fcf7c",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Anthropic’s weak AI bill undermines its ‘safety first’ approach",
-   "u": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach",
-   "d": "2026-10-19T16:47:52.000Z",
-   "first": "2026-10-19T20:38:57.966Z"
-  },
-  {
    "id": "9699698011cea3b2",
    "f": "import-ai",
    "src": "Import AI",
@@ -2502,16 +2542,6 @@
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
-   "id": "84c97404f7046ec1",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "A critical look at Lean4",
-   "u": "https://www.lesswrong.com/posts/zHhGa3iQBQcdSifFL/a-critical-look-at-lean4-1",
-   "d": "2026-10-11T18:34:40.000Z",
-   "first": "2026-10-11T19:02:37.957Z"
-  },
-  {
    "id": "493d90e5f5216717",
    "f": "interconnects",
    "src": "Interconnects",
@@ -2619,16 +2649,6 @@
    "t": "A big-tent or small-tent AI safety movement?",
    "u": "https://www.normaltech.ai/p/a-big-tent-or-small-tent-ai-safety",
    "d": "2026-10-01T16:34:51.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "4385e07d2499a622",
-   "f": "bens-bites",
-   "src": "Ben's Bites",
-   "cat": "Newsletter",
-   "t": "OpenAI DevDay 2026",
-   "u": "https://www.bensbites.com/p/openai-devday-2026",
-   "d": "2026-10-01T13:30:36.000Z",
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
@@ -2940,16 +2960,6 @@
    "u": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
    "d": "2026-08-05T13:49:19.000Z",
    "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
-   "id": "182e87c510fa35a5",
-   "f": "import-ai",
-   "src": "Import AI",
-   "cat": "Newsletter",
-   "t": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
-   "u": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
-   "d": "2026-08-03T13:31:22.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "415c37eb8c072703",
@@ -3365,13 +3375,11 @@
  "health": {
   "import-ai": {
    "name": "Import AI",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "zvi": {
    "name": "Don't Worry About the Vase",
-   "ok": false,
-   "error": "HTTP 403"
+   "ok": true
   },
   "latent-space": {
    "name": "Latent Space",
