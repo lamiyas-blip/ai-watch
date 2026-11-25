@@ -172,6 +172,7 @@
   "transformer": {
    "init": true,
    "ids": [
+    "2674e679dff8de21",
     "ad3a67b6b68c7d3a",
     "256a207d96cc2cfe",
     "f1abaf44c12afa31",
@@ -246,6 +247,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "5a394e01ee207510",
     "b9e5232c23254a9f",
     "65cc39f294a5a557",
     "6aff3d7b52a7353c",
@@ -512,6 +514,7 @@
   "deepmind-blog": {
    "init": true,
    "ids": [
+    "1a82f32f9bd9fcfc",
     "e6a0efac14803b15",
     "0175de14b545c148",
     "a34c74a1585bf056",
@@ -597,6 +600,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "a7b2127c16615618",
+    "f650269d112fcfb6",
+    "ad0838c5c998eeb2",
+    "8465e5873d579b03",
+    "ab2ee8e13ba1581d",
+    "147282e4cba6783a",
+    "aa75035f664a8b54",
+    "35e00853d7f21c08",
     "b64dffe1388f767f",
     "0384cb79bc671f0e",
     "fd2ab9f67e7984be",
@@ -1188,20 +1199,13 @@
     "6dda1ee5edbda6f9",
     "7018d8a2b265d3fb",
     "9d4a48bf1969ecab",
-    "860e3ca87ef82743",
-    "b43914821a97d1f2",
-    "52459ac10f225311",
-    "6464b74e746388d8",
-    "0892da8da5ca1ea9",
-    "736b5dc655e1ef0c",
-    "c11f02582653b424",
-    "a4080589631c599f",
-    "fbb1488b6f6d8cd8"
+    "860e3ca87ef82743"
    ]
   },
   "mit-tr": {
    "init": true,
    "ids": [
+    "e8c5c0ca81ef2795",
     "7710279ff33cf49f",
     "f53de54f7e027223",
     "3c2567d45f690925",
@@ -1324,6 +1328,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "3b899590dcd2be04",
     "383be693e767a7d7",
     "9d8968baa11b4f45",
     "1dc723513e192504",
@@ -1385,6 +1390,7 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "02fac6e8e6b9109a",
     "9d2f4c3f3f06bcf4",
     "951e6183e2864cc3",
     "bb3da2f0f7b9b94e",
@@ -1492,6 +1498,7 @@
   "yt-two-minute": {
    "init": true,
    "ids": [
+    "4f36c4b0b238106d",
     "186fb2e8d548feb4",
     "9ce424b3c556c197",
     "6b9be6f91c1aef13",
@@ -1520,6 +1527,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "0b6084cee5270a22",
     "2ba473e36402662e",
     "f8421896786aa147",
     "2c0233e2e83a3456",
@@ -1704,6 +1712,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "e72d9f68d20a78e8",
     "2071804f5d7bafdf",
     "54648f19d8d431a1",
     "3e4c0f05d7e82a78",

@@ -1,15 +1,145 @@
 {
- "generated": "2026-11-25T09:57:52.069Z",
+ "generated": "2026-11-25T19:42:49.950Z",
  "items": [
   {
-   "id": "b64dffe1388f767f",
+   "id": "3b899590dcd2be04",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "AI Hacking Its Own Lab Isn't Science Fiction Anymore - Paul Christiano",
+   "u": "https://www.youtube.com/shorts/Ws4dO4_VsRc",
+   "d": "2026-11-25T18:50:43.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "a7b2127c16615618",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "OpenAI publishes a preprint claiming to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (Deedy/@deedydas)",
-   "u": "https://www.techmeme.com/261125/p5#a261125p5",
-   "d": "2026-11-25T06:55:01.000Z",
-   "first": "2026-11-25T09:57:52.069Z"
+   "t": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips (Kai Nicol-Schwarz/CNBC)",
+   "u": "https://www.techmeme.com/261125/p29#a261125p29",
+   "d": "2026-11-25T18:25:00.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "f650269d112fcfb6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)",
+   "u": "https://www.techmeme.com/261125/p28#a261125p28",
+   "d": "2026-11-25T17:45:02.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "ad0838c5c998eeb2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)",
+   "u": "https://www.techmeme.com/261125/p26#a261125p26",
+   "d": "2026-11-25T17:05:04.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "2674e679dff8de21",
+   "f": "transformer",
+   "src": "Transformer",
+   "cat": "Newsletter",
+   "t": "“Rewrite this as a new ordinance”: Inside the ChatGPT transcripts of a city manager",
+   "u": "https://www.transformernews.ai/p/inside-chatgpt-transcripts-city-manager-kingsland-georgia-ai-writting-laws",
+   "d": "2026-11-25T17:02:08.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "0b6084cee5270a22",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Why Don't All Drones Do This??",
+   "u": "https://www.youtube.com/shorts/BWpsNrkt6Z4",
+   "d": "2026-11-25T16:37:45.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "8465e5873d579b03",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11% (Financial Times)",
+   "u": "https://www.techmeme.com/261125/p24#a261125p24",
+   "d": "2026-11-25T15:10:01.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "ab2ee8e13ba1581d",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
+   "u": "https://www.techmeme.com/261125/p21#a261125p21",
+   "d": "2026-11-25T13:23:06.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "147282e4cba6783a",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Chinese vendors in Shenzhen's Huaqiangbei market still sell US-restricted Nvidia hardware, quoting $3M+ for Blackwell B300 servers, up from $2M two months ago (Joshua Yang/Washington Post)",
+   "u": "https://www.techmeme.com/261125/p20#a261125p20",
+   "d": "2026-11-25T13:00:57.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "02fac6e8e6b9109a",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The Billion-Dollar Blind Spot of AI Benchmarks #shorts",
+   "u": "https://www.youtube.com/shorts/KaraiGjLJAQ",
+   "d": "2026-11-25T12:44:54.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "aa75035f664a8b54",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "EA says it used AI and archival recordings to add late soccer commentator John Motson to EA Sports FC 27, with permission from Motson's widow and son (Tom Gerken/BBC)",
+   "u": "https://www.techmeme.com/261125/p18#a261125p18",
+   "d": "2026-11-25T12:25:01.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "35e00853d7f21c08",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia's board reinstating Jensen Huang as CEO under pressure from President Trump represents \"another installment of his regrettable state capitalism\" (Wall Street Journal)",
+   "u": "https://www.techmeme.com/261125/p16#a261125p16",
+   "d": "2026-11-25T11:30:05.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "e8c5c0ca81ef2795",
+   "f": "mit-tr",
+   "src": "MIT Technology Review",
+   "cat": "News",
+   "t": "AI is straining America’s open records systems",
+   "u": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "d": "2026-11-25T10:00:00.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "4f36c4b0b238106d",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+   "u": "https://www.youtube.com/watch?v=hwWlEuI359w",
+   "d": "2026-11-25T09:54:23.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
   },
   {
    "id": "9d2f4c3f3f06bcf4",
@@ -32,36 +162,6 @@
    "first": "2026-11-25T09:57:52.069Z"
   },
   {
-   "id": "0384cb79bc671f0e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Trump's tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO (Financial Times)",
-   "u": "https://www.techmeme.com/261125/p3#a261125p3",
-   "d": "2026-11-25T06:05:01.000Z",
-   "first": "2026-11-25T09:57:52.069Z"
-  },
-  {
-   "id": "fd2ab9f67e7984be",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners (Anne Florentyna/Inc42)",
-   "u": "https://www.techmeme.com/261125/p2#a261125p2",
-   "d": "2026-11-25T05:50:13.000Z",
-   "first": "2026-11-25T09:57:52.069Z"
-  },
-  {
-   "id": "8915649aaf1d3c07",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: the EU plans to mobilize up to €50B for its Sovereign Tech Equity Fund to make long-term, high-risk bets on European AI and quantum computing companies (Barbara Moens/Financial Times)",
-   "u": "https://www.techmeme.com/261125/p1#a261125p1",
-   "d": "2026-11-25T05:40:03.000Z",
-   "first": "2026-11-25T09:57:52.069Z"
-  },
-  {
    "id": "7966a0ce9fcd4c51",
    "f": "latent-space",
    "src": "Latent Space",
@@ -72,14 +172,24 @@
    "first": "2026-11-25T09:57:52.069Z"
   },
   {
-   "id": "c3dfe22d90b831e9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "e72d9f68d20a78e8",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives \"prudent\" fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments (Dina Bass/Bloomberg)",
-   "u": "https://www.techmeme.com/261124/p50#a261124p50",
-   "d": "2026-11-25T02:30:02.000Z",
-   "first": "2026-11-25T09:57:52.069Z"
+   "t": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+   "u": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "d": "2026-11-25T03:47:42.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
+  },
+  {
+   "id": "5a394e01ee207510",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "OpenAI solves matrix math 🔢, SWE-2.1 💻, swarm limitations 🐝",
+   "u": "https://tldr.tech/ai/2026-11-25",
+   "d": "2026-11-25T00:00:00.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
   },
   {
    "id": "265a7db0aec5dc31",
@@ -150,6 +260,16 @@
    "u": "https://www.bensbites.com/p/commitment-issues-app-edition",
    "d": "2026-11-24T14:04:45.000Z",
    "first": "2026-11-24T16:36:25.733Z"
+  },
+  {
+   "id": "1a82f32f9bd9fcfc",
+   "f": "deepmind-blog",
+   "src": "Google DeepMind",
+   "cat": "Lab",
+   "t": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "u": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "d": "2026-11-24T13:07:53.000Z",
+   "first": "2026-11-25T19:42:49.950Z"
   },
   {
    "id": "a6f72c2384fb2905",
@@ -882,16 +1002,6 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "c7ac011ff98f1291",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "Insane AI Breakthroughs Nobody Is Talking About",
-   "u": "https://www.youtube.com/watch?v=-oA6oLxWpJg",
-   "d": "2026-11-18T22:08:16.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
    "id": "0175de14b545c148",
    "f": "deepmind-blog",
    "src": "Google DeepMind",
@@ -1272,16 +1382,6 @@
    "first": "2026-11-16T00:06:22.129Z"
   },
   {
-   "id": "55b6dd93c20d778e",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "AI’s math progress matters more for AI research than for math",
-   "u": "https://www.youtube.com/shorts/7DO3mOl_OrI",
-   "d": "2026-11-15T23:19:02.000Z",
-   "first": "2026-11-16T00:06:22.129Z"
-  },
-  {
    "id": "6198036722d6c05a",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1329,16 +1429,6 @@
    "t": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "u": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "d": "2026-11-14T02:52:59.000Z",
-   "first": "2026-11-14T17:13:42.259Z"
-  },
-  {
-   "id": "b0bc651599dac470",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "No AI Slop: A Manifesto",
-   "u": "https://www.slopmanifesto.com/",
-   "d": "2026-11-13T19:51:56.000Z",
    "first": "2026-11-14T17:13:42.259Z"
   },
   {
@@ -1509,16 +1599,6 @@
    "t": "[AINews] D-Day (Decision Models Day)",
    "u": "https://latent.space/p/ainews-d-day-decision-models-day/",
    "d": "2026-11-12T05:26:54.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
-  },
-  {
-   "id": "a185320eea098955",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "How Would You Make a Traffic Light Smart? (Michael Tomasello)",
-   "u": "https://www.youtube.com/shorts/0w2Crs8RzFE",
-   "d": "2026-11-12T03:03:27.000Z",
    "first": "2026-11-12T08:29:25.691Z"
   },
   {
@@ -1702,16 +1782,6 @@
    "first": "2026-11-10T18:44:14.314Z"
   },
   {
-   "id": "8f268cb057f0b61d",
-   "f": "mit-tr",
-   "src": "MIT Technology Review",
-   "cat": "News",
-   "t": "The backlash about data centers might really just be about electricity",
-   "u": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-   "d": "2026-11-09T19:35:33.000Z",
-   "first": "2026-11-25T09:57:52.069Z"
-  },
-  {
    "id": "f813be69f328d8cb",
    "f": "transformer",
    "src": "Transformer",
@@ -1822,16 +1892,6 @@
    "first": "2026-11-06T16:24:39.174Z"
   },
   {
-   "id": "7831b26d27dc3041",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-   "u": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-   "d": "2026-11-06T07:27:02.000Z",
-   "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
    "id": "10b0ae22371a3a18",
    "f": "lesswrong",
    "src": "LessWrong (curated)",
@@ -1919,16 +1979,6 @@
    "t": "What the blue tsunami means for AI policy",
    "u": "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation",
    "d": "2026-11-04T15:48:33.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
-  },
-  {
-   "id": "4c7f1ed0d32cc87f",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡",
-   "u": "https://tldr.tech/ai/2026-11-04",
-   "d": "2026-11-04T00:00:00.000Z",
    "first": "2026-11-04T18:57:06.724Z"
   },
   {
@@ -2232,16 +2282,6 @@
    "first": "2026-10-23T17:33:03.730Z"
   },
   {
-   "id": "8405823ba9037fd0",
-   "f": "deepmind-blog",
-   "src": "Google DeepMind",
-   "cat": "Lab",
-   "t": "Beyond tree cover: mapping the world’s forest types",
-   "u": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "d": "2026-10-22T14:30:24.000Z",
-   "first": "2026-10-22T17:23:04.195Z"
-  },
-  {
    "id": "4cddaad32ea71f6a",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -2319,16 +2359,6 @@
    "t": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
    "u": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
    "d": "2026-10-20T17:04:21.000Z",
-   "first": "2026-10-20T18:33:34.710Z"
-  },
-  {
-   "id": "87a392b0b5dfeb76",
-   "f": "transformer",
-   "src": "Transformer",
-   "cat": "Newsletter",
-   "t": "Is a new job in Rep. Moran’s office a sign Congress is staffing up on AI?",
-   "u": "https://www.transformernews.ai/p/nathaniel-moran-to-hire-ai-staffer",
-   "d": "2026-10-20T17:00:32.000Z",
    "first": "2026-10-20T18:33:34.710Z"
   },
   {
@@ -3403,8 +3433,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
