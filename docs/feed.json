@@ -1,15 +1,135 @@
 {
- "generated": "2026-11-24T16:36:25.733Z",
+ "generated": "2026-11-25T01:09:56.523Z",
  "items": [
   {
-   "id": "056ecf44a5fdef8a",
+   "id": "ffb5cfdc2abe2c2e",
    "f": "techmeme",
    "src": "Techmeme (AI only)",
    "cat": "News",
-   "t": "Experts say Trump effectively overrode Nvidia's board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny (New York Times)",
-   "u": "https://www.techmeme.com/261124/p23#a261124p23",
-   "d": "2026-11-24T16:01:38.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
+   "t": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them (OpenAI)",
+   "u": "https://www.techmeme.com/261124/p44#a261124p44",
+   "d": "2026-11-24T23:40:02.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "faf25addb6927155",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Trump says a pardon for Jensen Huang is \"always an option\" but likely unnecessary, and it's \"probably not too late\" for the US to take an equity stake in Nvidia (New York Post)",
+   "u": "https://www.techmeme.com/261124/p42#a261124p42",
+   "d": "2026-11-24T23:10:00.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "265a7db0aec5dc31",
+   "f": "zvi",
+   "src": "Don't Worry About the Vase",
+   "cat": "Newsletter",
+   "t": "Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump",
+   "u": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
+   "d": "2026-11-24T22:42:01.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "bb8d535c5fa34d60",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
+   "u": "https://www.techmeme.com/261124/p40#a261124p40",
+   "d": "2026-11-24T22:05:01.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "383be693e767a7d7",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "The strongest objections to RSI",
+   "u": "https://www.youtube.com/watch?v=Em6tbhj9o6A",
+   "d": "2026-11-24T21:43:11.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "8eef80bf54b1293f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)",
+   "u": "https://www.techmeme.com/261124/p38#a261124p38",
+   "d": "2026-11-24T21:35:02.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "9d8968baa11b4f45",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "When 6 Years of AI Progress Happens in 6 Months - Paul Christiano",
+   "u": "https://www.youtube.com/shorts/K42jlW-THdo",
+   "d": "2026-11-24T21:06:48.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "c354cd20a7199286",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)",
+   "u": "https://www.techmeme.com/261124/p36#a261124p36",
+   "d": "2026-11-24T21:01:44.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "2ba473e36402662e",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "This helmet tells you when to turn ⮑",
+   "u": "https://www.youtube.com/shorts/PQYURWk9-w0",
+   "d": "2026-11-24T20:11:42.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "feefa0fa444522c5",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)",
+   "u": "https://www.techmeme.com/261124/p34#a261124p34",
+   "d": "2026-11-24T20:10:00.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "5758e24c954ce8f2",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: the CIA, ODNI, and NGA found a breach of an open-source intelligence system that exposed some unclassified info; hackers likely used the AI tool Artex (New York Times)",
+   "u": "https://www.techmeme.com/261124/p33#a261124p33",
+   "d": "2026-11-24T20:05:01.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "1077f8a42d9a0830",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)",
+   "u": "https://www.techmeme.com/261124/p32#a261124p32",
+   "d": "2026-11-24T19:35:01.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "2071804f5d7bafdf",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Tidal bans AI-generated music",
+   "u": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "d": "2026-11-24T16:12:38.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
   },
   {
    "id": "ad3a67b6b68c7d3a",
@@ -19,16 +139,6 @@
    "t": "To stop AI cheating, we need to fix shoddy training environments",
    "u": "https://www.transformernews.ai/p/to-stop-ai-cheating-we-need-to-fix",
    "d": "2026-11-24T16:01:05.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
-  },
-  {
-   "id": "1522c8f7787cb4be",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia falls 6%+, paring its 31% jump on Jensen Huang's return as CEO; AMD and Micron drop 9%+, and Arm and Marvell 8%+, after posting strong gains on Monday (Arjun Kharpal/CNBC)",
-   "u": "https://www.techmeme.com/261124/p22#a261124p22",
-   "d": "2026-11-24T15:25:01.000Z",
    "first": "2026-11-24T16:36:25.733Z"
   },
   {
@@ -42,16 +152,6 @@
    "first": "2026-11-24T16:36:25.733Z"
   },
   {
-   "id": "e40814205800715b",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+ (Medha Singh/Reuters)",
-   "u": "https://www.techmeme.com/261124/p21#a261124p21",
-   "d": "2026-11-24T14:45:30.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
-  },
-  {
    "id": "fe0bdc7a19861a49",
    "f": "bens-bites",
    "src": "Ben's Bites",
@@ -62,64 +162,24 @@
    "first": "2026-11-24T16:36:25.733Z"
   },
   {
-   "id": "e6f255c08103ea13",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Zipher, which uses AI agents to handle data workload execution and resource allocation, raised $53M across seed and Series A from TLV Partners and others (Duncan Riley/SiliconANGLE)",
-   "u": "https://www.techmeme.com/261124/p19#a261124p19",
-   "d": "2026-11-24T13:35:01.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
+   "id": "a6f72c2384fb2905",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "u": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "d": "2026-11-24T13:00:00.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
   },
   {
-   "id": "cf7a549b50d3f541",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate (Nat Rubio-Licht/The Deep View)",
-   "u": "https://www.techmeme.com/261124/p18#a261124p18",
-   "d": "2026-11-24T13:25:01.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
-  },
-  {
-   "id": "867eccd98c3ccb6f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261124/p16#a261124p16",
-   "d": "2026-11-24T12:50:00.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
-  },
-  {
-   "id": "09184825b92f59e8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more (Financial Times)",
-   "u": "https://www.techmeme.com/261124/p13#a261124p13",
-   "d": "2026-11-24T11:55:00.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
-  },
-  {
-   "id": "2481ef4a7e7c75ee",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks (Anthropic)",
-   "u": "https://www.techmeme.com/261124/p12#a261124p12",
-   "d": "2026-11-24T11:40:00.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
-  },
-  {
-   "id": "a6498df30ddecd83",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly (Madison Mills/Axios)",
-   "u": "https://www.techmeme.com/261124/p11#a261124p11",
-   "d": "2026-11-24T11:20:02.000Z",
-   "first": "2026-11-24T16:36:25.733Z"
+   "id": "c8eae9d0f80f9871",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Searching for distant planets with Astra",
+   "u": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "d": "2026-11-24T11:00:00.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
   },
   {
    "id": "907408c6e12e468b",
@@ -162,6 +222,36 @@
    "first": "2026-11-24T16:36:25.733Z"
   },
   {
+   "id": "ce2b015cf5f5932e",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How Intentful uses dots to make more time for growth",
+   "u": "https://openai.com/business/customer-stories/intentful-dots",
+   "d": "2026-11-24T00:00:00.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "7517a6b50036f9e6",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "How iFood scales coding agents across 15,000 repositories",
+   "u": "https://openai.com/business/customer-stories/ifood",
+   "d": "2026-11-24T00:00:00.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
+   "id": "ac2febd3ccca61c5",
+   "f": "openai-news",
+   "src": "OpenAI",
+   "cat": "Lab",
+   "t": "Clay helps sales teams win with Codex and ChatGPT",
+   "u": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "d": "2026-11-24T00:00:00.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
+  },
+  {
    "id": "35ec9c04317fb826",
    "f": "openai-news",
    "src": "OpenAI",
@@ -176,7 +266,7 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "Believe it or not, this ISN’T AI",
+   "t": "This robot face is NOT AI!",
    "u": "https://www.youtube.com/shorts/u1ozwejEwBo",
    "d": "2026-11-23T21:09:34.000Z",
    "first": "2026-11-23T21:48:24.515Z"
@@ -290,6 +380,16 @@
    "u": "https://tldr.tech/ai/2026-11-23",
    "d": "2026-11-23T00:00:00.000Z",
    "first": "2026-11-23T21:48:24.515Z"
+  },
+  {
+   "id": "54648f19d8d431a1",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "u": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "d": "2026-11-22T21:01:16.000Z",
+   "first": "2026-11-25T01:09:56.523Z"
   },
   {
    "id": "2c0233e2e83a3456",
@@ -782,26 +882,6 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "e35384defbc50b1a",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Get started with Daybreak Blue",
-   "u": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-   "d": "2026-11-19T00:00:00.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
-   "id": "612536d9a47448e5",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Explore the Codex Security Plugin",
-   "u": "https://openai.com/business/learn/codex-security-plugin-demo",
-   "d": "2026-11-19T00:00:00.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
    "id": "b11d8c62dccab3ae",
    "f": "openai-news",
    "src": "OpenAI",
@@ -829,16 +909,6 @@
    "t": "Introducing Gemini 4 Neon",
    "u": "https://deepmind.google/blog/introducing-gemini-4-neon/",
    "d": "2026-11-18T21:35:43.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "14769697f81fd4bc",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "The Reason No One Can Catch NVIDIA",
-   "u": "https://www.youtube.com/shorts/hT0qW_DRFLw",
-   "d": "2026-11-18T19:02:01.000Z",
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
@@ -930,36 +1000,6 @@
    "u": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
    "d": "2026-11-18T10:19:04.000Z",
    "first": "2026-11-18T16:46:40.604Z"
-  },
-  {
-   "id": "96c1187cc728c509",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "The Silent Consensus",
-   "u": "https://openai.com/index/the-silent-consensus",
-   "d": "2026-11-18T10:00:00.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "6daa79e244daa573",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "Research acceleration: The jagged frontier",
-   "u": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
-   "id": "d1e91688a92207f0",
-   "f": "openai-news",
-   "src": "OpenAI",
-   "cat": "Lab",
-   "t": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "u": "https://openai.com/business/customer-stories/sumitomo-life",
-   "d": "2026-11-18T08:00:00.000Z",
-   "first": "2026-11-19T04:17:32.133Z"
   },
   {
    "id": "ec7a8d820d947a3e",
@@ -1262,16 +1302,6 @@
    "first": "2026-11-15T20:27:07.054Z"
   },
   {
-   "id": "d26d0511248c2840",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "The Next 4 Years of AI Will Look Nothing Like the Last 4",
-   "u": "https://www.youtube.com/shorts/SeGUXN8XIu8",
-   "d": "2026-11-15T01:05:37.000Z",
-   "first": "2026-11-15T15:17:06.926Z"
-  },
-  {
    "id": "ac12e5ce93ff31d1",
    "f": "interconnects",
    "src": "Interconnects",
@@ -1312,16 +1342,6 @@
    "first": "2026-11-14T17:13:42.259Z"
   },
   {
-   "id": "97f8d6bbcc3da327",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "I’ve changed my mind about continual learning",
-   "u": "https://www.youtube.com/shorts/CoSptp9tYpY",
-   "d": "2026-11-13T22:39:45.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
    "id": "b0bc651599dac470",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1332,16 +1352,6 @@
    "first": "2026-11-14T17:13:42.259Z"
   },
   {
-   "id": "dc2473ad60a03efe",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-   "u": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-   "d": "2026-11-13T17:30:10.000Z",
-   "first": "2026-11-13T23:44:36.181Z"
-  },
-  {
    "id": "0a70e19425300ec1",
    "f": "transformer",
    "src": "Transformer",
@@ -1350,16 +1360,6 @@
    "u": "https://www.transformernews.ai/p/independent-ai-auditors-have-a-recruitment",
    "d": "2026-11-13T16:14:15.000Z",
    "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
-   "id": "51a10aaef09a577e",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-   "u": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-   "d": "2026-11-13T15:08:44.000Z",
-   "first": "2026-11-14T17:13:42.259Z"
   },
   {
    "id": "be9fc153ca4d1eca",
@@ -2010,16 +2010,6 @@
    "u": "https://www.lesswrong.com/posts/LrAqM4bGmAoA79rP3/quantity-vs-quality-in-pottery-is-a-lie",
    "d": "2026-11-03T03:29:41.000Z",
    "first": "2026-11-03T11:07:09.880Z"
-  },
-  {
-   "id": "dd16ee33e3f97d51",
-   "f": "zvi",
-   "src": "Don't Worry About the Vase",
-   "cat": "Newsletter",
-   "t": "Scott Alexander’s Against SURA Seems Deeply Confused",
-   "u": "https://thezvi.substack.com/p/scott-alexanders-against-sura-seems",
-   "d": "2026-11-02T21:33:03.000Z",
-   "first": "2026-11-04T18:57:06.724Z"
   },
   {
    "id": "ad0b0e3719117967",
@@ -3413,7 +3403,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1063 > 1000"
+   "error": "Entity expansion limit exceeded: 1045 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3441,8 +3431,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",

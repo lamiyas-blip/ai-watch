@@ -337,6 +337,11 @@
   "openai-news": {
    "init": true,
    "ids": [
+    "a6f72c2384fb2905",
+    "c8eae9d0f80f9871",
+    "ce2b015cf5f5932e",
+    "7517a6b50036f9e6",
+    "ac2febd3ccca61c5",
     "35ec9c04317fb826",
     "7207478fd51254da",
     "09a46968943a238d",
@@ -346,9 +351,9 @@
     "883854fb910b3625",
     "68f0f584d9160f2e",
     "b3a2f6e3f7760b8d",
+    "b11d8c62dccab3ae",
     "e35384defbc50b1a",
     "612536d9a47448e5",
-    "b11d8c62dccab3ae",
     "96c1187cc728c509",
     "6daa79e244daa573",
     "d1e91688a92207f0",
@@ -591,6 +596,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "ffb5cfdc2abe2c2e",
+    "faf25addb6927155",
+    "bb8d535c5fa34d60",
+    "8eef80bf54b1293f",
+    "c354cd20a7199286",
+    "feefa0fa444522c5",
+    "5758e24c954ce8f2",
+    "1077f8a42d9a0830",
     "056ecf44a5fdef8a",
     "1522c8f7787cb4be",
     "e40814205800715b",
@@ -1182,15 +1195,7 @@
     "ac44bb943a2803d7",
     "12e6c3aca2261fbc",
     "1244fe3437474d3e",
-    "f1cfdda32cd2c3ef",
-    "9c1d42f5d3a5f24e",
-    "fc50cc99a249a797",
-    "b6029393f28bfcfd",
-    "ab4db821a7239a73",
-    "b61abb8d592268ef",
-    "70324ac22398e348",
-    "1df93a03823088b3",
-    "aed0f28c77718ee4"
+    "f1cfdda32cd2c3ef"
    ]
   },
   "mit-tr": {
@@ -1318,6 +1323,8 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "383be693e767a7d7",
+    "9d8968baa11b4f45",
     "1dc723513e192504",
     "20484f9a7d0c20a9",
     "38addd79ebdff9eb",
@@ -1510,6 +1517,7 @@
   "yt-matt-wolfe": {
    "init": true,
    "ids": [
+    "2ba473e36402662e",
     "f8421896786aa147",
     "2c0233e2e83a3456",
     "c54b3e942622a478",
@@ -1693,6 +1701,8 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "2071804f5d7bafdf",
+    "54648f19d8d431a1",
     "3e4c0f05d7e82a78",
     "2e32bfc9bee81824",
     "f3d5239495ba18e7",
@@ -1834,6 +1844,7 @@
   "zvi": {
    "init": true,
    "ids": [
+    "265a7db0aec5dc31",
     "18c740b98e310593",
     "566cfafd2778ed42",
     "926ad6fde2fd1ca5",
