@@ -1,6 +1,66 @@
 {
- "generated": "2026-11-26T11:37:36.594Z",
+ "generated": "2026-11-26T20:38:00.306Z",
  "items": [
+  {
+   "id": "05f07736e51eb133",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "Tracking Diseases Cured by AI",
+   "u": "https://diseasescuredbyai.com/",
+   "d": "2026-11-26T17:16:41.000Z",
+   "first": "2026-11-26T20:38:00.306Z"
+  },
+  {
+   "id": "080f0b41379d8dff",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+   "u": "https://www.techmeme.com/261126/p22#a261126p22",
+   "d": "2026-11-26T16:50:28.000Z",
+   "first": "2026-11-26T20:38:00.306Z"
+  },
+  {
+   "id": "96b2fa3e9e2128ac",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
+   "u": "https://www.techmeme.com/261126/p20#a261126p20",
+   "d": "2026-11-26T15:50:27.000Z",
+   "first": "2026-11-26T20:38:00.306Z"
+  },
+  {
+   "id": "9dcd8ecdd627be91",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
+   "u": "https://www.techmeme.com/261126/p18#a261126p18",
+   "d": "2026-11-26T13:30:01.000Z",
+   "first": "2026-11-26T20:38:00.306Z"
+  },
+  {
+   "id": "3fa685ede9453970",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
+   "u": "https://www.techmeme.com/261126/p16#a261126p16",
+   "d": "2026-11-26T13:01:08.000Z",
+   "first": "2026-11-26T20:38:00.306Z"
+  },
+  {
+   "id": "15664c551dfe72be",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
+   "u": "https://www.techmeme.com/261126/p14#a261126p14",
+   "d": "2026-11-26T12:35:21.000Z",
+   "first": "2026-11-26T20:38:00.306Z"
+  },
   {
    "id": "faf6597d70016eed",
    "f": "techmeme",
@@ -22,46 +82,6 @@
    "first": "2026-11-26T11:37:36.594Z"
   },
   {
-   "id": "3c9e936be74187e8",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
-   "u": "https://www.techmeme.com/261126/p8#a261126p8",
-   "d": "2026-11-26T09:50:19.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
-  },
-  {
-   "id": "1e5aad28cd1aea78",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more (Tyler Cowen/Conversations with Tyler)",
-   "u": "https://www.techmeme.com/261126/p6#a261126p6",
-   "d": "2026-11-26T08:55:02.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
-  },
-  {
-   "id": "abc41221581688f9",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts (Emily Herbert/Financial Times)",
-   "u": "https://www.techmeme.com/261126/p4#a261126p4",
-   "d": "2026-11-26T06:20:05.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
-  },
-  {
-   "id": "301aa273259b14cf",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals (Jonathan Greig/The Record)",
-   "u": "https://www.techmeme.com/261126/p3#a261126p3",
-   "d": "2026-11-26T06:00:48.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
-  },
-  {
    "id": "7cdd74f162cf181c",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -69,16 +89,6 @@
    "t": "AI Engineering Is a Decade Ahead of the Maths #shorts",
    "u": "https://www.youtube.com/shorts/vDDRbEOyEVc",
    "d": "2026-11-26T05:52:46.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
-  },
-  {
-   "id": "3de4ea1b1dc2d174",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia, as the US steps up export controls (Financial Times)",
-   "u": "https://www.techmeme.com/261126/p2#a261126p2",
-   "d": "2026-11-26T05:45:02.000Z",
    "first": "2026-11-26T11:37:36.594Z"
   },
   {
@@ -102,16 +112,6 @@
    "first": "2026-11-26T11:37:36.594Z"
   },
   {
-   "id": "00467220a7054ec7",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner (Jagmeet Singh/TechCrunch)",
-   "u": "https://www.techmeme.com/261125/p46#a261125p46",
-   "d": "2026-11-26T02:55:02.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
-  },
-  {
    "id": "887951b91a59baeb",
    "f": "yt-mlst",
    "src": "Machine Learning Street Talk",
@@ -132,16 +132,6 @@
    "first": "2026-11-26T02:31:00.006Z"
   },
   {
-   "id": "62aafe31cc0dad24",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)",
-   "u": "https://www.techmeme.com/261125/p45#a261125p45",
-   "d": "2026-11-26T01:55:00.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
-  },
-  {
    "id": "24528ea85ade68e9",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -150,6 +140,16 @@
    "u": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
    "d": "2026-11-26T00:05:35.000Z",
    "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "bc040d7d47455c2a",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝",
+   "u": "https://tldr.tech/ai/2026-11-26",
+   "d": "2026-11-26T00:00:00.000Z",
+   "first": "2026-11-26T20:38:00.306Z"
   },
   {
    "id": "f5a24391f6f69958",
@@ -1306,7 +1306,7 @@
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
    "cat": "YouTube",
-   "t": "This algorithm changed how I think about compression | Information theory, part 3",
+   "t": "This algorithm changed how I think about compression | Compression & Intelligence, part 3",
    "u": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
    "d": "2026-11-17T16:43:16.000Z",
    "first": "2026-11-17T17:57:14.864Z"
@@ -1470,16 +1470,6 @@
    "u": "https://tldr.tech/ai/2026-11-16",
    "d": "2026-11-16T00:00:00.000Z",
    "first": "2026-11-16T16:33:29.935Z"
-  },
-  {
-   "id": "6198036722d6c05a",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "All AI-generated code should be Open Source",
-   "u": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-   "d": "2026-11-15T14:46:58.000Z",
-   "first": "2026-11-15T20:27:07.054Z"
   },
   {
    "id": "ac12e5ce93ff31d1",
@@ -1969,16 +1959,6 @@
    "t": "Craft and taste",
    "u": "https://www.bensbites.com/p/craft-and-taste",
    "d": "2026-11-05T14:02:12.000Z",
-   "first": "2026-11-05T15:39:10.563Z"
-  },
-  {
-   "id": "6572c938c173b6f7",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡",
-   "u": "https://tldr.tech/ai/2026-11-05",
-   "d": "2026-11-05T00:00:00.000Z",
    "first": "2026-11-05T15:39:10.563Z"
   },
   {
@@ -3415,7 +3395,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1004 > 1000"
+   "error": "Entity expansion limit exceeded: 1022 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",

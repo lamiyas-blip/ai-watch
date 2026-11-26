@@ -251,6 +251,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "bc040d7d47455c2a",
     "5a394e01ee207510",
     "b9e5232c23254a9f",
     "65cc39f294a5a557",
@@ -604,6 +605,11 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "080f0b41379d8dff",
+    "96b2fa3e9e2128ac",
+    "9dcd8ecdd627be91",
+    "3fa685ede9453970",
+    "15664c551dfe72be",
     "faf6597d70016eed",
     "3737cd7cfd286b63",
     "3c9e936be74187e8",
@@ -1198,12 +1204,7 @@
     "97c199f7d1ec4ce2",
     "4e5716c001b8625a",
     "c9a2bac7618d3fcf",
-    "4e91ef20877fc5fa",
-    "b82c70f079f4be80",
-    "0d8f6895385bd6cc",
-    "09e35602177ee197",
-    "26b8a4565037b154",
-    "af4d88fcae93fe55"
+    "4e91ef20877fc5fa"
    ]
   },
   "mit-tr": {
@@ -1725,6 +1726,7 @@
   "hacker-news": {
    "init": true,
    "ids": [
+    "05f07736e51eb133",
     "031d4b4895f7ae60",
     "e72d9f68d20a78e8",
     "2071804f5d7bafdf",
