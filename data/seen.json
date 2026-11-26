@@ -3,12 +3,15 @@
   "latent-space": {
    "init": true,
    "ids": [
+    "abb9e9d42677611e",
+    "5fcc64642334f028",
     "7966a0ce9fcd4c51",
     "b9adcce286deb5e1",
     "603313741f01e891",
     "ff1b9633b6f82431",
     "a549bacddec7cb26",
     "616dd962fb97b317",
+    "e31dada98df02d0f",
     "abbf693dd77c01da",
     "8ffcab006331cb39",
     "b3065be4bc69f041",
@@ -215,6 +218,7 @@
   "semianalysis": {
    "init": true,
    "ids": [
+    "24528ea85ade68e9",
     "864de779b0661804",
     "ee53d53e3e5435a2",
     "5daef2902dd7f4af",
@@ -600,6 +604,14 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "62aafe31cc0dad24",
+    "eccbc5b4d8a6b661",
+    "146af94dc759f6fd",
+    "fbc648baa38762ab",
+    "9b75944308d27809",
+    "42332af10c8baa4c",
+    "cae4622e1d80202e",
+    "babc27a8ed53b815",
     "a7b2127c16615618",
     "f650269d112fcfb6",
     "ad0838c5c998eeb2",
@@ -1191,15 +1203,7 @@
     "ee4255bf5396be19",
     "3f7893dafb1dbb4e",
     "e4c9d29da4bee40d",
-    "18eed26f70ab58dc",
-    "ad6c43fcfc7a7584",
-    "f2cd05fc21edce80",
-    "8f0f21967c144c23",
-    "d5b5c1cceca27baa",
-    "6dda1ee5edbda6f9",
-    "7018d8a2b265d3fb",
-    "9d4a48bf1969ecab",
-    "860e3ca87ef82743"
+    "18eed26f70ab58dc"
    ]
   },
   "mit-tr": {
@@ -1390,6 +1394,8 @@
   "yt-mlst": {
    "init": true,
    "ids": [
+    "887951b91a59baeb",
+    "c1d908cf6c5a5835",
     "02fac6e8e6b9109a",
     "9d2f4c3f3f06bcf4",
     "951e6183e2864cc3",
@@ -1598,6 +1604,9 @@
   "yt-matthew-berman": {
    "init": true,
    "ids": [
+    "f5a24391f6f69958",
+    "fbaa2b7d8ded7e73",
+    "9c5885f99ee4679c",
     "893f09a548a2a1c3",
     "3e1d293cd510173a",
     "91e716c37ab010a2",
@@ -1677,6 +1686,7 @@
   "yt-wes-roth": {
    "init": true,
    "ids": [
+    "f84369ea3774dd92",
     "1368e09d4b4f7b47",
     "bdb7434d27614c66",
     "1cb6fdbb58787383",

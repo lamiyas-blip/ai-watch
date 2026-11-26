@@ -1,6 +1,176 @@
 {
- "generated": "2026-11-25T19:42:49.950Z",
+ "generated": "2026-11-26T02:31:00.006Z",
  "items": [
+  {
+   "id": "887951b91a59baeb",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Why Rewarding AI for Creativity Causes Mode Collapse #shorts",
+   "u": "https://www.youtube.com/shorts/nD1X9iYsHT4",
+   "d": "2026-11-26T02:19:31.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "c1d908cf6c5a5835",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "Why Naive PhD Students Beat Entrenched Experts in AI #Shorts",
+   "u": "https://www.youtube.com/shorts/cgveN7Hc8bE",
+   "d": "2026-11-26T02:19:08.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "62aafe31cc0dad24",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)",
+   "u": "https://www.techmeme.com/261125/p45#a261125p45",
+   "d": "2026-11-26T01:55:00.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "eccbc5b4d8a6b661",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)",
+   "u": "https://www.techmeme.com/261125/p44#a261125p44",
+   "d": "2026-11-26T01:30:01.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "24528ea85ade68e9",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "Evaluating Recent Model Releases on GDPx",
+   "u": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+   "d": "2026-11-26T00:05:35.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "f5a24391f6f69958",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "This changed my life...",
+   "u": "https://www.youtube.com/shorts/ngZ1_I_RWS0",
+   "d": "2026-11-25T23:56:32.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "146af94dc759f6fd",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A coalition of 42 AGs opposes Character.AI's plan to auction off data from 21M+ US accounts, 2.1M+ registered to minors, saying the sale lacks user protections (Sarah Perez/TechCrunch)",
+   "u": "https://www.techmeme.com/261125/p41#a261125p41",
+   "d": "2026-11-25T23:50:04.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "fbc648baa38762ab",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Hands-on with the \"Install as app\" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app (Federico Viticci/MacStories)",
+   "u": "https://www.techmeme.com/261125/p40#a261125p40",
+   "d": "2026-11-25T23:20:01.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "9b75944308d27809",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang (Washington Post)",
+   "u": "https://www.techmeme.com/261125/p39#a261125p39",
+   "d": "2026-11-25T22:55:03.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "abb9e9d42677611e",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+   "u": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+   "d": "2026-11-25T22:28:01.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "5fcc64642334f028",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+   "u": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+   "d": "2026-11-25T22:23:41.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "f84369ea3774dd92",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "HOLY S*** HOLY S*** HOLY S*** HOLY S*** HOLY S***",
+   "u": "https://www.youtube.com/watch?v=RlemAajyNrQ",
+   "d": "2026-11-25T22:11:34.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "fbaa2b7d8ded7e73",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "They're doing what in the arctic?!",
+   "u": "https://www.youtube.com/shorts/nMPyC3s4Q-0",
+   "d": "2026-11-25T21:42:34.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "42332af10c8baa4c",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
+   "u": "https://www.techmeme.com/261125/p37#a261125p37",
+   "d": "2026-11-25T21:30:02.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "cae4622e1d80202e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
+   "u": "https://www.techmeme.com/261125/p36#a261125p36",
+   "d": "2026-11-25T21:15:01.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "babc27a8ed53b815",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views (Madison Mills/Axios)",
+   "u": "https://www.techmeme.com/261125/p31#a261125p31",
+   "d": "2026-11-25T19:45:01.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
+   "id": "9c5885f99ee4679c",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "RANKING the BEST AI Models for Coding | TIER LIST",
+   "u": "https://www.youtube.com/watch?v=iA0ns69dZGM",
+   "d": "2026-11-25T19:28:41.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
   {
    "id": "3b899590dcd2be04",
    "f": "yt-dwarkesh",
@@ -9,36 +179,6 @@
    "t": "AI Hacking Its Own Lab Isn't Science Fiction Anymore - Paul Christiano",
    "u": "https://www.youtube.com/shorts/Ws4dO4_VsRc",
    "d": "2026-11-25T18:50:43.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "a7b2127c16615618",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips (Kai Nicol-Schwarz/CNBC)",
-   "u": "https://www.techmeme.com/261125/p29#a261125p29",
-   "d": "2026-11-25T18:25:00.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "f650269d112fcfb6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)",
-   "u": "https://www.techmeme.com/261125/p28#a261125p28",
-   "d": "2026-11-25T17:45:02.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "ad0838c5c998eeb2",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)",
-   "u": "https://www.techmeme.com/261125/p26#a261125p26",
-   "d": "2026-11-25T17:05:04.000Z",
    "first": "2026-11-25T19:42:49.950Z"
   },
   {
@@ -56,39 +196,9 @@
    "f": "yt-matt-wolfe",
    "src": "Matt Wolfe",
    "cat": "YouTube",
-   "t": "Why Don't All Drones Do This??",
+   "t": "I've never seen a drone do this...",
    "u": "https://www.youtube.com/shorts/BWpsNrkt6Z4",
    "d": "2026-11-25T16:37:45.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "8465e5873d579b03",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11% (Financial Times)",
-   "u": "https://www.techmeme.com/261125/p24#a261125p24",
-   "d": "2026-11-25T15:10:01.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "ab2ee8e13ba1581d",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "OpenAI publishes a preprint that claims to prove that the matrix multiplication exponent (ω) is exactly 9/4, addressing a major open problem in mathematics (alphaXiv)",
-   "u": "https://www.techmeme.com/261125/p21#a261125p21",
-   "d": "2026-11-25T13:23:06.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "147282e4cba6783a",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Chinese vendors in Shenzhen's Huaqiangbei market still sell US-restricted Nvidia hardware, quoting $3M+ for Blackwell B300 servers, up from $2M two months ago (Joshua Yang/Washington Post)",
-   "u": "https://www.techmeme.com/261125/p20#a261125p20",
-   "d": "2026-11-25T13:00:57.000Z",
    "first": "2026-11-25T19:42:49.950Z"
   },
   {
@@ -99,26 +209,6 @@
    "t": "The Billion-Dollar Blind Spot of AI Benchmarks #shorts",
    "u": "https://www.youtube.com/shorts/KaraiGjLJAQ",
    "d": "2026-11-25T12:44:54.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "aa75035f664a8b54",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "EA says it used AI and archival recordings to add late soccer commentator John Motson to EA Sports FC 27, with permission from Motson's widow and son (Tom Gerken/BBC)",
-   "u": "https://www.techmeme.com/261125/p18#a261125p18",
-   "d": "2026-11-25T12:25:01.000Z",
-   "first": "2026-11-25T19:42:49.950Z"
-  },
-  {
-   "id": "35e00853d7f21c08",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia's board reinstating Jensen Huang as CEO under pressure from President Trump represents \"another installment of his regrettable state capitalism\" (Wall Street Journal)",
-   "u": "https://www.techmeme.com/261125/p16#a261125p16",
-   "d": "2026-11-25T11:30:05.000Z",
    "first": "2026-11-25T19:42:49.950Z"
   },
   {
@@ -812,6 +902,16 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
+   "id": "e31dada98df02d0f",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Why Linear says Issue Tracking is Dead — Cristina Cordova, COO",
+   "u": "https://latent.space/p/why_linear_says_issue_tracking_is_dead_cristina_cordova_coo/",
+   "d": "2026-11-19T23:38:57.000Z",
+   "first": "2026-11-26T02:31:00.006Z"
+  },
+  {
    "id": "cfaaec10d3b3a08b",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -839,26 +939,6 @@
    "t": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
    "u": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
    "d": "2026-11-19T20:03:10.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "7cb0b09c5358e0b6",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "What's going on with GPT-6.2?",
-   "u": "https://www.youtube.com/watch?v=nEYuoqqMgyg",
-   "d": "2026-11-19T20:02:19.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
-   "id": "046adb02568d0739",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "POV: The diff after I asked Claude to fix my app",
-   "u": "https://www.youtube.com/shorts/FUj0a5B6bVk",
-   "d": "2026-11-19T19:47:46.000Z",
    "first": "2026-11-19T21:53:42.908Z"
   },
   {
@@ -1322,16 +1402,6 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
-   "id": "1c0d532082027dc0",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "Box CEO Explains Why AI Makes Software Features Obsolete",
-   "u": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
-   "d": "2026-11-16T17:42:57.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
    "id": "2bc5a780c9932fdd",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1442,16 +1512,6 @@
    "first": "2026-11-13T18:13:08.213Z"
   },
   {
-   "id": "be9fc153ca4d1eca",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "Gemini 4 Swarm is out of control...",
-   "u": "https://www.youtube.com/watch?v=Sc6TriRAGnI",
-   "d": "2026-11-13T14:16:35.000Z",
-   "first": "2026-11-13T18:13:08.213Z"
-  },
-  {
    "id": "20895dd82058dd7e",
    "f": "zvi",
    "src": "Don't Worry About the Vase",
@@ -1462,16 +1522,6 @@
    "first": "2026-11-15T01:24:29.548Z"
   },
   {
-   "id": "2322ccf132e3b37d",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
-   "u": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
-   "d": "2026-11-13T09:04:13.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
    "id": "6be5adf498abc800",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -1479,16 +1529,6 @@
    "t": "Rogue AI Deployments Are Probably Coming",
    "u": "https://www.youtube.com/shorts/Pnn5ZrQ7fFo",
    "d": "2026-11-13T04:39:47.000Z",
-   "first": "2026-11-13T10:37:53.940Z"
-  },
-  {
-   "id": "0c4e89af2ec4aedd",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
-   "u": "https://latent.space/p/artcraft/",
-   "d": "2026-11-13T04:17:25.000Z",
    "first": "2026-11-13T10:37:53.940Z"
   },
   {
@@ -1570,36 +1610,6 @@
    "u": "https://www.youtube.com/watch?v=gPNiuyYirfw",
    "d": "2026-11-12T13:41:41.000Z",
    "first": "2026-11-12T16:58:30.450Z"
-  },
-  {
-   "id": "8de330be7b3bd5d4",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "AlexNet Left My Old Book in the Dust (Simon Prince) #Shorts",
-   "u": "https://www.youtube.com/shorts/inwyawObxL4",
-   "d": "2026-11-12T11:28:24.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
-  },
-  {
-   "id": "6000b039fc4f19ea",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Lying Only Works Because We're Cooperative (Michael Tomasello)",
-   "u": "https://www.youtube.com/shorts/10glKhm5LW4",
-   "d": "2026-11-12T11:27:47.000Z",
-   "first": "2026-11-12T16:58:30.450Z"
-  },
-  {
-   "id": "b3347264da806b8d",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] D-Day (Decision Models Day)",
-   "u": "https://latent.space/p/ainews-d-day-decision-models-day/",
-   "d": "2026-11-12T05:26:54.000Z",
-   "first": "2026-11-12T08:29:25.691Z"
   },
   {
    "id": "2ce057acb0efac4c",
@@ -2692,16 +2702,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "97554bd32a184546",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
-   "u": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
-   "d": "2026-09-25T15:58:22.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "43225a490f5b5ab9",
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
@@ -3405,7 +3405,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1045 > 1000"
+   "error": "Entity expansion limit exceeded: 1028 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,7 +3433,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
