@@ -1,6 +1,116 @@
 {
- "generated": "2026-11-26T02:31:00.006Z",
+ "generated": "2026-11-26T11:37:36.594Z",
  "items": [
+  {
+   "id": "faf6597d70016eed",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs (Reuters)",
+   "u": "https://www.techmeme.com/261126/p11#a261126p11",
+   "d": "2026-11-26T11:20:18.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "3737cd7cfd286b63",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Thariq Shihipar joins OpenAI after leaving Anthropic in October, saying he felt he could \"personally contribute the most\" to bringing AI to the world at OpenAI (@trq212)",
+   "u": "https://www.techmeme.com/261126/p10#a261126p10",
+   "d": "2026-11-26T11:10:01.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "3c9e936be74187e8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
+   "u": "https://www.techmeme.com/261126/p8#a261126p8",
+   "d": "2026-11-26T09:50:19.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "1e5aad28cd1aea78",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more (Tyler Cowen/Conversations with Tyler)",
+   "u": "https://www.techmeme.com/261126/p6#a261126p6",
+   "d": "2026-11-26T08:55:02.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "abc41221581688f9",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts (Emily Herbert/Financial Times)",
+   "u": "https://www.techmeme.com/261126/p4#a261126p4",
+   "d": "2026-11-26T06:20:05.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "301aa273259b14cf",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals (Jonathan Greig/The Record)",
+   "u": "https://www.techmeme.com/261126/p3#a261126p3",
+   "d": "2026-11-26T06:00:48.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "7cdd74f162cf181c",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "AI Engineering Is a Decade Ahead of the Maths #shorts",
+   "u": "https://www.youtube.com/shorts/vDDRbEOyEVc",
+   "d": "2026-11-26T05:52:46.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "3de4ea1b1dc2d174",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Sources: Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia, as the US steps up export controls (Financial Times)",
+   "u": "https://www.techmeme.com/261126/p2#a261126p2",
+   "d": "2026-11-26T05:45:02.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "0b4303c079057f7e",
+   "f": "yt-wes-roth",
+   "src": "Wes Roth",
+   "cat": "YouTube",
+   "t": "Hermes Agent just leveled up...",
+   "u": "https://www.youtube.com/watch?v=uClZwJ-BoSc",
+   "d": "2026-11-26T05:44:08.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "75e44633ad2ff6f0",
+   "f": "yt-mlst",
+   "src": "Machine Learning Street Talk",
+   "cat": "YouTube",
+   "t": "The Paradox of Random Noise and Algorithmic Statistics #shorts",
+   "u": "https://www.youtube.com/shorts/4HGQvNT8guw",
+   "d": "2026-11-26T05:32:42.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
+  {
+   "id": "00467220a7054ec7",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner (Jagmeet Singh/TechCrunch)",
+   "u": "https://www.techmeme.com/261125/p46#a261125p46",
+   "d": "2026-11-26T02:55:02.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
+  },
   {
    "id": "887951b91a59baeb",
    "f": "yt-mlst",
@@ -32,16 +142,6 @@
    "first": "2026-11-26T02:31:00.006Z"
   },
   {
-   "id": "eccbc5b4d8a6b661",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)",
-   "u": "https://www.techmeme.com/261125/p44#a261125p44",
-   "d": "2026-11-26T01:30:01.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
-  },
-  {
    "id": "24528ea85ade68e9",
    "f": "semianalysis",
    "src": "SemiAnalysis",
@@ -59,36 +159,6 @@
    "t": "This changed my life...",
    "u": "https://www.youtube.com/shorts/ngZ1_I_RWS0",
    "d": "2026-11-25T23:56:32.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
-  },
-  {
-   "id": "146af94dc759f6fd",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A coalition of 42 AGs opposes Character.AI's plan to auction off data from 21M+ US accounts, 2.1M+ registered to minors, saying the sale lacks user protections (Sarah Perez/TechCrunch)",
-   "u": "https://www.techmeme.com/261125/p41#a261125p41",
-   "d": "2026-11-25T23:50:04.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
-  },
-  {
-   "id": "fbc648baa38762ab",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Hands-on with the \"Install as app\" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app (Federico Viticci/MacStories)",
-   "u": "https://www.techmeme.com/261125/p40#a261125p40",
-   "d": "2026-11-25T23:20:01.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
-  },
-  {
-   "id": "9b75944308d27809",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang (Washington Post)",
-   "u": "https://www.techmeme.com/261125/p39#a261125p39",
-   "d": "2026-11-25T22:55:03.000Z",
    "first": "2026-11-26T02:31:00.006Z"
   },
   {
@@ -132,34 +202,14 @@
    "first": "2026-11-26T02:31:00.006Z"
   },
   {
-   "id": "42332af10c8baa4c",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "031d4b4895f7ae60",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
-   "u": "https://www.techmeme.com/261125/p37#a261125p37",
-   "d": "2026-11-25T21:30:02.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
-  },
-  {
-   "id": "cae4622e1d80202e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
-   "u": "https://www.techmeme.com/261125/p36#a261125p36",
-   "d": "2026-11-25T21:15:01.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
-  },
-  {
-   "id": "babc27a8ed53b815",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views (Madison Mills/Axios)",
-   "u": "https://www.techmeme.com/261125/p31#a261125p31",
-   "d": "2026-11-25T19:45:01.000Z",
-   "first": "2026-11-26T02:31:00.006Z"
+   "t": "The New York Times warns photographers not to update Photoshop over AI features",
+   "u": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "d": "2026-11-25T21:18:02.000Z",
+   "first": "2026-11-26T11:37:36.594Z"
   },
   {
    "id": "9c5885f99ee4679c",
@@ -662,16 +712,6 @@
    "first": "2026-11-24T16:36:25.733Z"
   },
   {
-   "id": "f964df9137689c08",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "Chimps Quit When Paid (Michael Tomasello)",
-   "u": "https://www.youtube.com/shorts/INeNb0wwErg",
-   "d": "2026-11-21T14:30:43.000Z",
-   "first": "2026-11-21T15:29:55.958Z"
-  },
-  {
    "id": "bdb7434d27614c66",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -960,16 +1000,6 @@
    "u": "https://thedataexchange.media/pete-warden-moonshine/",
    "d": "2026-11-19T15:38:12.000Z",
    "first": "2026-11-21T00:24:20.600Z"
-  },
-  {
-   "id": "7aaf9dda29cc3cc4",
-   "f": "yt-mlst",
-   "src": "Machine Learning Street Talk",
-   "cat": "YouTube",
-   "t": "What a Squirrel Does That LLMs Don't (Michael Tomasello)",
-   "u": "https://www.youtube.com/watch?v=io7qhEjJoik",
-   "d": "2026-11-19T14:22:11.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
   },
   {
    "id": "75a575237031c1c7",
@@ -1442,16 +1472,6 @@
    "first": "2026-11-16T16:33:29.935Z"
   },
   {
-   "id": "f5e5e982bf829b60",
-   "f": "yt-wes-roth",
-   "src": "Wes Roth",
-   "cat": "YouTube",
-   "t": "Claude just changed EVERYTHING...",
-   "u": "https://www.youtube.com/watch?v=pjYntsza2FA",
-   "d": "2026-11-15T23:27:16.000Z",
-   "first": "2026-11-16T00:06:22.129Z"
-  },
-  {
    "id": "6198036722d6c05a",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -1490,16 +1510,6 @@
    "u": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
    "d": "2026-11-14T08:31:02.000Z",
    "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "0656bf677ac62a88",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-   "u": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-   "d": "2026-11-14T02:52:59.000Z",
-   "first": "2026-11-14T17:13:42.259Z"
   },
   {
    "id": "0a70e19425300ec1",
@@ -3405,7 +3415,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1028 > 1000"
+   "error": "Entity expansion limit exceeded: 1004 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
@@ -3433,8 +3443,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
