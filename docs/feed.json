@@ -1,6 +1,46 @@
 {
- "generated": "2026-11-27T03:20:01.009Z",
+ "generated": "2026-11-27T12:50:51.802Z",
  "items": [
+  {
+   "id": "50188332eac55ba9",
+   "f": "yt-matthew-berman",
+   "src": "Matthew Berman",
+   "cat": "YouTube",
+   "t": "How Tesla Generates Its Third-Person Reality View",
+   "u": "https://www.youtube.com/shorts/ZGX2NLLLYkY",
+   "d": "2026-11-27T10:57:41.000Z",
+   "first": "2026-11-27T12:50:51.802Z"
+  },
+  {
+   "id": "7957c7e1b75cadf2",
+   "f": "yt-two-minute",
+   "src": "Two Minute Papers",
+   "cat": "YouTube",
+   "t": "DeepMind’s New AI Just Changed The AI Race",
+   "u": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+   "d": "2026-11-27T08:42:30.000Z",
+   "first": "2026-11-27T12:50:51.802Z"
+  },
+  {
+   "id": "f1e82bdf8f13127f",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
+   "u": "https://www.techmeme.com/261127/p2#a261127p2",
+   "d": "2026-11-27T07:30:00.000Z",
+   "first": "2026-11-27T12:50:51.802Z"
+  },
+  {
+   "id": "6bf38a36586dc24a",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "The group chat where your AI talks behind your back",
+   "u": "https://construct22.com/",
+   "d": "2026-11-27T06:44:34.000Z",
+   "first": "2026-11-27T12:50:51.802Z"
+  },
   {
    "id": "63eaa007d409f776",
    "f": "techmeme",
@@ -72,6 +112,16 @@
    "first": "2026-11-27T03:20:01.009Z"
   },
   {
+   "id": "c543b2d2d441d415",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
+   "cat": "News",
+   "t": "AI made self-hosting fun again",
+   "u": "https://janlukas.blog/posts/ai-self-hosting",
+   "d": "2026-11-26T21:47:45.000Z",
+   "first": "2026-11-27T12:50:51.802Z"
+  },
+  {
    "id": "dd200e37e7232fe9",
    "f": "yt-dwarkesh",
    "src": "Dwarkesh Patel",
@@ -122,24 +172,14 @@
    "first": "2026-11-26T20:38:00.306Z"
   },
   {
-   "id": "3fa685ede9453970",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
+   "id": "e536017a12965322",
+   "f": "hacker-news",
+   "src": "Hacker News (AI, 200+ points)",
    "cat": "News",
-   "t": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
-   "u": "https://www.techmeme.com/261126/p16#a261126p16",
-   "d": "2026-11-26T13:01:08.000Z",
-   "first": "2026-11-26T20:38:00.306Z"
-  },
-  {
-   "id": "15664c551dfe72be",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
-   "u": "https://www.techmeme.com/261126/p14#a261126p14",
-   "d": "2026-11-26T12:35:21.000Z",
-   "first": "2026-11-26T20:38:00.306Z"
+   "t": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "u": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "d": "2026-11-26T09:44:23.000Z",
+   "first": "2026-11-27T12:50:51.802Z"
   },
   {
    "id": "7cdd74f162cf181c",
@@ -1012,16 +1052,6 @@
    "first": "2026-11-26T02:31:00.006Z"
   },
   {
-   "id": "cfaaec10d3b3a08b",
-   "f": "yt-matthew-berman",
-   "src": "Matthew Berman",
-   "cat": "YouTube",
-   "t": "I Gave Hark Pro Three Everyday Tasks",
-   "u": "https://www.youtube.com/shorts/2qd2LEXDYpo",
-   "d": "2026-11-19T22:36:08.000Z",
-   "first": "2026-11-20T02:43:15.456Z"
-  },
-  {
    "id": "ebdb908e3c9a5f11",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -1262,16 +1292,6 @@
    "first": "2026-11-18T16:46:40.604Z"
   },
   {
-   "id": "ec7a8d820d947a3e",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "AI is killing All About Berlin",
-   "u": "https://nicolasbouliane.com/blog/death-by-ai",
-   "d": "2026-11-18T06:47:26.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
    "id": "23afe18e9fa00e2d",
    "f": "yt-robert-miles",
    "src": "Robert Miles AI Safety",
@@ -1280,16 +1300,6 @@
    "u": "https://www.youtube.com/shorts/nWoVDFjj2Iw",
    "d": "2026-11-18T00:33:58.000Z",
    "first": "2026-11-18T07:45:04.855Z"
-  },
-  {
-   "id": "9a7bc56fa4c2945d",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Google's AI answers reducing search traffic by 40%",
-   "u": "https://revscope.co/blog/search-seo-geo-2026/",
-   "d": "2026-11-18T00:17:58.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
   },
   {
    "id": "f828d0c67c509723",
@@ -1310,16 +1320,6 @@
    "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
    "d": "2026-11-18T00:00:00.000Z",
    "first": "2026-11-19T04:17:32.133Z"
-  },
-  {
-   "id": "5124a48372c4cb36",
-   "f": "hacker-news",
-   "src": "Hacker News (AI, 200+ points)",
-   "cat": "News",
-   "t": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-   "u": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "d": "2026-11-17T21:16:12.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
   },
   {
    "id": "c377a61fcc31adac",
@@ -1880,16 +1880,6 @@
    "u": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
    "d": "2026-11-07T19:01:39.000Z",
    "first": "2026-11-07T22:24:40.413Z"
-  },
-  {
-   "id": "5768805057b018b0",
-   "f": "yt-two-minute",
-   "src": "Two Minute Papers",
-   "cat": "YouTube",
-   "t": "OpenAI's Astra Just Opened The Black Box Of AI",
-   "u": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-   "d": "2026-11-07T16:24:47.000Z",
-   "first": "2026-11-07T18:55:25.507Z"
   },
   {
    "id": "fb29f322c5f2941a",
@@ -3433,8 +3423,7 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": false,
-   "error": "HTTP 502"
+   "ok": true
   },
   "mit-tr": {
    "name": "MIT Technology Review",
