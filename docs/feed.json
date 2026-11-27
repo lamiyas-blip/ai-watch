@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-27T12:50:51.802Z",
+ "generated": "2026-11-27T21:42:47.833Z",
  "items": [
+  {
+   "id": "18b1157c959ab6d8",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+   "u": "https://www.techmeme.com/261127/p14#a261127p14",
+   "d": "2026-11-27T21:35:01.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
+  {
+   "id": "6b6b73824335acf1",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+   "u": "https://www.techmeme.com/261127/p13#a261127p13",
+   "d": "2026-11-27T20:15:01.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
+  {
+   "id": "6401c660788272af",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+   "u": "https://www.techmeme.com/261127/p12#a261127p12",
+   "d": "2026-11-27T18:57:47.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
+  {
+   "id": "d640fbc502074c0e",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "An honest conversation about what's happening in AI",
+   "u": "https://www.youtube.com/watch?v=TbKkN1cesTo",
+   "d": "2026-11-27T18:33:23.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
+  {
+   "id": "138557d6c6a01879",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+   "u": "https://www.techmeme.com/261127/p10#a261127p10",
+   "d": "2026-11-27T18:15:00.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
+  {
+   "id": "83e0f35cde6ff280",
+   "f": "semianalysis",
+   "src": "SemiAnalysis",
+   "cat": "Newsletter",
+   "t": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive",
+   "u": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+   "d": "2026-11-27T15:54:59.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
+  {
+   "id": "6534c95a15e8aa71",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
+   "u": "https://www.techmeme.com/261127/p7#a261127p7",
+   "d": "2026-11-27T14:20:01.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
+  {
+   "id": "9a89e7073ff1f1fb",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+   "u": "https://www.techmeme.com/261127/p6#a261127p6",
+   "d": "2026-11-27T13:05:01.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
+  },
   {
    "id": "50188332eac55ba9",
    "f": "yt-matthew-berman",
@@ -62,14 +142,14 @@
    "first": "2026-11-27T03:20:01.009Z"
   },
   {
-   "id": "baf7d7da6d149ae6",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
-   "u": "https://www.techmeme.com/261126/p26#a261126p26",
-   "d": "2026-11-27T00:30:01.000Z",
-   "first": "2026-11-27T03:20:01.009Z"
+   "id": "0ca3c3acb9369e11",
+   "f": "tldr-ai",
+   "src": "TLDR AI",
+   "cat": "Newsletter",
+   "t": "OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰",
+   "u": "https://tldr.tech/ai/2026-11-27",
+   "d": "2026-11-27T00:00:00.000Z",
+   "first": "2026-11-27T21:42:47.833Z"
   },
   {
    "id": "15e7592b3725eb12",
@@ -102,16 +182,6 @@
    "first": "2026-11-27T03:20:01.009Z"
   },
   {
-   "id": "0b1d69ba09e3093e",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K (Nathan Grayson/Aftermath)",
-   "u": "https://www.techmeme.com/261126/p25#a261126p25",
-   "d": "2026-11-26T22:10:01.000Z",
-   "first": "2026-11-27T03:20:01.009Z"
-  },
-  {
    "id": "c543b2d2d441d415",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -139,36 +209,6 @@
    "t": "Tracking Diseases Cured by AI",
    "u": "https://diseasescuredbyai.com/",
    "d": "2026-11-26T17:16:41.000Z",
-   "first": "2026-11-26T20:38:00.306Z"
-  },
-  {
-   "id": "080f0b41379d8dff",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
-   "u": "https://www.techmeme.com/261126/p22#a261126p22",
-   "d": "2026-11-26T16:50:28.000Z",
-   "first": "2026-11-26T20:38:00.306Z"
-  },
-  {
-   "id": "96b2fa3e9e2128ac",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
-   "u": "https://www.techmeme.com/261126/p20#a261126p20",
-   "d": "2026-11-26T15:50:27.000Z",
-   "first": "2026-11-26T20:38:00.306Z"
-  },
-  {
-   "id": "9dcd8ecdd627be91",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
-   "u": "https://www.techmeme.com/261126/p18#a261126p18",
-   "d": "2026-11-26T13:30:01.000Z",
    "first": "2026-11-26T20:38:00.306Z"
   },
   {
@@ -556,7 +596,7 @@
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
    "cat": "YouTube",
-   "t": "Did AI JUST Solve Mathematics?",
+   "t": "Claude Just Solved Mathematics (and people are freaking out…)",
    "u": "https://www.youtube.com/watch?v=MkeKXJzJo98",
    "d": "2026-11-24T02:30:08.000Z",
    "first": "2026-11-24T05:38:45.444Z"
@@ -1219,16 +1259,6 @@
    "t": "Genie 4 is now available",
    "u": "https://deepmind.google/blog/genie-4-is-now-available/",
    "d": "2026-11-18T18:13:42.000Z",
-   "first": "2026-11-18T23:11:38.423Z"
-  },
-  {
-   "id": "38addd79ebdff9eb",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Hackers Got Into OpenAI’s Code and Anthropic’s Slack - Paul Christiano",
-   "u": "https://www.youtube.com/shorts/-PQpJAdp7gw",
-   "d": "2026-11-18T17:00:30.000Z",
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
@@ -1920,16 +1950,6 @@
    "u": "https://www.lesswrong.com/posts/CDMozTX7ShiqbFLrf/towards-understanding-score-seeking-in-llms-1",
    "d": "2026-11-06T03:19:36.000Z",
    "first": "2026-11-06T08:39:12.558Z"
-  },
-  {
-   "id": "514cbb35bb43a9a5",
-   "f": "tldr-ai",
-   "src": "TLDR AI",
-   "cat": "Newsletter",
-   "t": "Anthropic R&D accelerates 📈, GPT-6 Cyber 🔐, Inkling 2 Small 🧠",
-   "u": "https://tldr.tech/ai/2026-11-06",
-   "d": "2026-11-06T00:00:00.000Z",
-   "first": "2026-11-06T16:24:39.174Z"
   },
   {
    "id": "5daef2902dd7f4af",
@@ -2682,16 +2702,6 @@
    "first": "2026-10-04T17:36:01.298Z"
   },
   {
-   "id": "af88adcd143103e8",
-   "f": "semianalysis",
-   "src": "SemiAnalysis",
-   "cat": "Newsletter",
-   "t": "Intel Panther Lake Teardown",
-   "u": "https://newsletter.semianalysis.com/p/intel-panther-lake-teardown",
-   "d": "2026-09-26T13:36:32.000Z",
-   "first": "2026-10-04T17:36:01.298Z"
-  },
-  {
    "id": "43225a490f5b5ab9",
    "f": "yt-3b1b",
    "src": "3Blue1Brown",
@@ -3423,7 +3433,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",

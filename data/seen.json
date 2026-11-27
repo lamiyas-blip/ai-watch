@@ -219,6 +219,7 @@
   "semianalysis": {
    "init": true,
    "ids": [
+    "83e0f35cde6ff280",
     "24528ea85ade68e9",
     "864de779b0661804",
     "ee53d53e3e5435a2",
@@ -252,6 +253,7 @@
   "tldr-ai": {
    "init": true,
    "ids": [
+    "0ca3c3acb9369e11",
     "bc040d7d47455c2a",
     "5a394e01ee207510",
     "b9e5232c23254a9f",
@@ -606,6 +608,12 @@
   "techmeme": {
    "init": true,
    "ids": [
+    "18b1157c959ab6d8",
+    "6b6b73824335acf1",
+    "6401c660788272af",
+    "138557d6c6a01879",
+    "6534c95a15e8aa71",
+    "9a89e7073ff1f1fb",
     "f1e82bdf8f13127f",
     "63eaa007d409f776",
     "baf7d7da6d149ae6",
@@ -1199,13 +1207,7 @@
     "ce0e122611cc4ebb",
     "f6e7ca7a5baac1ae",
     "448ef766cfdb7286",
-    "7ef32e17f063d23c",
-    "c02a40236cf3579c",
-    "7742ef0c32bc6784",
-    "0d5cc4a0e95d1e92",
-    "c696a5f373fd5efd",
-    "6fbf410a24b46c9c",
-    "8312c08e27f852a9"
+    "7ef32e17f063d23c"
    ]
   },
   "mit-tr": {
@@ -1335,6 +1337,7 @@
   "yt-dwarkesh": {
    "init": true,
    "ids": [
+    "d640fbc502074c0e",
     "c2a27de90473cc3d",
     "dd200e37e7232fe9",
     "3b899590dcd2be04",
