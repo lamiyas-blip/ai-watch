@@ -1,6 +1,86 @@
 {
- "generated": "2026-11-26T20:38:00.306Z",
+ "generated": "2026-11-27T03:20:01.009Z",
  "items": [
+  {
+   "id": "63eaa007d409f776",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
+   "u": "https://www.techmeme.com/261126/p27#a261126p27",
+   "d": "2026-11-27T03:15:01.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
+  {
+   "id": "d023fb0f16f01782",
+   "f": "yt-matt-wolfe",
+   "src": "Matt Wolfe",
+   "cat": "YouTube",
+   "t": "Get Your Uber Eats Via Drone",
+   "u": "https://www.youtube.com/shorts/4omPdu3mAEE",
+   "d": "2026-11-27T01:01:54.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
+  {
+   "id": "baf7d7da6d149ae6",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
+   "u": "https://www.techmeme.com/261126/p26#a261126p26",
+   "d": "2026-11-27T00:30:01.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
+  {
+   "id": "15e7592b3725eb12",
+   "f": "lesswrong",
+   "src": "LessWrong (curated)",
+   "cat": "Forum",
+   "t": "Human military relevance is more important than economic relevance",
+   "u": "https://www.lesswrong.com/posts/MSk9tqAmrmeasFgAZ/human-military-relevance-is-more-important-than-economic",
+   "d": "2026-11-26T23:31:00.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
+  {
+   "id": "2bda6273bf8902c6",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+   "u": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+   "d": "2026-11-26T23:02:48.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
+  {
+   "id": "c2a27de90473cc3d",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Could AI solve the Riemann hypothesis this way? - Grant Sanderson",
+   "u": "https://www.youtube.com/shorts/WNHac8LYzKQ",
+   "d": "2026-11-26T23:00:27.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
+  {
+   "id": "0b1d69ba09e3093e",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K (Nathan Grayson/Aftermath)",
+   "u": "https://www.techmeme.com/261126/p25#a261126p25",
+   "d": "2026-11-26T22:10:01.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
+  {
+   "id": "dd200e37e7232fe9",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "Terry Tao on AI solving the Riemann hypothesis",
+   "u": "https://www.youtube.com/shorts/ufvSPf329pA",
+   "d": "2026-11-26T21:33:01.000Z",
+   "first": "2026-11-27T03:20:01.009Z"
+  },
   {
    "id": "05f07736e51eb133",
    "f": "hacker-news",
@@ -60,26 +140,6 @@
    "u": "https://www.techmeme.com/261126/p14#a261126p14",
    "d": "2026-11-26T12:35:21.000Z",
    "first": "2026-11-26T20:38:00.306Z"
-  },
-  {
-   "id": "faf6597d70016eed",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs (Reuters)",
-   "u": "https://www.techmeme.com/261126/p11#a261126p11",
-   "d": "2026-11-26T11:20:18.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
-  },
-  {
-   "id": "3737cd7cfd286b63",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Thariq Shihipar joins OpenAI after leaving Anthropic in October, saying he felt he could \"personally contribute the most\" to bringing AI to the world at OpenAI (@trq212)",
-   "u": "https://www.techmeme.com/261126/p10#a261126p10",
-   "d": "2026-11-26T11:10:01.000Z",
-   "first": "2026-11-26T11:37:36.594Z"
   },
   {
    "id": "7cdd74f162cf181c",
@@ -962,16 +1022,6 @@
    "first": "2026-11-20T02:43:15.456Z"
   },
   {
-   "id": "ca177fa5a4b32f4d",
-   "f": "yt-matt-wolfe",
-   "src": "Matt Wolfe",
-   "cat": "YouTube",
-   "t": "This will test if AI truly is a bubble",
-   "u": "https://www.youtube.com/shorts/YbZDDCHDSnE",
-   "d": "2026-11-19T21:14:46.000Z",
-   "first": "2026-11-19T21:53:42.908Z"
-  },
-  {
    "id": "ebdb908e3c9a5f11",
    "f": "yt-ai-explained",
    "src": "AI Explained",
@@ -1272,16 +1322,6 @@
    "first": "2026-11-18T23:11:38.423Z"
   },
   {
-   "id": "d1770d258fe5b64a",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "How Fast Can AI Become an Expert?",
-   "u": "https://www.youtube.com/shorts/o7D3wiHnU4k",
-   "d": "2026-11-17T20:39:17.000Z",
-   "first": "2026-11-18T00:19:50.445Z"
-  },
-  {
    "id": "c377a61fcc31adac",
    "f": "yt-wes-roth",
    "src": "Wes Roth",
@@ -1422,16 +1462,6 @@
    "first": "2026-11-17T00:32:29.764Z"
   },
   {
-   "id": "d5600b34e97b3d75",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "AIs might overthrow the government within a year – Paul Christiano",
-   "u": "https://www.youtube.com/watch?v=SyHM5hNPAEo",
-   "d": "2026-11-16T18:08:23.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
-  },
-  {
    "id": "2bc5a780c9932fdd",
    "f": "mit-tr",
    "src": "MIT Technology Review",
@@ -1489,16 +1519,6 @@
    "t": "AI Can Do Everything…Except This",
    "u": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
    "d": "2026-11-14T08:40:55.000Z",
-   "first": "2026-11-14T11:01:35.900Z"
-  },
-  {
-   "id": "638b8cb180c5e0da",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "[AINews] The No AI Slop Manifesto",
-   "u": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-   "d": "2026-11-14T08:31:02.000Z",
    "first": "2026-11-14T11:01:35.900Z"
   },
   {
@@ -2450,16 +2470,6 @@
    "u": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
    "d": "2026-10-15T13:01:39.000Z",
    "first": "2026-10-15T15:27:27.208Z"
-  },
-  {
-   "id": "fc9b7e23ab2b73f4",
-   "f": "lesswrong",
-   "src": "LessWrong (curated)",
-   "cat": "Forum",
-   "t": "Cat-Belling Problems",
-   "u": "https://www.lesswrong.com/posts/SwYBLQvo8MddDcCwz/cat-belling-problems",
-   "d": "2026-10-15T02:32:11.000Z",
-   "first": "2026-10-15T05:59:46.965Z"
   },
   {
    "id": "7544b4309b81d94b",
@@ -3423,7 +3433,8 @@
   },
   "hacker-news": {
    "name": "Hacker News (AI, 200+ points)",
-   "ok": true
+   "ok": false,
+   "error": "HTTP 502"
   },
   "mit-tr": {
    "name": "MIT Technology Review",
