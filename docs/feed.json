@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-27T21:42:47.833Z",
+ "generated": "2026-11-28T03:37:01.975Z",
  "items": [
+  {
+   "id": "44d863d1efae04cc",
+   "f": "techmeme",
+   "src": "Techmeme (AI only)",
+   "cat": "News",
+   "t": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+   "u": "https://www.techmeme.com/261127/p17#a261127p17",
+   "d": "2026-11-28T03:35:05.000Z",
+   "first": "2026-11-28T03:37:01.975Z"
+  },
+  {
+   "id": "bb2b9a9ae42c6ad9",
+   "f": "yt-dwarkesh",
+   "src": "Dwarkesh Patel",
+   "cat": "YouTube",
+   "t": "AI Just Did a Decade of Math in a Month - Paul Christiano",
+   "u": "https://www.youtube.com/shorts/7YLqyt5lCXg",
+   "d": "2026-11-27T22:53:12.000Z",
+   "first": "2026-11-28T03:37:01.975Z"
+  },
+  {
+   "id": "beff355185cfe231",
+   "f": "latent-space",
+   "src": "Latent Space",
+   "cat": "Newsletter",
+   "t": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+   "u": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+   "d": "2026-11-27T22:19:18.000Z",
+   "first": "2026-11-28T03:37:01.975Z"
+  },
   {
    "id": "18b1157c959ab6d8",
    "f": "techmeme",
@@ -102,16 +132,6 @@
    "first": "2026-11-27T12:50:51.802Z"
   },
   {
-   "id": "f1e82bdf8f13127f",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
-   "u": "https://www.techmeme.com/261127/p2#a261127p2",
-   "d": "2026-11-27T07:30:00.000Z",
-   "first": "2026-11-27T12:50:51.802Z"
-  },
-  {
    "id": "6bf38a36586dc24a",
    "f": "hacker-news",
    "src": "Hacker News (AI, 200+ points)",
@@ -120,16 +140,6 @@
    "u": "https://construct22.com/",
    "d": "2026-11-27T06:44:34.000Z",
    "first": "2026-11-27T12:50:51.802Z"
-  },
-  {
-   "id": "63eaa007d409f776",
-   "f": "techmeme",
-   "src": "Techmeme (AI only)",
-   "cat": "News",
-   "t": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
-   "u": "https://www.techmeme.com/261126/p27#a261126p27",
-   "d": "2026-11-27T03:15:01.000Z",
-   "first": "2026-11-27T03:20:01.009Z"
   },
   {
    "id": "d023fb0f16f01782",
@@ -892,16 +902,6 @@
    "first": "2026-11-21T07:28:24.655Z"
   },
   {
-   "id": "20484f9a7d0c20a9",
-   "f": "yt-dwarkesh",
-   "src": "Dwarkesh Patel",
-   "cat": "YouTube",
-   "t": "AI Labs Should Stop Advancing Until They Fix Security - Paul Christiano",
-   "u": "https://www.youtube.com/shorts/Ru0l6G5oq7U",
-   "d": "2026-11-21T01:17:53.000Z",
-   "first": "2026-11-21T07:28:24.655Z"
-  },
-  {
    "id": "91e716c37ab010a2",
    "f": "yt-matthew-berman",
    "src": "Matthew Berman",
@@ -1460,16 +1460,6 @@
    "u": "https://tldr.tech/ai/2026-11-17",
    "d": "2026-11-17T00:00:00.000Z",
    "first": "2026-11-17T17:57:14.864Z"
-  },
-  {
-   "id": "11699b6425dc32bd",
-   "f": "latent-space",
-   "src": "Latent Space",
-   "cat": "Newsletter",
-   "t": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
-   "u": "https://latent.space/p/bfl/",
-   "d": "2026-11-16T21:38:03.000Z",
-   "first": "2026-11-17T00:32:29.764Z"
   },
   {
    "id": "8c67b63d790ecf0e",
@@ -3405,7 +3395,7 @@
   "simon-willison": {
    "name": "Simon Willison",
    "ok": false,
-   "error": "Entity expansion limit exceeded: 1022 > 1000"
+   "error": "Entity expansion limit exceeded: 1014 > 1000"
   },
   "tldr-ai": {
    "name": "TLDR AI",
